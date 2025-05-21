@@ -1,5 +1,7 @@
 [
-  {"name": "DBT",
+  {
+    "id": "001-DBT"
+    "name": "DBT",
     "file": "dbt.json",
     "summary": "A collection of books on DBT."
   }
