@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "title": "DBT Stress Tolerance"
+      "title": "DBT Stress Tolerance",
       "info": "dbt_books/dbt_1.json",
       "strategies": "dbt_books/dbt_1_strategies.json"
     }
