@@ -4,6 +4,11 @@
       "title": "DBT Stress Tolerance",
       "info": "dbt_books/dbt_1.json",
       "strategies": "dbt_books/dbt_1_strategies.json"
+    },
+    {
+      "title": "DBT Interpersonal Effectiveness",
+      "info": "dbt_books/dbt_2.json",
+      "strategies": "dbt_books/dbt_2_strategies.json"
     }
   ]
 }
