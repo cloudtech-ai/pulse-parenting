@@ -1,205 +1,171 @@
 [
-    // ────────── 1 · TIPP ──────────
-    {
-      id: 51,
-      bookId: 5, // DBT® Skills Training Manual
-      title: "TIPP (Rapid Body Reset)",
-      summary:
-        "Quickly lower extreme emotion by shocking the body back toward a calm baseline through temperature, exercise, breathing, and muscle relaxation.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "Intense emotions ride on high physiological arousal. Rapidly shifting the body’s chemistry (heart rate, vagal tone) can cut the peak within minutes.",
-        },
-        {
-          section: "Example",
-          content:
-            "Plunge your face into a bowl of cold water or hold an ice pack for 30 seconds; your heart rate drops and panic subsides enough to think clearly.",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "T – Cool face or neck with icy water (mimics a diving reflex).",
-            "I – Do 20–60 seconds of burpees or jumping jacks.",
-            "P – Slow, paced breathing: 4‑count in, 6‑count out.",
-            "P – Pair exhale with Progressive Muscle Relaxation (clench‑release)."
-          ]
-        }
-      ]
-    },
-  
-    // ────────── 2 · Self‑Soothe ──────────
-    {
-      id: 52,
-      bookId: 5,
-      title: "Self‑Soothe with the Five Senses",
-      summary:
-        "Use sight, sound, smell, taste, and touch to create a calm micro‑environment when emotions run hot.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "Pleasant sensory input sends ‘safety’ cues to the brain’s threat system, dampening cortisol and interrupting rumination.",
-        },
-        {
-          section: "Example",
-          content:
-            "Light a lavender candle, wrap in a soft blanket, and listen to rainfall audio while anger cools.",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "Make a portable ‘soothe kit’ (earbuds, scent vial, tea bag, photo).",
-            "Immerse fully—notice texture, temperature, flavor for 30‑60 s.",
-            "Rotate senses to avoid adaptation (e.g., sight + sound today, smell + touch tomorrow)."
-          ]
-        }
-      ]
-    },
-  
-    // ────────── 3 · ACCEPTS ──────────
-    {
-      id: 53,
-      bookId: 5,
-      title: "ACCEPTS Distraction Skills",
-      summary:
-        "Short‑term distractions that buy time until the emotional wave passes—Activities, Contributing, Comparisons, opposite Emotions, Pushing away, Thoughts, Sensations.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "When urges are overwhelming, healthy distraction prevents impulsive actions that could make things worse (self‑harm, yelling, substance use).",
-        },
-        {
-          section: "Example",
-          content:
-            "Do a 10‑minute puzzle (Activity), text an encouraging meme to a friend (Contributing), recall a time you survived worse (Comparison), etc.",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "Pre‑list 3 options for each ACCEPTS letter in your phone.",
-            "Set a timer (10‑20 min) to ensure distraction is deliberate, not avoidance.",
-            "Combine letters for stronger effect (e.g., brisk walk + uplifting playlist = Activity + opposite Emotion)."
-          ]
-        }
-      ]
-    },
-  
-    // ────────── 4 · IMPROVE ──────────
-    {
-      id: 54,
-      bookId: 5,
-      title: "IMPROVE the Moment",
-      summary:
-        "Change your internal experience of a painful situation through imagery, meaning, prayer, relaxation, one‑thing‑in‑the‑moment, vacation, or encouragement.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "Even when you can’t fix the external problem, adjusting mindset and physiology reduces suffering and preserves problem‑solving capacity.",
-        },
-        {
-          section: "Example",
-          content:
-            "Waiting for test results, you visualize a safe beach (Imagery), repeat a calming mantra (Encouragement), and focus on feeling the chair beneath you (One thing).",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "Pair two elements—for instance, deep breathing (Relaxation) while silently repeating ‘this too shall pass’ (Encouragement).",
-            "Keep ‘vacation’ micro—step outside for 5 minutes under a tree.",
-            "Personalize meaning: ask, ‘What lesson might this challenge offer me?’"
-          ]
-        }
-      ]
-    },
-  
-    // ────────── 5 · Pros & Cons ──────────
-    {
-      id: 55,
-      bookId: 5,
-      title: "Pros & Cons Before Acting",
-      summary:
-        "Weigh the short‑ and long‑term consequences of acting on an urge versus using a skill or doing nothing.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "Putting the urge into a cost‑benefit frame recruits the logical brain, reducing impulsivity and clarifying motivation to use skills.",
-        },
-        {
-          section: "Example",
-          content:
-            "Write four boxes: Pros of yelling, Cons of yelling, Pros of walking away, Cons of walking away—seeing the list curbs the urge to lash out.",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "Do it on paper first; once learned, run it mentally in 60 seconds.",
-            "Underline long‑term costs—they often outweigh short‑term relief.",
-            "Review the sheet after the crisis to reinforce wise choices."
-          ]
-        }
-      ]
-    },
-  
-    // ────────── 6 · STOP Skill ──────────
-    {
-      id: 56,
-      bookId: 5,
-      title: "STOP Skill for Immediate Grounding",
-      summary:
-        "S‑Stop, T‑Take a step back, O‑Observe, P‑Proceed mindfully—four micro‑steps to prevent knee‑jerk reactions.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "The first seconds of a crisis often decide outcome. STOP inserts a pause that keeps you from escalating damage.",
-        },
-        {
-          section: "Example",
-          content:
-            "Email arrives that feels insulting: you freeze hands over keyboard (Stop), push chair back (Take a step), notice racing heart (Observe), then draft a calm reply (Proceed mindfully).",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "Pair with a physical cue—touch thumb to forefinger when you ‘Stop.’",
-            "Use a silent exhale on the ‘T’ step to trigger parasympathetic response.",
-            "Rehearse aloud in calm moments so it’s automatic under stress."
-          ]
-        }
-      ]
-    },
-  
-    // ────────── 7 · Radical Acceptance ──────────
-    {
-      id: 57,
-      bookId: 5,
-      title: "Radical Acceptance & Turning the Mind",
-      summary:
-        "End needless suffering by fully accepting reality as it is, then repeatedly redirecting the mind back to acceptance whenever it drifts to resistance.",
-      details: [
-        {
-          section: "Why it matters",
-          content:
-            "Pain is inevitable; resisting ‘what is’ adds secondary suffering. Acceptance frees energy for wise action (or peaceful endurance when change isn’t possible).",
-        },
-        {
-          section: "Example",
-          content:
-            "After a breakup you cannot change, you notice anger rising, label it ‘non‑acceptance,’ breathe, and mentally say, ‘Yes, this happened.’ Repeat each time resentment returns.",
-        },
-        {
-          section: "Practice Tips",
-          content: [
-            "Use half‑smile and willing‑hands posture to cue acceptance in the body.",
-            "Distinguish acceptance (acknowledging facts) from approval (liking them).",
-            "Expect to ‘turn the mind’ dozens of times—the pivot itself is the skill."
-          ]
-        }
-      ]
-    }
-  ]
+  {
+    "id": 51,
+    "bookId": 5,
+    "title": "TIPP (Rapid Body Reset)",
+    "summary": "Quickly lower extreme emotion by shocking the body back toward a calm baseline through temperature, exercise, breathing, and muscle relaxation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Intense emotions ride on high physiological arousal. Rapidly shifting the body’s chemistry (heart rate, vagal tone) can cut the peak within minutes."
+      },
+      {
+        "section": "Example",
+        "content": "Plunge your face into a bowl of cold water or hold an ice pack for 30 seconds; your heart rate drops and panic subsides enough to think clearly."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "T – Cool face or neck with icy water (mimics a diving reflex).",
+          "I – Do 20–60 seconds of burpees or jumping jacks.",
+          "P – Slow, paced breathing: 4‑count in, 6‑count out.",
+          "P – Pair exhale with Progressive Muscle Relaxation (clench‑release)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 5,
+    "title": "Self‑Soothe with the Five Senses",
+    "summary": "Use sight, sound, smell, taste, and touch to create a calm micro‑environment when emotions run hot.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Pleasant sensory input sends ‘safety’ cues to the brain’s threat system, dampening cortisol and interrupting rumination."
+      },
+      {
+        "section": "Example",
+        "content": "Light a lavender candle, wrap in a soft blanket, and listen to rainfall audio while anger cools."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make a portable ‘soothe kit’ (earbuds, scent vial, tea bag, photo).",
+          "Immerse fully—notice texture, temperature, flavor for 30‑60 s.",
+          "Rotate senses to avoid adaptation (e.g., sight + sound today, smell + touch tomorrow)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 5,
+    "title": "ACCEPTS Distraction Skills",
+    "summary": "Short‑term distractions that buy time until the emotional wave passes—Activities, Contributing, Comparisons, opposite Emotions, Pushing away, Thoughts, Sensations.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When urges are overwhelming, healthy distraction prevents impulsive actions that could make things worse (self‑harm, yelling, substance use)."
+      },
+      {
+        "section": "Example",
+        "content": "Do a 10‑minute puzzle (Activity), text an encouraging meme to a friend (Contributing), recall a time you survived worse (Comparison), etc."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pre‑list 3 options for each ACCEPTS letter in your phone.",
+          "Set a timer (10‑20 min) to ensure distraction is deliberate, not avoidance.",
+          "Combine letters for stronger effect (e.g., brisk walk + uplifting playlist = Activity + opposite Emotion)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 5,
+    "title": "IMPROVE the Moment",
+    "summary": "Change your internal experience of a painful situation through imagery, meaning, prayer, relaxation, one‑thing‑in‑the‑moment, vacation, or encouragement.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Even when you can’t fix the external problem, adjusting mindset and physiology reduces suffering and preserves problem‑solving capacity."
+      },
+      {
+        "section": "Example",
+        "content": "Waiting for test results, you visualize a safe beach (Imagery), repeat a calming mantra (Encouragement), and focus on feeling the chair beneath you (One thing)."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pair two elements—for instance, deep breathing (Relaxation) while silently repeating ‘this too shall pass’ (Encouragement).",
+          "Keep ‘vacation’ micro—step outside for 5 minutes under a tree.",
+          "Personalize meaning: ask, ‘What lesson might this challenge offer me?’"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 5,
+    "title": "Pros & Cons Before Acting",
+    "summary": "Weigh the short‑ and long‑term consequences of acting on an urge versus using a skill or doing nothing.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Putting the urge into a cost‑benefit frame recruits the logical brain, reducing impulsivity and clarifying motivation to use skills."
+      },
+      {
+        "section": "Example",
+        "content": "Write four boxes: Pros of yelling, Cons of yelling, Pros of walking away, Cons of walking away—seeing the list curbs the urge to lash out."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Do it on paper first; once learned, run it mentally in 60 seconds.",
+          "Underline long‑term costs—they often outweigh short‑term relief.",
+          "Review the sheet after the crisis to reinforce wise choices."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 5,
+    "title": "STOP Skill for Immediate Grounding",
+    "summary": "S‑Stop, T‑Take a step back, O‑Observe, P‑Proceed mindfully—four micro‑steps to prevent knee‑jerk reactions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "The first seconds of a crisis often decide outcome. STOP inserts a pause that keeps you from escalating damage."
+      },
+      {
+        "section": "Example",
+        "content": "Email arrives that feels insulting: you freeze hands over keyboard (Stop), push chair back (Take a step), notice racing heart (Observe), then draft a calm reply (Proceed mindfully)."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pair with a physical cue—touch thumb to forefinger when you ‘Stop.’",
+          "Use a silent exhale on the ‘T’ step to trigger parasympathetic response.",
+          "Rehearse aloud in calm moments so it’s automatic under stress."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 5,
+    "title": "Radical Acceptance & Turning the Mind",
+    "summary": "End needless suffering by fully accepting reality as it is, then repeatedly redirecting the mind back to acceptance whenever it drifts to resistance.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Pain is inevitable; resisting ‘what is’ adds secondary suffering. Acceptance frees energy for wise action (or peaceful endurance when change isn’t possible)."
+      },
+      {
+        "section": "Example",
+        "content": "After a breakup you cannot change, you notice anger rising, label it ‘non‑acceptance,’ breathe, and mentally say, ‘Yes, this happened.’ Repeat each time resentment returns."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use half‑smile and willing‑hands posture to cue acceptance in the body.",
+          "Distinguish acceptance (acknowledging facts) from approval (liking them).",
+          "Expect to ‘turn the mind’ dozens of times—the pivot itself is the skill."
+        ]
+      }
+    ]
+  }
+]
