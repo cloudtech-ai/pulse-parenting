@@ -9,7 +9,12 @@
       "title": "DBT Interpersonal Effectiveness",
       "info": "dbt_books/dbt_2.json",
       "strategies": "dbt_books/dbt_2_strategies.json"
-    }
+    },
+    {
+      "title": "DBT Mindfulness",
+      "info": "dbt_books/dbt_3.json",
+      "strategies": "dbt_books/dbt_3_strategies.json"
+    }    
   ]
 }
 
