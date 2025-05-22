@@ -1,0 +1,144 @@
+[{
+  id: 61,
+  bookId: 4, 
+  title: "Observe",
+  summary: "Notice your surroundings and internal experiences without trying to change them.",
+  details: [
+    {
+      section: "Why it matters",
+      content: "Observing helps you become aware of your thoughts, feelings, and environment, which is the first step in mindfulness."
+    },
+    {
+      section: "Example",
+      content: "Sitting quietly and noticing the sensation of your breath entering and leaving your body."
+    },
+    {
+      section: "Practice Tips",
+      content: [
+        "Focus on your breath.",
+        "Notice sensations in your body.",
+        "Observe sounds around you without labeling them."
+      ]
+    }
+  ]
+},
+{
+  id: 62,
+  bookId: 4, // DBT® Skills Training Manual
+  title: "Describe",
+  summary: "Put words to your observations without interpreting them.",
+  details: [
+    {
+      section: "Why it matters",
+      content: "Describing helps you articulate your experiences, which can prevent emotional overwhelm and increase clarity."
+    },
+    {
+      section: "Example",
+      content: "Saying to yourself, 'I am feeling tension in my shoulders' instead of 'I am stressed.'"
+    },
+    {
+      section: "Practice Tips",
+      content: [
+        "Use factual statements.",
+        "Avoid judgments or interpretations.",
+        "Practice describing your emotions and physical sensations."
+      ]
+    }
+  ]
+},
+{
+  id: 63,
+  bookId: 4, // DBT® Skills Training Manual
+  title: "Participate",
+  summary: "Fully engage in the present moment and activity.",
+  details: [
+    {
+      section: "Why it matters",
+      content: "Participating fully helps you experience life more vividly and reduces distractions and rumination."
+    },
+    {
+      section: "Example",
+      content: "Dancing with full attention to the music and movement, without self-consciousness."
+    },
+    {
+      section: "Practice Tips",
+      content: [
+        "Engage in activities wholeheartedly.",
+        "Let go of self-consciousness.",
+        "Focus on the experience rather than the outcome."
+      ]
+    }
+  ]
+},
+{
+  id: 64,
+  bookId: 4, // DBT® Skills Training Manual
+  title: "Non-Judgmental Stance",
+  summary: "Observe without evaluating as good or bad.",
+  details: [
+    {
+      section: "Why it matters",
+      content: "A non-judgmental stance reduces emotional reactivity and promotes acceptance."
+    },
+    {
+      section: "Example",
+      content: "Noticing a mistake without labeling it as 'bad' or 'stupid.'"
+    },
+    {
+      section: "Practice Tips",
+      content: [
+        "Notice judgments and let them pass.",
+        "Focus on facts, not opinions.",
+        "Practice accepting things as they are."
+      ]
+    }
+  ]
+},
+{
+  id: 65,
+  bookId: 4, // DBT® Skills Training Manual
+  title: "One-Mindfully",
+  summary: "Focus on one thing at a time with full attention.",
+  details: [
+    {
+      section: "Why it matters",
+      content: "One-mindfulness enhances concentration and reduces stress by minimizing multitasking."
+    },
+    {
+      section: "Example",
+      content: "Eating a meal without watching TV or checking your phone."
+    },
+    {
+      section: "Practice Tips",
+      content: [
+        "Choose one task and give it your full attention.",
+        "Gently bring your focus back when it wanders.",
+        "Practice being present in routine activities."
+      ]
+    }
+  ]
+},
+{
+  id: 66,
+  bookId: 4, // DBT® Skills Training Manual
+  title: "Effectiveness",
+  summary: "Focus on what works rather than what is right or fair.",
+  details: [
+    {
+      section: "Why it matters",
+      content: "Being effective helps you achieve your goals and reduce conflict by prioritizing practical solutions."
+    },
+    {
+      section: "Example",
+      content: "Choosing to apologize in a conflict to maintain a relationship, even if you feel you were right."
+    },
+    {
+      section: "Practice Tips",
+      content: [
+        "Ask yourself what will work in the situation.",
+        "Focus on your goals rather than being right.",
+        "Adapt your approach based on the context."
+      ]
+    }
+  ]
+}]
