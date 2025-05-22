@@ -1,68 +1,68 @@
 {
-  'id': 6,
-  'title': 'DBT Mindfulness',
-  'description': 'Core mindfulness skills to help you stay present, focused, and aware: observing, describing, and participating in the moment with a non-judgmental stance.',
-  'videoPreview': 'Mindfulness in Everyday Life',
-  'image': 'https://openclipart.org/image/800px/30764',
-  'keyStrategies': [
+  "id": 6,
+  "title": "DBT Mindfulness",
+  "description": "Core mindfulness skills to help you stay present, focused, and aware: observing, describing, and participating in the moment with a non-judgmental stance.",
+  "videoPreview": "Mindfulness in Everyday Life",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
     {
-      'id': 61,
-      'title': 'Observe',
-      'focused': True
+      "id": 61,
+      "title": "Observe",
+      "focused": true
     },
     {
-      'id': 62,
-      'title': 'Describe'
+      "id": 62,
+      "title": "Describe"
     },
     {
-      'id': 63,
-      'title': 'Participate'
+      "id": 63,
+      "title": "Participate"
     },
     {
-      'id': 64,
-      'title': 'Non-Judgmental Stance'
+      "id": 64,
+      "title": "Non-Judgmental Stance"
     },
     {
-      'id': 65,
-      'title': 'One-Mindfully'
+      "id": 65,
+      "title": "One-Mindfully"
     },
     {
-      'id': 66,
-      'title': 'Effectiveness'
+      "id": 66,
+      "title": "Effectiveness"
     }
   ],
-  'videos': [
+  "videos": [
     {
-      'id': 'A1B2C3D4E5',
-      'title': 'DBT – Mindfulness – Quick Overview of All Skills'
+      "id": "A1B2C3D4E5",
+      "title": "DBT – Mindfulness – Quick Overview of All Skills"
     },
     {
-      'id': 'F6G7H8I9J0',
-      'title': 'How to Practice Mindfulness – Core Skills'
+      "id": "F6G7H8I9J0",
+      "title": "How to Practice Mindfulness – Core Skills"
     },
     {
-      'id': 'K1L2M3N4O5',
-      'title': 'DBT Skills: Observe for Mindfulness'
+      "id": "K1L2M3N4O5",
+      "title": "DBT Skills: Observe for Mindfulness"
     },
     {
-      'id': 'P6Q7R8S9T0',
-      'title': 'DBT Skills: Describe for Mindfulness'
+      "id": "P6Q7R8S9T0",
+      "title": "DBT Skills: Describe for Mindfulness"
     },
     {
-      'id': 'U1V2W3X4Y5',
-      'title': 'DBT Skills: Participate for Mindfulness'
+      "id": "U1V2W3X4Y5",
+      "title": "DBT Skills: Participate for Mindfulness"
     },
     {
-      'id': 'Z6A7B8C9D0',
-      'title': 'DBT Skills: Non-Judgmental Stance for Mindfulness'
+      "id": "Z6A7B8C9D0",
+      "title": "DBT Skills: Non-Judgmental Stance for Mindfulness"
     },
     {
-      'id': 'E1F2G3H4I5',
-      'title': 'DBT Skills: One-Mindfully for Mindfulness'
+      "id": "E1F2G3H4I5",
+      "title": "DBT Skills: One-Mindfully for Mindfulness"
     },
     {
-      'id': 'J6K7L8M9N0',
-      'title': 'DBT Skills: Effectiveness for Mindfulness'
+      "id": "J6K7L8M9N0",
+      "title": "DBT Skills: Effectiveness for Mindfulness"
     }
   ]
 }
