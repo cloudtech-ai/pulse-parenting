@@ -1,0 +1,134 @@
+[
+  {
+  "id": 61,
+  "bookId": 4,
+  "title": "DEAR MAN: Assert Your Needs",
+  "summary": "A step-by-step formula for asking for what you want, saying no, or negotiating, while staying effective and clear.",
+  "details": [
+    {
+      "section": "Why it matters",
+      "content": "Many people struggle to express their needs directly, leading to resentment, misunderstanding, or not getting what they want."
+    },
+    {
+      "section": "Example",
+      "content": "Instead of hinting, you calmly say, 'I would like you to call if you’ll be late,' using DEAR MAN skills to get your point across."
+    },
+    {
+      "section": "Practice Tips",
+      "content": [
+        "D - Describe the situation objectively.",
+        "E - Express how you feel or what you believe.",
+        "A - Assert what you want or need clearly.",
+        "R - Reinforce by explaining benefits.",
+        "M - (Stay) Mindful of your goals.",
+        "A - Appear confident (body language, tone).",
+        "N - Negotiate if needed; be willing to give to get."
+      ]
+    }
+  ]
+}
+,
+  {
+  "id": 62,
+  "bookId": 4,
+  "title": "GIVE: Keep Relationships Positive",
+  "summary": "Skills to maintain and strengthen important relationships while making requests or resolving conflict.",
+  "details": [
+    {
+      "section": "Why it matters",
+      "content": "Relationships can be damaged by criticism or defensiveness. GIVE skills help you stay connected even when discussing tough topics."
+    },
+    {
+      "section": "Example",
+      "content": "You need to talk to a friend about something they did that upset you, but you use GIVE skills to stay gentle and validating."
+    },
+    {
+      "section": "Practice Tips",
+      "content": [
+        "G - Be Gentle: Avoid attacks, threats, or judging.",
+        "I - Act Interested: Listen and show attention.",
+        "V - Validate: Acknowledge the other person's feelings and viewpoint.",
+        "E - Use an Easy manner: Smile, joke, or be light when appropriate."
+      ]
+    }
+  ]
+}
+,
+  {
+  "id": 63,
+  "bookId": 4,
+  "title": "FAST: Maintain Self-Respect",
+  "summary": "Communicate assertively while keeping your self-respect and values intact, even if it means disappointing others.",
+  "details": [
+    {
+      "section": "Why it matters",
+      "content": "Sometimes, getting what you want comes at the cost of self-respect. FAST helps you stay true to yourself, especially when pressured."
+    },
+    {
+      "section": "Example",
+      "content": "You turn down a request for a favor you can’t do, and you do it firmly but respectfully, not giving in to guilt or pressure."
+    },
+    {
+      "section": "Practice Tips",
+      "content": [
+        "F - Be Fair: To yourself and the other person.",
+        "A - No Apologies: Don’t over-apologize for having needs or opinions.",
+        "S - Stick to your values: Don’t compromise your principles.",
+        "T - Be Truthful: Don’t exaggerate or make excuses."
+      ]
+    }
+  ]
+}
+,
+  {
+  "id": 64,
+  "bookId": 4,
+  "title": "Balancing Priorities and Demands",
+  "summary": "Skills for knowing when to prioritize your needs, when to compromise, and when to let go in relationships and responsibilities.",
+  "details": [
+    {
+      "section": "Why it matters",
+      "content": "Trying to do everything for everyone often leads to burnout, resentment, and ineffective action."
+    },
+    {
+      "section": "Example",
+      "content": "You decide not to work late, even though your boss hints, because you need time for family and self-care."
+    },
+    {
+      "section": "Practice Tips",
+      "content": [
+        "List your top values and responsibilities.",
+        "Weigh the urgency and importance of each demand.",
+        "Communicate limits clearly to others.",
+        "Remember it’s okay to delegate or decline sometimes."
+      ]
+    }
+  ]
+}
+,
+  {
+  "id": 65,
+  "bookId": 4,
+  "title": "Saying No Effectively",
+  "summary": "Learn to decline requests, set limits, and protect your time and energy—without unnecessary guilt.",
+  "details": [
+    {
+      "section": "Why it matters",
+      "content": "Saying yes to everything can lead to overwhelm and resentment. Saying no clearly and respectfully preserves relationships and well-being."
+    },
+    {
+      "section": "Example",
+      "content": "When asked to take on extra work, you politely decline, stating you’re already at capacity, instead of reluctantly agreeing."
+    },
+    {
+      "section": "Practice Tips",
+      "content": [
+        "Be clear and concise; you don’t owe lengthy explanations.",
+        "Use a confident tone and body language.",
+        "Practice ‘no’ in small, low-stakes situations.",
+        "Acknowledge the other person’s feelings, but stand firm."
+      ]
+    }
+  ]
+}
+]
