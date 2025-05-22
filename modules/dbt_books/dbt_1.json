@@ -1,12 +1,12 @@
 {
-  id: 5,
-  title: "DBT Distress Tolerance",
-  description:
+  "id": 5,
+  "title": "DBT Distress Tolerance",
+  "description":
     "Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.",
-  videoPreview: "Staying Afloat in Crisis",
-  image:
+  "videoPreview": "Staying Afloat in Crisis",
+  "image":
     "https://openclipart.org/image/800px/20764",
-  keyStrategies: [
+  "keyStrategies": [
     { id: 51, title: "TIPP (Rapid Body Reset)", focused: true },
     { id: 52, title: "Self‑Soothe with the Five Senses" },
     { id: 53, title: "ACCEPTS Distraction Skills" },
