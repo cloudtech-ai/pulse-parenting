@@ -11,14 +11,38 @@
     { "id": 64, "title": "Balancing Priorities and Demands" },
     { "id": 65, "title": "Saying No Effectively" }
   ],
-  "videos": [
-    { "id": "aYY7Lyd0dHg", "title": "DBT Skills: DEAR MAN – How to Ask for What You Want" },
-    { "id": "FT8Xy1s-vB8", "title": "DBT GIVE Skill for Interpersonal Effectiveness" },
-    { "id": "Ic12gRxI0kQ", "title": "FAST Skill for Self-Respect (DBT Interpersonal Effectiveness)" },
-    { "id": "Er6YvLOh2cw", "title": "How to Say No: Interpersonal Effectiveness in DBT" },
-    { "id": "3i5BG5lBoFk", "title": "DBT: Balancing Priorities and Demands" },
-    { "id": "IM8tx2wYqJA", "title": "Interpersonal Effectiveness: Building and Maintaining Healthy Relationships" },
-    { "id": "g_w_70jLHg0", "title": "Interpersonal Effectiveness Skills Overview (DBT)" },
-    { "id": "mlm7-96a_k4", "title": "DBT Skills: Interpersonal Effectiveness Explained" }
+"videos": [
+    {
+      "id": "el_O72aTZzE",
+      "title": "DBT Skills: DEAR MAN – How to Ask for What You Want"
+    },
+    {
+      "id": "OLqeJkqNpO8",
+      "title": "DBT GIVE Skill for Interpersonal Effectiveness"
+    },
+    {
+      "id": "zrqNSTDuN2s",
+      "title": "FAST Skill for Self-Respect (DBT Interpersonal Effectiveness)"
+    },
+    {
+      "id": "GIhz5zr8cyw",
+      "title": "How to Say No: Interpersonal Effectiveness in DBT"
+    },
+    {
+      "id": "18v1CHQeUsI",
+      "title": "DBT: Balancing Priorities and Demands"
+    },
+    {
+      "id": "6CHRo_GxDmo",
+      "title": "Interpersonal Effectiveness: Building and Maintaining Healthy Relationships"
+    },
+    {
+      "id": "-Izq9lVt6dE",
+      "title": "Interpersonal Effectiveness Skills Overview (DBT)"
+    },
+    {
+      "id": "GPKb__5ZCag",
+      "title": "DBT Skills: Interpersonal Effectiveness Explained"
+    }
   ]
 }
