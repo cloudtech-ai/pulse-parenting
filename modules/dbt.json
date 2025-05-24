@@ -1,16 +1,19 @@
 {
   "books": [
     {
+      "id": 10,
       "title": "DBT Stress Tolerance",
       "info": "dbt_books/dbt_1.json",
       "strategies": "dbt_books/dbt_1_strategies.json"
     },
     {
+      "id": 11,
       "title": "DBT Interpersonal Effectiveness",
       "info": "dbt_books/dbt_2.json",
       "strategies": "dbt_books/dbt_2_strategies.json"
     },
     {
+      "id": 12,
       "title": "DBT Mindfulness",
       "info": "dbt_books/dbt_3.json",
       "strategies": "dbt_books/dbt_3_strategies.json"
