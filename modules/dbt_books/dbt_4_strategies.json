@@ -1,0 +1,122 @@
+[
+    {
+        "id": 61,
+        "bookId": 4,
+        "title": "Dialectical Thinking",
+        "summary": "Embrace the concept that two opposing ideas can both be true.",
+        "details": [
+            {
+                "section": "Why it matters",
+                "content": "Dialectical thinking helps in resolving conflicts and reducing black-and-white thinking by acknowledging multiple perspectives."
+            },
+            {
+                "section": "Example",
+                "content": "You can be doing your best and still have room for improvement."
+            },
+            {
+                "section": "Practice Tips",
+                "content": [
+                    "Practice seeing both sides of a situation.",
+                    "Use 'and' instead of 'but' to connect ideas.",
+                    "Acknowledge the validity in others' viewpoints."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "bookId": 4,
+        "title": "Validation Techniques",
+        "summary": "Acknowledge and accept others' feelings and experiences as valid.",
+        "details": [
+            {
+                "section": "Why it matters",
+                "content": "Validation builds trust and strengthens relationships by showing understanding and acceptance."
+            },
+            {
+                "section": "Example",
+                "content": "Saying 'I understand you feel upset because you were left out' instead of dismissing their feelings."
+            },
+            {
+                "section": "Practice Tips",
+                "content": [
+                    "Listen actively and reflect back what you hear.",
+                    "Acknowledge the person's feelings without judgment.",
+                    "Use empathetic statements like 'That makes sense.'"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "bookId": 4,
+        "title": "Behavioral Chain Analysis",
+        "summary": "Identify the sequence of events leading to a problematic behavior.",
+        "details": [
+            {
+                "section": "Why it matters",
+                "content": "Understanding the chain of events helps in identifying triggers and points for intervention."
+            },
+            {
+                "section": "Example",
+                "content": "Analyzing what led to an outburst can reveal stressors like lack of sleep or unresolved conflict."
+            },
+            {
+                "section": "Practice Tips",
+                "content": [
+                    "Break down events leading to the behavior step-by-step.",
+                    "Identify vulnerabilities and triggers.",
+                    "Plan alternative responses for future situations."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "bookId": 4,
+        "title": "Opposite Action",
+        "summary": "Act opposite to the emotion-driven urge to change the emotional response.",
+        "details": [
+            {
+                "section": "Why it matters",
+                "content": "Opposite action helps in reducing the intensity of negative emotions by counteracting them."
+            },
+            {
+                "section": "Example",
+                "content": "If you feel like isolating when sad, engage with friends instead."
+            },
+            {
+                "section": "Practice Tips",
+                "content": [
+                    "Identify the emotion and its action urge.",
+                    "Choose an action opposite to the urge.",
+                    "Commit to the opposite action fully."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "bookId": 4,
+        "title": "Mindfulness of Current Thoughts",
+        "summary": "Observe thoughts without judgment and let them pass without attachment.",
+        "details": [
+            {
+                "section": "Why it matters",
+                "content": "Mindfulness of thoughts reduces reactivity and promotes emotional regulation by fostering awareness."
+            },
+            {
+                "section": "Example",
+                "content": "Noticing a thought like 'I'm not good enough' and letting it pass without dwelling on it."
+            },
+            {
+                "section": "Practice Tips",
+                "content": [
+                    "Observe thoughts as they arise without judgment.",
+                    "Label thoughts as 'just thoughts' and not facts.",
+                    "Practice letting thoughts come and go like clouds in the sky."
+                ]
+            }
+        ]
+    }
+]
