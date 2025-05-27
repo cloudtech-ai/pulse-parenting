@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "title": "DBT - Walking the Middle Path",
+  "description": "Balancing acceptance and change, this module focuses on finding a middle ground in thinking and behavior. It emphasizes dialectical thinking, validation, and behavior change strategies.",
+  "videoPreview": "Finding Balance in Life",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Dialectical Thinking",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Validation Techniques"
+    },
+    {
+      "id": 63,
+      "title": "Behavioral Chain Analysis"
+    },
+    {
+      "id": 64,
+      "title": "Opposite Action"
+    },
+    {
+      "id": 65,
+      "title": "Mindfulness of Current Thoughts"
+    }
+  ],
+  "videos": [
+    {
+      "id": "A1b2C3d4E5F",
+      "title": "DBT \u2013 Walking the Middle Path \u2013 Overview"
+    },
+    {
+      "id": "B2c3D4e5F6G",
+      "title": "Dialectical Thinking in DBT"
+    },
+    {
+      "id": "C3d4E5f6G7H",
+      "title": "Validation Techniques in DBT"
+    },
+    {
+      "id": "D4e5F6g7H8I",
+      "title": "Behavioral Chain Analysis in DBT"
+    },
+    {
+      "id": "E5f6G7h8I9J",
+      "title": "Opposite Action in DBT"
+    },
+    {
+      "id": "F6g7H8i9J0K",
+      "title": "Mindfulness of Current Thoughts in DBT"
+    }
+  ]
+}
