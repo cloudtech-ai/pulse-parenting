@@ -1,0 +1,72 @@
+{
+  "id": 6,
+  "title": "CBT - Cognitive Restructuring (Challenging Thoughts)",
+  "description": "Techniques for identifying and challenging negative thought patterns to alter emotional responses and behaviors. Focuses on examining evidence, reattributing blame, and considering alternative perspectives.",
+  "videoPreview": "Transforming Negative Thoughts",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Identifying Cognitive Distortions",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Examining the Evidence"
+    },
+    {
+      "id": 63,
+      "title": "Reattribution"
+    },
+    {
+      "id": 64,
+      "title": "Decatastrophizing"
+    },
+    {
+      "id": 65,
+      "title": "Cognitive Reframing"
+    },
+    {
+      "id": 66,
+      "title": "Behavioral Experiments"
+    },
+    {
+      "id": 67,
+      "title": "Thought Records"
+    }
+  ],
+  "videos": [
+    {
+      "id": "A1B2C3D4E5F",
+      "title": "CBT \u2013 Cognitive Restructuring \u2013 Overview of Techniques"
+    },
+    {
+      "id": "G6H7I8J9K0L",
+      "title": "How to Challenge Negative Thoughts \u2013 Cognitive Restructuring"
+    },
+    {
+      "id": "M1N2O3P4Q5R",
+      "title": "CBT Skills: Identifying Cognitive Distortions"
+    },
+    {
+      "id": "S6T7U8V9W0X",
+      "title": "CBT Skills: Examining the Evidence"
+    },
+    {
+      "id": "Y1Z2A3B4C5D",
+      "title": "CBT Skills: Reattribution Techniques"
+    },
+    {
+      "id": "E6F7G8H9I0J",
+      "title": "CBT Skills: Decatastrophizing"
+    },
+    {
+      "id": "K1L2M3N4O5P",
+      "title": "CBT Skills: Cognitive Reframing"
+    },
+    {
+      "id": "Q6R7S8T9U0V",
+      "title": "CBT Skills: Using Thought Records"
+    }
+  ]
+}
