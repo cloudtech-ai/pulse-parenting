@@ -24,6 +24,12 @@
       "info": "dbt_books/dbt_4.json",
       "strategies": "dbt_books/dbt_4_strategies.json"
     }
+  ],
+  "recommendedVidoes": [
+    {
+      "id": "gcv1w2mxLrw",
+      "title": "DBT – Mindfulness – Quick Overview of All Skills"
+    }
   ]
 }
 
