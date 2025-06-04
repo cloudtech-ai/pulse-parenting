@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>How to Get a YouTube Data API Key</title>
+</head>
+<body>
+    <h1>🔑 How to Get a YouTube Data API Key</h1>
+
+    <h2>✅ Step 1: Go to Google Cloud Console</h2>
+    <p>Visit: <a href="https://console.cloud.google.com/">https://console.cloud.google.com/</a></p>
+
+    <h2>✅ Step 2: Create or Select a Project</h2>
+    <ul>
+        <li>At the top, click the <strong>project dropdown</strong></li>
+        <li>Click <strong>“New Project”</strong> or select an existing one</li>
+        <li>Give it a name like “YouTube API Project”</li>
+        <li>Click <strong>“Create”</strong></li>
+    </ul>
+
+    <h2>✅ Step 3: Enable YouTube Data API</h2>
+    <ol>
+        <li>After selecting your project, go to the <strong>API Library</strong>:<br>
+            <a href="https://console.cloud.google.com/apis/library">https://console.cloud.google.com/apis/library</a>
+        </li>
+        <li>Search for: <code>YouTube Data API v3</code></li>
+        <li>Click on the result and click <strong>“Enable”</strong></li>
+    </ol>
+
+    <h2>✅ Step 4: Create API Key</h2>
+    <ol>
+        <li>Go to the <strong>Credentials</strong> page:<br>
+            <a href="https://console.cloud.google.com/apis/credentials">https://console.cloud.google.com/apis/credentials</a>
+        </li>
+        <li>Click <strong>“+ Create Credentials”</strong> → choose <strong>“API key”</strong></li>
+        <li>Google will generate an API key. <strong>Copy it</strong></li>
+    </ol>
+
+    <h2>✅ Step 5: (Recommended) Restrict Your API Key</h2>
+    <ol>
+        <li>On the API key screen, click <strong>“Restrict key”</strong></li>
+        <li>Under <strong>API restrictions</strong>, select <strong>“Restrict key”</strong> and choose <strong>YouTube Data API v3</strong></li>
+        <li>Under <strong>Application restrictions</strong>, choose the relevant restriction type (e.g. HTTP referrers for web apps)</li>
+    </ol>
+
+    <h2>✅ Step 6: Save and Use Your API Key</h2>
+    <p>You can now use this API key in your app to make requests like:</p>
+    <pre>https://www.googleapis.com/youtube/v3/search?part=snippet&amp;q=DBT&amp;key=YOUR_API_KEY</pre>
+
+    <h2>🧠 Notes</h2>
+    <ul>
+        <li>Quota: Free tier gives <strong>10,000 units/day</strong></li>
+        <li>Typical usage:
+            <ul>
+                <li><code>search.list</code>: 100 units per call</li>
+                <li><code>videos.list</code>: 1 unit per call</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
