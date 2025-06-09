@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "Parenting a Child with Emotional or Behavioral Disorder",
+  "description": "Strategies for managing and supporting children with emotional or behavioral challenges, focusing on understanding, communication, and effective interventions.",
+  "videoPreview": "Understanding and Supporting Your Child",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Building Emotional Awareness",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Effective Communication Techniques"
+    },
+    {
+      "id": 53,
+      "title": "Consistent Routines and Boundaries"
+    },
+    {
+      "id": 54,
+      "title": "Positive Reinforcement"
+    },
+    {
+      "id": 55,
+      "title": "Collaborative Problem Solving"
+    },
+    {
+      "id": 56,
+      "title": "Self-Care for Parents"
+    },
+    {
+      "id": 57,
+      "title": "Seeking Professional Support"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "Parenting Strategies for Emotional and Behavioral Disorders"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "Effective Communication with Your Child"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "Building Emotional Awareness in Children"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "Creating Consistent Routines"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "Positive Reinforcement Techniques"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "Collaborative Problem Solving with Children"
+    },
+    {
+      "id": "2SI6C2Obzgc",
+      "title": "Self-Care for Parents"
+    },
+    {
+      "id": "u_795UX9VJ8",
+      "title": "When to Seek Professional Support"
+    }
+  ]
+}

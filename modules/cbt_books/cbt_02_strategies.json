@@ -1,0 +1,177 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Building Emotional Awareness",
+    "summary": "Help your child recognize, label, and express their emotions in healthy ways.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Children with emotional or behavioral disorders often struggle to identify and communicate their feelings, which can lead to frustration and outbursts."
+      },
+      {
+        "section": "Example",
+        "content": "When your child is upset, encourage them to name their feeling (e.g., 'I feel angry') and talk about what caused it."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model emotional labeling by sharing your own feelings out loud.",
+          "Use emotion charts or faces to help your child identify emotions.",
+          "Validate your child's feelings, even if you don't agree with their behavior.",
+          "Encourage regular check-ins about emotions during calm moments."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Effective Communication Techniques",
+    "summary": "Use clear, calm, and consistent communication to foster understanding and cooperation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective communication reduces misunderstandings and helps children feel heard and respected."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of saying 'Stop yelling!', try 'I hear you're upset. Let's use a quieter voice so I can understand you.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use 'I' statements to express your feelings and needs.",
+          "Maintain eye contact and use a calm tone.",
+          "Give clear, simple instructions and check for understanding.",
+          "Listen actively and reflect back what your child says."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Consistent Routines and Boundaries",
+    "summary": "Establish predictable routines and clear boundaries to provide structure and security.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Consistency helps children feel safe and know what to expect, reducing anxiety and behavioral issues."
+      },
+      {
+        "section": "Example",
+        "content": "Having a set bedtime routine helps your child transition calmly to sleep each night."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Create visual schedules for daily routines.",
+          "Clearly explain rules and consequences ahead of time.",
+          "Follow through consistently with established boundaries.",
+          "Review routines regularly and adjust as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Positive Reinforcement",
+    "summary": "Encourage desired behaviors by acknowledging and rewarding them.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Positive reinforcement increases the likelihood of good behavior and builds your child's self-esteem."
+      },
+      {
+        "section": "Example",
+        "content": "Praise your child for using words to express frustration instead of acting out."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Offer specific praise (e.g., 'I like how you cleaned up your toys.').",
+          "Use reward systems like sticker charts for younger children.",
+          "Celebrate small successes to build momentum.",
+          "Be consistent and immediate with positive feedback."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Collaborative Problem Solving",
+    "summary": "Work together with your child to find solutions to challenges and conflicts.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Involving your child in problem-solving teaches responsibility and improves cooperation."
+      },
+      {
+        "section": "Example",
+        "content": "If your child struggles with homework time, brainstorm together ways to make it easier."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask open-ended questions to understand your child's perspective.",
+          "Encourage your child to suggest solutions.",
+          "Evaluate options together and agree on a plan.",
+          "Follow up and adjust the plan as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Self-Care for Parents",
+    "summary": "Prioritize your own well-being to better support your child.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Caring for a child with emotional or behavioral challenges can be stressful; self-care helps you stay resilient and patient."
+      },
+      {
+        "section": "Example",
+        "content": "Take time for activities you enjoy, like reading or walking, to recharge your energy."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular breaks and downtime.",
+          "Seek support from friends, family, or parent groups.",
+          "Practice stress-reduction techniques like deep breathing or mindfulness.",
+          "Recognize and honor your own limits."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Seeking Professional Support",
+    "summary": "Reach out to mental health professionals or support services when needed.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Professional guidance can provide new strategies, resources, and emotional support for both you and your child."
+      },
+      {
+        "section": "Example",
+        "content": "Consult a therapist or counselor if your child's behaviors are overwhelming or not improving."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Research local mental health resources and support groups.",
+          "Don't hesitate to ask for help when you need it.",
+          "Collaborate with teachers, counselors, and healthcare providers.",
+          "Stay informed about your child's diagnosis and treatment options."
+        ]
+      }
+    ]
+  }
+]
