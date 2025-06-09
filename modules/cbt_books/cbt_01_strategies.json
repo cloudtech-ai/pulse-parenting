@@ -1,0 +1,170 @@
+[
+  {
+    "id": 61,
+    "bookId": 7,
+    "title": "Identifying Cognitive Distortions",
+    "summary": "Learn to spot unhelpful thinking patterns that distort reality and fuel negative emotions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Cognitive distortions are automatic, biased ways of thinking that can worsen anxiety, depression, and stress. Recognizing them is the first step to changing them."
+      },
+      {
+        "section": "Example",
+        "content": "You think, 'I always mess things up,' after making a small mistake at work. This is an example of all-or-nothing thinking."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep a daily log of negative thoughts and label the distortion (e.g., catastrophizing, mind reading).",
+          "Review a list of common distortions to familiarize yourself.",
+          "Ask yourself: Is this thought an example of a known distortion?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 7,
+    "title": "Examining the Evidence",
+    "summary": "Challenge negative thoughts by weighing the real evidence for and against them.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Negative thoughts often feel true but are not always based on facts. Examining evidence helps you develop a more balanced perspective."
+      },
+      {
+        "section": "Example",
+        "content": "You think, 'Nobody likes me.' You list evidence for (e.g., someone didn’t reply to a text) and against (e.g., a friend invited you to lunch)."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Write down the thought and list all supporting and contradicting evidence.",
+          "Ask yourself: What would I tell a friend in this situation?",
+          "Look for objective facts, not feelings."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 7,
+    "title": "Reattribution",
+    "summary": "Shift away from blaming yourself for everything by considering other possible causes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People often take excessive responsibility for negative events, which can increase guilt and low self-esteem. Reattribution helps you see the bigger picture."
+      },
+      {
+        "section": "Example",
+        "content": "You blame yourself for a team project’s failure. On reflection, you note that unclear instructions and tight deadlines also played a role."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask: What else might have contributed to this situation?",
+          "Consider external factors and other people’s roles.",
+          "Remind yourself that most outcomes have multiple causes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 7,
+    "title": "Decatastrophizing",
+    "summary": "Reduce anxiety by realistically assessing how bad a feared outcome would actually be.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Catastrophic thinking exaggerates how terrible things will be, fueling anxiety and avoidance. Decatastrophizing helps you see that you can cope."
+      },
+      {
+        "section": "Example",
+        "content": "You fear, 'If I make a mistake, I’ll get fired and never find another job.' You break it down and realize this is unlikely and that you have resources to cope."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask: What’s the worst that could happen? How likely is it?",
+          "What would I do if the worst happened?",
+          "What’s the most likely outcome? What’s the best that could happen?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 7,
+    "title": "Cognitive Reframing",
+    "summary": "Find more balanced or positive ways to interpret situations and thoughts.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Reframing helps you move away from negative automatic thoughts and see situations from a healthier, more constructive perspective."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of thinking, 'I failed,' you reframe it as, 'I learned something valuable for next time.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask: Is there another way to look at this?",
+          "What would I say to a friend in this situation?",
+          "Practice finding at least one alternative explanation for negative thoughts."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 7,
+    "title": "Behavioral Experiments",
+    "summary": "Test the accuracy of your thoughts by trying out new behaviors and observing the results.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Behavioral experiments help you gather real-life evidence to challenge unhelpful beliefs, reducing their power over time."
+      },
+      {
+        "section": "Example",
+        "content": "You believe, 'If I speak up in meetings, people will think I’m stupid.' You try speaking up and notice that people respond positively."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify a belief to test and plan a small experiment.",
+          "Predict what you think will happen.",
+          "Try the behavior and record what actually happens."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 7,
+    "title": "Thought Records",
+    "summary": "Use structured worksheets to track situations, thoughts, emotions, and alternative responses.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Thought records help you systematically analyze and challenge negative thoughts, making cognitive restructuring more concrete and effective."
+      },
+      {
+        "section": "Example",
+        "content": "After a stressful event, you fill out a thought record: situation, automatic thought, emotion, evidence for/against, and a more balanced thought."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use a template or app to record thoughts daily.",
+          "Include situation, thought, emotion, evidence, and alternative thought.",
+          "Review your records weekly to spot patterns and progress."
+        ]
+      }
+    ]
+  }
+]
