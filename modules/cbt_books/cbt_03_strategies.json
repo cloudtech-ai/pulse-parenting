@@ -1,0 +1,171 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Identifying Negative Thought Patterns",
+    "summary": "Learn to recognize and label unhelpful or automatic negative thoughts that influence your mood and behavior.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Negative thought patterns can distort reality and contribute to feelings of anxiety, depression, and low self-esteem. Identifying them is the first step toward change."
+      },
+      {
+        "section": "Example",
+        "content": "You notice that you often think, 'I always mess things up,' after making a small mistake at school."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep a thought diary to track negative thoughts throughout the day.",
+          "Notice when your mood shifts and ask yourself what you were thinking.",
+          "Label common patterns, such as 'all-or-nothing thinking' or 'catastrophizing.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Challenging Cognitive Distortions",
+    "summary": "Actively question and reframe distorted or irrational thoughts to develop a more balanced perspective.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Cognitive distortions can lead to unnecessary distress and unhelpful behaviors. Challenging them helps you respond more rationally and feel better."
+      },
+      {
+        "section": "Example",
+        "content": "When you think, 'Nobody likes me,' you challenge it by recalling times friends have invited you out."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask yourself, 'Is there evidence for this thought?'",
+          "Consider alternative explanations for events.",
+          "Practice replacing negative thoughts with more realistic ones."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Developing Healthy Coping Mechanisms",
+    "summary": "Build and use positive strategies to manage stress, difficult emotions, and challenging situations.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Healthy coping skills reduce the impact of stress and prevent reliance on unhelpful behaviors like avoidance or self-criticism."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of withdrawing when upset, you talk to a trusted friend or go for a walk."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make a list of activities that help you feel calm or supported.",
+          "Try deep breathing, journaling, or listening to music when stressed.",
+          "Reach out for support when needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Mindfulness and Relaxation Techniques",
+    "summary": "Use mindfulness and relaxation exercises to stay present and reduce anxiety or overwhelm.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindfulness helps you observe thoughts and feelings without judgment, making it easier to manage stress and respond thoughtfully."
+      },
+      {
+        "section": "Example",
+        "content": "When feeling anxious before a test, you practice mindful breathing to calm your nerves."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set aside a few minutes daily for mindful breathing or body scans.",
+          "Try progressive muscle relaxation or guided imagery.",
+          "Notice your senses and surroundings to anchor yourself in the present."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Setting and Achieving Goals",
+    "summary": "Learn to set realistic, specific goals and break them into manageable steps to build motivation and self-efficacy.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Goal-setting provides direction and a sense of accomplishment, which can boost mood and confidence."
+      },
+      {
+        "section": "Example",
+        "content": "You set a goal to improve your math grade by studying 20 minutes each day and tracking your progress."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use the SMART framework: Specific, Measurable, Achievable, Relevant, Time-bound.",
+          "Break big goals into smaller, actionable steps.",
+          "Celebrate progress, even small wins."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Building Self-Esteem and Confidence",
+    "summary": "Practice self-acceptance and positive self-talk to strengthen your sense of self-worth.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Healthy self-esteem helps you cope with setbacks, try new things, and maintain positive relationships."
+      },
+      {
+        "section": "Example",
+        "content": "You remind yourself of your strengths and achievements when you feel insecure."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "List your strengths and accomplishments regularly.",
+          "Challenge negative self-talk with affirmations.",
+          "Set boundaries and treat yourself with kindness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Problem-Solving Skills",
+    "summary": "Learn a step-by-step approach to tackle challenges and make effective decisions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Strong problem-solving skills reduce feelings of helplessness and increase your ability to handle life's difficulties."
+      },
+      {
+        "section": "Example",
+        "content": "When you have a conflict with a friend, you brainstorm solutions and choose the best way to address it."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define the problem clearly.",
+          "Generate multiple possible solutions.",
+          "Weigh pros and cons before choosing an action.",
+          "Reflect on the outcome and adjust as needed."
+        ]
+      }
+    ]
+  }
+]

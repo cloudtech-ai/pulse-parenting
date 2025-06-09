@@ -1,0 +1,69 @@
+{
+  "id": 5,
+  "title": "The CBT Workbook for Teens",
+  "description": "A guide for teenagers to manage stress, anxiety, and depression using Cognitive Behavioral Therapy techniques. It includes exercises and strategies to help teens understand and change their thought patterns and behaviors.",
+  "videoPreview": "Introduction to CBT for Teens",
+  "image": "https://example.com/cbt-workbook-image",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Identifying Negative Thought Patterns",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Challenging Cognitive Distortions"
+    },
+    {
+      "id": 53,
+      "title": "Developing Healthy Coping Mechanisms"
+    },
+    {
+      "id": 54,
+      "title": "Mindfulness and Relaxation Techniques"
+    },
+    {
+      "id": 55,
+      "title": "Setting and Achieving Goals"
+    },
+    {
+      "id": 56,
+      "title": "Building Self-Esteem and Confidence"
+    },
+    {
+      "id": 57,
+      "title": "Problem-Solving Skills"
+    }
+  ],
+  "videos": [
+    {
+      "id": "4zQFLj28g0Q",
+      "title": "CBT for Teens: Understanding Your Thoughts"
+    },
+    {
+      "id": "xr4osAkdWHM",
+      "title": "How to Challenge Negative Thoughts"
+    },
+    {
+      "id": "xjBgSaKVeus",
+      "title": "Coping with Stress and Anxiety"
+    },
+    {
+      "id": "kVcVMFNvrLc",
+      "title": "Mindfulness Practices for Teens"
+    },
+    {
+      "id": "nq8Ro4scLxw",
+      "title": "Goal Setting and Achievement"
+    },
+    {
+      "id": "w6zcknhdhlc",
+      "title": "Building Confidence and Self‑Esteem"
+    },
+    {
+      "id": "44bL7gX4U1g",
+      "title": "Effective Problem‑Solving Techniques"
+    }
+  ]
+
+}
