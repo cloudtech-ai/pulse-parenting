@@ -5,5 +5,12 @@
     "file": "dbt.json",
     "summary": "A collection of books on DBT.",
     "last_updated_utc": "2025-05-27T05:14:38Z"
+  },
+  {
+    "id": "002-CBT",
+    "name": "CBT",
+    "file": "cbt.json",
+    "summary": "A collection of books on CBT.",
+    "last_updated_utc": "2025-06-08T05:14:38Z"
   }
 ]

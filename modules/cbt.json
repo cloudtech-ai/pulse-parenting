@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "id": 21,
+      "title": "CBT - Cognitive Restructuring (Challenging Thoughts)",
+      "info": "cbt_books/cbt_01.json",
+      "strategies": "cbt_books/cbt_01_strategies.json"
+    },
+    {
+      "id": 22,
+      "title": "Parenting a Child with Emotional or Behavioral Disorder",
+      "info": "cbt_books/cbt_02.json",
+      "strategies": "cbt_books/cbt_02_strategies.json"
+    },
+    {
+      "id": 23,
+      "title": "The CBT Workbook for Teens",
+      "info": "cbt_books/cbt_03.json",
+      "strategies": "cbt_books/cbt_03_strategies.json"
+    }
+  ],
+  "recommendedVideos": [
+    {
+      "videoId": "9c_Bv_FBE-c",
+      "title": "What is CBT? | Making Sense of Cognitive Behavioural Therapy"
+    },
+    {
+      "videoId": "9bAou-c7-d8",
+      "title": "An Introduction To Cognitive Behavioural Therapy (CBT)"
+    }
+  ]
+}
+
