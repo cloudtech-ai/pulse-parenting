@@ -1,0 +1,58 @@
+{
+  "id": "no_drama_discipline",
+  "title": "No Drama Discipline",
+  "description": "No Drama Discipline explores effective, compassionate approaches to disciplining children, emphasizing connection and understanding over punishment. The book offers practical strategies for parents and caregivers to calm chaos, nurture emotional intelligence, and teach children important life skills. Through neuroscience-based insights, it helps adults turn discipline moments into opportunities for growth, strengthening the parent-child relationship. The authors provide clear, actionable steps for responding to misbehavior with empathy, structure, and consistency.",
+  "modules": [
+    {
+      "id": "understanding_discipline",
+      "title": "Understanding Discipline: What It Is and What It Isn't",
+      "goal": "Clarify the true purpose of discipline and distinguish it from punishment.",
+      "key_points": [
+        "Discipline means teaching and guiding, not punishing.",
+        "Effective discipline builds skills and emotional regulation in children.",
+        "Punishment can damage trust and limit growth opportunities."
+      ]
+    },
+    {
+      "id": "the_brain_and_behavior",
+      "title": "The Brain and Behavior: Why Kids Act Out",
+      "goal": "Understand how brain development and emotional states affect children's behavior.",
+      "key_points": [
+        "Children's brains are still developing, making self-control difficult.",
+        "Misbehavior is often a signal that a child needs help, not just correction.",
+        "Disciplinary moments are opportunities to nurture brain growth and resilience."
+      ]
+    },
+    {
+      "id": "connect_and_redirect",
+      "title": "Connect and Redirect: The Two-Step Approach",
+      "goal": "Learn the two-step discipline strategy: empathize first, then guide behavior.",
+      "key_points": [
+        "First, connect emotionally with the child to de-escalate strong feelings.",
+        "After connection, redirect behavior by offering clear guidance and limits.",
+        "This approach calms the child, making them more receptive to learning."
+      ]
+    },
+    {
+      "id": "discipline_in_action",
+      "title": "Discipline in Action: Practical Strategies",
+      "goal": "Apply practical techniques for effective, drama-free discipline in daily life.",
+      "key_points": [
+        "Stay calm and consistent when responding to misbehavior.",
+        "Use consequences that teach rather than punish.",
+        "Set clear expectations and follow through with empathy.",
+        "Encourage problem-solving and reflection after conflicts."
+      ]
+    },
+    {
+      "id": "repair_and_grow",
+      "title": "Repair and Grow: Strengthening Relationships After Discipline",
+      "goal": "Reinforce the parent-child relationship and foster emotional intelligence after discipline moments.",
+      "key_points": [
+        "Repairing after conflict builds trust and security.",
+        "Reflecting together helps children learn from their mistakes.",
+        "Ongoing connection turns discipline into a tool for long-term growth."
+      ]
+    }
+  ]
+}
