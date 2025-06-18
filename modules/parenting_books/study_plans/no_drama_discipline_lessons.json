@@ -198,7 +198,7 @@
           "Connect with your child's emotions",
           "Ignore the behavior"
         ],
-        "answer": 1
+        "correctAnswer": 1
       }
     },
     {
@@ -216,7 +216,7 @@
           "It helps the child feel understood and calms them",
           "It encourages bad behavior"
         ],
-        "answer": 1
+        "correctAnswer": 1
       }
     },
     {
@@ -234,7 +234,7 @@
           "Pause and take a deep breath",
           "Walk away and ignore your child"
         ],
-        "answer": 1
+        "correctAnswer": 1
       }
     },
     {
@@ -252,7 +252,7 @@
           "To teach them better choices",
           "To ignore the problem"
         ],
-        "answer": 1
+        "correctAnswer": 1
       }
     },
     {
@@ -270,7 +270,7 @@
           "They trust you and are more open",
           "They misbehave more often"
         ],
-        "answer": 1
+        "correctAnswer": 1
       }
     }
   ],
