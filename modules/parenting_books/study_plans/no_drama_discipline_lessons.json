@@ -2,179 +2,183 @@
   "understanding_discipline": [
     {
       "id": "lesson1_discipline_vs_punishment",
-      "title": "Discipline vs. Punishment: Understanding the Difference",
-      "goal": "Recognize how discipline differs from punishment and why this matters for your child\u2019s development.",
-      "keyConcept": "Discipline is about teaching and guiding children, while punishment focuses on making them suffer for mistakes. When you discipline, you help your child learn better ways to handle situations. Punishment, on the other hand, can create fear and resentment, making it harder for your child to grow and trust you.",
-      "example": "If a child hits their sibling, punishment might be sending them to their room alone. Discipline would involve calmly talking to the child about why hitting hurts, and guiding them to express their feelings with words instead.",
-      "parentTip": "Next time your child misbehaves, pause and ask yourself: 'Am I teaching or just reacting?' Choose to guide rather than punish.",
-      "reflectionPrompt": "Think of a recent time you punished your child. How might you have approached it differently using discipline?",
+      "title": "Discipline vs. Punishment",
+      "goal": "Understand the difference between discipline and punishment.",
+      "keyConcept": "Discipline is about teaching children how to make better choices, while punishment is about making them suffer for their mistakes. When we discipline, we guide and support our children\u2019s growth rather than simply imposing consequences. This approach helps children learn, rather than just fear doing something wrong.",
+      "example": "When a child spills milk, punishment might be sending them to their room. Discipline, on the other hand, involves calmly showing them how to clean up and discussing how to be more careful next time.",
+      "parentTip": "Next time your child misbehaves, pause and ask yourself: 'Am I teaching or just punishing?' Focus on what your child can learn from the situation.",
+      "reflectionPrompt": "Think of a recent time you disciplined your child. Was your response more about teaching or punishing? How could you shift it toward teaching?",
       "quizQuestion": {
         "question": "What is the main goal of discipline?",
         "options": [
+          "To teach and guide children",
           "To make children feel bad for their mistakes",
-          "To teach and guide children toward better behavior"
+          "To control children's behavior through fear"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 0
       }
     },
     {
-      "id": "lesson2_building_skills",
-      "title": "Discipline Builds Skills for Life",
-      "goal": "Understand how discipline helps your child develop important life skills.",
-      "keyConcept": "Effective discipline isn\u2019t just about stopping unwanted behavior\u2014it\u2019s about helping your child learn self-control, problem-solving, and empathy. When you guide your child through challenges, you\u2019re giving them tools they\u2019ll use throughout their lives.",
-      "example": "When a child throws a tantrum because they can\u2019t have a toy, instead of yelling, a parent might help the child name their feelings and suggest ways to calm down, like taking deep breaths.",
-      "parentTip": "Use challenging moments as opportunities to teach your child a new skill, such as expressing feelings or finding solutions.",
-      "reflectionPrompt": "What is one skill you\u2019d like your child to develop? How can you use discipline to help them practice it?",
+      "id": "lesson2_teaching_moments",
+      "title": "Turning Mistakes into Teaching Moments",
+      "goal": "Learn how to use misbehavior as an opportunity for growth.",
+      "keyConcept": "Every mistake your child makes is a chance to help them learn something new. Instead of reacting with anger or frustration, approach the situation as a teaching moment. This helps your child understand what went wrong and how to do better next time.",
+      "example": "If your child grabs a toy from a sibling, instead of scolding, you can say, 'I see you want that toy. Let\u2019s talk about how to ask for a turn.'",
+      "parentTip": "When your child misbehaves, ask yourself: 'What can my child learn from this?' Use calm, clear language to guide them.",
+      "reflectionPrompt": "How do you usually respond when your child makes a mistake? What is one way you could turn a recent misbehavior into a learning opportunity?",
       "quizQuestion": {
-        "question": "Which of the following is a benefit of discipline?",
+        "question": "What should you focus on when your child misbehaves?",
         "options": [
-          "It helps children develop emotional regulation",
-          "It makes children afraid of making mistakes"
+          "Finding a punishment",
+          "Helping them learn from the situation"
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "lesson3_emotional_regulation",
-      "title": "Supporting Emotional Regulation",
-      "goal": "Learn how discipline can help your child manage their emotions.",
-      "keyConcept": "Children often act out because they don\u2019t yet know how to handle big feelings. Discipline provides a safe space for them to learn about their emotions and practice calming down. When you stay calm and supportive, your child learns to do the same.",
-      "example": "A child screams when told it\u2019s bedtime. Instead of getting angry, the parent acknowledges the child\u2019s feelings ('I see you\u2019re upset') and helps them transition with a calming bedtime routine.",
-      "parentTip": "Model calm behavior and help your child name their feelings. This teaches them that emotions are manageable and not something to fear.",
-      "reflectionPrompt": "How do you usually respond when your child is upset? What could you do differently to support their emotional regulation?",
+      "id": "lesson3_long_term_development",
+      "title": "Focusing on Long-Term Development",
+      "goal": "Recognize the importance of long-term growth over short-term obedience.",
+      "keyConcept": "Effective discipline looks beyond immediate compliance and aims to build skills like self-control, empathy, and problem-solving. When we focus only on getting children to obey right now, we miss the chance to help them develop important life skills.",
+      "example": "Instead of demanding your child stop whining immediately, help them name their feelings and find better ways to express themselves.",
+      "parentTip": "Ask yourself: 'What skill does my child need to handle this situation better in the future?' Support them in practicing that skill.",
+      "reflectionPrompt": "What is one skill you hope your child will develop through your discipline? How can you encourage that skill during challenging moments?",
       "quizQuestion": {
-        "question": "What is a key part of helping children regulate their emotions?",
+        "question": "Why is focusing on long-term development important in discipline?",
         "options": [
+          "It helps children build important life skills",
+          "It makes children obey instantly",
+          "It avoids any conflict"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_emotional_connection",
+      "title": "Building Emotional Connection During Discipline",
+      "goal": "Learn how to maintain a strong connection with your child while disciplining.",
+      "keyConcept": "Children are more likely to learn and cooperate when they feel connected and understood. Discipline works best when it happens within a warm, supportive relationship, even during tough moments.",
+      "example": "When your child is upset after being corrected, offer a comforting hug or kind words, letting them know you love them even when they make mistakes.",
+      "parentTip": "Before addressing misbehavior, take a moment to connect with your child\u2014get down to their level, make eye contact, and use a gentle tone.",
+      "reflectionPrompt": "How do you show your child you care, even when you need to correct their behavior? What could you do to strengthen your connection during discipline?",
+      "quizQuestion": {
+        "question": "What helps children learn best during discipline?",
+        "options": [
+          "Feeling connected and understood",
+          "Being left alone",
+          "Strict consequences without explanation"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_modeling_behavior",
+      "title": "Modeling Calm and Respectful Behavior",
+      "goal": "Understand the importance of modeling the behavior you want to see.",
+      "keyConcept": "Children learn by watching how we handle challenges. When we stay calm and respectful during discipline, we show our children how to manage emotions and resolve conflicts. Modeling is a powerful teaching tool.",
+      "example": "If your child yells, instead of yelling back, take a deep breath and speak calmly. This shows them how to handle strong feelings.",
+      "parentTip": "Practice taking a pause before responding to misbehavior. Use calm words and actions to set an example for your child.",
+      "reflectionPrompt": "How do you usually react when your child is upset? What is one way you can model calm behavior during difficult moments?",
+      "quizQuestion": {
+        "question": "What is one of the best ways to teach children how to handle emotions?",
+        "options": [
+          "Modeling calm and respectful behavior",
           "Ignoring their feelings",
-          "Acknowledging and naming their feelings"
+          "Reacting with anger"
         ],
-        "correctAnswer": 2
-      }
-    },
-    {
-      "id": "lesson4_trust_and_connection",
-      "title": "Building Trust Through Discipline",
-      "goal": "Discover how discipline can strengthen your relationship with your child.",
-      "keyConcept": "When discipline is done with empathy and respect, it builds trust between you and your child. Your child learns that you are a safe person to turn to, even when they make mistakes. This trust encourages open communication and cooperation.",
-      "example": "After a child breaks a rule, the parent listens to their side of the story and works together to find a solution, rather than immediately handing out a consequence.",
-      "parentTip": "Focus on listening and understanding before reacting. Let your child know you\u2019re on their side, even when correcting behavior.",
-      "reflectionPrompt": "How might your child\u2019s trust in you change if you approach discipline with empathy?",
-      "quizQuestion": {
-        "question": "What effect can punishment have on your relationship with your child?",
-        "options": [
-          "It can damage trust",
-          "It always makes your child respect you more"
-        ],
-        "correctAnswer": 1
-      }
-    },
-    {
-      "id": "lesson5_growth_opportunities",
-      "title": "Turning Mistakes Into Growth Opportunities",
-      "goal": "Learn to view misbehavior as a chance to teach and connect with your child.",
-      "keyConcept": "Every mistake your child makes is a chance to help them learn and grow. Instead of seeing misbehavior as something to punish, see it as an opportunity to teach new skills and strengthen your relationship.",
-      "example": "When a child forgets their homework, instead of scolding, the parent helps the child come up with a plan to remember next time.",
-      "parentTip": "Ask your child, 'What can we learn from this?' when mistakes happen. Guide them to think about solutions rather than focusing on blame.",
-      "reflectionPrompt": "How can you reframe your child\u2019s mistakes as learning opportunities in your daily life?",
-      "quizQuestion": {
-        "question": "What is a positive way to respond to a child\u2019s mistake?",
-        "options": [
-          "Help them learn from it",
-          "Punish them so they don\u2019t do it again"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       }
     }
   ],
   "the_brain_and_behavior": [
     {
-      "id": "lesson1_brain_development_basics",
-      "title": "Understanding Your Child's Developing Brain",
-      "goal": "Learn how brain development affects your child's behavior.",
-      "keyConcept": "Children's brains are still growing, especially in areas responsible for self-control and emotional regulation. This means that kids often act impulsively or have big feelings because their brains aren't fully equipped to manage them yet. Recognizing this can help you respond with empathy instead of frustration.",
-      "example": "Your 4-year-old throws a tantrum when asked to stop playing and get ready for bed. Instead of seeing this as defiance, you remember their brain is still learning how to handle transitions and emotions.",
-      "parentTip": "When your child acts out, remind yourself: 'Their brain is still under construction.' Approach the situation with patience and understanding.",
-      "reflectionPrompt": "How does knowing about your child's brain development change the way you view their challenging behaviors?",
+      "id": "lesson1_brain_under_construction",
+      "title": "Your Child\u2019s Brain is Under Construction",
+      "goal": "Understand that children\u2019s brains are still developing, especially in areas related to self-control.",
+      "keyConcept": "Children are not born with fully developed brains. The parts responsible for managing emotions and controlling impulses, like the prefrontal cortex, mature gradually over time. This means that when your child acts out, it\u2019s often because their brain is still learning how to handle big feelings and make good choices.",
+      "example": "Your 4-year-old throws a tantrum in the grocery store after being told 'no' to candy. Rather than being manipulative, their brain simply isn\u2019t yet equipped to manage disappointment calmly.",
+      "parentTip": "Remind yourself: 'My child isn\u2019t giving me a hard time\u2014they\u2019re having a hard time.' Approach discipline with patience and empathy.",
+      "reflectionPrompt": "Think of a recent challenging moment with your child. How might understanding their brain development change your response?",
       "quizQuestion": {
-        "question": "Why do young children often struggle with self-control?",
+        "question": "Which part of a child\u2019s brain is still developing and affects their ability to manage emotions?",
         "options": [
-          "They are choosing to misbehave.",
-          "Their brains are still developing.",
-          "They want to upset their parents."
+          "Prefrontal cortex",
+          "Brain stem",
+          "Inner ear"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 0
       }
     },
     {
-      "id": "lesson2_behavior_as_communication",
-      "title": "Seeing Misbehavior as a Message",
-      "goal": "Recognize that misbehavior is often a signal that your child needs help.",
-      "keyConcept": "When children act out, it's usually because they are overwhelmed, tired, hungry, or struggling with big emotions. Instead of viewing misbehavior as simply 'bad,' see it as a form of communication. Your child may not have the words or skills to express what they need.",
-      "example": "Your 6-year-old yells and slams the door after a tough day at school. Rather than punishing immediately, you consider what might be behind the outburst.",
-      "parentTip": "Pause and ask yourself: 'What is my child trying to tell me with this behavior?' Respond with curiosity instead of anger.",
-      "reflectionPrompt": "Think of a recent time your child acted out. What might they have been trying to communicate?",
+      "id": "lesson2_match_discipline_to_development",
+      "title": "Match Discipline to Your Child\u2019s Development",
+      "goal": "Learn to adapt your discipline approach to your child\u2019s age and stage.",
+      "keyConcept": "Effective discipline takes into account your child\u2019s developmental abilities. What works for a toddler may not work for a school-aged child. Recognizing what your child is capable of helps you set realistic expectations and respond appropriately.",
+      "example": "A 2-year-old may not understand a long explanation about why hitting is wrong, but a calm redirection and simple words can help. An 8-year-old, on the other hand, can discuss feelings and consequences.",
+      "parentTip": "Before responding to misbehavior, ask yourself: 'Is my expectation reasonable for my child\u2019s age?' Adjust your response to fit their developmental level.",
+      "reflectionPrompt": "How might your discipline strategies change if you consider your child\u2019s developmental stage?",
       "quizQuestion": {
-        "question": "What is a helpful way to view your child's misbehavior?",
+        "question": "Why is it important to adapt discipline to a child\u2019s developmental stage?",
         "options": [
-          "As a sign they need more discipline.",
-          "As a message that they need help.",
-          "As a personal attack on you."
-        ],
-        "correctAnswer": 2
-      }
-    },
-    {
-      "id": "lesson3_connect_before_correct",
-      "title": "Connect Before You Correct",
-      "goal": "Learn to connect emotionally with your child before addressing misbehavior.",
-      "keyConcept": "Children are more receptive to guidance when they feel understood and connected. Before correcting behavior, take a moment to empathize and validate your child's feelings. This helps calm their emotional brain and opens the door to learning.",
-      "example": "Your child refuses to share a toy with a sibling. Instead of scolding, you kneel down and say, 'I see you're upset. It's hard to share sometimes.'",
-      "parentTip": "Try using phrases like, 'I can see you're feeling upset,' before discussing what needs to change.",
-      "reflectionPrompt": "How might connecting with your child first change the outcome of a difficult moment?",
-      "quizQuestion": {
-        "question": "What should you do before correcting your child's behavior?",
-        "options": [
-          "Connect with their feelings.",
-          "Ignore their emotions.",
-          "Punish immediately."
+          "Because all children are the same",
+          "Because children\u2019s abilities change as they grow",
+          "Because discipline should be strict at all ages"
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "lesson4_discipline_as_teaching",
-      "title": "Discipline Means Teaching, Not Punishing",
-      "goal": "Shift your mindset from punishment to teaching when disciplining your child.",
-      "keyConcept": "The word 'discipline' comes from the word 'disciple,' which means 'to teach.' Effective discipline helps children learn better ways to handle their feelings and actions, rather than simply punishing them for mistakes.",
-      "example": "After your child hits a sibling, instead of sending them to their room, you talk about other ways to express anger, like using words or asking for help.",
-      "parentTip": "Ask yourself: 'What does my child need to learn from this situation?' Focus on teaching skills, not just giving consequences.",
-      "reflectionPrompt": "How can you turn a recent discipline moment into a teaching opportunity?",
+      "id": "lesson3_emotion_before_logic",
+      "title": "Emotion Before Logic",
+      "goal": "Recognize that children need emotional support before they can learn from discipline.",
+      "keyConcept": "When children are upset, their 'emotional brain' takes over and their 'thinking brain' goes offline. Trying to reason or teach in the heat of the moment is often ineffective. First, help your child feel safe and understood, then address the behavior.",
+      "example": "Your child is crying after a sibling grabs their toy. Instead of immediately lecturing about sharing, you first comfort them and acknowledge their feelings.",
+      "parentTip": "Connect before you correct. Offer a hug or soothing words before discussing what happened.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What might change if you focus on connection first?",
       "quizQuestion": {
-        "question": "What is the main goal of discipline according to 'No Drama Discipline'?",
+        "question": "What should you do first when your child is very upset?",
         "options": [
-          "To punish misbehavior.",
-          "To teach better ways to handle feelings and actions.",
-          "To make children afraid of consequences."
+          "Give a long explanation",
+          "Help them feel safe and understood",
+          "Ignore their feelings"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 1
       }
     },
     {
-      "id": "lesson5_building_resilience",
-      "title": "Using Discipline to Build Resilience",
-      "goal": "Discover how discipline can help your child grow stronger and more adaptable.",
-      "keyConcept": "Every challenging moment is a chance to help your child develop coping skills and resilience. When you guide them through big feelings and mistakes with support, you help their brain grow stronger connections for handling future challenges.",
-      "example": "Your child is disappointed after losing a game. You acknowledge their feelings and help them brainstorm ways to try again, teaching them how to bounce back from setbacks.",
-      "parentTip": "Use difficult moments to model problem-solving and emotional regulation. Say, 'It's okay to feel upset. Let's figure out what we can do next time.'",
-      "reflectionPrompt": "How can you use your next discipline moment to help your child become more resilient?",
+      "id": "lesson4_brain_wise_responses",
+      "title": "Responding Brain-Wise",
+      "goal": "Learn how understanding brain science can help you respond more effectively to challenging behavior.",
+      "keyConcept": "Knowing how the brain works allows you to respond with empathy and strategies that actually help your child learn. Instead of reacting with anger or punishment, you can guide your child through big feelings and teach better ways to cope.",
+      "example": "When your child yells in frustration, you take a deep breath, acknowledge their feelings, and calmly help them find words to express themselves.",
+      "parentTip": "Pause before reacting. Use what you know about your child\u2019s brain to choose a response that teaches, not just punishes.",
+      "reflectionPrompt": "How might your reactions change if you see discipline as an opportunity to teach, rather than punish?",
       "quizQuestion": {
-        "question": "What is one benefit of using discipline as a teaching tool?",
+        "question": "How can understanding your child\u2019s brain help with discipline?",
         "options": [
-          "It helps children develop resilience.",
-          "It makes children afraid of making mistakes.",
-          "It stops all misbehavior instantly."
+          "It helps you punish more effectively",
+          "It helps you respond with empathy and teach skills",
+          "It makes discipline unnecessary"
         ],
         "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_small_steps_big_gains",
+      "title": "Small Steps, Big Gains",
+      "goal": "Appreciate that progress in self-control and behavior comes gradually as the brain develops.",
+      "keyConcept": "Children\u2019s ability to manage emotions and behavior improves with time and practice. Each discipline moment is a chance to build new brain connections. Celebrate small improvements and be patient with setbacks\u2014they\u2019re part of healthy development.",
+      "example": "Your child used to hit when angry, but now sometimes uses words instead. You notice and praise this progress, even if it\u2019s not perfect yet.",
+      "parentTip": "Look for and acknowledge small steps your child takes toward better self-control. Say things like, 'I noticed you took a deep breath instead of yelling. That\u2019s great!'",
+      "reflectionPrompt": "What small progress has your child made recently? How can you encourage more of it?",
+      "quizQuestion": {
+        "question": "Why is it important to notice small improvements in your child\u2019s behavior?",
+        "options": [
+          "Because it motivates them to keep trying",
+          "Because only big changes matter",
+          "Because it makes discipline easier for parents"
+        ],
+        "correctAnswer": 0
       }
     }
   ],
@@ -182,273 +186,365 @@
     {
       "id": "lesson1_emotional_connection",
       "title": "Start with Emotional Connection",
-      "goal": "Understand why connecting emotionally is the first step in effective discipline.",
-      "keyConcept": "Children often act out when they are overwhelmed by big feelings. Before addressing behavior, it's important to connect with your child emotionally. This helps them feel seen, safe, and understood, which calms their nervous system and prepares them to listen and learn.",
-      "example": "Your child throws a toy in frustration. Instead of immediately scolding, you kneel down, make eye contact, and say, 'I see you're really upset right now.'",
-      "parentTip": "Pause before reacting. Get on your child's level, use a gentle tone, and acknowledge their feelings with words like, 'I can see you're feeling...'.",
-      "reflectionPrompt": "How do you usually respond when your child is upset? What might change if you focused on connecting first?",
+      "goal": "Understand the importance of connecting with your child's emotions before addressing behavior.",
+      "keyConcept": "Children often act out when they feel overwhelmed by big emotions. Before trying to correct or redirect behavior, it's crucial to connect emotionally. This helps your child feel seen, heard, and understood, which calms their nervous system and prepares them to listen.",
+      "example": "Your child throws a toy in frustration. Instead of immediately saying, 'Don't throw toys!', you kneel down and say, 'I see you're really upset right now.'",
+      "parentTip": "Pause and acknowledge your child's feelings with a simple statement like, 'You seem really sad,' or 'That was really frustrating.'",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What might change if you connect with their feelings first?",
       "quizQuestion": {
         "question": "What is the first step in the 'Connect and Redirect' approach?",
         "options": [
-          "Set a consequence",
-          "Connect emotionally",
+          "Correct the behavior immediately",
+          "Connect with your child's emotions",
           "Ignore the behavior"
         ],
-        "correctAnswer": 1
+        "answer": 1
       }
     },
     {
       "id": "lesson2_validating_feelings",
       "title": "Validate Your Child\u2019s Feelings",
-      "goal": "Learn how to validate your child's emotions to help them feel understood.",
-      "keyConcept": "Validation means letting your child know their feelings are real and acceptable, even if their behavior isn't. When children feel understood, they are more likely to calm down and cooperate. Validation does not mean agreeing with misbehavior, but acknowledging the emotion behind it.",
-      "example": "Your child yells, 'It's not fair!' Instead of dismissing, you respond, 'It sounds like you're feeling disappointed because you wanted more playtime.'",
-      "parentTip": "Use phrases like, 'That sounds really hard,' or 'I understand you're upset.' Avoid minimizing or dismissing their feelings.",
+      "goal": "Learn how to validate your child's emotions to build trust and calm.",
+      "keyConcept": "Validation means letting your child know their feelings are real and acceptable, even if their behavior isn't. When children feel validated, they are less likely to escalate and more likely to cooperate.",
+      "example": "Your child cries because playtime is over. You say, 'I know it's hard to stop playing when you're having fun. It's okay to feel sad about it.'",
+      "parentTip": "Use phrases like, 'It's okay to feel angry,' or 'I understand why you're upset.' Avoid dismissing or minimizing their feelings.",
       "reflectionPrompt": "Think of a recent time your child was upset. How could you have validated their feelings in that moment?",
       "quizQuestion": {
-        "question": "What does validating your child's feelings mean?",
+        "question": "Why is validating your child's feelings important?",
         "options": [
-          "Agreeing with their behavior",
-          "Acknowledging their emotions",
-          "Ignoring their outburst"
+          "It spoils the child",
+          "It helps the child feel understood and calms them",
+          "It encourages bad behavior"
         ],
-        "correctAnswer": 1
+        "answer": 1
       }
     },
     {
-      "id": "lesson3_redirect_with_limits",
-      "title": "Redirect with Clear Limits",
-      "goal": "Learn how to guide your child's behavior after connecting emotionally.",
-      "keyConcept": "Once your child feels connected and calm, it's time to redirect their behavior. This means setting clear, consistent limits and explaining what is expected. Redirection helps children learn appropriate ways to express themselves and solve problems.",
-      "example": "After connecting, you say, 'It's okay to feel mad, but it's not okay to throw toys. Let's find another way to show how you feel.'",
-      "parentTip": "State the limit clearly and calmly. Offer an alternative behavior if possible, such as, 'You can stomp your feet or use your words instead.'",
-      "reflectionPrompt": "How comfortable are you with setting limits after connecting? What language could you use to redirect your child?",
+      "id": "lesson3_staying_calm",
+      "title": "Stay Calm to Help Your Child Calm Down",
+      "goal": "Recognize the importance of your own calm presence during emotional moments.",
+      "keyConcept": "Children look to their parents for cues on how to react. If you stay calm, you model emotional regulation and help your child feel safe. Your calmness is contagious and can de-escalate tense situations.",
+      "example": "Your child is yelling and crying. Instead of raising your voice, you take a deep breath and speak softly, 'I'm here with you. Let's take some deep breaths together.'",
+      "parentTip": "Before responding, take a moment to check your own emotions. If needed, pause and breathe before engaging with your child.",
+      "reflectionPrompt": "How does your mood affect your child's behavior during difficult moments?",
       "quizQuestion": {
-        "question": "What should you do after connecting emotionally with your child?",
+        "question": "What should you do if you feel yourself getting upset during your child's meltdown?",
         "options": [
-          "Redirect their behavior with clear guidance",
-          "Ignore the situation",
-          "Punish immediately"
+          "Yell to get their attention",
+          "Pause and take a deep breath",
+          "Walk away and ignore your child"
         ],
-        "correctAnswer": 0
+        "answer": 1
       }
     },
     {
-      "id": "lesson4_staying_calm",
-      "title": "Stay Calm to Model Self-Regulation",
-      "goal": "Recognize the importance of staying calm during discipline moments.",
-      "keyConcept": "Children learn how to handle emotions by watching their parents. If you stay calm, even when your child is upset, you model self-regulation and teach them how to manage their own feelings. Your calm presence helps de-escalate tense situations.",
-      "example": "Your child screams and refuses to listen. You take a deep breath, speak softly, and keep your body relaxed, showing them how to handle strong emotions.",
-      "parentTip": "Before responding, take a slow breath or count to five. Remind yourself that your calmness is helping your child learn.",
-      "reflectionPrompt": "What strategies help you stay calm when your child is upset? How can you remind yourself to use them in the moment?",
+      "id": "lesson4_redirect_with_guidance",
+      "title": "Redirect with Gentle Guidance",
+      "goal": "Learn how to guide your child toward appropriate behavior after connecting emotionally.",
+      "keyConcept": "Once your child feels connected and calm, you can gently guide them toward better choices. Redirection is about teaching, not punishing. It helps your child understand what to do instead of just what not to do.",
+      "example": "After connecting with your upset child, you say, 'It's okay to feel mad, but it's not okay to throw toys. Let's find another way to show you're upset.'",
+      "parentTip": "Use clear, simple language to explain what behavior is expected. Offer alternatives, like 'You can stomp your feet or use your words when you're angry.'",
+      "reflectionPrompt": "What are some positive alternatives you can offer your child when they act out?",
       "quizQuestion": {
-        "question": "Why is it important for parents to stay calm during discipline?",
+        "question": "What is the goal of redirecting your child's behavior?",
         "options": [
-          "It shows children how to manage emotions",
-          "It makes children feel guilty",
-          "It speeds up punishment"
+          "To punish them",
+          "To teach them better choices",
+          "To ignore the problem"
         ],
-        "correctAnswer": 0
+        "answer": 1
       }
     },
     {
-      "id": "lesson5_reflect_and_repair",
-      "title": "Reflect and Repair After Conflict",
-      "goal": "Learn how to reconnect and repair your relationship after a discipline moment.",
-      "keyConcept": "No parent is perfect, and conflicts are normal. After a tough moment, it's important to reconnect with your child and, if needed, apologize for any overreactions. This teaches children that relationships can recover and that everyone makes mistakes.",
-      "example": "After raising your voice, you later say, 'I'm sorry I yelled. I was frustrated, but I love you and we can try again.'",
-      "parentTip": "If things get heated, take time to reconnect. A simple hug or apology can go a long way in repairing trust.",
-      "reflectionPrompt": "How do you usually repair your relationship with your child after a conflict? What could you try next time?",
+      "id": "lesson5_building_trust",
+      "title": "Build Trust Through Consistent Connection",
+      "goal": "Understand how consistent emotional connection fosters trust and openness.",
+      "keyConcept": "When you regularly connect with your child during tough moments, you build a foundation of trust. This trust makes your child more likely to listen, learn, and come to you with problems in the future.",
+      "example": "After several times of connecting before correcting, your child starts coming to you when they're upset, knowing you'll listen and help.",
+      "parentTip": "Make connection a habit, not just a tool for discipline. Look for everyday moments to connect, like sharing a hug or listening to your child's stories.",
+      "reflectionPrompt": "How might your relationship with your child change if you consistently connect before correcting?",
       "quizQuestion": {
-        "question": "What is a healthy way to repair after a conflict with your child?",
+        "question": "What is a long-term benefit of consistently connecting with your child?",
         "options": [
-          "Ignore what happened",
-          "Apologize and reconnect",
-          "Punish your child more"
+          "They become more secretive",
+          "They trust you and are more open",
+          "They misbehave more often"
         ],
-        "correctAnswer": 1
+        "answer": 1
       }
     }
   ],
-  "discipline_in_action": [
+  "no_drama_discipline_tools": [
     {
-      "id": "lesson_stay_calm_consistent",
-      "title": "Staying Calm and Consistent",
-      "goal": "Learn how to maintain composure and consistency when responding to your child's misbehavior.",
-      "keyConcept": "Children look to their caregivers for cues on how to handle strong emotions. By staying calm and responding consistently, you model emotional regulation and create a sense of safety. Consistency helps your child understand boundaries and what to expect, reducing confusion and anxiety.",
-      "example": "Your child throws a toy in frustration. Instead of yelling, you take a deep breath, kneel down, and calmly say, 'We don't throw toys. Let's find another way to show how you feel.'",
-      "parentTip": "Before responding to misbehavior, pause and take a slow breath. Remind yourself of your goal: to teach, not to punish.",
-      "reflectionPrompt": "How do you usually feel and react when your child misbehaves? What helps you stay calm in those moments?",
+      "id": "lesson1_stay_calm",
+      "title": "Staying Calm in the Moment",
+      "goal": "Learn how to regulate your own emotions before responding to your child.",
+      "keyConcept": "Children learn how to handle emotions by watching their parents. When you stay calm during challenging moments, you model emotional regulation and create a safe space for your child to express themselves. This helps prevent escalation and sets the tone for positive discipline.",
+      "example": "Your child throws a tantrum because they can't have a snack before dinner. Instead of raising your voice, you take a deep breath and speak softly, showing them how to manage frustration.",
+      "parentTip": "Before responding to your child\u2019s behavior, pause and take three deep breaths. Remind yourself, 'My calm helps my child calm down.'",
+      "reflectionPrompt": "Think of a recent time you lost your temper. How might the situation have changed if you had paused to calm yourself first?",
       "quizQuestion": {
-        "question": "What is the main benefit of staying calm and consistent during discipline?",
+        "question": "What is the first step to take when your child is upset?",
         "options": [
-          "It teaches your child emotional regulation.",
-          "It makes discipline faster.",
-          "It avoids all misbehavior."
+          "Raise your voice to get their attention",
+          "Pause and calm yourself before responding",
+          "Ignore the behavior completely"
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "lesson_teaching_consequences",
-      "title": "Using Consequences That Teach",
-      "goal": "Understand how to use consequences that help your child learn, rather than simply punish.",
-      "keyConcept": "Consequences are most effective when they are related to the misbehavior and help your child understand the impact of their actions. Teaching consequences guide children toward better choices, while punishment often leads to resentment or shame.",
-      "example": "If your child draws on the wall, instead of sending them to their room, involve them in cleaning up the mess and talk about where drawing is allowed.",
-      "parentTip": "When setting a consequence, ask yourself: 'Will this help my child learn what to do differently next time?'",
-      "reflectionPrompt": "Think of a recent misbehavior. Was the consequence you used more about teaching or punishing? How could you shift it toward teaching?",
+      "id": "lesson2_empathy_listening",
+      "title": "Using Empathy and Reflective Listening",
+      "goal": "Understand how to connect with your child through empathy and listening.",
+      "keyConcept": "Empathy helps your child feel understood and valued, even when they are misbehaving. Reflective listening means repeating back what your child says or feels, showing you are truly listening. This connection can defuse tension and open the door to cooperation.",
+      "example": "Your child shouts, 'It's not fair!' when asked to clean up. You respond, 'It sounds like you're upset because you wanted more playtime. I get that.'",
+      "parentTip": "When your child is upset, try saying, 'I see you're feeling ____. That makes sense.' Fill in the blank with the emotion you observe.",
+      "reflectionPrompt": "How does your child react when you acknowledge their feelings, even if you can't change the situation?",
       "quizQuestion": {
-        "question": "Which consequence is most likely to teach a child?",
+        "question": "What is reflective listening?",
         "options": [
-          "Taking away all toys for a week.",
-          "Helping clean up the mess they made.",
-          "Ignoring the behavior."
+          "Telling your child what to do",
+          "Repeating back what your child says or feels",
+          "Ignoring your child's words"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_clear_communication",
+      "title": "Communicating Clearly and Kindly",
+      "goal": "Practice giving clear, respectful instructions to your child.",
+      "keyConcept": "Children respond better to discipline when instructions are clear, specific, and delivered with kindness. Avoid vague or negative language; instead, state what you want your child to do in a positive, straightforward way.",
+      "example": "Instead of saying, 'Don't make a mess,' you say, 'Please put your toys back in the basket when you're done playing.'",
+      "parentTip": "Use positive language and be specific: 'Please walk inside the house,' instead of 'Don't run.'",
+      "reflectionPrompt": "What is one instruction you often give your child? How can you rephrase it to be more clear and positive?",
+      "quizQuestion": {
+        "question": "Which is a clear and positive instruction?",
+        "options": [
+          "Stop yelling!",
+          "Be quiet!",
+          "Please use your indoor voice."
         ],
         "correctAnswer": 2
       }
     },
     {
-      "id": "lesson_clear_expectations",
-      "title": "Setting Clear Expectations with Empathy",
-      "goal": "Learn to set clear, understandable expectations while showing empathy for your child's feelings.",
-      "keyConcept": "Children thrive when they know what is expected of them. Clear rules, explained with empathy, help children feel respected and understood, making them more likely to cooperate. Empathy shows you care about their feelings, even when you enforce boundaries.",
-      "example": "Before going into a store, you say, 'We are here to buy groceries. I know it's tempting to run, but we need to walk and stay close to me.'",
-      "parentTip": "State your expectations before a situation arises, and acknowledge your child's feelings about them.",
-      "reflectionPrompt": "How do you usually communicate rules to your child? How might adding empathy change their response?",
+      "id": "lesson4_consistent_boundaries",
+      "title": "Setting Consistent and Compassionate Boundaries",
+      "goal": "Learn how to set and maintain boundaries that are both firm and caring.",
+      "keyConcept": "Children feel secure when they know what to expect. Consistent boundaries, enforced with compassion, teach children about limits while preserving your connection. Being firm does not mean being harsh; it means following through with what you say, every time.",
+      "example": "Your child begs for more screen time after the agreed limit. You gently but firmly say, 'I know you want to keep watching, but screen time is over for today. We can watch again tomorrow.'",
+      "parentTip": "Decide on a boundary ahead of time and stick to it, even if your child protests. Use a calm, empathetic tone.",
+      "reflectionPrompt": "What is one boundary you find hard to enforce? How can you approach it with more consistency and compassion?",
       "quizQuestion": {
-        "question": "Why is it important to set expectations with empathy?",
+        "question": "Why are consistent boundaries important?",
         "options": [
-          "It makes children feel understood and more willing to cooperate.",
-          "It makes rules stricter.",
-          "It avoids all misbehavior."
+          "They help children feel safe and know what to expect",
+          "They make children afraid of their parents",
+          "They allow children to do whatever they want"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       }
     },
     {
-      "id": "lesson_problem_solving",
-      "title": "Encouraging Problem-Solving After Conflict",
-      "goal": "Help your child reflect on conflicts and find solutions together.",
-      "keyConcept": "After a conflict, guiding your child to reflect and problem-solve builds their ability to handle challenges in the future. This approach turns discipline into a learning opportunity and strengthens your relationship.",
-      "example": "After a sibling argument, you sit with your child and ask, 'What happened? How do you think your brother felt? What could you do differently next time?'",
-      "parentTip": "After things have calmed down, invite your child to talk about what happened and brainstorm solutions together.",
-      "reflectionPrompt": "How do you usually handle conflicts after they happen? What might change if you invited your child to help solve the problem?",
+      "id": "lesson5_repair_and_reconnect",
+      "title": "Repairing and Reconnecting After Conflict",
+      "goal": "Discover how to rebuild connection after a difficult discipline moment.",
+      "keyConcept": "No parent is perfect, and conflicts will happen. What matters most is how you repair the relationship afterward. Apologizing, hugging, or simply spending time together shows your child that your love is unconditional and that mistakes can be mended.",
+      "example": "After raising your voice during a stressful morning, you later say, 'I'm sorry I yelled earlier. I was frustrated, but I love you and we can try again.'",
+      "parentTip": "If you lose your cool, take responsibility and apologize. This models accountability and teaches your child that everyone can make amends.",
+      "reflectionPrompt": "How do you usually reconnect with your child after a tough moment? What could you try differently next time?",
       "quizQuestion": {
-        "question": "What is a benefit of involving your child in problem-solving after a conflict?",
+        "question": "What is an important step after a discipline conflict?",
         "options": [
-          "It helps them learn to handle challenges.",
-          "It avoids all future conflicts.",
-          "It makes discipline unnecessary."
-        ],
-        "correctAnswer": 1
-      }
-    },
-    {
-      "id": "lesson_follow_through",
-      "title": "Following Through with Empathy",
-      "goal": "Practice following through on limits and consequences while maintaining a supportive connection.",
-      "keyConcept": "Following through shows your child that you mean what you say, which builds trust and security. Doing so with empathy\u2014acknowledging their feelings\u2014helps your child feel supported, even when they are disappointed or upset.",
-      "example": "You remind your child that screen time ends in five minutes. When time is up and they protest, you gently say, 'I know you want to keep playing. It's hard to stop, but it's time to turn it off now.'",
-      "parentTip": "Stay firm but kind when enforcing limits. Let your child know you understand their feelings, even as you hold the boundary.",
-      "reflectionPrompt": "How do you feel when your child is upset by a limit you set? How can you show empathy while still following through?",
-      "quizQuestion": {
-        "question": "What does following through with empathy help build?",
-        "options": [
-          "Trust and security",
-          "Stricter rules",
-          "Immediate obedience"
+          "Ignore your child until they behave",
+          "Repair and reconnect with your child",
+          "Punish your child further"
         ],
         "correctAnswer": 1
       }
     }
   ],
-  "repair_and_grow": [
+  "teaching_moments": [
     {
-      "id": "repair_grow_lesson1",
-      "title": "The Power of Repair After Conflict",
-      "goal": "Understand why repairing after discipline matters for your relationship with your child.",
-      "keyConcept": "After a conflict or discipline moment, taking time to reconnect with your child helps rebuild trust and emotional safety. Repairing shows your child that relationships can withstand mistakes and that love is unconditional. This process teaches children that it's okay to make mistakes and that they can always come back to you.",
-      "example": "After raising your voice during a stressful morning, you later sit with your child and say, 'I'm sorry I yelled. I was feeling overwhelmed, but it's not your fault. I love you.'",
-      "parentTip": "After a tough moment, initiate repair by acknowledging your own feelings and actions, and reassure your child of your love.",
-      "reflectionPrompt": "How do you usually respond after a conflict with your child? What might change if you focused on repair?",
+      "id": "lesson1_reframe_mistakes",
+      "title": "Reframing Mistakes as Learning Opportunities",
+      "goal": "Help parents see discipline moments as chances to teach, not just punish.",
+      "keyConcept": "When children misbehave or make mistakes, it's natural to feel frustrated. However, these moments are valuable opportunities to help your child learn important life skills. By shifting your mindset from enforcing rules to teaching, you can guide your child toward better choices and emotional growth.",
+      "example": "Your child spills juice after being told not to run in the kitchen. Instead of scolding, you calmly point out what happened and discuss how to prevent it next time.",
+      "parentTip": "When your child makes a mistake, pause and ask yourself: 'What can my child learn from this situation?' Focus on teaching rather than punishing.",
+      "reflectionPrompt": "Think of a recent time your child made a mistake. How could you have turned it into a teaching moment?",
       "quizQuestion": {
-        "question": "Why is repairing after a conflict important?",
+        "question": "What is the main benefit of viewing mistakes as learning opportunities?",
         "options": [
-          "It helps rebuild trust and security.",
-          "It makes children forget the conflict.",
-          "It avoids future discipline."
+          "It helps children avoid consequences.",
+          "It allows children to develop important skills.",
+          "It makes discipline easier for parents."
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "repair_grow_lesson2",
-      "title": "Reflecting Together: Learning from Mistakes",
-      "goal": "Learn how to guide your child in reflecting on what happened after a discipline moment.",
-      "keyConcept": "Reflection helps children process their emotions and understand the impact of their actions. By talking together about what happened, you help your child develop self-awareness and problem-solving skills. This turns discipline into a learning opportunity rather than just a punishment.",
-      "example": "After your child hits a sibling, you later ask, 'What were you feeling when that happened? What could you do differently next time?'",
-      "parentTip": "Use open-ended questions to invite your child to share their thoughts and feelings about the incident.",
-      "reflectionPrompt": "How comfortable are you with discussing mistakes with your child? What might help you start these conversations?",
+      "id": "lesson2_reflect_and_connect",
+      "title": "Guiding Reflection and Connection",
+      "goal": "Teach parents how to help children reflect on their actions and feelings.",
+      "keyConcept": "Children often act out because they don't fully understand their emotions or the impact of their actions. By guiding your child to reflect on what happened and how they felt, you help them build self-awareness and empathy. This process strengthens your connection and supports emotional development.",
+      "example": "After your child grabs a toy from a sibling, you sit together and ask, 'How do you think your brother felt when that happened?'",
+      "parentTip": "Use open-ended questions like, 'What were you feeling?' or 'What could you do differently next time?' to encourage reflection.",
+      "reflectionPrompt": "How comfortable are you with asking your child to talk about their feelings after a conflict? What might make it easier?",
       "quizQuestion": {
-        "question": "What is the main benefit of reflecting together after discipline?",
+        "question": "Why is it important to help children reflect on their actions?",
         "options": [
-          "It helps children learn from their mistakes.",
-          "It makes discipline faster.",
-          "It prevents all future misbehavior."
+          "It helps them understand and manage their emotions.",
+          "It makes them feel guilty.",
+          "It speeds up discipline."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_make_amends",
+      "title": "Encouraging Making Amends",
+      "goal": "Show parents how to guide children in repairing harm after mistakes.",
+      "keyConcept": "Teaching children to make amends helps them take responsibility for their actions and repair relationships. Instead of focusing on punishment, encourage your child to think about how they can fix what went wrong, whether it's offering an apology, helping clean up, or doing something kind.",
+      "example": "After your child breaks a friend's toy, you help them write a note of apology and offer to help fix or replace the toy.",
+      "parentTip": "Ask your child, 'What can you do to make things right?' and support them in following through.",
+      "reflectionPrompt": "Recall a time when your child hurt someone\u2019s feelings. How could you have supported them in making amends?",
+      "quizQuestion": {
+        "question": "What is the purpose of encouraging children to make amends?",
+        "options": [
+          "To embarrass them in front of others.",
+          "To help them learn responsibility and empathy.",
+          "To avoid talking about the problem."
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "repair_grow_lesson3",
-      "title": "Connection Before Correction",
-      "goal": "Discover why connecting emotionally with your child is essential before addressing behavior.",
-      "keyConcept": "Children are more receptive to guidance when they feel connected and understood. Taking a moment to empathize with your child's feelings before discussing what went wrong helps them feel safe and valued. This emotional connection lays the groundwork for effective discipline and long-term growth.",
-      "example": "Your child is upset after being told to stop playing. You kneel down, make eye contact, and say, 'I see you're disappointed. It's hard to stop when you're having fun.'",
-      "parentTip": "Pause to acknowledge your child's feelings before moving on to correction or consequences.",
-      "reflectionPrompt": "How might connecting first change the way your child responds to discipline?",
+      "id": "lesson4_positive_reinforcement",
+      "title": "Using Positive Reinforcement",
+      "goal": "Help parents reinforce good behavior and learning with encouragement.",
+      "keyConcept": "Children are more likely to repeat positive behaviors when they feel noticed and appreciated. By offering specific praise and encouragement, you reinforce the lessons learned during discipline moments and motivate your child to make better choices in the future.",
+      "example": "After your child apologizes to a friend, you say, 'I\u2019m proud of you for making things right. That took courage.'",
+      "parentTip": "Catch your child doing the right thing and name the positive behavior: 'I noticed you shared your toy. That was kind.'",
+      "reflectionPrompt": "How often do you acknowledge your child\u2019s efforts to improve? What are some ways you can do this more often?",
       "quizQuestion": {
-        "question": "Why is it helpful to connect before correcting?",
+        "question": "What is the best way to reinforce positive behavior?",
         "options": [
-          "It helps children feel safe and understood.",
-          "It makes discipline unnecessary.",
-          "It speeds up the process."
+          "Ignore it so they don\u2019t expect rewards.",
+          "Give specific praise and encouragement.",
+          "Punish mistakes more harshly."
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "repair_grow_lesson4",
-      "title": "Modeling Apologies and Accountability",
-      "goal": "Learn how modeling apologies teaches responsibility and emotional intelligence.",
-      "keyConcept": "When parents apologize for their own mistakes, they show children that everyone is accountable for their actions. This models humility, responsibility, and the importance of making amends. Children learn that it's okay to be imperfect and that relationships can be repaired.",
-      "example": "After snapping at your child, you say, 'I'm sorry I spoke harshly. I shouldn't have done that. Next time, I'll try to stay calm.'",
-      "parentTip": "Don't hesitate to apologize to your child when you make a mistake. It strengthens your relationship and sets a powerful example.",
-      "reflectionPrompt": "When was the last time you apologized to your child? How did it affect your relationship?",
+      "id": "lesson5_modeling_and_consistency",
+      "title": "Modeling and Consistency in Teaching Moments",
+      "goal": "Encourage parents to model desired behaviors and be consistent in their approach.",
+      "keyConcept": "Children learn by watching the adults around them. When you consistently model calm, respectful responses\u2014even during discipline\u2014you show your child how to handle challenges. Consistency in your reactions and expectations helps your child feel secure and understand what is expected.",
+      "example": "When your child yells, you respond in a calm voice and explain, 'We use gentle voices in this house,' modeling the behavior you want to see.",
+      "parentTip": "Be mindful of your own reactions. Consistently demonstrate the behaviors and values you want your child to learn.",
+      "reflectionPrompt": "What is one behavior you want your child to learn from you? How can you model it more consistently?",
       "quizQuestion": {
-        "question": "What does apologizing to your child teach them?",
+        "question": "Why is consistency important in discipline?",
         "options": [
-          "That mistakes are normal and can be repaired.",
-          "That parents are always right.",
-          "That apologies are only for children."
+          "It helps children know what to expect and learn from your example.",
+          "It makes discipline unpredictable.",
+          "It allows parents to change rules often."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "repair_and_growth": [
+    {
+      "id": "microlesson_1_apologize_reconnect",
+      "title": "The Power of Apology and Reconnection",
+      "goal": "Help parents understand why apologizing and reconnecting after conflict matters.",
+      "keyConcept": "After a discipline episode, it's important for parents to take the first step in repairing the relationship. Apologizing when you've lost your temper or acted harshly shows your child that everyone makes mistakes and that relationships can be mended. This models humility and emotional intelligence, helping your child feel safe and valued.",
+      "example": "After yelling at your child for not listening, you take a deep breath, approach them, and say, 'I'm sorry I raised my voice. I was frustrated, but I shouldn't have yelled.'",
+      "parentTip": "If you lose your cool, try saying: 'I'm sorry for how I spoke. Let's try again.' This simple act can open the door to reconnection.",
+      "reflectionPrompt": "How do you feel when someone sincerely apologizes to you? How might your child feel if you do the same?",
+      "quizQuestion": {
+        "question": "What is a key benefit of apologizing to your child after a conflict?",
+        "options": [
+          "It shows them that mistakes can be repaired.",
+          "It makes them forget the conflict.",
+          "It means you lose authority."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "microlesson_2_discuss_event",
+      "title": "Talking About What Happened",
+      "goal": "Guide parents to calmly discuss the conflict with their child.",
+      "keyConcept": "After emotions have settled, discussing the conflict helps your child process what happened and learn from it. This conversation should be calm and non-judgmental, focusing on understanding each other's perspectives rather than assigning blame.",
+      "example": "Later that evening, you sit with your child and say, 'Let's talk about what happened earlier. How were you feeling when I got upset?'",
+      "parentTip": "Use open-ended questions like, 'Can you tell me how you felt?' or 'What do you think we could do differently next time?'",
+      "reflectionPrompt": "How comfortable are you with discussing difficult moments with your child? What might help you feel more at ease?",
+      "quizQuestion": {
+        "question": "What is the main purpose of discussing the conflict after it happens?",
+        "options": [
+          "To assign blame",
+          "To understand each other's feelings and perspectives",
+          "To punish the child again"
         ],
         "correctAnswer": 1
       }
     },
     {
-      "id": "repair_grow_lesson5",
-      "title": "Turning Discipline into Growth",
-      "goal": "See discipline as an opportunity for long-term growth and connection.",
-      "keyConcept": "Discipline isn't just about stopping unwanted behavior\u2014it's a chance to teach skills, build resilience, and strengthen your bond. When you approach discipline with empathy and a focus on learning, you help your child develop emotional intelligence and self-control.",
-      "example": "Instead of sending your child to their room after a tantrum, you sit together and talk about what happened, helping them name their feelings and brainstorm better choices for next time.",
-      "parentTip": "After discipline, spend a few minutes connecting and discussing what your child can learn from the experience.",
-      "reflectionPrompt": "How can you use discipline moments to help your child grow, rather than just to correct behavior?",
+      "id": "microlesson_3_collaborate_solutions",
+      "title": "Collaborating on Future Solutions",
+      "goal": "Teach parents how to work with their child to prevent similar conflicts.",
+      "keyConcept": "Involving your child in problem-solving empowers them and builds trust. By brainstorming solutions together, you help your child feel heard and responsible, making it more likely that positive changes will stick.",
+      "example": "You and your child agree to use a special hand signal when either of you feels frustrated, so you both know it's time to take a break.",
+      "parentTip": "Ask your child, 'What could we both do next time to handle this better?' and listen to their ideas before offering your own.",
+      "reflectionPrompt": "How might involving your child in finding solutions change the way you handle discipline in your home?",
       "quizQuestion": {
-        "question": "What is a key goal of discipline according to 'No Drama Discipline'?",
+        "question": "Why is it helpful to involve your child in finding solutions after a conflict?",
         "options": [
-          "To teach and foster long-term growth.",
-          "To punish quickly.",
-          "To avoid all conflicts."
+          "It makes them feel responsible and valued.",
+          "It lets you avoid discipline.",
+          "It makes conflicts more frequent."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "microlesson_4_strengthen_relationship",
+      "title": "Strengthening the Parent-Child Bond",
+      "goal": "Show parents how repair after conflict can deepen their relationship.",
+      "keyConcept": "Repairing after conflict isn't just about fixing what's broken\u2014it's an opportunity to build a stronger, more trusting relationship. When children see that conflicts can be resolved with care and respect, they feel safer and more connected to you.",
+      "example": "After making up, you spend a few minutes cuddling or playing together, reinforcing your bond.",
+      "parentTip": "After a repair conversation, do something positive together, like reading a story or sharing a hug, to reinforce your connection.",
+      "reflectionPrompt": "What small actions help you and your child feel close again after a tough moment?",
+      "quizQuestion": {
+        "question": "What is a positive outcome of repairing after conflict?",
+        "options": [
+          "It weakens your authority.",
+          "It strengthens your relationship.",
+          "It makes your child forget the rules."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_5_modeling_conflict_resolution",
+      "title": "Modeling Healthy Conflict Resolution",
+      "goal": "Help parents understand the importance of modeling conflict repair for their child\u2019s learning.",
+      "keyConcept": "Children learn how to handle conflict by watching their parents. When you apologize, discuss, and repair after a disagreement, you teach your child valuable skills for managing their own relationships in the future.",
+      "example": "Your child sees you apologize to another adult in the family after a disagreement, showing that repair is a normal part of all relationships.",
+      "parentTip": "Narrate your repair process out loud when appropriate, saying things like, 'I made a mistake, and I want to make it right.'",
+      "reflectionPrompt": "How might your approach to conflict influence the way your child handles disagreements with others?",
+      "quizQuestion": {
+        "question": "What do children learn when parents model healthy conflict resolution?",
+        "options": [
+          "That conflicts are scary and should be avoided",
+          "That relationships can recover and grow after disagreements",
+          "That only adults can fix problems"
         ],
         "correctAnswer": 1
       }
