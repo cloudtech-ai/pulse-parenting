@@ -1,0 +1,867 @@
+{
+  "introduction_to_interpersonal_effectiveness": [
+    {
+      "id": "lesson1_define_interpersonal_effectiveness",
+      "title": "What is Interpersonal Effectiveness?",
+      "goal": "Understand the meaning of interpersonal effectiveness and its importance for your child\u2019s relationships.",
+      "keyConcept": "Interpersonal effectiveness means being able to communicate your needs and feelings clearly, while also respecting others. It\u2019s about balancing your own goals with maintaining positive relationships. Teaching this skill helps children express themselves and build healthy connections.",
+      "example": "Your child wants to play a game, but their friend wants to do something else. Interpersonal effectiveness helps your child express their preference while also listening to their friend\u2019s wishes.",
+      "parentTip": "Model clear communication by stating your needs respectfully, e.g., 'I need a few quiet minutes before we talk.'",
+      "reflectionPrompt": "How do you usually express your needs in your relationships? How might your child be learning from your example?",
+      "quizQuestion": {
+        "question": "What does interpersonal effectiveness help your child do?",
+        "options": [
+          "Express needs and maintain good relationships",
+          "Win every argument",
+          "Avoid talking about feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_core_dbt_principles",
+      "title": "Core DBT Principles for Communication",
+      "goal": "Learn the basic DBT principles that support effective communication.",
+      "keyConcept": "DBT (Dialectical Behavior Therapy) teaches skills like mindfulness, validation, and balancing acceptance with change. These principles help children stay calm, listen, and respond thoughtfully in social situations.",
+      "example": "When your child feels upset after a disagreement, using mindfulness helps them pause and notice their feelings before reacting.",
+      "parentTip": "Practice mindful listening with your child: give them your full attention and reflect back what you hear.",
+      "reflectionPrompt": "When was the last time you listened to your child without interrupting? How did it affect your conversation?",
+      "quizQuestion": {
+        "question": "Which of the following is a DBT principle for effective communication?",
+        "options": [
+          "Mindfulness",
+          "Ignoring emotions",
+          "Always agreeing"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_balancing_needs_and_harmony",
+      "title": "Balancing Needs and Social Harmony",
+      "goal": "Discover how to help your child balance their own needs with getting along with others.",
+      "keyConcept": "Healthy relationships require both standing up for yourself and considering others\u2019 feelings. Children can learn to ask for what they need without hurting others or giving up their own needs entirely.",
+      "example": "Your child wants to choose the family movie, but it\u2019s someone else\u2019s turn. They can express their wish and also accept the group\u2019s choice.",
+      "parentTip": "Encourage your child to use 'I feel... when...' statements, e.g., 'I feel disappointed when I can\u2019t pick the movie, but I understand it\u2019s your turn.'",
+      "reflectionPrompt": "How do you help your child speak up for themselves while also respecting others\u2019 choices?",
+      "quizQuestion": {
+        "question": "What is important for balancing needs and social harmony?",
+        "options": [
+          "Only focusing on your own needs",
+          "Ignoring your needs for others",
+          "Considering both your needs and others\u2019 feelings"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson4_modeling_effective_communication",
+      "title": "Modeling Effective Communication at Home",
+      "goal": "Learn how to demonstrate interpersonal effectiveness in your daily interactions.",
+      "keyConcept": "Children learn by watching their parents. When you communicate clearly, listen actively, and handle disagreements respectfully, your child is more likely to do the same. Modeling these skills sets a strong example.",
+      "example": "During a family disagreement, you calmly explain your perspective and invite others to share theirs, showing respect for everyone\u2019s viewpoint.",
+      "parentTip": "Narrate your thought process out loud, e.g., 'I\u2019m feeling frustrated, so I\u2019m going to take a deep breath before I respond.'",
+      "reflectionPrompt": "What is one way you can model healthy communication for your child this week?",
+      "quizQuestion": {
+        "question": "How do children most often learn communication skills?",
+        "options": [
+          "By watching their parents",
+          "From television",
+          "By reading books"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_building_a_supportive_environment",
+      "title": "Building a Supportive Environment for Growth",
+      "goal": "Find ways to create a home environment that encourages interpersonal skill development.",
+      "keyConcept": "A supportive environment gives children space to practice new skills, make mistakes, and learn from them. Encouragement and patience help your child feel safe to express themselves and try different ways of communicating.",
+      "example": "When your child struggles to express a feeling, you offer reassurance and help them find the words, instead of criticizing or rushing them.",
+      "parentTip": "Praise your child\u2019s efforts to communicate, even if it\u2019s not perfect: 'I appreciate how you told me what you were feeling.'",
+      "reflectionPrompt": "How do you respond when your child tries to communicate something difficult? How could you make it safer for them to try?",
+      "quizQuestion": {
+        "question": "What helps children feel safe to practice new communication skills?",
+        "options": [
+          "Criticism",
+          "Encouragement and patience"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "identifying_relationship_needs": [
+    {
+      "id": "lesson1_self_awareness_needs",
+      "title": "Understanding Your Own Needs",
+      "goal": "Help parents recognize and name their own relationship needs.",
+      "keyConcept": "Being aware of your own needs is the first step to healthy relationships. Needs can include feeling respected, having time for yourself, or wanting open communication. When you know what you need, you can communicate more clearly and avoid misunderstandings.",
+      "example": "A parent realizes they need quiet time after work to recharge, but often feel frustrated when their child immediately asks for help with homework.",
+      "parentTip": "Take a moment to list three things you need to feel supported as a parent. These can be emotional (like feeling appreciated) or practical (like help with chores).",
+      "reflectionPrompt": "What is one need you have in your relationship with your child that you haven\u2019t expressed before?",
+      "quizQuestion": {
+        "question": "Why is it important to identify your own needs in relationships?",
+        "options": [
+          "So you can communicate them clearly",
+          "So you can ignore them",
+          "So you can control others"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_wants_vs_needs",
+      "title": "Wants, Needs, and Expectations: What\u2019s the Difference?",
+      "goal": "Teach parents to distinguish between wants, needs, and expectations in relationships.",
+      "keyConcept": "Wants are things you would like, but can live without. Needs are essential for your well-being. Expectations are beliefs about how things should be. Knowing the difference helps you prioritize and communicate more effectively with your child.",
+      "example": "A parent may want their child to clean their room daily (want), need to feel respected when asking for help (need), and expect their child to follow house rules (expectation).",
+      "parentTip": "When you feel upset, ask yourself: Is this a want, a need, or an expectation? This can help you respond more calmly.",
+      "reflectionPrompt": "Think of a recent conflict with your child. Was it about a want, a need, or an expectation?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of a need?",
+        "options": [
+          "Wanting your child to get straight A\u2019s",
+          "Needing to feel heard when you talk",
+          "Expecting your child to do chores"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_values_and_relationships",
+      "title": "Clarifying Your Values",
+      "goal": "Guide parents to reflect on their core values and how these shape their relationship needs.",
+      "keyConcept": "Your values are the beliefs that matter most to you, such as honesty, kindness, or responsibility. These values influence what you need from relationships and how you interact with your child. Being clear about your values helps you set healthy boundaries.",
+      "example": "A parent who values honesty may need open communication with their child, even when it\u2019s difficult.",
+      "parentTip": "Write down your top three values as a parent. Think about how these values show up in your daily interactions.",
+      "reflectionPrompt": "How do your values influence the way you communicate with your child?",
+      "quizQuestion": {
+        "question": "Why is it helpful to know your values as a parent?",
+        "options": [
+          "It helps you set clear boundaries",
+          "It makes parenting harder",
+          "It doesn\u2019t matter in relationships"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_self_awareness_communication",
+      "title": "Using Self-Awareness for Better Communication",
+      "goal": "Show parents how self-awareness of needs and values leads to more effective communication.",
+      "keyConcept": "When you understand your own needs and values, you can express them to your child in a calm and clear way. This reduces conflict and helps your child understand where you\u2019re coming from. Self-awareness is the foundation for respectful, two-way communication.",
+      "example": "Instead of saying, 'You never listen to me,' a parent says, 'I need to feel heard when I talk to you about something important.'",
+      "parentTip": "Practice using 'I' statements to express your needs (e.g., 'I need some quiet time after work before I help with homework.').",
+      "reflectionPrompt": "How might expressing your needs clearly change the way your child responds to you?",
+      "quizQuestion": {
+        "question": "What is an example of an 'I' statement?",
+        "options": [
+          "'You never help around the house.'",
+          "'I feel overwhelmed when I do all the chores alone.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_modeling_needs_for_children",
+      "title": "Modeling Healthy Expression of Needs",
+      "goal": "Encourage parents to model healthy ways of expressing needs for their children.",
+      "keyConcept": "Children learn how to express their own needs by watching their parents. When you model calm, respectful communication about your needs, your child is more likely to do the same. This builds trust and emotional safety in your relationship.",
+      "example": "A parent says, 'I need a few minutes to finish this task, then I can help you,' instead of snapping or ignoring their child.",
+      "parentTip": "Narrate your needs out loud in a positive way, so your child sees healthy communication in action.",
+      "reflectionPrompt": "What is one way you can model healthy expression of needs for your child this week?",
+      "quizQuestion": {
+        "question": "Why is it important to model healthy communication of needs?",
+        "options": [
+          "Children will learn to express their needs respectfully",
+          "It makes children do what you want",
+          "It prevents all conflicts"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "assertiveness_and_self_respect": [
+    {
+      "id": "lesson1_communication_styles",
+      "title": "Understanding Communication Styles",
+      "goal": "Recognize the differences between passive, aggressive, and assertive communication.",
+      "keyConcept": "Communication styles shape how we interact with others. Passive communication avoids expressing needs, aggressive communication disregards others\u2019 feelings, and assertive communication expresses needs respectfully while considering others. Understanding these styles helps parents model healthy interactions for their children.",
+      "example": "When your child wants a later bedtime, a passive response might be, 'Whatever you want,' an aggressive response might be, 'Absolutely not, stop asking!' and an assertive response could be, 'I understand you want to stay up later. Let\u2019s talk about what might work for both of us.'",
+      "parentTip": "Notice your own communication style in daily conversations. Practice using 'I' statements to express your feelings and needs clearly and respectfully.",
+      "reflectionPrompt": "Which communication style do you use most often with your child, and how does it affect your relationship?",
+      "quizQuestion": {
+        "question": "Which communication style best balances expressing your needs while respecting others?",
+        "options": [
+          "Passive",
+          "Aggressive",
+          "Assertive"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson2_assertive_expression",
+      "title": "Expressing Needs Assertively",
+      "goal": "Learn how to express your needs and opinions with confidence and respect.",
+      "keyConcept": "Assertive communication involves stating your needs or opinions honestly while respecting others. It\u2019s not about getting your way, but about being clear and direct without being hurtful or dismissive. This approach encourages open dialogue and mutual respect.",
+      "example": "If you need quiet time after work, you might say, 'I need 15 minutes to unwind when I get home. After that, I\u2019d love to hear about your day.'",
+      "parentTip": "Use clear, calm language and maintain eye contact when expressing your needs. Avoid blaming or criticizing; focus on your feelings and what you need.",
+      "reflectionPrompt": "What is one need you often hesitate to express to your child, and how could you state it assertively?",
+      "quizQuestion": {
+        "question": "What is a key feature of assertive communication?",
+        "options": [
+          "Avoiding conflict",
+          "Expressing needs clearly and respectfully",
+          "Insisting on your way"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_self_respect_in_conflict",
+      "title": "Maintaining Self-Respect During Conflict",
+      "goal": "Understand how to uphold your self-respect when disagreements arise.",
+      "keyConcept": "Conflicts are a normal part of relationships. Maintaining self-respect means staying true to your values and boundaries, even when emotions run high. This helps your child learn that it\u2019s possible to disagree without losing self-worth or damaging the relationship.",
+      "example": "If your child is upset about a rule, you might say, 'I hear that you\u2019re frustrated, but I need to stick to this rule because it\u2019s important for your safety.'",
+      "parentTip": "Remind yourself of your values before responding in a conflict. Take a deep breath and respond in a way that aligns with your principles.",
+      "reflectionPrompt": "How do you usually feel after a disagreement with your child? What could help you maintain your self-respect in those moments?",
+      "quizQuestion": {
+        "question": "What does maintaining self-respect in conflict involve?",
+        "options": [
+          "Giving in to avoid arguments",
+          "Sticking to your values and boundaries",
+          "Raising your voice to be heard"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_modeling_assertiveness",
+      "title": "Modeling Assertiveness for Your Child",
+      "goal": "Demonstrate assertive communication so your child can learn by example.",
+      "keyConcept": "Children learn a great deal by observing their parents. When you model assertive communication\u2014speaking up for yourself respectfully and listening to others\u2014you show your child how to handle their own needs and boundaries in a healthy way.",
+      "example": "When a family member interrupts you, you might say, 'I\u2019d like to finish what I was saying, and then I\u2019ll listen to you.'",
+      "parentTip": "Narrate your assertive choices out loud when appropriate, so your child can see and hear what healthy communication looks like.",
+      "reflectionPrompt": "How can you show your child what assertiveness looks like in your daily routines?",
+      "quizQuestion": {
+        "question": "Why is it important to model assertive communication for your child?",
+        "options": [
+          "So they learn to avoid conflict",
+          "So they learn to express themselves respectfully",
+          "So they always get their way"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_balancing_respect",
+      "title": "Balancing Self-Respect and Respect for Others",
+      "goal": "Practice balancing your own needs with respect for your child\u2019s feelings and perspectives.",
+      "keyConcept": "Healthy relationships require both self-respect and respect for others. This means standing up for your needs while also listening to and validating your child\u2019s feelings. Finding this balance helps build trust and emotional safety at home.",
+      "example": "If your child wants to skip chores, you might say, 'I understand you\u2019re tired, but chores are important for our family. Let\u2019s find a way to make it easier together.'",
+      "parentTip": "Acknowledge your child\u2019s feelings before stating your own needs. This shows empathy and keeps communication open.",
+      "reflectionPrompt": "How can you show respect for your child\u2019s feelings while also standing up for your own needs?",
+      "quizQuestion": {
+        "question": "What is a sign of balanced communication?",
+        "options": [
+          "Ignoring your child\u2019s feelings",
+          "Only focusing on your own needs",
+          "Listening to your child and expressing your needs"
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "the_dear_man_skill": [
+    {
+      "id": "dear_man_intro",
+      "title": "Introducing the DEAR MAN Skill",
+      "goal": "Understand what DEAR MAN is and why it matters in parenting.",
+      "keyConcept": "DEAR MAN is a communication strategy from DBT that helps you ask for what you want or say no effectively, while maintaining respect for yourself and others. Each letter stands for a step in the process: Describe, Express, Assert, Reinforce, Mindful, Appear confident, and Negotiate. Using DEAR MAN can help you model healthy communication for your child and strengthen your relationship.",
+      "example": "Imagine your child wants to stay up late, but you need to set a boundary. Using DEAR MAN helps you clearly and calmly explain your reasons, listen to your child, and find a solution together.",
+      "parentTip": "Introduce the DEAR MAN acronym to your child and explain that it\u2019s a tool you\u2019ll both use to communicate more effectively.",
+      "reflectionPrompt": "How do you usually ask for what you need or say no to your child? What might change if you used a structured approach like DEAR MAN?",
+      "quizQuestion": {
+        "question": "What is the main purpose of the DEAR MAN skill?",
+        "options": [
+          "To help you get your way no matter what",
+          "To communicate your needs clearly and respectfully",
+          "To avoid difficult conversations"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dear_describe_express",
+      "title": "D & E: Describe and Express",
+      "goal": "Learn how to start a conversation by describing the situation and expressing your feelings.",
+      "keyConcept": "The first two steps of DEAR MAN are Describe and Express. Start by describing the facts of the situation without judgment or exaggeration. Then, express your feelings or opinions clearly and honestly. This sets a respectful tone and helps your child understand your perspective.",
+      "example": "You notice your child hasn\u2019t done their homework. You say, 'I see your homework isn\u2019t finished yet (Describe). I feel concerned because I want you to have enough time to relax later (Express).'",
+      "parentTip": "Practice separating facts from feelings in your conversations. Use 'I notice...' and 'I feel...' statements.",
+      "reflectionPrompt": "When was the last time you described a situation without adding your feelings or judgments? How did it go?",
+      "quizQuestion": {
+        "question": "Which of these is an example of a 'Describe' statement?",
+        "options": [
+          "'You never listen to me!'",
+          "'I see your backpack is still in the hallway.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dear_assert_reinforce",
+      "title": "A & R: Assert and Reinforce",
+      "goal": "Practice stating your needs and reinforcing positive outcomes.",
+      "keyConcept": "After describing and expressing, Assert means clearly stating what you want or need, without being aggressive or apologetic. Reinforce involves explaining the positive results of your request, helping your child see the benefits of cooperating.",
+      "example": "'Can you please put your backpack away now? (Assert) That way, we\u2019ll have more time to play together later (Reinforce).' This shows your child both what you want and why it matters.",
+      "parentTip": "Be direct but kind when stating your needs. Link your request to a positive outcome for your child.",
+      "reflectionPrompt": "How comfortable are you with directly stating your needs to your child? What makes it easy or difficult?",
+      "quizQuestion": {
+        "question": "What does 'Reinforce' mean in the DEAR MAN skill?",
+        "options": [
+          "Repeating your request until you get your way",
+          "Explaining the positive results of your request"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dear_man_mindful_appear",
+      "title": "M & A: Mindful and Appear Confident",
+      "goal": "Stay focused and confident during difficult conversations.",
+      "keyConcept": "Mindful means keeping your attention on your goal and not getting sidetracked by arguments or distractions. Appear Confident is about using a calm, steady voice and body language, even if you feel nervous inside. This helps your child take your message seriously.",
+      "example": "If your child tries to change the subject, gently bring the conversation back to your request. Stand or sit up straight and speak clearly.",
+      "parentTip": "If you feel yourself getting flustered, pause and take a deep breath before continuing. Practice confident body language in front of a mirror.",
+      "reflectionPrompt": "What tends to distract you during tough conversations with your child? How can you stay focused?",
+      "quizQuestion": {
+        "question": "Which action shows you are being 'Mindful' during a conversation?",
+        "options": [
+          "Letting the conversation drift to unrelated topics",
+          "Gently steering the conversation back to your main point"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dear_man_negotiate",
+      "title": "N: Negotiate Solutions Together",
+      "goal": "Learn how to work with your child to find a solution that works for both of you.",
+      "keyConcept": "Negotiate is the final step of DEAR MAN. It means being willing to listen to your child\u2019s ideas and finding a compromise when possible. This teaches your child problem-solving skills and shows that you value their input.",
+      "example": "If your child wants more screen time, you might say, 'Let\u2019s figure out a way you can earn extra time by finishing chores or homework first.'",
+      "parentTip": "Invite your child to suggest solutions and be open to reasonable compromises. Use phrases like, 'What do you think would work?'",
+      "reflectionPrompt": "How do you usually handle disagreements with your child? How might negotiation change the outcome?",
+      "quizQuestion": {
+        "question": "What is the main goal of the 'Negotiate' step?",
+        "options": [
+          "To get your way no matter what",
+          "To find a solution that works for both people"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dear_man_practice",
+      "title": "Putting DEAR MAN Into Practice",
+      "goal": "Apply the full DEAR MAN skill in a real-life parenting situation.",
+      "keyConcept": "Now that you know each step, try using DEAR MAN in a conversation with your child. Choose a small, everyday request to practice. Remember, it\u2019s okay if it feels awkward at first\u2014skills improve with practice.",
+      "example": "You want your child to help set the table. Use DEAR MAN: Describe the situation, Express your feelings, Assert your request, Reinforce the benefits, stay Mindful, Appear Confident, and be ready to Negotiate if needed.",
+      "parentTip": "Start with low-stakes situations to build your confidence. Reflect afterward on what went well and what you\u2019d like to improve.",
+      "reflectionPrompt": "What is one small request you can make to your child today using the DEAR MAN steps?",
+      "quizQuestion": {
+        "question": "Which is the correct order of the DEAR MAN steps?",
+        "options": [
+          "Describe, Express, Assert, Reinforce, Mindful, Appear confident, Negotiate",
+          "Negotiate, Assert, Describe, Mindful, Express, Reinforce, Appear confident"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "relationship_maintenance_and_give": [
+    {
+      "id": "give_introduction",
+      "title": "Introducing the GIVE Skill",
+      "goal": "Understand what the GIVE skill is and why it matters for relationships.",
+      "keyConcept": "The GIVE skill is a DBT strategy for maintaining healthy relationships while staying true to yourself. GIVE stands for Gentle, Interested, Validate, and Easy manner. Using GIVE helps you communicate in ways that nurture trust and respect, making it easier to connect with your child and model positive relationship skills.",
+      "example": "When your child is upset about a disagreement with a friend, you listen calmly, show interest in their feelings, and respond gently rather than jumping to solutions or criticism.",
+      "parentTip": "Try to remember GIVE as a checklist when talking with your child about their feelings or conflicts. Focus on being gentle and interested first.",
+      "reflectionPrompt": "How do you usually respond when your child shares something difficult? Which part of GIVE feels most natural or most challenging for you?",
+      "quizQuestion": {
+        "question": "What does the 'G' in GIVE stand for?",
+        "options": [
+          "Gentle",
+          "Generous",
+          "Grateful"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "give_gentle",
+      "title": "Being Gentle in Communication",
+      "goal": "Learn how to use a gentle approach when talking with your child.",
+      "keyConcept": "Being gentle means speaking in a calm, non-threatening way, even during disagreements. This reduces defensiveness and keeps the conversation open. Gentleness can be shown through your tone of voice, facial expressions, and body language.",
+      "example": "Instead of raising your voice when your child forgets a chore, you say, 'I noticed the dishes weren\u2019t done. Can we talk about what happened?' in a soft tone.",
+      "parentTip": "Before responding to your child, take a deep breath and check your tone. Aim for calmness, even if you feel frustrated.",
+      "reflectionPrompt": "Think of a recent conflict with your child. How might a gentle approach have changed the outcome?",
+      "quizQuestion": {
+        "question": "Which of these is an example of being gentle?",
+        "options": [
+          "Yelling to get your point across",
+          "Speaking calmly and softly",
+          "Ignoring the issue"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "give_interested",
+      "title": "Showing Interest in Your Child",
+      "goal": "Practice active listening and show genuine interest in your child's thoughts and feelings.",
+      "keyConcept": "Showing interest means giving your full attention, making eye contact, and asking open-ended questions. This helps your child feel valued and understood, strengthening your relationship.",
+      "example": "When your child tells you about their day, you put down your phone, make eye contact, and ask, 'How did that make you feel?'",
+      "parentTip": "Set aside distractions during conversations. Use phrases like, 'Tell me more about that,' or 'I\u2019m interested in what you think.'",
+      "reflectionPrompt": "When was the last time you felt truly listened to? How can you offer that same presence to your child?",
+      "quizQuestion": {
+        "question": "What is a good way to show interest in your child\u2019s story?",
+        "options": [
+          "Multitask while they talk",
+          "Make eye contact and ask questions",
+          "Change the subject"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "give_validate",
+      "title": "Validating Your Child\u2019s Feelings",
+      "goal": "Learn how to validate your child's emotions, even if you don\u2019t agree with them.",
+      "keyConcept": "Validation means acknowledging your child\u2019s feelings as real and important. It doesn\u2019t mean you agree, but it shows you understand and accept their experience. Validation builds trust and emotional safety.",
+      "example": "Your child is upset about a low grade. Instead of saying, 'It\u2019s not a big deal,' you say, 'I can see you\u2019re disappointed. That makes sense\u2014you worked hard.'",
+      "parentTip": "Use phrases like, 'It\u2019s okay to feel that way,' or 'I understand why you\u2019re upset.' Avoid minimizing or dismissing their emotions.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What\u2019s one validating phrase you can use next time?",
+      "quizQuestion": {
+        "question": "Which response is validating?",
+        "options": [
+          "'You shouldn\u2019t feel that way.'",
+          "'I can see why you feel that way.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "give_easy_manner",
+      "title": "Using an Easy Manner",
+      "goal": "Discover how to keep conversations light and approachable, even during tough topics.",
+      "keyConcept": "An easy manner means using humor, smiles, or a relaxed attitude to make interactions less tense. This helps your child feel comfortable opening up, and it can defuse potential conflicts.",
+      "example": "When discussing a mistake your child made, you smile gently and say, 'We all mess up sometimes\u2014let\u2019s figure out what to do next.'",
+      "parentTip": "Try to add a gentle smile or a light comment when appropriate. This shows your child that you\u2019re approachable and not angry.",
+      "reflectionPrompt": "How might using an easy manner change the way your child responds to you during difficult conversations?",
+      "quizQuestion": {
+        "question": "What is one way to use an easy manner?",
+        "options": [
+          "Keep a serious face at all times",
+          "Use a gentle smile or light humor",
+          "Avoid talking about problems"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "give_self_reflection",
+      "title": "Balancing Self-Respect and Relationship Goals",
+      "goal": "Reflect on how to maintain your own values while nurturing your relationship with your child.",
+      "keyConcept": "Healthy relationships require both self-respect and care for the other person. The GIVE skill helps you express your needs and boundaries while staying connected. Practicing GIVE doesn\u2019t mean giving up your values; it means communicating them in a way that supports both you and your child.",
+      "example": "You calmly explain to your child why a certain rule is important to you, while also listening to their perspective and validating their feelings.",
+      "parentTip": "Before a tough conversation, remind yourself of your values and relationship goals. Use GIVE to guide your words and actions.",
+      "reflectionPrompt": "How can you honor both your needs and your child\u2019s needs in your next important conversation?",
+      "quizQuestion": {
+        "question": "What does practicing GIVE help you balance?",
+        "options": [
+          "Only your own needs",
+          "Only your child\u2019s needs",
+          "Both self-respect and relationship goals"
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "self_respect_and_the_fast_skill": [
+    {
+      "id": "fast_intro",
+      "title": "Introducing the FAST Skill",
+      "goal": "Understand what the FAST skill is and why it matters for self-respect.",
+      "keyConcept": "The FAST skill is a DBT tool designed to help you maintain self-respect in social situations, especially when it's hard to say no or stand up for yourself. FAST stands for Fair, Apologies (no unnecessary ones), Stick to values, and Truthful. Using FAST helps you model healthy boundaries and self-respect for your child.",
+      "example": "Imagine your child asks for extra screen time after bedtime. You feel pressured to say yes but know it's not the best choice. Using FAST, you respond fairly and stick to your values, even if it's uncomfortable.",
+      "parentTip": "Explain to your child that everyone deserves to be treated with respect, including yourself. Practice saying, 'I want to be fair to you and to myself.'",
+      "reflectionPrompt": "When was the last time you felt pressured to go against your values as a parent? How did you respond?",
+      "quizQuestion": {
+        "question": "What does the 'F' in FAST stand for?",
+        "options": [
+          "Fair",
+          "Friendly",
+          "Firm"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "fast_fair",
+      "title": "Being Fair to Yourself and Others",
+      "goal": "Learn how to be fair in your interactions, balancing your needs with others'.",
+      "keyConcept": "Being fair means considering both your needs and the needs of others. It\u2019s not about always giving in or always standing your ground, but finding a respectful balance. Modeling fairness teaches your child how to negotiate and compromise in healthy ways.",
+      "example": "Your child wants to skip chores to play with friends. You listen to their request but explain why chores are important, offering a compromise: chores first, then playtime.",
+      "parentTip": "Use phrases like, 'I hear what you want, and I also have needs. Let's find a solution that works for both of us.'",
+      "reflectionPrompt": "How can you show fairness in your next disagreement with your child?",
+      "quizQuestion": {
+        "question": "What is a key part of being fair in parenting?",
+        "options": [
+          "Always giving in",
+          "Considering both your needs and your child's",
+          "Never compromising"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "fast_apologies",
+      "title": "Apologize Only When Necessary",
+      "goal": "Recognize when an apology is needed and when it is not.",
+      "keyConcept": "Apologizing is important, but over-apologizing can undermine your self-respect and authority. Only apologize when you have truly made a mistake, not just to avoid conflict or please others. This teaches your child the value of sincere apologies.",
+      "example": "You accidentally raise your voice during a stressful moment. You apologize for your tone, but you don\u2019t apologize for enforcing a rule.",
+      "parentTip": "Say, 'I\u2019m sorry for how I said that, but I still need you to follow the rule.'",
+      "reflectionPrompt": "Do you find yourself apologizing to your child just to keep the peace? How might this affect your relationship?",
+      "quizQuestion": {
+        "question": "When should you apologize to your child?",
+        "options": [
+          "Whenever they are upset",
+          "Only when you have made a mistake",
+          "To avoid arguments"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "fast_values",
+      "title": "Stick to Your Values",
+      "goal": "Practice holding firm to your values, even under pressure.",
+      "keyConcept": "Sticking to your values means acting in ways that align with what\u2019s important to you, even if others disagree or push back. This consistency helps your child understand your boundaries and builds trust.",
+      "example": "Your child wants to watch a movie you feel is inappropriate. Even though they insist all their friends have seen it, you calmly explain your reasons and stand by your decision.",
+      "parentTip": "Before making a decision, ask yourself, 'Does this align with my values as a parent?'",
+      "reflectionPrompt": "What are your top three parenting values? How do you communicate them to your child?",
+      "quizQuestion": {
+        "question": "Why is it important to stick to your values as a parent?",
+        "options": [
+          "To avoid conflict",
+          "To build trust and consistency",
+          "To be popular with your child"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "fast_truthful",
+      "title": "Be Truthful, Not Exaggerating or Lying",
+      "goal": "Learn to communicate honestly and directly with your child.",
+      "keyConcept": "Being truthful means expressing your thoughts and feelings honestly, without exaggeration or dishonesty. This builds credibility and models integrity for your child, even when the truth is difficult.",
+      "example": "You\u2019re running late and your child asks why. Instead of blaming traffic, you admit you lost track of time and apologize for the delay.",
+      "parentTip": "Use honest language, even when it\u2019s uncomfortable. Say, 'I made a mistake,' or 'I don\u2019t know, but I\u2019ll find out.'",
+      "reflectionPrompt": "How does your child respond when you are honest about your mistakes?",
+      "quizQuestion": {
+        "question": "What is a benefit of being truthful with your child?",
+        "options": [
+          "They always agree with you",
+          "You build trust and model honesty",
+          "You avoid difficult conversations"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "fast_review",
+      "title": "Putting FAST Into Practice",
+      "goal": "Integrate the FAST skill into everyday parenting situations.",
+      "keyConcept": "Using the FAST skill helps you maintain self-respect and model healthy boundaries for your child. Practice each part\u2014being fair, apologizing only when needed, sticking to your values, and being truthful\u2014in daily interactions to create a respectful family environment.",
+      "example": "During a disagreement about homework, you listen fairly, avoid unnecessary apologies, stick to your values about education, and communicate honestly about your expectations.",
+      "parentTip": "Pick one part of FAST to focus on each day this week. Notice how your child responds.",
+      "reflectionPrompt": "Which part of FAST feels most challenging for you? How can you practice it more often?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT part of the FAST skill?",
+        "options": [
+          "Fair",
+          "Assertive",
+          "Truthful"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "managing_conflict_and_emotional_reactivity": [
+    {
+      "id": "lesson1_identifying_triggers",
+      "title": "Spotting Conflict Triggers",
+      "goal": "Help parents recognize common triggers for conflict and emotional reactivity in themselves and their child.",
+      "keyConcept": "Conflicts often start because of specific triggers\u2014situations, words, or behaviors that spark strong emotions. By learning to identify these triggers, you can anticipate and prevent unnecessary arguments. Awareness is the first step to managing reactions and supporting your child through challenging moments.",
+      "example": "You notice that your child gets upset and argumentative when asked to stop playing video games for dinner. Recognizing this as a trigger helps you prepare for a calmer transition.",
+      "parentTip": "Pay attention to patterns: When do conflicts usually happen? Make a list of situations or topics that often lead to strong emotions for both you and your child.",
+      "reflectionPrompt": "What are two situations that often lead to conflict between you and your child?",
+      "quizQuestion": {
+        "question": "What is a 'trigger' in the context of conflict?",
+        "options": [
+          "A specific situation or event that sparks strong emotions",
+          "A solution to a problem",
+          "A reward for good behavior"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_pausing_before_reacting",
+      "title": "Pause Before Reacting",
+      "goal": "Teach parents to pause and regulate their emotions before responding during disagreements.",
+      "keyConcept": "When emotions run high, it\u2019s easy to react impulsively. Taking a brief pause\u2014just a few deep breaths\u2014can help you respond thoughtfully instead of reacting out of anger or frustration. This models emotional regulation for your child and sets a calmer tone for resolving conflict.",
+      "example": "Your child yells at you for enforcing bedtime. Instead of yelling back, you take a deep breath and count to five before responding calmly.",
+      "parentTip": "When you feel yourself getting upset, silently count to five or take three slow breaths before saying anything. This gives your brain time to choose a helpful response.",
+      "reflectionPrompt": "How might pausing before responding change the outcome of a recent disagreement you had with your child?",
+      "quizQuestion": {
+        "question": "What is the main benefit of pausing before reacting in a conflict?",
+        "options": [
+          "It gives you time to think and respond calmly",
+          "It makes the conflict go away instantly",
+          "It shows your child you are angry"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_validating_emotions",
+      "title": "Validate Emotions",
+      "goal": "Show parents how to acknowledge and validate their child\u2019s feelings during conflict.",
+      "keyConcept": "Validation means letting your child know their feelings are understood and accepted, even if you don\u2019t agree with their behavior. This helps reduce defensiveness and opens the door to problem-solving. Validation does not mean approval; it means empathy.",
+      "example": "Your child is upset about a canceled playdate. You say, 'I can see you\u2019re really disappointed. It\u2019s hard when plans change.'",
+      "parentTip": "Use phrases like, 'I see you\u2019re feeling\u2026' or 'It makes sense you feel\u2026' to show you understand your child\u2019s emotions.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? How could you add more validation to your response?",
+      "quizQuestion": {
+        "question": "What does it mean to validate your child\u2019s emotions?",
+        "options": [
+          "To let them know their feelings are understood",
+          "To ignore their feelings",
+          "To always agree with their behavior"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_assertive_communication",
+      "title": "Practice Assertive Communication",
+      "goal": "Help parents use assertive, respectful communication during disagreements.",
+      "keyConcept": "Assertive communication means expressing your needs and feelings clearly and respectfully, without blaming or attacking. It helps prevent escalation and teaches your child how to communicate their own needs in a healthy way.",
+      "example": "Instead of saying, 'You never listen to me,' you say, 'I feel frustrated when I\u2019m not heard. Can we talk about this together?'",
+      "parentTip": "Use 'I' statements to express your feelings and needs. For example: 'I feel\u2026 when\u2026 because\u2026'",
+      "reflectionPrompt": "Think of a recent conflict. How could you rephrase your message to be more assertive and less blaming?",
+      "quizQuestion": {
+        "question": "Which is an example of assertive communication?",
+        "options": [
+          "'You always make me angry!'",
+          "'I feel upset when chores are not done because it makes things harder for everyone.'",
+          "'If you don\u2019t listen, you\u2019ll be punished.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_problem_solving_together",
+      "title": "Solve Problems Together",
+      "goal": "Encourage parents to involve their child in finding solutions after a conflict.",
+      "keyConcept": "After emotions have settled, work with your child to brainstorm solutions. Collaborative problem-solving builds trust and teaches important life skills. It shows your child that their input matters and that conflicts can be resolved constructively.",
+      "example": "After an argument about screen time, you and your child sit down and come up with a schedule that works for both of you.",
+      "parentTip": "Ask your child, 'What ideas do you have to solve this?' Listen to their suggestions and work together on a plan.",
+      "reflectionPrompt": "How can you invite your child to help solve a problem the next time you disagree?",
+      "quizQuestion": {
+        "question": "What is a benefit of solving problems together after a conflict?",
+        "options": [
+          "It helps your child feel heard and involved",
+          "It means you always get your way",
+          "It avoids any future conflicts"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "building_and_repairing_relationships": [
+    {
+      "id": "lesson_1_initiating_connections",
+      "title": "Initiating New Connections",
+      "goal": "Help parents model and support their child in making new friends.",
+      "keyConcept": "Children often feel nervous about starting new relationships. As a parent, you can help by modeling simple, friendly greetings and encouraging your child to show interest in others. Initiating connections is about taking small, brave steps to reach out, even if it feels uncomfortable at first.",
+      "example": "Your child is starting at a new school. You show them how to say, 'Hi, my name is Alex. Can I join your game?' and practice together at home.",
+      "parentTip": "Role-play introductions with your child. Encourage them to ask simple questions like, 'What do you like to do for fun?'",
+      "reflectionPrompt": "When was the last time you made a new connection? How did you feel, and what helped you succeed?",
+      "quizQuestion": {
+        "question": "What is a helpful way to support your child in making new friends?",
+        "options": [
+          "Encourage them to introduce themselves and ask questions.",
+          "Tell them to wait for others to approach first."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_strengthening_relationships",
+      "title": "Strengthening Existing Relationships",
+      "goal": "Teach parents how to help their child deepen friendships through empathy and shared activities.",
+      "keyConcept": "Strong relationships are built on shared experiences and understanding. Encourage your child to listen actively, show empathy, and spend quality time with friends. These actions help friendships grow and become more meaningful.",
+      "example": "Your child notices their friend is upset. You suggest they ask, 'Do you want to talk about it?' and listen without interrupting.",
+      "parentTip": "Model active listening at home by giving your child your full attention when they talk about their day.",
+      "reflectionPrompt": "How do you show empathy and interest in your own relationships? How can you model this for your child?",
+      "quizQuestion": {
+        "question": "Which action helps strengthen a friendship?",
+        "options": [
+          "Listening carefully when a friend shares their feelings.",
+          "Only talking about your own experiences."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_3_handling_conflict",
+      "title": "Handling Conflict Calmly",
+      "goal": "Equip parents to guide their child in managing disagreements without damaging relationships.",
+      "keyConcept": "Conflicts are a normal part of relationships. Teaching your child to stay calm, express their feelings respectfully, and listen to the other person can prevent small issues from becoming bigger problems.",
+      "example": "Your child argues with a sibling over a toy. You coach them to say, 'I feel upset when you take my toy without asking. Can we share it?'",
+      "parentTip": "Practice 'I feel' statements with your child to help them express emotions without blaming others.",
+      "reflectionPrompt": "How do you usually respond to conflict? What would you like your child to learn from your example?",
+      "quizQuestion": {
+        "question": "What is a good first step when helping your child handle conflict?",
+        "options": [
+          "Encourage them to express their feelings calmly.",
+          "Tell them to ignore the problem."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_repairing_relationships",
+      "title": "Repairing After a Misunderstanding",
+      "goal": "Show parents how to help their child make amends and rebuild trust after conflict.",
+      "keyConcept": "Everyone makes mistakes in relationships. Teaching your child how to apologize sincerely and take responsibility helps repair trust and shows respect for others\u2019 feelings.",
+      "example": "Your child accidentally hurts a friend's feelings. You guide them to say, 'I'm sorry I said that. I didn't mean to hurt you. Can we talk about it?'",
+      "parentTip": "Model apologizing when you make a mistake, showing your child that everyone can make amends.",
+      "reflectionPrompt": "Think of a time you repaired a relationship. What made the apology effective or not?",
+      "quizQuestion": {
+        "question": "What is an important part of a sincere apology?",
+        "options": [
+          "Taking responsibility for your actions.",
+          "Blaming the other person."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_encouraging_forgiveness",
+      "title": "Encouraging Forgiveness and Moving Forward",
+      "goal": "Help parents foster forgiveness and resilience in their child after conflicts.",
+      "keyConcept": "Forgiveness allows relationships to heal and grow. Encourage your child to let go of grudges and focus on positive ways to move forward, while also respecting their feelings if they need time.",
+      "example": "After a disagreement, your child is still upset. You talk about how forgiving their friend can help them feel better and keep the friendship strong.",
+      "parentTip": "Remind your child that forgiving doesn\u2019t mean forgetting, but it helps everyone feel better and learn from mistakes.",
+      "reflectionPrompt": "How do you practice forgiveness in your own life? How can you help your child understand its value?",
+      "quizQuestion": {
+        "question": "Why is forgiveness important in relationships?",
+        "options": [
+          "It helps people heal and maintain strong connections.",
+          "It means you have to forget what happened."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "practicing_interpersonal_effectiveness_in_daily_life": [
+    {
+      "id": "micro_lesson_1_identifying_interpersonal_opportunities",
+      "title": "Spotting Everyday Interpersonal Moments",
+      "goal": "Help parents recognize daily situations where interpersonal effectiveness skills can be practiced.",
+      "keyConcept": "Interpersonal effectiveness isn't just for big conflicts or important conversations\u2014it's useful in everyday interactions, too. By noticing small moments, like asking for help or setting a boundary, you can model healthy communication for your child. Awareness is the first step to making positive changes in how you relate to others.",
+      "example": "You notice your child is upset after school. Instead of immediately offering solutions, you pause and ask how they're feeling, showing you value their perspective.",
+      "parentTip": "Today, pay attention to three small interactions with your child or others. Ask yourself: Could I use an interpersonal skill here, like active listening or expressing my needs?",
+      "reflectionPrompt": "What is one small, everyday situation where you could practice an interpersonal skill with your child?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an everyday opportunity to practice interpersonal effectiveness?",
+        "options": [
+          "Waiting for a major argument to occur",
+          "Listening to your child talk about their day",
+          "Ignoring minor disagreements"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_2_assertive_communication_basics",
+      "title": "Using Assertive Communication",
+      "goal": "Teach parents how to express needs and feelings clearly and respectfully.",
+      "keyConcept": "Assertive communication means expressing your thoughts, feelings, and needs honestly while respecting others. It helps prevent misunderstandings and builds trust. Being assertive is different from being passive (not speaking up) or aggressive (demanding or disrespectful).",
+      "example": "Instead of saying nothing when you need help, you say, 'I feel overwhelmed right now. Could you help me set the table?'",
+      "parentTip": "Practice using 'I' statements with your child today, such as 'I feel proud when you share your thoughts with me.'",
+      "reflectionPrompt": "How comfortable do you feel expressing your needs to your child? What might make it easier?",
+      "quizQuestion": {
+        "question": "What is an assertive way to ask your child for help?",
+        "options": [
+          "'You never help me!'",
+          "'I feel tired. Can you please help me with the dishes?'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_3_overcoming_common_challenges",
+      "title": "Handling Common Interpersonal Challenges",
+      "goal": "Equip parents to manage typical obstacles when practicing interpersonal skills.",
+      "keyConcept": "It's normal to face challenges like feeling nervous, being misunderstood, or dealing with resistance. Recognizing these obstacles helps you prepare and respond calmly. Remember, progress comes with practice, not perfection.",
+      "example": "Your child rolls their eyes when you set a limit. Instead of reacting angrily, you take a deep breath and calmly restate your boundary.",
+      "parentTip": "When you notice a challenge, pause and take a slow breath before responding. This gives you a moment to choose a skillful response.",
+      "reflectionPrompt": "What is one challenge you often face in conversations with your child, and how might you handle it differently next time?",
+      "quizQuestion": {
+        "question": "What is a helpful first step when facing a challenging interaction?",
+        "options": [
+          "React immediately",
+          "Pause and take a breath"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_4_modeling_interpersonal_skills",
+      "title": "Modeling Skills for Your Child",
+      "goal": "Show parents how to demonstrate interpersonal effectiveness for their children.",
+      "keyConcept": "Children learn a lot by watching how their parents interact with others. When you use respectful communication, set boundaries, and handle emotions calmly, you teach your child to do the same. Modeling is a powerful teaching tool.",
+      "example": "During a disagreement with your partner, you listen carefully, express your feelings respectfully, and look for a compromise. Your child observes this approach.",
+      "parentTip": "Pick one interpersonal skill to model today, such as apologizing when you make a mistake or listening without interrupting.",
+      "reflectionPrompt": "How might your child benefit from seeing you use interpersonal skills in your daily life?",
+      "quizQuestion": {
+        "question": "Why is modeling interpersonal skills important for your child?",
+        "options": [
+          "Children learn best by example",
+          "Children ignore how parents behave"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_5_reflecting_and_building_habits",
+      "title": "Reflecting and Building New Habits",
+      "goal": "Encourage parents to reflect on their progress and make interpersonal skills a regular part of family life.",
+      "keyConcept": "Regular reflection helps you notice what's working and where you can improve. Small, consistent efforts lead to lasting change. By making interpersonal skills a habit, you create a supportive environment for your child's growth.",
+      "example": "At the end of the week, you think about times you communicated well and times you struggled, then set a small goal for next week.",
+      "parentTip": "Set aside five minutes each week to reflect on your interpersonal interactions and choose one skill to focus on improving.",
+      "reflectionPrompt": "What is one interpersonal skill you want to strengthen this week, and how will you practice it?",
+      "quizQuestion": {
+        "question": "What is a good way to make interpersonal skills a habit?",
+        "options": [
+          "Practice them once and forget about it",
+          "Reflect regularly and set small goals"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

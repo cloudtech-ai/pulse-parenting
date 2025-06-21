@@ -1,0 +1,97 @@
+{
+  "id": "dbt_interpersonal_effectiveness_teens",
+  "title": "DBT Interpersonal Effectiveness Workbook for Teens",
+  "description": "The 'DBT Interpersonal Effectiveness Workbook for Teens' is designed to help adolescents develop essential skills for healthy communication and relationship-building. Using Dialectical Behavior Therapy (DBT) principles, the workbook guides teens through practical exercises and strategies to assert themselves, maintain self-respect, and navigate social situations with confidence. The book breaks down complex interpersonal concepts into manageable lessons, making them accessible and engaging. Teens learn to identify their needs, set boundaries, manage conflict, and develop empathy for others. The overall focus is on empowering teens to create and sustain positive, effective relationships.",
+  "modules": [
+    {
+      "id": "introduction_to_interpersonal_effectiveness",
+      "title": "Introduction to Interpersonal Effectiveness",
+      "goal": "Understand what interpersonal effectiveness means and why it is important for healthy relationships.",
+      "key_points": [
+        "Defines interpersonal effectiveness and its role in everyday life.",
+        "Explains core DBT principles relevant to communication.",
+        "Introduces the value of balancing personal needs with social harmony."
+      ]
+    },
+    {
+      "id": "identifying_relationship_needs",
+      "title": "Identifying Your Relationship Needs",
+      "goal": "Learn to recognize and clarify personal needs and goals within relationships.",
+      "key_points": [
+        "Guides users to reflect on their own needs and values.",
+        "Helps differentiate between wants, needs, and expectations.",
+        "Encourages self-awareness as a foundation for effective communication."
+      ]
+    },
+    {
+      "id": "assertiveness_and_self_respect",
+      "title": "Assertiveness and Self-Respect",
+      "goal": "Develop skills to assert opinions and feelings while maintaining self-respect and respect for others.",
+      "key_points": [
+        "Teaches the difference between passive, aggressive, and assertive communication.",
+        "Provides strategies for expressing needs confidently.",
+        "Explores the importance of self-respect in interpersonal situations."
+      ]
+    },
+    {
+      "id": "the_dear_man_skill",
+      "title": "The DEAR MAN Skill",
+      "goal": "Master the DEAR MAN skill to effectively ask for what you want or say no to unwanted requests.",
+      "key_points": [
+        "Breaks down the DEAR MAN acronym and its components.",
+        "Offers step-by-step practice scenarios.",
+        "Emphasizes clarity, assertiveness, and respect in requests."
+      ]
+    },
+    {
+      "id": "relationship_maintenance_and_give",
+      "title": "Relationship Maintenance and the GIVE Skill",
+      "goal": "Learn techniques for maintaining relationships while being true to yourself.",
+      "key_points": [
+        "Describes the GIVE skill for maintaining positive relationships.",
+        "Focuses on balancing self-respect with relationship goals.",
+        "Provides tools for active listening and validation."
+      ]
+    },
+    {
+      "id": "self_respect_and_the_fast_skill",
+      "title": "Self-Respect and the FAST Skill",
+      "goal": "Apply the FAST skill to maintain self-respect in challenging social situations.",
+      "key_points": [
+        "Explains the FAST acronym and its use in real-life scenarios.",
+        "Teaches how to set boundaries without guilt or aggression.",
+        "Encourages consistent self-respect even under pressure."
+      ]
+    },
+    {
+      "id": "managing_conflict_and_emotional_reactivity",
+      "title": "Managing Conflict and Emotional Reactivity",
+      "goal": "Build skills to handle conflicts and strong emotions effectively in relationships.",
+      "key_points": [
+        "Identifies common triggers for conflict and emotional reactivity.",
+        "Teaches DBT strategies for emotion regulation during disagreements.",
+        "Discusses healthy approaches to resolving interpersonal conflicts."
+      ]
+    },
+    {
+      "id": "building_and_repairing_relationships",
+      "title": "Building and Repairing Relationships",
+      "goal": "Develop strategies to initiate, strengthen, and repair relationships.",
+      "key_points": [
+        "Covers techniques for making new connections and deepening existing ones.",
+        "Discusses how to repair relationships after misunderstandings or conflict.",
+        "Encourages empathy, forgiveness, and effective apology."
+      ]
+    },
+    {
+      "id": "practicing_interpersonal_effectiveness_in_daily_life",
+      "title": "Practicing Interpersonal Effectiveness in Daily Life",
+      "goal": "Integrate interpersonal effectiveness skills into everyday situations.",
+      "key_points": [
+        "Provides practical exercises for daily practice.",
+        "Reviews common challenges and how to overcome them.",
+        "Encourages ongoing reflection and skill-building."
+      ]
+    }
+  ]
+}

@@ -12,12 +12,12 @@
     },
     {
       "id": 11,
-      "title": "DBT Interpersonal Effectiveness",
+      "title": "DBT Interpersonal Effectiveness workbook for Teens",
       "info": "dbt_books/dbt_2.json",
       "strategies": "dbt_books/dbt_2_strategies.json",
       "studyPlans": {
-        "module_path": "",
-        "lesson_path": ""
+        "module_path": "dbt_books/study_plans/dbt_interpersonal_effectiveness_workbook_for/dbt_interpersonal_effectiveness_workbook_for_modules.json",
+        "lesson_path": "dbt_books/study_plans/dbt_interpersonal_effectiveness_workbook_for/dbt_interpersonal_effectiveness_workbook_for_lessons.json"
       }
     },
     {
@@ -44,8 +44,7 @@
   "recommendedVideos": [
     {
       "videoId": "gcv1w2mxLrw",
-      "title": "DBT – Mindfulness – Quick Overview of All Skills"
+      "title": "DBT \u2013 Mindfulness \u2013 Quick Overview of All Skills"
     }
   ]
 }
-
