@@ -1,0 +1,641 @@
+{
+  "introduction_to_stress_and_dbt": [
+    {
+      "id": "lesson1_understanding_stress",
+      "title": "Understanding Stress in Teens",
+      "goal": "Recognize what stress is and how it affects your child.",
+      "keyConcept": "Stress is a natural response to challenges or demands, and it can affect teens emotionally, physically, and behaviorally. Recognizing the signs of stress in your child is the first step to supporting their mental health. Stress can show up as irritability, withdrawal, headaches, or changes in sleep and appetite.",
+      "example": "Your teen comes home from school unusually quiet and skips dinner, saying they have too much homework. This change in behavior could be a sign of stress.",
+      "parentTip": "Notice and gently name changes in your child's mood or habits. For example, say, 'I've noticed you've been quieter lately. Is something on your mind?'",
+      "reflectionPrompt": "What are some signs that your child might be feeling stressed?",
+      "quizQuestion": {
+        "question": "Which of the following can be a sign of stress in teens?",
+        "options": [
+          "Increased energy and excitement",
+          "Withdrawal and changes in appetite",
+          "Constant laughter"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_introducing_dbt",
+      "title": "Introducing DBT: A Helpful Approach",
+      "goal": "Learn what Dialectical Behavior Therapy (DBT) is and why it can help.",
+      "keyConcept": "DBT is a type of therapy that teaches practical skills for managing emotions, handling stress, and improving relationships. It focuses on balancing acceptance and change, helping teens cope with difficult feelings in healthy ways.",
+      "example": "A teen who feels overwhelmed by schoolwork learns DBT skills to pause, breathe, and break tasks into smaller steps, rather than shutting down or lashing out.",
+      "parentTip": "Share with your child that learning new skills can help them handle tough emotions. Say, 'There are tools we can learn together to make things feel less overwhelming.'",
+      "reflectionPrompt": "How comfortable are you with learning new coping skills alongside your child?",
+      "quizQuestion": {
+        "question": "What is a main focus of DBT?",
+        "options": [
+          "Ignoring emotions",
+          "Balancing acceptance and change",
+          "Punishing negative behavior"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_validating_emotions",
+      "title": "Validating Your Child\u2019s Emotions",
+      "goal": "Practice acknowledging and accepting your child\u2019s feelings.",
+      "keyConcept": "Validation means letting your child know their feelings make sense, even if you don\u2019t agree with their reaction. When teens feel understood, they\u2019re more likely to open up and less likely to act out.",
+      "example": "Your child says, 'I hate school.' Instead of dismissing it, you respond, 'It sounds like school has been really tough for you lately.'",
+      "parentTip": "Use phrases like, 'That sounds really hard,' or 'I can see why you\u2019d feel that way,' to show empathy.",
+      "reflectionPrompt": "When was the last time you validated your child\u2019s feelings? How did they respond?",
+      "quizQuestion": {
+        "question": "What does validation mean in the context of supporting your child?",
+        "options": [
+          "Telling them to stop feeling that way",
+          "Letting them know their feelings make sense",
+          "Ignoring their emotions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_modeling_coping_skills",
+      "title": "Modeling Healthy Coping Skills",
+      "goal": "Demonstrate positive ways to handle stress for your child.",
+      "keyConcept": "Children learn a lot by watching their parents. When you handle your own stress in healthy ways\u2014like taking deep breaths, talking things out, or taking a walk\u2014you show your child that it\u2019s okay to have big feelings and that there are ways to manage them.",
+      "example": "You feel frustrated after a long day and say, 'I\u2019m feeling stressed, so I\u2019m going to take a few deep breaths before we talk.'",
+      "parentTip": "Narrate your coping strategies out loud. For example, 'I\u2019m feeling overwhelmed, so I\u2019m going to step outside for a minute to clear my head.'",
+      "reflectionPrompt": "What coping strategies do you use when you feel stressed? How can you share these with your child?",
+      "quizQuestion": {
+        "question": "Why is it important to model coping skills for your child?",
+        "options": [
+          "They will copy your healthy habits",
+          "It makes you look perfect",
+          "It prevents all stress"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_building_coping_routine",
+      "title": "Building a Coping Skills Routine",
+      "goal": "Help your child create a simple routine for managing stress.",
+      "keyConcept": "Having a set of go-to coping skills makes it easier for teens to handle stress when it arises. Together, you can brainstorm and practice strategies like deep breathing, journaling, or taking breaks, so your child feels prepared.",
+      "example": "You and your child make a list of three things they can do when they feel overwhelmed, such as listening to music, drawing, or talking to someone they trust.",
+      "parentTip": "Ask your child what helps them feel better and encourage them to try one coping skill each day, even when they\u2019re not stressed.",
+      "reflectionPrompt": "What coping skills does your child already use? How can you encourage them to try new ones?",
+      "quizQuestion": {
+        "question": "What is a benefit of having a coping skills routine?",
+        "options": [
+          "It helps your child feel prepared for stress",
+          "It eliminates all problems",
+          "It makes stress worse"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "recognizing_and_understanding_stress": [
+    {
+      "id": "lesson1_identifying_signs_of_stress",
+      "title": "Spotting Stress: Physical, Emotional, and Behavioral Signs",
+      "goal": "Learn to recognize the different ways stress can show up in your child.",
+      "keyConcept": "Stress can affect teens in many ways, including physical symptoms (like headaches or stomachaches), emotional changes (such as irritability or sadness), and behavioral shifts (like withdrawing or acting out). By being aware of these signs, you can better support your child when they are feeling overwhelmed.",
+      "example": "You notice your teen has been complaining about frequent headaches and seems more withdrawn than usual. These could be signs that they are experiencing stress.",
+      "parentTip": "Observe your child\u2019s daily behavior and gently ask about any changes you notice, saying something like, 'I've noticed you've been quieter lately. Is there anything on your mind?'",
+      "reflectionPrompt": "What physical, emotional, or behavioral signs have you noticed in your child when they seem stressed?",
+      "quizQuestion": {
+        "question": "Which of the following is a possible sign of stress in teens?",
+        "options": [
+          "Frequent headaches",
+          "Increased appetite",
+          "Improved sleep"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_common_triggers_for_teens",
+      "title": "Understanding Common Stress Triggers",
+      "goal": "Identify typical sources of stress for teens and how they might affect your child.",
+      "keyConcept": "Teens often experience stress from schoolwork, friendships, family expectations, social media, and changes in their bodies. Recognizing these triggers can help you empathize with your child and anticipate when they might need extra support.",
+      "example": "Your child seems anxious before exams or after arguments with friends, indicating these situations are stressful for them.",
+      "parentTip": "Ask open-ended questions like, 'What\u2019s been the most stressful part of your week?' to help your child identify their own stress triggers.",
+      "reflectionPrompt": "What situations or events seem to cause the most stress for your child?",
+      "quizQuestion": {
+        "question": "Which of these is a common stress trigger for teens?",
+        "options": [
+          "Schoolwork",
+          "Watching cartoons",
+          "Eating breakfast"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_validating_stress_experiences",
+      "title": "Validating Your Child\u2019s Stress",
+      "goal": "Learn how to acknowledge and validate your child\u2019s feelings of stress.",
+      "keyConcept": "Validation means letting your child know that their feelings are real and understandable, even if you don\u2019t fully agree or relate. This helps them feel supported and less alone in their stress.",
+      "example": "When your teen says they\u2019re overwhelmed by homework, you respond, 'That sounds really tough. I can see why you\u2019d feel stressed.'",
+      "parentTip": "Use phrases like, 'It makes sense that you feel this way,' to show empathy and understanding.",
+      "reflectionPrompt": "How do you usually respond when your child shares that they\u2019re stressed? How might validation help?",
+      "quizQuestion": {
+        "question": "What is an example of validating your child\u2019s stress?",
+        "options": [
+          "Telling them to stop worrying",
+          "Saying, 'I can see why you feel that way'",
+          "Ignoring their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_encouraging_self_reflection",
+      "title": "Encouraging Self-Reflection in Your Child",
+      "goal": "Help your child become more aware of their own stress triggers and responses.",
+      "keyConcept": "Self-reflection helps teens identify what causes their stress and how they react to it. Journaling or talking about their experiences can increase self-awareness and empower them to manage stress more effectively.",
+      "example": "You suggest your child keep a simple journal where they write down what made them feel stressed each day and how they responded.",
+      "parentTip": "Invite your child to share their thoughts or keep a stress journal, reassuring them that it\u2019s okay to talk about difficult feelings.",
+      "reflectionPrompt": "How can you create a safe space for your child to reflect on and share their stress experiences?",
+      "quizQuestion": {
+        "question": "What is one way to encourage self-reflection in your child?",
+        "options": [
+          "Ask them to keep a stress journal",
+          "Tell them to ignore their feelings",
+          "Punish them for being upset"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_modeling_healthy_stress_management",
+      "title": "Modeling Healthy Stress Management",
+      "goal": "Demonstrate positive ways to cope with stress for your child to observe and learn from.",
+      "keyConcept": "Children learn a lot by watching their parents. By managing your own stress in healthy ways\u2014like taking deep breaths, talking about your feelings, or taking breaks\u2014you show your child that it\u2019s okay to feel stressed and that there are effective ways to handle it.",
+      "example": "When you feel overwhelmed, you say out loud, 'I\u2019m feeling stressed, so I\u2019m going to take a short walk to clear my head.'",
+      "parentTip": "Share your own coping strategies with your child and invite them to join you in a calming activity.",
+      "reflectionPrompt": "What healthy stress management techniques can you model for your child this week?",
+      "quizQuestion": {
+        "question": "How can you model healthy stress management for your child?",
+        "options": [
+          "Yelling when stressed",
+          "Taking deep breaths and talking about your feelings",
+          "Ignoring stress completely"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "distress_tolerance_skills": [
+    {
+      "id": "dt_micro1_distraction",
+      "title": "Using Distraction to Manage Stress",
+      "goal": "Learn how to use distraction as a healthy way to cope with stressful moments.",
+      "keyConcept": "Distraction is a distress tolerance skill that helps shift your child\u2019s focus away from overwhelming emotions or situations. By redirecting attention to a different activity, you give your child\u2019s mind a break and prevent impulsive reactions. This technique is not about ignoring problems, but about creating space to calm down before addressing them.",
+      "example": "Your child is upset after a disagreement with a friend. Instead of dwelling on the argument, you suggest going for a walk together or playing a favorite game to help them cool off.",
+      "parentTip": "When your child is visibly stressed, gently offer a choice of activities they enjoy, such as drawing, listening to music, or going outside. Say, 'Let\u2019s take a break and do something fun for a few minutes.'",
+      "reflectionPrompt": "What activities help your child feel better when they\u2019re upset? How can you encourage these as healthy distractions?",
+      "quizQuestion": {
+        "question": "What is the main purpose of using distraction as a distress tolerance skill?",
+        "options": [
+          "To avoid dealing with problems forever",
+          "To give the mind a break and prevent impulsive reactions",
+          "To punish the child for feeling upset"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dt_micro2_selfsoothing",
+      "title": "Teaching Self-Soothing Skills",
+      "goal": "Help your child learn to calm themselves using their senses.",
+      "keyConcept": "Self-soothing involves using the five senses\u2014sight, sound, touch, taste, and smell\u2014to comfort oneself during stressful times. Encouraging your child to notice and enjoy pleasant sensory experiences can help them feel safer and more relaxed when emotions run high.",
+      "example": "After a tough day at school, your child wraps themselves in a soft blanket and listens to calming music, which helps them unwind.",
+      "parentTip": "Create a 'comfort kit' with your child, filled with items that appeal to their senses, like a favorite snack, a scented lotion, or a soft toy. Remind them to use these when they need to calm down.",
+      "reflectionPrompt": "Which sensory experiences does your child find most comforting? How can you help them access these during stressful moments?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of self-soothing?",
+        "options": [
+          "Yelling when upset",
+          "Listening to calming music",
+          "Ignoring your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dt_micro3_proscons",
+      "title": "Using Pros and Cons for Decision-Making",
+      "goal": "Teach your child to weigh the pros and cons before reacting in stressful situations.",
+      "keyConcept": "Making a quick decision in the heat of the moment can sometimes make things worse. Teaching your child to pause and consider the pros and cons of different actions helps them make wiser choices, especially when emotions are strong.",
+      "example": "Your child wants to send an angry text to a friend after a fight. You help them list the pros and cons of sending the message now versus waiting until they feel calmer.",
+      "parentTip": "When your child is upset, guide them through making a simple pros and cons list about what they want to do next. Ask, 'What might be good or not so good about this choice?'",
+      "reflectionPrompt": "How can you model using pros and cons in your own decision-making to help your child learn this skill?",
+      "quizQuestion": {
+        "question": "Why is it helpful to make a pros and cons list during stressful moments?",
+        "options": [
+          "To avoid making impulsive decisions",
+          "To ignore the problem",
+          "To make your child do what you want"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "dt_micro4_acceptance",
+      "title": "Practicing Acceptance in Difficult Moments",
+      "goal": "Support your child in accepting difficult feelings without judgment.",
+      "keyConcept": "Acceptance means acknowledging emotions and situations as they are, rather than fighting or denying them. This doesn\u2019t mean you approve of the situation, but it helps reduce suffering and allows your child to move forward more calmly.",
+      "example": "Your child is disappointed about not making the team. Instead of saying 'Don\u2019t feel bad,' you validate their feelings and say, 'It\u2019s okay to feel sad about this.'",
+      "parentTip": "When your child is upset, try saying, 'It\u2019s normal to feel this way,' or 'Your feelings make sense.' Avoid minimizing or dismissing their emotions.",
+      "reflectionPrompt": "How do you usually respond to your child\u2019s difficult emotions? What might change if you focused on acceptance?",
+      "quizQuestion": {
+        "question": "What does practicing acceptance mean?",
+        "options": [
+          "Ignoring your child\u2019s feelings",
+          "Acknowledging emotions without judgment",
+          "Telling your child to stop feeling upset"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dt_micro5_mindfulness",
+      "title": "Introducing Mindfulness for Stress Relief",
+      "goal": "Help your child use mindfulness to stay present during stressful times.",
+      "keyConcept": "Mindfulness means paying attention to the present moment without judgment. Teaching your child to notice their thoughts, feelings, and surroundings can help them feel more grounded and less overwhelmed by stress.",
+      "example": "When your child is anxious about an upcoming test, you guide them to take a few deep breaths and notice the sights and sounds around them, helping them feel calmer.",
+      "parentTip": "Practice a simple mindfulness exercise with your child, like focusing on breathing or naming five things you can see, hear, or feel right now.",
+      "reflectionPrompt": "What small mindfulness practice could you try with your child this week?",
+      "quizQuestion": {
+        "question": "What is the main goal of mindfulness?",
+        "options": [
+          "To focus on the present moment without judgment",
+          "To forget about your problems",
+          "To control other people\u2019s actions"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "emotion_regulation_skills": [
+    {
+      "id": "emotion_cycle_awareness",
+      "title": "Understanding the Cycle of Emotions",
+      "goal": "Help parents recognize how emotions start, build, and influence behavior.",
+      "keyConcept": "Emotions often follow a predictable cycle: a trigger leads to a feeling, which then influences thoughts and actions. By understanding this cycle, parents can better support their child in identifying what causes emotional reactions and how to respond constructively.",
+      "example": "Your child comes home upset after a disagreement with a friend. The trigger (argument) leads to the emotion (anger or sadness), which may result in withdrawal or irritability.",
+      "parentTip": "When your child is upset, gently ask, 'Can you tell me what happened right before you started feeling this way?' This helps them connect triggers to emotions.",
+      "reflectionPrompt": "Think of a recent time your child was emotional. What do you think triggered their feelings?",
+      "quizQuestion": {
+        "question": "What is the first step in the emotion cycle?",
+        "options": [
+          "A trigger or event",
+          "A physical reaction",
+          "A solution"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "emotion_labeling",
+      "title": "Naming Emotions Accurately",
+      "goal": "Teach parents how to help their child identify and label emotions.",
+      "keyConcept": "Children often experience complex feelings but may struggle to name them. Accurately labeling emotions helps children understand and manage what they're feeling, making it easier to communicate and seek support.",
+      "example": "Instead of just saying 'mad,' your child might actually be feeling 'frustrated' or 'disappointed.' Helping them find the right word can clarify their experience.",
+      "parentTip": "Use an emotion chart or list to help your child pick the word that best matches what they're feeling. Say, 'Are you feeling angry, or is it more like frustration or sadness?'",
+      "reflectionPrompt": "How comfortable are you with naming your own emotions in front of your child?",
+      "quizQuestion": {
+        "question": "Why is it important for children to label their emotions?",
+        "options": [
+          "It helps them ignore their feelings",
+          "It helps them understand and manage their feelings",
+          "It makes them more emotional"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "emotion_validation",
+      "title": "Validating Your Child\u2019s Feelings",
+      "goal": "Show parents how to acknowledge and validate their child\u2019s emotions.",
+      "keyConcept": "Validation means letting your child know their feelings are real and understandable, even if you don\u2019t agree with their reaction. This builds trust and helps children feel safe expressing themselves.",
+      "example": "When your child says, 'I\u2019m scared about the test,' you respond, 'It makes sense to feel nervous before something important.'",
+      "parentTip": "Try saying, 'I can see that you\u2019re feeling really upset right now. That\u2019s okay\u2014everyone feels that way sometimes.'",
+      "reflectionPrompt": "How do you usually respond when your child expresses strong emotions?",
+      "quizQuestion": {
+        "question": "What does validation communicate to your child?",
+        "options": [
+          "Their feelings are wrong",
+          "Their feelings are real and understandable",
+          "They should hide their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "reduce_emotional_vulnerability",
+      "title": "Reducing Emotional Vulnerability",
+      "goal": "Help parents support their child in building resilience to intense emotions.",
+      "keyConcept": "Children are more vulnerable to strong emotions when they\u2019re tired, hungry, or stressed. Meeting basic needs and practicing self-care can make it easier for them to handle emotional challenges.",
+      "example": "A child who skipped lunch is more likely to have a meltdown after school. Ensuring regular meals and rest can prevent emotional outbursts.",
+      "parentTip": "Check in with your child about their physical needs: 'Have you eaten? Did you sleep well?' Encourage routines that support emotional balance.",
+      "reflectionPrompt": "What daily habits could you adjust to help your child feel more emotionally steady?",
+      "quizQuestion": {
+        "question": "Which of the following can increase a child\u2019s emotional vulnerability?",
+        "options": [
+          "Getting enough sleep",
+          "Skipping meals",
+          "Having a routine"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "modeling_emotion_regulation",
+      "title": "Modeling Emotion Regulation",
+      "goal": "Encourage parents to demonstrate healthy emotion management.",
+      "keyConcept": "Children learn how to handle emotions by watching adults. When parents manage their own feelings calmly and talk about their coping strategies, children are more likely to adopt similar habits.",
+      "example": "If you feel frustrated, you might say, 'I\u2019m feeling overwhelmed, so I\u2019m going to take a few deep breaths.'",
+      "parentTip": "Narrate your own coping strategies out loud: 'I\u2019m upset, so I\u2019m going to take a short walk to calm down.'",
+      "reflectionPrompt": "How do you usually handle your own emotions in front of your child?",
+      "quizQuestion": {
+        "question": "What is one way to teach children emotion regulation?",
+        "options": [
+          "Ignore your own feelings",
+          "Model healthy coping strategies",
+          "Tell them to stop feeling"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "mindfulness_and_present_moment_awareness": [
+    {
+      "id": "mindfulness_intro_parent",
+      "title": "Understanding Mindfulness for Parents",
+      "goal": "Gain a clear understanding of what mindfulness is and why it matters for your child\u2019s mental health.",
+      "keyConcept": "Mindfulness means paying attention to the present moment without judgment. It helps both parents and children become more aware of their thoughts, feelings, and surroundings. Practicing mindfulness can reduce stress and improve emotional regulation, making it a valuable tool for raising resilient kids.",
+      "example": "Imagine your child is upset after a tough day at school. Instead of immediately offering solutions, you pause, notice your own feelings, and listen attentively to your child\u2019s experience.",
+      "parentTip": "Try taking three slow, deep breaths before responding to your child during stressful moments. This helps you model calmness and presence.",
+      "reflectionPrompt": "When was the last time you paused before reacting to your child? How did it affect the situation?",
+      "quizQuestion": {
+        "question": "What is the main purpose of mindfulness?",
+        "options": [
+          "To focus on the present moment without judgment",
+          "To ignore difficult emotions",
+          "To always be happy"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "present_moment_focus",
+      "title": "Focusing on the Present Moment",
+      "goal": "Learn how to help your child (and yourself) pay attention to what\u2019s happening right now.",
+      "keyConcept": "Being present means noticing what you see, hear, and feel in the current moment, rather than worrying about the past or future. This skill can help your child manage stress and avoid getting overwhelmed by emotions.",
+      "example": "During dinner, you and your child put away phones and take turns describing the taste and texture of your food, bringing your attention fully to the meal.",
+      "parentTip": "Set aside five minutes each day to do a simple activity with your child\u2014like walking or eating\u2014while focusing only on the sensations and experience.",
+      "reflectionPrompt": "What daily routine could you turn into a mindful moment with your child?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of being present?",
+        "options": [
+          "Thinking about tomorrow\u2019s chores while talking to your child",
+          "Listening carefully to your child\u2019s story without distractions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "nonjudgmental_awareness",
+      "title": "Practicing Nonjudgmental Awareness",
+      "goal": "Understand how to observe thoughts and feelings without labeling them as good or bad.",
+      "keyConcept": "Nonjudgmental awareness means noticing your own and your child\u2019s emotions and thoughts without criticizing or trying to change them right away. This approach helps children feel accepted and teaches them to handle difficult feelings more effectively.",
+      "example": "Your child says, 'I\u2019m so angry!' Instead of saying, 'Don\u2019t be angry,' you respond, 'I see you\u2019re feeling angry right now.'",
+      "parentTip": "When your child expresses a strong emotion, try reflecting it back without judgment: 'You seem really frustrated.'",
+      "reflectionPrompt": "How do you usually respond when your child shares a difficult feeling? What might change if you responded without judgment?",
+      "quizQuestion": {
+        "question": "What does nonjudgmental awareness involve?",
+        "options": [
+          "Noticing feelings without labeling them as good or bad",
+          "Telling your child to stop feeling a certain way"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "mindful_breathing",
+      "title": "Teaching Mindful Breathing",
+      "goal": "Learn a simple breathing exercise to help your child (and yourself) calm down during stressful moments.",
+      "keyConcept": "Mindful breathing involves focusing attention on the breath as it moves in and out of the body. This practice can quickly reduce stress and help both you and your child regain emotional balance.",
+      "example": "When your child is anxious before a test, you sit together and take five slow, deep breaths, paying attention to the feeling of air moving in and out.",
+      "parentTip": "Practice 'belly breathing' with your child: Place a hand on your stomach and feel it rise and fall with each breath. Do this together for one minute.",
+      "reflectionPrompt": "How might practicing mindful breathing together change the way you and your child handle stress?",
+      "quizQuestion": {
+        "question": "What is the main benefit of mindful breathing?",
+        "options": [
+          "It helps reduce stress and calm emotions",
+          "It makes you forget your problems"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "modeling_mindfulness",
+      "title": "Modeling Mindfulness for Your Child",
+      "goal": "Discover how your own mindfulness practice can positively influence your child.",
+      "keyConcept": "Children learn by watching their parents. When you practice mindfulness\u2014pausing, breathing, and responding thoughtfully\u2014you show your child how to handle emotions and stress in healthy ways.",
+      "example": "You notice you\u2019re feeling frustrated after a long day. Instead of snapping, you say, 'I\u2019m going to take a few deep breaths to calm down.' Your child sees you using a healthy coping skill.",
+      "parentTip": "Share your mindfulness moments with your child. For example, say out loud, 'I\u2019m feeling stressed, so I\u2019m going to take a mindful pause.'",
+      "reflectionPrompt": "How can you make your own mindfulness practice more visible to your child?",
+      "quizQuestion": {
+        "question": "Why is it important for parents to model mindfulness?",
+        "options": [
+          "Children learn healthy coping skills by example",
+          "It makes children do what parents say"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "building_resilience_and_self_compassion": [
+    {
+      "id": "resilience_coping_connection",
+      "title": "Understanding Resilience and Coping Skills",
+      "goal": "Recognize how resilience and coping skills work together to support your child's wellbeing.",
+      "keyConcept": "Resilience is the ability to bounce back from challenges, while coping skills are the tools we use to manage stress. When children develop strong coping skills, they become more resilient and better equipped to handle setbacks. As a parent, understanding this connection helps you support your child's emotional growth.",
+      "example": "When your child struggles with a tough homework assignment, using deep breaths or taking a short break are coping skills that help them persist and eventually succeed.",
+      "parentTip": "Notice and praise your child when they use a healthy coping skill, such as taking a break or asking for help. Say, 'I saw you took a deep breath when you got frustrated\u2014that's a great way to handle stress.'",
+      "reflectionPrompt": "What coping skills have you noticed your child using when faced with challenges?",
+      "quizQuestion": {
+        "question": "What is the relationship between resilience and coping skills?",
+        "options": [
+          "Coping skills help build resilience.",
+          "Resilience replaces the need for coping skills.",
+          "They are unrelated."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "modeling_self_kindness",
+      "title": "Modeling Self-Kindness",
+      "goal": "Learn how to demonstrate self-kindness so your child can follow your example.",
+      "keyConcept": "Children learn how to treat themselves by watching how their parents handle mistakes and setbacks. When you speak kindly to yourself and show self-compassion, your child is more likely to do the same. Modeling self-kindness teaches your child that it's okay to be imperfect and to treat themselves gently.",
+      "example": "If you burn dinner, instead of saying, 'I'm so stupid,' you say, 'Everyone makes mistakes\u2014I'll try again tomorrow.'",
+      "parentTip": "When you make a mistake, say out loud, 'It's okay to make mistakes. I can learn from this.' This shows your child how to be gentle with themselves.",
+      "reflectionPrompt": "How do you usually talk to yourself when you make a mistake, and what might your child be learning from this?",
+      "quizQuestion": {
+        "question": "Why is it important to model self-kindness for your child?",
+        "options": [
+          "They learn to be self-critical.",
+          "They learn to treat themselves with compassion.",
+          "It has no impact on them."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "positive_self_talk",
+      "title": "Encouraging Positive Self-Talk",
+      "goal": "Help your child develop a habit of positive self-talk to boost their confidence.",
+      "keyConcept": "Positive self-talk means using encouraging and supportive words when thinking about ourselves. Teaching your child to replace negative thoughts with positive ones can help them feel more capable and resilient. This habit builds their confidence and helps them handle stress more effectively.",
+      "example": "Your child says, 'I'm bad at math.' You help them reframe it to, 'Math is hard, but I can get better with practice.'",
+      "parentTip": "When your child says something negative about themselves, gently guide them to rephrase it in a positive way. For example, 'Instead of saying you can't do it, try saying you can keep trying.'",
+      "reflectionPrompt": "What is one negative phrase your child often says, and how could you help them turn it into a positive statement?",
+      "quizQuestion": {
+        "question": "What is an example of positive self-talk?",
+        "options": [
+          "'I'll never get this right.'",
+          "'I can keep trying and improve.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "confidence_from_setbacks",
+      "title": "Building Confidence Through Setbacks",
+      "goal": "Support your child in learning from setbacks to build lasting confidence.",
+      "keyConcept": "Setbacks and mistakes are valuable learning opportunities. When children are encouraged to reflect on what they can learn from challenges, they become more confident and resilient. As a parent, you can help your child see setbacks as a normal part of growth rather than something to fear.",
+      "example": "After losing a soccer game, you talk with your child about what they enjoyed and what they might try differently next time, focusing on effort and learning.",
+      "parentTip": "When your child experiences a setback, ask, 'What did you learn from this? What could you try next time?' This helps them focus on growth instead of failure.",
+      "reflectionPrompt": "How do you usually respond when your child faces a setback, and how might you shift your response to focus on learning?",
+      "quizQuestion": {
+        "question": "What is a healthy way to respond to a child's setback?",
+        "options": [
+          "Focus on what they did wrong.",
+          "Help them reflect on what they learned.",
+          "Ignore the situation."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "daily_resilience_practice",
+      "title": "Making Resilience a Daily Practice",
+      "goal": "Integrate resilience-building habits into your family's daily routine.",
+      "keyConcept": "Resilience grows with regular practice. Small, consistent actions\u2014like sharing daily successes and challenges\u2014help children develop a resilient mindset. Making resilience a part of everyday life prepares your child to handle stress and setbacks with greater confidence.",
+      "example": "At dinner, each family member shares one challenge they faced and how they handled it, celebrating effort and problem-solving.",
+      "parentTip": "Start a daily or weekly family check-in where everyone shares a challenge and how they coped. This normalizes talking about difficulties and solutions.",
+      "reflectionPrompt": "What is one small way you can make resilience-building a regular part of your family's routine?",
+      "quizQuestion": {
+        "question": "How can families help children build resilience?",
+        "options": [
+          "By ignoring challenges.",
+          "By regularly discussing and celebrating coping efforts.",
+          "By avoiding difficult conversations."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "creating_a_personal_coping_plan": [
+    {
+      "id": "lesson1_identifying_stress_signals",
+      "title": "Spotting Your Child\u2019s Stress Signals",
+      "goal": "Help parents recognize early signs of stress in their child.",
+      "keyConcept": "Children often show stress through changes in behavior, mood, or physical symptoms. Recognizing these early signals allows parents to intervene before stress escalates. By observing and noting patterns, parents can better support their child\u2019s emotional needs.",
+      "example": "You notice your child becomes quiet and withdrawn after school on days when they have a big test, or they complain of headaches before social events.",
+      "parentTip": "Start a simple log for a week, noting any changes in your child\u2019s mood, behavior, or physical complaints. Share your observations gently with your child to open a supportive conversation.",
+      "reflectionPrompt": "What are three signs your child shows when they are feeling stressed?",
+      "quizQuestion": {
+        "question": "Which of the following is a common sign of stress in children?",
+        "options": [
+          "Sudden withdrawal from family activities",
+          "Increased appetite for healthy foods",
+          "Improved sleep quality"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_introducing_dbt_skills",
+      "title": "Introducing Coping Skills to Your Child",
+      "goal": "Teach parents how to introduce DBT coping skills in a child-friendly way.",
+      "keyConcept": "Dialectical Behavior Therapy (DBT) skills can help children manage stress, but they need to be explained in simple, relatable terms. Parents can introduce skills like deep breathing, grounding, or positive self-talk as tools for tough moments.",
+      "example": "You teach your child to take three deep breaths when they feel overwhelmed, practicing together during calm moments so it feels natural when stress arises.",
+      "parentTip": "Pick one coping skill and practice it with your child during a relaxed time. Use playful language or games to make it engaging.",
+      "reflectionPrompt": "Which DBT skill do you think your child would find easiest to try first?",
+      "quizQuestion": {
+        "question": "What is a simple DBT skill you can teach your child for stress?",
+        "options": [
+          "Deep breathing",
+          "Ignoring feelings",
+          "Skipping meals"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_building_a_coping_toolkit",
+      "title": "Building a Personalized Coping Toolkit",
+      "goal": "Guide parents in helping their child select coping strategies that work best for them.",
+      "keyConcept": "Every child is unique, so coping strategies should be tailored to their preferences and needs. A coping toolkit can include a mix of physical, emotional, and creative activities that your child finds comforting or helpful.",
+      "example": "Your child chooses to keep a stress ball, a favorite book, and a playlist of calming music in a special box for when they feel upset.",
+      "parentTip": "Sit down with your child and brainstorm a list of activities or items that help them feel better. Create a \u2018coping box\u2019 together and keep it accessible.",
+      "reflectionPrompt": "What are two things your child already does that help them feel calmer?",
+      "quizQuestion": {
+        "question": "Why is it important to personalize a coping toolkit?",
+        "options": [
+          "Because every child has different needs",
+          "Because all children like the same things",
+          "Because parents know best"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_creating_a_written_plan",
+      "title": "Making a Written Coping Plan",
+      "goal": "Support parents in helping their child create a simple, written plan for stressful times.",
+      "keyConcept": "A written coping plan gives children a clear, step-by-step guide to follow when they feel stressed. This plan can include who to talk to, what coping skills to use, and reminders of their strengths.",
+      "example": "Together, you and your child write down: \u2018When I feel stressed, I can: 1) Take three deep breaths, 2) Squeeze my stress ball, 3) Talk to Mom or Dad.\u2019",
+      "parentTip": "Help your child write or draw their coping plan and post it somewhere visible, like the fridge or their bedroom wall.",
+      "reflectionPrompt": "How can you encourage your child to use their coping plan when they need it?",
+      "quizQuestion": {
+        "question": "What is a benefit of having a written coping plan?",
+        "options": [
+          "It provides clear steps during stress",
+          "It makes stress worse",
+          "It is only for adults"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_practicing_and_reflecting",
+      "title": "Practicing and Reflecting on Coping Skills",
+      "goal": "Encourage parents to help their child practice coping skills and reflect on what works.",
+      "keyConcept": "Coping skills become more effective with practice and regular reflection. By reviewing what works and what doesn\u2019t, parents and children can adjust their plan and build confidence in handling stress.",
+      "example": "After a stressful week, you talk with your child about which coping strategies helped and which ones they\u2019d like to try differently next time.",
+      "parentTip": "Set aside time each week to check in with your child about their coping plan. Celebrate successes and brainstorm improvements together.",
+      "reflectionPrompt": "What did you and your child learn from practicing coping skills this week?",
+      "quizQuestion": {
+        "question": "Why is it important to reflect on coping skills?",
+        "options": [
+          "To see what works and make improvements",
+          "To ignore problems",
+          "To avoid talking about stress"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

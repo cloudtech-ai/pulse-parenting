@@ -4,25 +4,41 @@
       "id": 5,
       "title": "DBT Stress Tolerance",
       "info": "dbt_books/dbt_1.json",
-      "strategies": "dbt_books/dbt_1_strategies.json"
+      "strategies": "dbt_books/dbt_1_strategies.json",
+      "studyPlans": {
+        "module_path": "dbt_books/study_plans/dbt_stress_tolerance_workbook_for/dbt_stress_tolerance_workbook_for_modules.json",
+        "lesson_path": "dbt_books/study_plans/dbt_stress_tolerance_workbook_for/dbt_stress_tolerance_workbook_for_lessons.json"
+      }
     },
     {
       "id": 11,
       "title": "DBT Interpersonal Effectiveness",
       "info": "dbt_books/dbt_2.json",
-      "strategies": "dbt_books/dbt_2_strategies.json"
+      "strategies": "dbt_books/dbt_2_strategies.json",
+      "studyPlans": {
+        "module_path": "",
+        "lesson_path": ""
+      }
     },
     {
       "id": 12,
       "title": "DBT Mindfulness",
       "info": "dbt_books/dbt_3.json",
-      "strategies": "dbt_books/dbt_3_strategies.json"
+      "strategies": "dbt_books/dbt_3_strategies.json",
+      "studyPlans": {
+        "module_path": "",
+        "lesson_path": ""
+      }
     },
     {
       "id": 13,
       "title": "DBT - Walking the Middle Path",
       "info": "dbt_books/dbt_4.json",
-      "strategies": "dbt_books/dbt_4_strategies.json"
+      "strategies": "dbt_books/dbt_4_strategies.json",
+      "studyPlans": {
+        "module_path": "",
+        "lesson_path": ""
+      }
     }
   ],
   "recommendedVideos": [

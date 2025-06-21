@@ -1,0 +1,77 @@
+{
+  "id": "dbt_stress_tolerance_workbook_for_teens",
+  "title": "DBT Stress Tolerance Workbook for Teens: Skills to Help You Deal with Stress, Regulate Emotions, and Build Resilience",
+  "description": "This workbook introduces teens to Dialectical Behavior Therapy (DBT) skills for managing stress and overwhelming emotions. It provides practical exercises to help teens tolerate distress, regulate emotions, and build resilience in the face of life\u2019s challenges. The book breaks down DBT concepts in an accessible way, encouraging self-reflection and the development of healthy coping strategies. Teens are guided through step-by-step modules to gain confidence and greater control over their emotional wellbeing.",
+  "modules": [
+    {
+      "id": "introduction_to_stress_and_dbt",
+      "title": "Introduction to Stress and DBT",
+      "goal": "Understand the basics of stress and how DBT can help manage emotional challenges.",
+      "key_points": [
+        "Defines stress and its impact on teens\u2019 lives.",
+        "Introduces the core principles of Dialectical Behavior Therapy.",
+        "Explains the importance of developing coping skills for emotional health."
+      ]
+    },
+    {
+      "id": "recognizing_and_understanding_stress",
+      "title": "Recognizing and Understanding Stress",
+      "goal": "Learn how to identify personal stress triggers and symptoms.",
+      "key_points": [
+        "Helps teens recognize physical, emotional, and behavioral signs of stress.",
+        "Explores common stress triggers for teens.",
+        "Encourages self-reflection through journaling and self-assessment exercises."
+      ]
+    },
+    {
+      "id": "distress_tolerance_skills",
+      "title": "Distress Tolerance Skills",
+      "goal": "Develop skills to tolerate distress without making situations worse.",
+      "key_points": [
+        "Introduces DBT distress tolerance techniques like distraction and self-soothing.",
+        "Teaches the use of pros and cons lists for decision-making in crisis.",
+        "Encourages practicing acceptance and mindfulness during difficult moments."
+      ]
+    },
+    {
+      "id": "emotion_regulation_skills",
+      "title": "Emotion Regulation Skills",
+      "goal": "Learn strategies to understand and manage intense emotions effectively.",
+      "key_points": [
+        "Explains the cycle of emotions and their triggers.",
+        "Provides tools for identifying and labeling emotions.",
+        "Teaches healthy ways to reduce emotional vulnerability."
+      ]
+    },
+    {
+      "id": "mindfulness_and_present_moment_awareness",
+      "title": "Mindfulness and Present Moment Awareness",
+      "goal": "Practice mindfulness to increase self-awareness and reduce emotional reactivity.",
+      "key_points": [
+        "Introduces basic mindfulness concepts and exercises.",
+        "Guides teens in focusing attention on the present moment.",
+        "Explains how mindfulness reduces impulsivity and stress."
+      ]
+    },
+    {
+      "id": "building_resilience_and_self_compassion",
+      "title": "Building Resilience and Self-Compassion",
+      "goal": "Strengthen resilience and self-compassion for long-term emotional wellbeing.",
+      "key_points": [
+        "Explores the connection between resilience and coping skills.",
+        "Encourages self-kindness and positive self-talk.",
+        "Provides exercises for building confidence and learning from setbacks."
+      ]
+    },
+    {
+      "id": "creating_a_personal_coping_plan",
+      "title": "Creating a Personal Coping Plan",
+      "goal": "Develop a personalized coping toolkit to use in stressful situations.",
+      "key_points": [
+        "Guides teens in selecting and combining DBT skills that work best for them.",
+        "Encourages the creation of a written plan for handling future stress.",
+        "Emphasizes the importance of ongoing practice and self-reflection."
+      ]
+    }
+  ]
+}
