@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 31,
+      "title": "Neurodivergent - Understanding Neurodiversity"
+    },
+    {
+      "id": 32,
+      "title": "Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo",
+      "generative_title": "Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo",
+      "info": "nd_books/parenting_child_who_has/parenting_child_who_has_summary.json",
+      "strategies": "nd_books/parenting_child_who_has/parenting_child_who_has_strategies.json",
+      "study_plans": {
+        "module_path": "nd_books/parenting_child_who_has/study_plans/parenting_child_who_has_modules.json",
+        "lesson_path": "nd_books/parenting_child_who_has/study_plans/parenting_child_who_has_lessons.json"
+      }
+    }
+  ]
+}

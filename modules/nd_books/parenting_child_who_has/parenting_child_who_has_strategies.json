@@ -1,0 +1,184 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Validation Techniques",
+    "summary": "Validation means acknowledging and accepting your child\u2019s feelings and experiences as real and understandable.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Validation helps children feel heard and understood, reducing emotional escalation and building trust."
+      },
+      {
+        "section": "Example",
+        "content": "When your child says, 'I\u2019m so mad that my friend ignored me,' you respond, 'It makes sense you feel upset when someone you care about ignores you.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Listen without interrupting.",
+          "Reflect back what you hear.",
+          "Acknowledge the emotion, even if you don\u2019t agree with the behavior.",
+          "Avoid minimizing or dismissing feelings.",
+          "Use phrases like 'That sounds really hard' or 'I can see why you feel that way.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Emotion Regulation Skills",
+    "summary": "Teach and model ways to manage intense emotions so they don\u2019t become overwhelming or lead to problematic behaviors.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Emotion regulation skills help children recognize, understand, and manage their feelings, reducing impulsive reactions."
+      },
+      {
+        "section": "Example",
+        "content": "When your child is frustrated, encourage them to take deep breaths or count to ten before responding."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Help your child label their emotions.",
+          "Model calm responses to stress.",
+          "Teach coping strategies like deep breathing or taking a break.",
+          "Encourage problem-solving after calming down.",
+          "Praise efforts to manage emotions, not just outcomes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Mindfulness Practices",
+    "summary": "Mindfulness involves paying attention to the present moment without judgment, helping both parents and children stay grounded.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindfulness can reduce emotional reactivity and increase awareness of thoughts and feelings, making it easier to respond thoughtfully."
+      },
+      {
+        "section": "Example",
+        "content": "Practice a short breathing exercise together before starting homework to help everyone focus."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set aside a few minutes daily for mindful breathing or body scans.",
+          "Encourage noticing sights, sounds, and sensations in the moment.",
+          "Use mindfulness apps or guided exercises.",
+          "Practice non-judgmental awareness of thoughts and feelings.",
+          "Model mindfulness by narrating your own present-moment awareness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Problem-Solving Strategies",
+    "summary": "Teach your child a step-by-step approach to solving problems, helping them feel more capable and less overwhelmed.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Problem-solving skills empower children to handle challenges constructively, reducing frustration and emotional outbursts."
+      },
+      {
+        "section": "Example",
+        "content": "When your child is upset about a conflict with a friend, help them brainstorm possible solutions and choose one to try."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Break problems into manageable steps.",
+          "Encourage brainstorming multiple solutions.",
+          "Discuss pros and cons of each option.",
+          "Support your child in trying out a solution.",
+          "Reflect on what worked and what didn\u2019t afterward."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Effective Communication",
+    "summary": "Use clear, respectful, and open communication to strengthen your relationship and reduce misunderstandings.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective communication helps prevent escalation, fosters understanding, and models healthy interaction skills."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of saying, 'You never listen,' try, 'I feel frustrated when I\u2019m not heard. Can we talk about what\u2019s going on?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use 'I' statements to express feelings.",
+          "Listen actively and reflect back what you hear.",
+          "Avoid blaming or criticizing.",
+          "Stay calm and focused on the issue.",
+          "Encourage your child to share their perspective."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Setting Boundaries",
+    "summary": "Establish clear, consistent limits while maintaining empathy and respect for your child\u2019s feelings.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Boundaries provide structure and safety, helping children learn self-control and respect for others."
+      },
+      {
+        "section": "Example",
+        "content": "If your child yells, calmly state, 'It\u2019s okay to be angry, but it\u2019s not okay to yell. Let\u2019s find another way to express your feelings.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Be clear and consistent with rules and consequences.",
+          "Explain the reasons behind boundaries.",
+          "Acknowledge your child\u2019s feelings about limits.",
+          "Follow through with consequences calmly.",
+          "Revisit and adjust boundaries as your child grows."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Self-Care for Parents",
+    "summary": "Prioritize your own well-being to maintain patience, resilience, and emotional balance as a parent.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Caring for yourself helps you stay calm and effective, modeling healthy coping for your child."
+      },
+      {
+        "section": "Example",
+        "content": "Take a short walk or call a friend after a stressful parenting moment to recharge before re-engaging."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular breaks and downtime.",
+          "Seek support from friends, family, or professionals.",
+          "Engage in activities you enjoy.",
+          "Practice stress-reduction techniques like deep breathing or exercise.",
+          "Recognize and honor your own emotional needs."
+        ]
+      }
+    ]
+  }
+]

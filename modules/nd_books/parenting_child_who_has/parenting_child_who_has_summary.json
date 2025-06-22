@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "Parenting a Child Who Has Intense Emotions",
+  "description": "A guide for parents to help their children manage intense emotions using practical strategies and skills.",
+  "videoPreview": "Understanding Intense Emotions in Children",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Validation Techniques",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Emotion Regulation Skills"
+    },
+    {
+      "id": 53,
+      "title": "Mindfulness Practices"
+    },
+    {
+      "id": 54,
+      "title": "Problem-Solving Strategies"
+    },
+    {
+      "id": 55,
+      "title": "Effective Communication"
+    },
+    {
+      "id": 56,
+      "title": "Setting Boundaries"
+    },
+    {
+      "id": 57,
+      "title": "Self-Care for Parents"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "Understanding Your Child's Emotional Needs"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "Techniques for Calming Intense Emotions"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "Mindfulness for Children"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "Effective Communication with Your Child"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "Problem-Solving with Your Child"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "Self-Care Tips for Parents"
+    },
+    {
+      "id": "2SI6C2Obzgc",
+      "title": "Setting Healthy Boundaries"
+    },
+    {
+      "id": "u_795UX9VJ8",
+      "title": "Validation Techniques for Parents"
+    }
+  ]
+}

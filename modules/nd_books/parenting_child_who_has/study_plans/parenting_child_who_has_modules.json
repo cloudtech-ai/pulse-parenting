@@ -1,0 +1,77 @@
+{
+  "id": "parenting_a_child_with_intense_emotions",
+  "title": "Parenting a Child Who Has Intense Emotions",
+  "description": "This book provides practical guidance for parents raising children with intense emotional responses, including those with mood and behavioral difficulties. It combines Dialectical Behavior Therapy (DBT) strategies with real-life parenting scenarios to help families manage emotional storms. The authors focus on understanding children's emotional needs, improving communication, and promoting emotional regulation. With actionable tips and worksheets, the book empowers parents to support their child's growth and maintain their own well-being.",
+  "modules": [
+    {
+      "id": "understanding_intense_emotions",
+      "title": "Understanding Intense Emotions in Children",
+      "goal": "Help parents recognize and comprehend the roots and manifestations of emotional intensity in children.",
+      "key_points": [
+        "Defines what 'intense emotions' mean in a parenting context.",
+        "Explains common causes and triggers for emotional outbursts.",
+        "Highlights the impact of emotional dysregulation on family dynamics."
+      ]
+    },
+    {
+      "id": "dbt_foundations_for_parents",
+      "title": "Foundations of DBT for Parenting",
+      "goal": "Introduce Dialectical Behavior Therapy (DBT) principles and how they can be adapted for parenting.",
+      "key_points": [
+        "Outlines core DBT concepts such as mindfulness, validation, and emotion regulation.",
+        "Shows how DBT skills can be taught and modeled at home.",
+        "Describes the balance between acceptance and change in parenting practices."
+      ]
+    },
+    {
+      "id": "validation_and_communication",
+      "title": "Validation and Effective Communication",
+      "goal": "Teach parents how to validate their child's emotions and improve family communication.",
+      "key_points": [
+        "Explains the importance of validation for children with intense emotions.",
+        "Provides step-by-step guides to validating statements and listening skills.",
+        "Offers practical communication strategies to de-escalate emotional situations."
+      ]
+    },
+    {
+      "id": "emotion_regulation_skills",
+      "title": "Emotion Regulation Skills for Families",
+      "goal": "Equip families with techniques to help children and parents manage strong emotions.",
+      "key_points": [
+        "Introduces emotion regulation skills drawn from DBT.",
+        "Includes exercises for recognizing, naming, and coping with emotions.",
+        "Suggests daily family routines to support emotional balance."
+      ]
+    },
+    {
+      "id": "setting_limits_consistently",
+      "title": "Setting Limits and Boundaries Consistently",
+      "goal": "Guide parents in establishing and maintaining clear, consistent boundaries.",
+      "key_points": [
+        "Discusses the importance of clear rules and predictable consequences.",
+        "Teaches strategies to set limits without escalating conflict.",
+        "Covers balancing empathy with firmness in discipline."
+      ]
+    },
+    {
+      "id": "coping_with_crises",
+      "title": "Coping with Emotional Crises",
+      "goal": "Prepare parents to navigate and de-escalate emotional crises effectively.",
+      "key_points": [
+        "Identifies early warning signs of emotional escalation.",
+        "Shares step-by-step crisis intervention techniques.",
+        "Emphasizes self-care for parents during and after crises."
+      ]
+    },
+    {
+      "id": "self_care_and_support",
+      "title": "Self-Care and Building Support Systems",
+      "goal": "Encourage parents to prioritize their own well-being and seek support when needed.",
+      "key_points": [
+        "Highlights the importance of self-care in high-stress parenting.",
+        "Offers practical self-care routines and stress management tips.",
+        "Discusses building a support network, including professionals and peer support."
+      ]
+    }
+  ]
+}

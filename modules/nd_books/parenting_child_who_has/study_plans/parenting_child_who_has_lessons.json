@@ -1,0 +1,641 @@
+{
+  "understanding_intense_emotions": [
+    {
+      "id": "lesson1_defining_intense_emotions",
+      "title": "What Are Intense Emotions in Children?",
+      "goal": "Help parents clearly understand what 'intense emotions' mean in the context of parenting.",
+      "keyConcept": "Intense emotions in children refer to feelings that are stronger, more frequent, or harder to manage than what is typical for their age. These emotions can include anger, sadness, anxiety, or excitement that quickly escalates and may seem overwhelming to both the child and parent. Recognizing that these reactions are not simply 'bad behavior' but a sign of emotional intensity is the first step toward effective support.",
+      "example": "A 7-year-old becomes extremely upset and cries loudly when asked to stop playing a game, even though most children their age might only show mild disappointment.",
+      "parentTip": "When your child has a big reaction, remind yourself: 'This is an intense emotion, not just misbehavior.' This mindset helps you respond with empathy instead of frustration.",
+      "reflectionPrompt": "Can you recall a recent time when your child had a strong emotional reaction? How did you interpret it in the moment?",
+      "quizQuestion": {
+        "question": "Which of the following best describes 'intense emotions' in children?",
+        "options": [
+          "Occasional mild frustration",
+          "Frequent, overwhelming feelings that are hard to manage",
+          "Quiet and calm responses"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_identifying_triggers",
+      "title": "Recognizing Common Triggers",
+      "goal": "Enable parents to identify situations or factors that commonly trigger intense emotions in their child.",
+      "keyConcept": "Children with intense emotions often react strongly to certain triggers, such as changes in routine, sensory overload, feeling misunderstood, or being told 'no.' By observing patterns in your child's reactions, you can start to anticipate and prepare for these moments, reducing the likelihood of emotional outbursts.",
+      "example": "A child consistently has meltdowns when transitioning from playtime to homework, suggesting that changes in activity are a trigger.",
+      "parentTip": "Keep a simple journal for a week, noting when your child has intense reactions and what happened just before. Look for patterns.",
+      "reflectionPrompt": "What are two situations that often lead to strong emotional reactions in your child?",
+      "quizQuestion": {
+        "question": "Why is it helpful to identify your child's emotional triggers?",
+        "options": [
+          "So you can avoid all difficult situations",
+          "To better anticipate and support your child during challenging moments",
+          "To punish your child for reacting"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_understanding_emotional_dysregulation",
+      "title": "What Is Emotional Dysregulation?",
+      "goal": "Help parents understand what emotional dysregulation looks like and why it happens.",
+      "keyConcept": "Emotional dysregulation means a child has difficulty managing their feelings in a way that is appropriate for the situation. This can result in outbursts, withdrawal, or behaviors that seem extreme. It's important to remember that dysregulation is not a choice; it's often a sign that a child needs help learning coping skills.",
+      "example": "A child screams and throws objects when frustrated, rather than using words to express their feelings.",
+      "parentTip": "When your child is dysregulated, focus on helping them calm down first before discussing the situation. Use a calm voice and offer comfort.",
+      "reflectionPrompt": "How do you usually respond when your child is overwhelmed by their emotions? What might you try differently?",
+      "quizQuestion": {
+        "question": "Emotional dysregulation means:",
+        "options": [
+          "A child is choosing to misbehave",
+          "A child struggles to manage their feelings appropriately",
+          "A child is always happy"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_family_impact",
+      "title": "How Intense Emotions Affect the Family",
+      "goal": "Increase awareness of how a child's intense emotions can influence family dynamics.",
+      "keyConcept": "When a child frequently experiences intense emotions, it can create stress, tension, or even conflict within the family. Siblings may feel neglected, parents might feel exhausted, and routines can be disrupted. Recognizing this impact helps families approach the situation as a team and seek support when needed.",
+      "example": "A parent cancels a family outing because they worry their child's outburst will ruin the experience for everyone.",
+      "parentTip": "Talk openly with family members about how everyone feels and brainstorm ways to support each other during tough moments.",
+      "reflectionPrompt": "How have your child's intense emotions affected your family life? What support might help your family cope better?",
+      "quizQuestion": {
+        "question": "What is a common effect of a child's intense emotions on the family?",
+        "options": [
+          "Increased family harmony",
+          "Stress and disrupted routines",
+          "No impact at all"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_validating_emotions",
+      "title": "Validating Your Child\u2019s Feelings",
+      "goal": "Teach parents how to acknowledge and validate their child's intense emotions.",
+      "keyConcept": "Validation means letting your child know that their feelings are real and understandable, even if you don't agree with their reaction. This helps children feel heard and can reduce the intensity of their emotions over time. Validation does not mean giving in, but showing empathy.",
+      "example": "When a child is angry about leaving the park, a parent says, 'I see you're really upset because you were having fun. It's hard to stop when you're enjoying yourself.'",
+      "parentTip": "Try using phrases like, 'I can see this is really hard for you,' or 'Your feelings make sense to me.'",
+      "reflectionPrompt": "How do you usually respond to your child's big feelings? What is one validating phrase you could try next time?",
+      "quizQuestion": {
+        "question": "What does it mean to validate your child's feelings?",
+        "options": [
+          "Agreeing with everything your child says",
+          "Letting your child know their feelings are real and understandable",
+          "Ignoring their emotions"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "dbt_foundations_for_parents": [
+    {
+      "id": "dbt_lesson_1_mindful_presence",
+      "title": "Practicing Mindful Presence with Your Child",
+      "goal": "Help parents understand and apply mindfulness to daily interactions with their child.",
+      "keyConcept": "Mindfulness means paying full attention to the present moment without judgment. When you are mindful with your child, you listen and observe without immediately reacting or trying to fix things. This creates a sense of safety and connection, allowing your child to feel truly seen and heard.",
+      "example": "Your child comes home upset about a disagreement with a friend. Instead of offering advice right away, you pause, make eye contact, and listen quietly as they share their feelings.",
+      "parentTip": "Take a deep breath before responding to your child. Focus on what they are saying and how they are feeling, rather than planning your response.",
+      "reflectionPrompt": "When was the last time you listened to your child without interrupting or judging? How did it feel for both of you?",
+      "quizQuestion": {
+        "question": "What is the main goal of practicing mindfulness with your child?",
+        "options": [
+          "To solve their problems quickly",
+          "To be fully present and attentive",
+          "To teach them to ignore their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dbt_lesson_2_validation_skills",
+      "title": "Using Validation to Support Your Child\u2019s Emotions",
+      "goal": "Teach parents how to validate their child's feelings, even when they don't agree with the behavior.",
+      "keyConcept": "Validation is acknowledging your child\u2019s feelings and experiences as real and important. It does not mean you agree with everything they do, but it shows you understand and accept their emotional experience. Validation helps reduce emotional intensity and builds trust.",
+      "example": "Your child yells, 'It's not fair!' after being told to turn off the TV. Instead of dismissing their reaction, you say, 'I can see you're really frustrated right now. It's hard to stop doing something fun.'",
+      "parentTip": "Use phrases like, 'That sounds really tough,' or 'I understand why you feel that way,' to show you are validating your child\u2019s emotions.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What might change if you focused on validating their feelings first?",
+      "quizQuestion": {
+        "question": "What does validation communicate to your child?",
+        "options": [
+          "That their feelings are wrong",
+          "That their feelings are real and important",
+          "That you always agree with their behavior"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "dbt_lesson_3_emotion_regulation",
+      "title": "Helping Your Child Manage Intense Emotions",
+      "goal": "Introduce parents to basic emotion regulation strategies they can model and teach.",
+      "keyConcept": "Emotion regulation is the ability to understand and manage strong feelings. Children learn these skills by watching how adults handle their own emotions. By staying calm and using coping strategies, you can help your child learn to do the same.",
+      "example": "When your child is angry and starts to shout, you take a few deep breaths and speak in a calm voice, saying, 'Let\u2019s both take a moment to breathe before we talk more.'",
+      "parentTip": "Model calming strategies like deep breathing, counting to ten, or taking a short break when emotions run high.",
+      "reflectionPrompt": "What is one emotion regulation strategy you can practice and model for your child this week?",
+      "quizQuestion": {
+        "question": "How do children most often learn emotion regulation skills?",
+        "options": [
+          "By watching adults model them",
+          "By being told to calm down",
+          "By ignoring their feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "dbt_lesson_4_acceptance_and_change",
+      "title": "Balancing Acceptance and Change in Parenting",
+      "goal": "Help parents understand how to accept their child as they are while encouraging positive change.",
+      "keyConcept": "DBT teaches that effective parenting balances acceptance (acknowledging your child\u2019s current feelings and behaviors) with change (guiding them toward healthier choices). Both are necessary\u2014acceptance builds trust, while gentle encouragement supports growth.",
+      "example": "You accept that your child is anxious about starting a new school, while also encouraging them to try meeting one new classmate each week.",
+      "parentTip": "Let your child know you love and accept them as they are, while also supporting their efforts to learn and grow.",
+      "reflectionPrompt": "How can you show your child acceptance today, while also encouraging a small step toward positive change?",
+      "quizQuestion": {
+        "question": "What is the DBT approach to acceptance and change?",
+        "options": [
+          "Only accept your child\u2019s feelings",
+          "Only focus on changing behavior",
+          "Balance acceptance with gentle encouragement for change"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "dbt_lesson_5_teaching_skills_at_home",
+      "title": "Teaching and Modeling DBT Skills at Home",
+      "goal": "Empower parents to actively teach and demonstrate DBT skills in everyday family life.",
+      "keyConcept": "Children learn best when skills are taught through everyday moments and modeled by trusted adults. By practicing DBT skills like mindfulness, validation, and emotion regulation in your own behavior, you create a supportive environment for your child to learn and practice these skills too.",
+      "example": "During a family disagreement, you pause to take a mindful breath and say, 'Let\u2019s all take a moment to calm down before we continue talking.'",
+      "parentTip": "Pick one DBT skill to focus on each week and practice it together as a family, such as having a 'mindful minute' before dinner.",
+      "reflectionPrompt": "Which DBT skill do you feel most comfortable modeling for your child? Which one would you like to practice more?",
+      "quizQuestion": {
+        "question": "What is an effective way to teach DBT skills at home?",
+        "options": [
+          "Model and practice them in daily life",
+          "Only talk about them when there\u2019s a problem",
+          "Let children figure them out on their own"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "validation_and_communication": [
+    {
+      "id": "lesson1_understanding_validation",
+      "title": "Understanding Validation",
+      "goal": "Help parents grasp why validation is crucial for children with intense emotions.",
+      "keyConcept": "Validation means acknowledging and accepting your child's feelings without judgment. It helps children feel heard and understood, which can reduce emotional intensity and build trust. When parents validate, they show their child that emotions are normal and manageable, even if the behavior isn't always acceptable.",
+      "example": "Your child comes home upset after a disagreement with a friend. Instead of saying, 'It's not a big deal,' you say, 'It sounds like you felt really hurt by what happened.'",
+      "parentTip": "When your child expresses strong feelings, pause and reflect back what you hear: 'You seem really frustrated right now.'",
+      "reflectionPrompt": "How do you usually respond when your child is upset? How might validation change your child's reaction?",
+      "quizQuestion": {
+        "question": "What is the main purpose of validating your child's emotions?",
+        "options": [
+          "To agree with everything your child says",
+          "To help your child feel heard and understood",
+          "To solve your child's problems for them"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_listening_skills",
+      "title": "Active Listening Skills",
+      "goal": "Teach parents how to listen in a way that encourages open communication.",
+      "keyConcept": "Active listening involves giving your full attention, making eye contact, and showing genuine interest in your child's words. It means listening to understand, not just to respond. This approach helps your child feel safe sharing their feelings and thoughts.",
+      "example": "Your child is angry about a lost toy. Instead of interrupting or offering solutions right away, you sit down, look at them, and say, 'Tell me what happened.'",
+      "parentTip": "Put away distractions and focus on your child when they talk. Nod, use encouraging words like 'I see' or 'Go on,' and avoid interrupting.",
+      "reflectionPrompt": "When was the last time you listened to your child without interrupting? How did it affect the conversation?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign of active listening?",
+        "options": [
+          "Checking your phone while your child talks",
+          "Making eye contact and nodding",
+          "Quickly offering advice"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_validating_statements",
+      "title": "Using Validating Statements",
+      "goal": "Show parents how to use simple validating statements during emotional moments.",
+      "keyConcept": "Validating statements let your child know their feelings make sense, even if you don't agree with their behavior. Phrases like 'That sounds really tough' or 'I can see why you feel that way' can calm intense emotions and open the door to problem-solving.",
+      "example": "Your child yells, 'It's not fair!' Instead of dismissing their feelings, you respond, 'It sounds like you're really disappointed about this.'",
+      "parentTip": "Try using one validating statement today, such as 'I understand this is hard for you,' when your child is upset.",
+      "reflectionPrompt": "How do you feel when someone validates your emotions? How might your child feel?",
+      "quizQuestion": {
+        "question": "Which statement is validating?",
+        "options": [
+          "'Stop overreacting.'",
+          "'I can see why you're upset.'",
+          "'You'll get over it soon.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_deescalating_emotions",
+      "title": "De-escalating Emotional Situations",
+      "goal": "Equip parents with strategies to calm intense emotional moments.",
+      "keyConcept": "When emotions run high, validation and calm communication can help de-escalate the situation. Avoid arguing or trying to fix things immediately. Instead, acknowledge your child's feelings and give them space to calm down before discussing solutions.",
+      "example": "Your child is having a meltdown over homework. You say, 'I see you're really overwhelmed. Let's take a few deep breaths together before we talk about what to do next.'",
+      "parentTip": "In a heated moment, focus on staying calm and validating your child's feelings before addressing the problem.",
+      "reflectionPrompt": "What helps you calm down when you're upset? How can you offer similar support to your child?",
+      "quizQuestion": {
+        "question": "What is the first step in de-escalating an emotional situation?",
+        "options": [
+          "Offer advice immediately",
+          "Validate your child's feelings",
+          "Ignore the behavior"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_building_communication_habits",
+      "title": "Building Positive Communication Habits",
+      "goal": "Help parents create ongoing habits that support healthy emotional communication.",
+      "keyConcept": "Consistent, open communication builds trust and emotional safety. Regularly checking in with your child about their feelings, using validation, and practicing active listening can strengthen your relationship and help your child manage intense emotions over time.",
+      "example": "At dinner, you ask, 'What was the best and hardest part of your day?' and listen without judgment, validating both positive and negative feelings.",
+      "parentTip": "Set aside a few minutes each day to talk with your child about their feelings, using the skills you've learned.",
+      "reflectionPrompt": "How can you make time for regular emotional check-ins with your child?",
+      "quizQuestion": {
+        "question": "Which habit supports healthy emotional communication?",
+        "options": [
+          "Regularly checking in about feelings",
+          "Only talking when there's a problem",
+          "Avoiding emotional topics"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "emotion_regulation_skills": [
+    {
+      "id": "lesson_1_recognize_emotions",
+      "title": "Recognizing Emotions in Yourself and Your Child",
+      "goal": "Help parents identify and acknowledge emotions as they arise in themselves and their children.",
+      "keyConcept": "Recognizing emotions is the first step in managing them. By noticing physical sensations, facial expressions, and behaviors, parents can better understand what their child (and they themselves) are feeling. Naming emotions helps to reduce their intensity and opens the door to healthy coping.",
+      "example": "Your child comes home from school and slams the door. Instead of reacting, you pause and notice your own frustration, then observe your child\u2019s clenched fists and frown. You realize both of you are feeling upset.",
+      "parentTip": "When you notice a strong emotion, say it out loud: 'I see you\u2019re really angry right now,' or 'I\u2019m feeling frustrated.' This models emotional awareness for your child.",
+      "reflectionPrompt": "Think of a recent time when you or your child had a strong emotional reaction. What signs did you notice that indicated what you or your child were feeling?",
+      "quizQuestion": {
+        "question": "What is the first step in managing strong emotions?",
+        "options": [
+          "Recognizing and naming the emotion",
+          "Ignoring the emotion",
+          "Punishing the behavior"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_validating_emotions",
+      "title": "Validating Your Child\u2019s Feelings",
+      "goal": "Teach parents how to validate their child\u2019s emotions to build trust and emotional safety.",
+      "keyConcept": "Validation means letting your child know their feelings make sense, even if you don\u2019t agree with their behavior. It helps children feel understood and less alone with their emotions, which can reduce emotional intensity and prevent escalation.",
+      "example": "Your child is crying because a friend didn\u2019t invite them to a party. Instead of saying 'It\u2019s not a big deal,' you say, 'I can see you\u2019re really hurt. It makes sense to feel sad when you\u2019re left out.'",
+      "parentTip": "Use phrases like, 'It\u2019s okay to feel that way,' or 'I understand why you\u2019re upset.' Avoid minimizing or dismissing your child\u2019s feelings.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What\u2019s one validating phrase you could try next time?",
+      "quizQuestion": {
+        "question": "What does validation communicate to your child?",
+        "options": [
+          "Their feelings are understandable",
+          "Their feelings are wrong",
+          "They should ignore their feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_3_coping_strategies",
+      "title": "Teaching Simple Coping Strategies",
+      "goal": "Equip parents with practical tools to help their child manage strong emotions.",
+      "keyConcept": "Coping strategies are actions or thoughts that help calm intense emotions. Teaching your child simple techniques\u2014like deep breathing, taking a break, or using a comfort object\u2014gives them tools to handle distress in healthy ways.",
+      "example": "When your child starts to feel overwhelmed, you guide them to take three slow, deep breaths together. Afterward, they feel a little calmer and more able to talk.",
+      "parentTip": "Practice coping skills with your child when everyone is calm, so they\u2019re easier to use during emotional moments. Try making a list of favorite strategies together.",
+      "reflectionPrompt": "What coping strategies have worked for you or your child in the past? How can you introduce a new one this week?",
+      "quizQuestion": {
+        "question": "When is the best time to practice coping skills?",
+        "options": [
+          "When everyone is calm",
+          "During a meltdown",
+          "Never"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_family_routines",
+      "title": "Creating Family Routines for Emotional Balance",
+      "goal": "Guide parents to establish daily routines that support emotional regulation for the whole family.",
+      "keyConcept": "Consistent routines provide structure and predictability, which help children feel safe and reduce emotional ups and downs. Simple routines\u2014like regular mealtimes, bedtime rituals, or daily check-ins\u2014can make a big difference in your child\u2019s emotional health.",
+      "example": "Your family starts a nightly routine of sharing one good thing and one hard thing about the day. Over time, your child becomes more comfortable talking about their feelings.",
+      "parentTip": "Choose one routine to start this week, such as a family meal or a bedtime story. Stick with it for a few days and notice any changes in your child\u2019s mood or behavior.",
+      "reflectionPrompt": "What is one routine you could add or strengthen in your family to support emotional balance?",
+      "quizQuestion": {
+        "question": "Why are routines helpful for children with intense emotions?",
+        "options": [
+          "They provide structure and predictability",
+          "They make life boring",
+          "They prevent all emotions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_self_care_for_parents",
+      "title": "Prioritizing Self-Care as a Parent",
+      "goal": "Encourage parents to care for their own emotional needs to better support their child.",
+      "keyConcept": "Caring for a child with intense emotions can be challenging. Parents who take time for their own self-care\u2014like getting enough rest, connecting with friends, or taking short breaks\u2014are more patient and effective in helping their children.",
+      "example": "After a tough morning, you take 10 minutes to walk outside and breathe deeply. You return feeling more centered and ready to support your child.",
+      "parentTip": "Schedule a small self-care activity each day, even if it\u2019s just a few minutes. Remember, taking care of yourself is not selfish\u2014it helps your whole family.",
+      "reflectionPrompt": "What is one small thing you can do for yourself this week to recharge?",
+      "quizQuestion": {
+        "question": "Why is self-care important for parents?",
+        "options": [
+          "It helps parents stay calm and patient",
+          "It is selfish",
+          "It makes children behave perfectly"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "setting_limits_consistently": [
+    {
+      "id": "lesson1_define_clear_rules",
+      "title": "Defining Clear and Simple Rules",
+      "goal": "Help parents create clear, understandable rules for their child.",
+      "keyConcept": "Children feel safer and more secure when they know what is expected of them. Clear, simple rules reduce confusion and help prevent misunderstandings. When rules are stated positively and specifically, children are more likely to remember and follow them.",
+      "example": "Instead of saying, 'Don\u2019t be messy,' a parent says, 'Please put your toys in the bin when you\u2019re done playing.'",
+      "parentTip": "Choose 2-3 important rules and state them in positive, simple language. Write them down and share them with your child.",
+      "reflectionPrompt": "Are there any rules in your home that could be made clearer or more specific?",
+      "quizQuestion": {
+        "question": "Which is a clear and positive rule?",
+        "options": [
+          "Don\u2019t make a mess.",
+          "Put your shoes by the door when you come home."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_predictable_consequences",
+      "title": "Using Predictable Consequences",
+      "goal": "Teach parents to link rules with consistent, predictable consequences.",
+      "keyConcept": "Children learn best when they know what will happen if they follow or break a rule. Predictable consequences help children connect their actions to outcomes, making it easier for them to make better choices in the future.",
+      "example": "If a child forgets to do their homework, the agreed-upon consequence is losing screen time for the evening.",
+      "parentTip": "Decide on consequences for each rule ahead of time and explain them to your child. Follow through calmly every time.",
+      "reflectionPrompt": "How can you make consequences for rules in your home more predictable?",
+      "quizQuestion": {
+        "question": "Why are predictable consequences important?",
+        "options": [
+          "They help children know what to expect.",
+          "They make rules less important."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_setting_limits_without_conflict",
+      "title": "Setting Limits Without Escalating Conflict",
+      "goal": "Show parents how to enforce limits calmly and avoid power struggles.",
+      "keyConcept": "When setting limits, staying calm and using a neutral tone helps prevent arguments. Avoiding threats or yelling keeps the focus on the rule, not on emotions. This approach models self-control and teaches children to manage their own reactions.",
+      "example": "A parent calmly says, 'I see you\u2019re upset, but it\u2019s time to turn off the TV now,' instead of raising their voice or arguing.",
+      "parentTip": "Take a deep breath before responding to resistance. Repeat the limit calmly and avoid getting drawn into debates.",
+      "reflectionPrompt": "What situations tend to escalate in your home, and how might a calm response change the outcome?",
+      "quizQuestion": {
+        "question": "What is a helpful way to set a limit?",
+        "options": [
+          "Yell so your child knows you\u2019re serious.",
+          "State the limit calmly and stick to it."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_balancing_empathy_and_firmness",
+      "title": "Balancing Empathy with Firmness",
+      "goal": "Help parents show understanding while maintaining boundaries.",
+      "keyConcept": "Empathy means acknowledging your child\u2019s feelings, even when enforcing a rule. Being firm means sticking to the rule. When combined, children feel heard but also learn that boundaries are important and consistent.",
+      "example": "A parent says, 'I know you\u2019re disappointed that playtime is over. It\u2019s hard to stop when you\u2019re having fun. But it\u2019s bedtime now.'",
+      "parentTip": "Use phrases like, 'I understand you feel\u2026' followed by a clear restatement of the rule.",
+      "reflectionPrompt": "How can you show empathy to your child while still holding firm to a boundary?",
+      "quizQuestion": {
+        "question": "What does balancing empathy and firmness look like?",
+        "options": [
+          "Letting your child do whatever they want.",
+          "Acknowledging feelings but sticking to the rule."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_review_and_adjust",
+      "title": "Reviewing and Adjusting Boundaries",
+      "goal": "Encourage parents to regularly review and adjust rules and boundaries as needed.",
+      "keyConcept": "Children grow and change, so rules and boundaries may need to be updated. Regularly reviewing what\u2019s working and what isn\u2019t helps keep boundaries relevant and effective. Involving your child in this process can increase their cooperation.",
+      "example": "A parent notices their child is now able to handle more responsibility, so they adjust bedtime or screen time limits together.",
+      "parentTip": "Set aside time every few months to talk with your child about the rules. Ask what\u2019s working and what could change.",
+      "reflectionPrompt": "Are there any boundaries in your home that might need to be updated as your child grows?",
+      "quizQuestion": {
+        "question": "Why is it important to review family rules regularly?",
+        "options": [
+          "Because children\u2019s needs and abilities change over time.",
+          "Because rules should never change."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "coping_with_crises": [
+    {
+      "id": "lesson_1_early_signs",
+      "title": "Spotting Early Warning Signs",
+      "goal": "Help parents recognize the first signs of emotional escalation in their child.",
+      "keyConcept": "Children often show subtle cues before an emotional crisis, such as changes in tone of voice, body language, or withdrawal. Recognizing these early signs allows parents to intervene before emotions become overwhelming. Early intervention can prevent a full-blown crisis and helps children feel understood and supported.",
+      "example": "You notice your child starts clenching their fists and speaking more loudly when asked to turn off the TV. These are early signs that frustration is building.",
+      "parentTip": "Pay attention to your child's body language, facial expressions, and changes in behavior. Make a mental note or jot down patterns you observe before emotional outbursts.",
+      "reflectionPrompt": "What are some early warning signs your child shows before becoming very upset?",
+      "quizQuestion": {
+        "question": "Which of the following is an early warning sign of emotional escalation?",
+        "options": [
+          "Sudden silence or withdrawal",
+          "Calmly following instructions",
+          "Laughing and playing"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_stay_calm",
+      "title": "Staying Calm in the Moment",
+      "goal": "Teach parents how to maintain their own composure during their child's emotional escalation.",
+      "keyConcept": "Children look to their parents for cues on how to react. If you remain calm, you model emotional regulation and create a sense of safety. Taking a deep breath, lowering your voice, and pausing before responding can help de-escalate the situation.",
+      "example": "When your child starts yelling, you take a slow breath and say, 'I can see you're upset. Let's take a moment.' Your calm tone helps prevent the situation from escalating further.",
+      "parentTip": "Before responding, pause and take a deep breath. Remind yourself that your calmness can help your child regain control.",
+      "reflectionPrompt": "How do you usually react when your child is upset? What helps you stay calm?",
+      "quizQuestion": {
+        "question": "What is a helpful first step when your child begins to escalate emotionally?",
+        "options": [
+          "Raise your voice to match theirs",
+          "Take a deep breath and pause",
+          "Walk away immediately"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_crisis_steps",
+      "title": "Step-by-Step Crisis Intervention",
+      "goal": "Provide parents with a simple process to follow during an emotional crisis.",
+      "keyConcept": "Having a clear plan can make crises less overwhelming. The steps are: (1) Ensure safety, (2) Validate your child's feelings, (3) Set clear, simple limits, and (4) Offer choices or coping strategies. Consistency and predictability help your child feel secure.",
+      "example": "Your child is screaming and throwing things. You calmly move objects out of reach, say, 'I see you're really angry,' remind them, 'We don't throw things,' and offer, 'Would you like to take a break or squeeze your stress ball?'",
+      "parentTip": "Memorize and practice the four crisis steps so you can use them even when emotions are high.",
+      "reflectionPrompt": "Which step of the crisis intervention process do you find most challenging, and why?",
+      "quizQuestion": {
+        "question": "What is the first step in crisis intervention?",
+        "options": [
+          "Offer choices",
+          "Ensure safety",
+          "Validate feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_self_care",
+      "title": "Self-Care for Parents",
+      "goal": "Encourage parents to care for their own emotional well-being during and after crises.",
+      "keyConcept": "Caring for a child in crisis is emotionally draining. Taking time to recharge helps you stay patient and effective. Self-care can be as simple as a short walk, talking to a friend, or practicing deep breathing after a difficult moment.",
+      "example": "After a tough evening, you take ten minutes to listen to music and breathe deeply, allowing yourself to decompress before re-engaging with your family.",
+      "parentTip": "Schedule a small self-care activity after each crisis, even if it's just a few minutes to yourself.",
+      "reflectionPrompt": "What is one self-care activity you can commit to after your child experiences a crisis?",
+      "quizQuestion": {
+        "question": "Why is self-care important for parents during emotional crises?",
+        "options": [
+          "It helps parents stay patient and effective",
+          "It makes the child behave better instantly",
+          "It prevents all future crises"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_repair_and_reflect",
+      "title": "Repairing and Reflecting After a Crisis",
+      "goal": "Guide parents to repair the relationship and learn from each crisis.",
+      "keyConcept": "After a crisis, it's important to reconnect with your child and talk about what happened. This helps both of you learn and strengthens your bond. Reflecting together on what worked and what could be different next time builds resilience and trust.",
+      "example": "The next day, you sit with your child and say, 'Yesterday was hard for both of us. How did you feel? What can we try next time?'",
+      "parentTip": "After things have calmed down, initiate a gentle conversation with your child about the crisis, focusing on feelings and solutions rather than blame.",
+      "reflectionPrompt": "How do you usually reconnect with your child after a difficult moment? What could you try differently?",
+      "quizQuestion": {
+        "question": "What is a key benefit of reflecting with your child after a crisis?",
+        "options": [
+          "It helps both of you learn and grow",
+          "It guarantees no more crises",
+          "It makes your child forget the event"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "self_care_and_support": [
+    {
+      "id": "self_care_why_matters",
+      "title": "Why Self-Care Matters for Parents",
+      "goal": "Understand the importance of self-care in effective parenting.",
+      "keyConcept": "Caring for a child with intense emotions can be emotionally and physically draining. Prioritizing your own well-being is not selfish\u2014it is essential for maintaining the patience, energy, and resilience needed to support your child. When you take care of yourself, you model healthy coping strategies and emotional regulation for your child.",
+      "example": "Maria, a mother of a 10-year-old with intense emotions, noticed she was more patient and less reactive with her child after she started taking 10 minutes each morning for quiet reflection.",
+      "parentTip": "Schedule a small daily ritual just for yourself, such as a cup of tea, a short walk, or a few minutes of deep breathing.",
+      "reflectionPrompt": "What is one small thing you can do today to care for your own well-being?",
+      "quizQuestion": {
+        "question": "Why is self-care important for parents?",
+        "options": [
+          "It helps parents stay calm and effective.",
+          "It is a luxury for when there is extra time.",
+          "It only benefits the parent, not the child."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "stress_signals",
+      "title": "Recognizing Your Stress Signals",
+      "goal": "Learn to identify early signs of stress in yourself.",
+      "keyConcept": "Everyone experiences stress differently. Recognizing your personal stress signals\u2014such as irritability, headaches, or trouble sleeping\u2014can help you take action before you feel overwhelmed. Early awareness allows you to use coping strategies before stress escalates.",
+      "example": "Sam noticed he became short-tempered and forgetful when stressed. By recognizing these signs early, he started taking short breaks to reset before interacting with his child.",
+      "parentTip": "Keep a simple journal for a week, noting when you feel stressed and what physical or emotional signs you notice.",
+      "reflectionPrompt": "What are two signs that tell you you\u2019re starting to feel stressed?",
+      "quizQuestion": {
+        "question": "What is a benefit of recognizing your own stress signals early?",
+        "options": [
+          "You can ignore them until they go away.",
+          "You can take steps to manage stress before it escalates.",
+          "It makes you more stressed."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "simple_self_care",
+      "title": "Simple Self-Care Strategies",
+      "goal": "Discover easy self-care routines to manage stress.",
+      "keyConcept": "Self-care doesn\u2019t have to be time-consuming or expensive. Small, regular practices\u2014like deep breathing, listening to music, or taking a short walk\u2014can help you recharge. The key is consistency and choosing activities that genuinely help you feel better.",
+      "example": "After a tough morning, Priya took five minutes to listen to her favorite song, which helped her feel calmer and more present for her child.",
+      "parentTip": "Pick one self-care activity you enjoy and commit to doing it for five minutes each day this week.",
+      "reflectionPrompt": "Which simple self-care activity could you add to your daily routine?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of a simple self-care activity?",
+        "options": [
+          "Taking a five-minute walk",
+          "Ignoring your feelings",
+          "Skipping meals"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "building_support_network",
+      "title": "Building Your Support Network",
+      "goal": "Identify ways to build a supportive network for yourself.",
+      "keyConcept": "Parenting a child with intense emotions can feel isolating. Building a support network\u2014including friends, family, professionals, or support groups\u2014provides emotional relief, practical advice, and a sense of community. You don\u2019t have to do this alone.",
+      "example": "Jorge joined a local parent support group and found comfort in sharing experiences and learning new coping strategies from others facing similar challenges.",
+      "parentTip": "Reach out to one person this week\u2014whether a friend, family member, or professional\u2014and share how you\u2019re feeling.",
+      "reflectionPrompt": "Who in your life could you reach out to for support when you need it?",
+      "quizQuestion": {
+        "question": "What is one benefit of having a support network?",
+        "options": [
+          "You have to solve everything alone.",
+          "You gain emotional and practical support.",
+          "It makes parenting harder."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "asking_for_help",
+      "title": "Asking for Help When You Need It",
+      "goal": "Practice reaching out for help without guilt or hesitation.",
+      "keyConcept": "It\u2019s normal to need help, especially when parenting a child with intense emotions. Asking for help is a sign of strength, not weakness. Whether it\u2019s seeking advice from a professional, asking a friend to listen, or requesting a break, reaching out can prevent burnout and improve your well-being.",
+      "example": "When overwhelmed, Tasha asked her sister to watch her child for an hour so she could rest. This small break made a big difference in her mood and energy.",
+      "parentTip": "Practice saying, 'I need some help right now,' to someone you trust, even if it feels uncomfortable at first.",
+      "reflectionPrompt": "What makes it hard for you to ask for help, and how could you make it easier?",
+      "quizQuestion": {
+        "question": "What does asking for help as a parent show?",
+        "options": [
+          "Weakness",
+          "Strength and self-awareness",
+          "Lack of care"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}
