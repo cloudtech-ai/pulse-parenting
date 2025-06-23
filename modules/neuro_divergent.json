@@ -5,7 +5,7 @@
       "title": "Neurodivergent - Understanding Neurodiversity",
       "info": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_summary.json",
       "strategies": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_modules.json",
         "lesson_path": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_lessons.json"
       }
@@ -16,7 +16,7 @@
       "generative_title": "Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo",
       "info": "nd_books/parenting_child_who_has/parenting_child_who_has_summary.json",
       "strategies": "nd_books/parenting_child_who_has/parenting_child_who_has_strategies.json",
-      "study_plans": {
+      "studyPlan": {
         "module_path": "nd_books/parenting_child_who_has/study_plans/parenting_child_who_has_modules.json",
         "lesson_path": "nd_books/parenting_child_who_has/study_plans/parenting_child_who_has_lessons.json"
       }
