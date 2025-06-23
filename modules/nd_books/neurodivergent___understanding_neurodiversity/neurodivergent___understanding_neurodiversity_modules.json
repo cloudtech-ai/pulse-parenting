@@ -1,0 +1,67 @@
+{
+  "id": "neurodivergent_understanding_neurodiversity",
+  "title": "Neurodivergent - Understanding Neurodiversity",
+  "description": "This book provides an accessible introduction to the concept of neurodiversity, celebrating the unique ways in which different minds function. It explores the origins and definitions of neurodivergence, common neurodivergent profiles, and the lived experiences of neurodivergent individuals. The book offers practical guidance for self-understanding, acceptance, and advocacy, as well as strategies for creating supportive environments. It aims to empower individuals and communities to embrace neurodiversity and foster inclusion.",
+  "modules": [
+    {
+      "id": "introduction_to_neurodiversity",
+      "title": "Introduction to Neurodiversity",
+      "goal": "Understand the basic concept of neurodiversity and why it matters.",
+      "key_points": [
+        "Defines neurodiversity and its origins.",
+        "Explains the social and scientific significance of neurodivergence.",
+        "Highlights the diversity of human brains and experiences."
+      ]
+    },
+    {
+      "id": "common_neurodivergent_profiles",
+      "title": "Common Neurodivergent Profiles",
+      "goal": "Recognize and describe key neurodivergent conditions and their characteristics.",
+      "key_points": [
+        "Overviews common neurodivergent profiles such as autism, ADHD, dyslexia, and more.",
+        "Discusses strengths and challenges associated with each profile.",
+        "Debunks common myths and misconceptions."
+      ]
+    },
+    {
+      "id": "lived_experiences_and_identity",
+      "title": "Lived Experiences and Identity",
+      "goal": "Explore how neurodivergent individuals experience identity and community.",
+      "key_points": [
+        "Shares real-life stories of neurodivergent individuals.",
+        "Discusses the importance of self-acceptance and community connection.",
+        "Addresses the impact of stigma and the value of neurodivergent pride."
+      ]
+    },
+    {
+      "id": "cbt_approaches_for_self_understanding",
+      "title": "CBT Approaches for Self-Understanding",
+      "goal": "Apply CBT-style techniques to build self-awareness and coping strategies.",
+      "key_points": [
+        "Introduces basic CBT principles adapted for neurodivergent minds.",
+        "Provides exercises for identifying thought patterns and triggers.",
+        "Encourages developing personalized coping and self-care strategies."
+      ]
+    },
+    {
+      "id": "creating_supportive_environments",
+      "title": "Creating Supportive Environments",
+      "goal": "Learn strategies for building inclusive and supportive environments at home, school, and work.",
+      "key_points": [
+        "Explains the role of accommodations and universal design.",
+        "Shares tips for fostering understanding and collaboration.",
+        "Highlights advocacy and communication techniques."
+      ]
+    },
+    {
+      "id": "resources_and_advocacy",
+      "title": "Resources and Advocacy",
+      "goal": "Access resources and learn how to advocate for yourself and others.",
+      "key_points": [
+        "Provides a curated list of helpful resources and organizations.",
+        "Offers guidance on self-advocacy and allyship.",
+        "Encourages ongoing learning and community engagement."
+      ]
+    }
+  ]
+}

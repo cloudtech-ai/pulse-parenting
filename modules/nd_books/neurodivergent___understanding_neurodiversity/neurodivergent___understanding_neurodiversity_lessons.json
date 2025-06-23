@@ -1,0 +1,550 @@
+{
+  "introduction_to_neurodiversity": [
+    {
+      "id": "lesson1_defining_neurodiversity",
+      "title": "What is Neurodiversity?",
+      "goal": "Understand the definition and origins of neurodiversity.",
+      "keyConcept": "Neurodiversity is the idea that differences in brain function and behavior are normal and valuable variations of the human experience. The term was first used in the late 1990s to challenge the idea that neurological differences, such as autism or ADHD, are deficits. Instead, neurodiversity recognizes that all brains are unique, and these differences can bring strengths as well as challenges.",
+      "example": "A child who struggles with reading but excels at solving puzzles demonstrates a different way of thinking, not a flaw.",
+      "parentTip": "When talking about your child\u2019s learning style, use positive language like 'unique' or 'different,' rather than 'problem' or 'disorder.'",
+      "reflectionPrompt": "How do you usually describe your child\u2019s differences? Could you reframe them in a more positive light?",
+      "quizQuestion": {
+        "question": "What does neurodiversity emphasize?",
+        "options": [
+          "That all brains work the same way",
+          "That differences in brain function are normal and valuable",
+          "That neurological differences should be fixed"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_social_significance",
+      "title": "Why Neurodiversity Matters Socially",
+      "goal": "Recognize the social importance of embracing neurodiversity.",
+      "keyConcept": "Embracing neurodiversity helps reduce stigma and promotes acceptance of all individuals, regardless of how their brains work. When society values different ways of thinking, it creates more inclusive environments where everyone can thrive. This shift benefits not only neurodivergent individuals but also the broader community.",
+      "example": "A school that celebrates students\u2019 unique talents and learning styles helps all children feel valued and included.",
+      "parentTip": "Model acceptance by speaking positively about differences in your family and community. For example, say, 'Everyone has their own strengths and challenges.'",
+      "reflectionPrompt": "How can you help your child feel proud of their differences?",
+      "quizQuestion": {
+        "question": "What is a key benefit of embracing neurodiversity in society?",
+        "options": [
+          "It makes everyone act the same way",
+          "It reduces stigma and promotes inclusion",
+          "It eliminates all challenges"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_scientific_significance",
+      "title": "The Science Behind Neurodivergence",
+      "goal": "Understand the scientific basis for neurodiversity.",
+      "keyConcept": "Research shows that neurological differences like autism, ADHD, and dyslexia are rooted in brain structure and function. These differences are natural variations, not simply problems to be fixed. Recognizing the science behind neurodivergence helps parents support their children with understanding and empathy.",
+      "example": "Brain scans reveal that people with dyslexia process language differently, which can make reading harder but may also enhance creative thinking.",
+      "parentTip": "Remind yourself that your child\u2019s brain works differently, not incorrectly. Seek information about your child\u2019s specific neurotype to better support them.",
+      "reflectionPrompt": "What is one thing you\u2019d like to learn about how your child\u2019s brain works?",
+      "quizQuestion": {
+        "question": "What do scientific studies show about neurodivergence?",
+        "options": [
+          "It is a natural variation in brain function",
+          "It is caused by poor parenting",
+          "It is always a medical emergency"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_celebrating_brain_diversity",
+      "title": "Celebrating Brain Diversity",
+      "goal": "Appreciate the value of diverse ways of thinking and learning.",
+      "keyConcept": "Every brain is unique, and this diversity leads to a richer, more creative world. Children who think or learn differently often bring fresh perspectives and innovative solutions to problems. Valuing these differences helps children build confidence and resilience.",
+      "example": "A child who daydreams in class may later come up with imaginative stories or creative ideas that others might not think of.",
+      "parentTip": "Notice and praise your child\u2019s unique strengths, even if they don\u2019t fit traditional expectations. For example, 'I love how you see things differently!'",
+      "reflectionPrompt": "What is one unique strength your child has that you can celebrate today?",
+      "quizQuestion": {
+        "question": "How can parents support brain diversity?",
+        "options": [
+          "By comparing their child to others",
+          "By noticing and praising unique strengths",
+          "By ignoring differences"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_supporting_neurodivergent_children",
+      "title": "Supporting Your Neurodivergent Child",
+      "goal": "Learn practical ways to support your child\u2019s mental health and self-esteem.",
+      "keyConcept": "Children thrive when they feel understood and accepted for who they are. Providing support means listening to your child, advocating for their needs, and helping them develop coping strategies. Encouragement and understanding from parents can make a big difference in a child\u2019s mental health.",
+      "example": "A parent who helps their child find quiet spaces when they feel overwhelmed shows respect for their needs and helps them manage stress.",
+      "parentTip": "Ask your child what helps them feel comfortable and safe, and work together to create supportive routines.",
+      "reflectionPrompt": "What is one small change you can make at home to better support your child\u2019s needs?",
+      "quizQuestion": {
+        "question": "What is a key way to support a neurodivergent child?",
+        "options": [
+          "Listen to their needs and work together on solutions",
+          "Ignore their differences",
+          "Expect them to adapt without help"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "common_neurodivergent_profiles": [
+    {
+      "id": "lesson1_intro_neurodiversity",
+      "title": "What is Neurodiversity?",
+      "goal": "Understand the concept of neurodiversity and why it matters for your child.",
+      "keyConcept": "Neurodiversity refers to the natural variation in how human brains function. Conditions like autism, ADHD, and dyslexia are examples of neurodivergent profiles, not deficits or disorders. Embracing neurodiversity means recognizing and valuing these differences as part of human diversity.",
+      "example": "A parent notices their child learns differently from peers and seeks to understand rather than 'fix' them, leading to a more supportive environment.",
+      "parentTip": "Use positive language when talking about your child's differences. For example, say, 'You think in unique ways,' instead of 'You have a problem.'",
+      "reflectionPrompt": "How do you currently talk about your child's differences, and how might you shift your language to be more accepting?",
+      "quizQuestion": {
+        "question": "What does neurodiversity emphasize?",
+        "options": [
+          "That all brains work the same way",
+          "That differences in brain function are natural and valuable",
+          "That neurodivergent people need to be fixed"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_profiles_overview",
+      "title": "Recognizing Common Neurodivergent Profiles",
+      "goal": "Identify and describe key neurodivergent conditions.",
+      "keyConcept": "Common neurodivergent profiles include autism, ADHD, and dyslexia, among others. Each has unique characteristics, strengths, and challenges. Understanding these profiles helps parents better support their child's needs.",
+      "example": "A parent learns that their child's difficulty with reading may be due to dyslexia, not laziness or lack of effort.",
+      "parentTip": "If you notice persistent patterns (like trouble focusing, reading, or socializing), consider learning more about specific neurodivergent profiles rather than assuming it's a behavioral issue.",
+      "reflectionPrompt": "Which behaviors or traits in your child might be better understood through a neurodivergent lens?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT a common neurodivergent profile?",
+        "options": [
+          "Autism",
+          "ADHD",
+          "Chickenpox"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson3_strengths_challenges",
+      "title": "Strengths and Challenges of Neurodivergent Children",
+      "goal": "Recognize both the strengths and challenges associated with neurodivergent profiles.",
+      "keyConcept": "Neurodivergent children often have unique strengths, such as creativity, attention to detail, or strong memory, alongside challenges like sensory sensitivities or difficulty with organization. Focusing on strengths can boost confidence and well-being.",
+      "example": "A child with ADHD may struggle to sit still but excels at creative problem-solving and thinking outside the box.",
+      "parentTip": "Celebrate your child's strengths regularly. For example, say, 'I love how creative your ideas are,' to reinforce positive self-image.",
+      "reflectionPrompt": "What is one strength your child has that you can celebrate today?",
+      "quizQuestion": {
+        "question": "Why is it important to focus on a neurodivergent child's strengths?",
+        "options": [
+          "It helps build their confidence and self-esteem",
+          "It ignores their challenges",
+          "It makes them less neurodivergent"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_myths_misconceptions",
+      "title": "Debunking Myths and Misconceptions",
+      "goal": "Identify and challenge common myths about neurodivergent children.",
+      "keyConcept": "Many myths exist about neurodivergent profiles, such as the belief that autistic children lack empathy or that ADHD is caused by bad parenting. These misconceptions can be harmful and prevent children from getting the support they need.",
+      "example": "A parent learns that their autistic child expresses empathy differently, challenging the myth that autistic people don't care about others.",
+      "parentTip": "When you hear a stereotype about neurodivergent children, question its accuracy and seek information from reliable sources.",
+      "reflectionPrompt": "What is one myth about neurodiversity you have heard, and how can you challenge it?",
+      "quizQuestion": {
+        "question": "Which statement is a myth?",
+        "options": [
+          "ADHD is caused by poor parenting",
+          "Dyslexia affects reading ability",
+          "Autistic children may communicate differently"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_supportive_environment",
+      "title": "Creating a Supportive Environment",
+      "goal": "Learn practical ways to support your neurodivergent child at home.",
+      "keyConcept": "A supportive environment values your child's differences and adapts to their needs. This might include flexible routines, sensory-friendly spaces, or clear communication. Small changes can make a big difference in your child's comfort and confidence.",
+      "example": "A parent creates a quiet reading corner with soft lighting for their child who is sensitive to noise and bright lights.",
+      "parentTip": "Ask your child what helps them feel comfortable and safe at home, and try to make small adjustments based on their feedback.",
+      "reflectionPrompt": "What is one change you could make at home to better support your child's unique needs?",
+      "quizQuestion": {
+        "question": "What is a key part of a supportive environment for neurodivergent children?",
+        "options": [
+          "Strict routines with no flexibility",
+          "Adapting the environment to meet their needs",
+          "Ignoring their preferences"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "lived_experiences_and_identity": [
+    {
+      "id": "lesson1_listening_to_stories",
+      "title": "Listening to Neurodivergent Stories",
+      "goal": "Understand the value of hearing real-life experiences from neurodivergent individuals.",
+      "keyConcept": "Listening to the lived experiences of neurodivergent people helps parents gain insight into the unique challenges and strengths their children may have. These stories foster empathy and understanding, breaking down stereotypes and assumptions. By valuing these voices, parents can better support their child's journey.",
+      "example": "A parent reads a blog post written by an autistic adult describing their school experiences, which helps the parent recognize similar feelings in their own child.",
+      "parentTip": "Seek out and listen to stories from neurodivergent individuals\u2014through books, videos, or online communities\u2014to broaden your perspective.",
+      "reflectionPrompt": "How did hearing a neurodivergent person's story change or deepen your understanding of your child?",
+      "quizQuestion": {
+        "question": "Why is it important to listen to neurodivergent individuals' stories?",
+        "options": [
+          "To gain empathy and understanding",
+          "To compare children",
+          "To find quick solutions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_self_acceptance",
+      "title": "Fostering Self-Acceptance",
+      "goal": "Learn how to encourage self-acceptance in your neurodivergent child.",
+      "keyConcept": "Self-acceptance is crucial for mental health and confidence. Neurodivergent children may feel different or isolated, so it's important for parents to affirm their child's unique qualities and strengths. This helps children build a positive self-image and resilience against negative messages.",
+      "example": "A parent notices their child is upset about being 'different' and reassures them by highlighting their creativity and problem-solving skills.",
+      "parentTip": "Regularly point out your child's strengths and remind them that being different is valuable.",
+      "reflectionPrompt": "What are three unique strengths your child has that you can celebrate with them?",
+      "quizQuestion": {
+        "question": "What is a key benefit of encouraging self-acceptance in your child?",
+        "options": [
+          "It helps them fit in with everyone else",
+          "It builds confidence and resilience",
+          "It makes them less noticeable"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_building_community",
+      "title": "Connecting with Community",
+      "goal": "Discover the importance of community for neurodivergent children and families.",
+      "keyConcept": "Being part of a supportive community helps neurodivergent children and their families feel less isolated. Community connections provide understanding, shared experiences, and practical advice. They also offer opportunities for children to make friends who accept them as they are.",
+      "example": "A parent joins a local support group for families with neurodivergent children, where they share experiences and resources.",
+      "parentTip": "Look for local or online groups where you and your child can connect with others who understand your experiences.",
+      "reflectionPrompt": "How could joining a community group benefit your family and your child?",
+      "quizQuestion": {
+        "question": "What is one benefit of connecting with a neurodivergent community?",
+        "options": [
+          "Feeling less isolated",
+          "Learning to hide differences",
+          "Avoiding new experiences"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_addressing_stigma",
+      "title": "Addressing Stigma Together",
+      "goal": "Learn how to recognize and respond to stigma related to neurodiversity.",
+      "keyConcept": "Stigma can negatively impact a child's self-esteem and mental health. Parents play a key role in challenging stereotypes and advocating for acceptance. By openly discussing neurodiversity and correcting misconceptions, parents empower their children to feel proud of who they are.",
+      "example": "When a relative makes an uninformed comment about autism, a parent calmly explains what autism really means and highlights their child's strengths.",
+      "parentTip": "Model positive language about neurodiversity and gently correct misinformation when you hear it.",
+      "reflectionPrompt": "How can you support your child when they encounter stigma or misunderstanding?",
+      "quizQuestion": {
+        "question": "What should a parent do when they hear a stereotype about neurodiversity?",
+        "options": [
+          "Ignore it",
+          "Calmly provide accurate information",
+          "Agree with it"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_celebrating_pride",
+      "title": "Celebrating Neurodivergent Pride",
+      "goal": "Explore ways to nurture pride and confidence in your neurodivergent child.",
+      "keyConcept": "Celebrating neurodivergent pride means helping your child see their differences as strengths, not flaws. Pride fosters confidence, self-advocacy, and a sense of belonging. Parents can encourage pride by highlighting role models and celebrating achievements, big or small.",
+      "example": "A parent and child read about successful neurodivergent individuals and talk about how their unique perspectives contributed to their achievements.",
+      "parentTip": "Share stories of neurodivergent role models and celebrate your child's accomplishments, no matter how small.",
+      "reflectionPrompt": "What is one way you can help your child feel proud of their neurodivergent identity?",
+      "quizQuestion": {
+        "question": "Why is it important to celebrate neurodivergent pride?",
+        "options": [
+          "To help children feel confident and valued",
+          "To make them stand out",
+          "To ignore their differences"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "cbt_approaches_for_self_understanding": [
+    {
+      "id": "cbt_lesson_1_introducing_cbt",
+      "title": "Introducing CBT for Neurodivergent Minds",
+      "goal": "Understand the basics of Cognitive Behavioral Therapy (CBT) and how it can be adapted for neurodivergent children.",
+      "keyConcept": "CBT is a practical approach that helps people recognize and change unhelpful thought patterns and behaviors. For neurodivergent children, CBT can be tailored to respect their unique ways of thinking and experiencing the world. The goal is not to 'fix' the child, but to help them understand themselves and develop healthy coping strategies.",
+      "example": "A parent notices their child gets anxious before school. Instead of dismissing the fear, they use CBT principles to explore what thoughts are causing the anxiety and work together to find supportive solutions.",
+      "parentTip": "Start by validating your child's feelings and showing curiosity about their thoughts. Say, 'I notice you seem worried about school. Can you tell me what thoughts are popping up for you?'",
+      "reflectionPrompt": "How might understanding your child's thought patterns change the way you support them?",
+      "quizQuestion": {
+        "question": "What is the main goal of using CBT with neurodivergent children?",
+        "options": [
+          "To help them understand and manage their thoughts and feelings",
+          "To make them behave like everyone else"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "cbt_lesson_2_identifying_thought_patterns",
+      "title": "Identifying Thought Patterns and Triggers",
+      "goal": "Learn how to help your child recognize their own thought patterns and what triggers strong emotions.",
+      "keyConcept": "Everyone has patterns in the way they think, especially when facing challenges. Neurodivergent children may have unique triggers or ways of interpreting situations. Helping your child notice these patterns is the first step toward self-understanding and emotional regulation.",
+      "example": "A child becomes upset when plans change unexpectedly. The parent gently asks, 'What went through your mind when you heard about the change?' and listens for clues about the child's expectations or worries.",
+      "parentTip": "Use open-ended questions like, 'What were you thinking when that happened?' or 'Did something specific make you feel this way?' to help your child reflect.",
+      "reflectionPrompt": "What are some situations that seem to trigger strong reactions in your child?",
+      "quizQuestion": {
+        "question": "Why is it important to identify thought patterns and triggers?",
+        "options": [
+          "So you can punish negative behavior",
+          "So you can help your child understand and manage their reactions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_lesson_3_challenging_unhelpful_thoughts",
+      "title": "Challenging Unhelpful Thoughts",
+      "goal": "Support your child in questioning thoughts that may not be accurate or helpful.",
+      "keyConcept": "Sometimes, children (and adults) have thoughts that make situations seem worse than they are. Gently challenging these thoughts can help your child see things from a different perspective and reduce anxiety or frustration.",
+      "example": "A child says, 'I always mess up.' The parent responds, 'Is that true every time, or can you think of a time when things went well?'",
+      "parentTip": "Model curiosity rather than correction. Try saying, 'Let's look at the evidence together. Are there times when things went differently?'",
+      "reflectionPrompt": "How do you usually respond when your child expresses negative thoughts about themselves?",
+      "quizQuestion": {
+        "question": "What is a helpful way to respond when your child has an unhelpful thought?",
+        "options": [
+          "Ignore it",
+          "Help them look for evidence and alternative perspectives"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_lesson_4_building_personalized_coping_strategies",
+      "title": "Building Personalized Coping Strategies",
+      "goal": "Help your child develop coping strategies that fit their unique needs and preferences.",
+      "keyConcept": "Coping strategies are tools your child can use when they feel overwhelmed or upset. These should be tailored to what works best for them, whether that's taking a break, using sensory tools, or practicing calming techniques. Personalization increases the likelihood that your child will use these strategies when needed.",
+      "example": "A child who feels overwhelmed by noise learns to use noise-canceling headphones or take quiet breaks in a designated space.",
+      "parentTip": "Work with your child to brainstorm and try out different coping strategies. Ask, 'What helps you feel better when things are tough?' and make a list together.",
+      "reflectionPrompt": "What coping strategies have you noticed your child using already, and how can you support or expand on them?",
+      "quizQuestion": {
+        "question": "Why is it important to personalize coping strategies?",
+        "options": [
+          "Because every child is different and has unique needs",
+          "Because one strategy works for everyone"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "cbt_lesson_5_encouraging_self_care_and_resilience",
+      "title": "Encouraging Self-Care and Resilience",
+      "goal": "Empower your child to practice self-care and build resilience over time.",
+      "keyConcept": "Self-care is about meeting your child's physical, emotional, and sensory needs. Teaching your child to recognize when they need a break or support helps them become more resilient and independent. Encouraging small acts of self-care can build confidence and emotional strength.",
+      "example": "A child learns to ask for a quiet moment when feeling overwhelmed, or chooses a favorite activity to recharge after a stressful day.",
+      "parentTip": "Praise your child when they recognize and act on their needs. Say, 'I'm proud of you for taking care of yourself by asking for a break.'",
+      "reflectionPrompt": "How can you model and encourage self-care in your daily routines with your child?",
+      "quizQuestion": {
+        "question": "What is one benefit of teaching your child self-care skills?",
+        "options": [
+          "It helps them become more resilient and independent",
+          "It makes them dependent on adults"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "creating_supportive_environments": [
+    {
+      "id": "lesson_1_understanding_accommodations",
+      "title": "Understanding Accommodations",
+      "goal": "Help parents recognize the importance of accommodations for neurodivergent children.",
+      "keyConcept": "Accommodations are changes or supports that help neurodivergent children access learning and daily activities more easily. These can include things like extra time on tasks, quiet spaces, or visual schedules. Providing accommodations is not about giving unfair advantages, but about leveling the playing field so every child can thrive.",
+      "example": "A child who is sensitive to noise is allowed to wear headphones during loud activities at school, helping them stay focused and comfortable.",
+      "parentTip": "Ask your child what makes them feel comfortable or what helps them focus, and try to implement one small change at home or in their routine.",
+      "reflectionPrompt": "What is one area where your child seems to struggle, and how might a simple accommodation help?",
+      "quizQuestion": {
+        "question": "What is the main purpose of accommodations for neurodivergent children?",
+        "options": [
+          "To give them an advantage over others",
+          "To help them access learning and activities more easily",
+          "To make things easier for teachers"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_introducing_universal_design",
+      "title": "Introducing Universal Design",
+      "goal": "Introduce parents to the concept of universal design and its benefits.",
+      "keyConcept": "Universal design means creating environments, routines, and materials that work for everyone, not just those with specific needs. By planning spaces and activities to be flexible and accessible from the start, you reduce the need for individual accommodations and make things easier for all children.",
+      "example": "A family uses visual schedules for everyone, not just their neurodivergent child, making routines clear and reducing stress for the whole household.",
+      "parentTip": "Try adding one universally helpful tool, like a visual schedule or a quiet reading corner, to your home routine.",
+      "reflectionPrompt": "How could you make one daily routine more accessible or comfortable for everyone in your family?",
+      "quizQuestion": {
+        "question": "What is the goal of universal design?",
+        "options": [
+          "To create environments that only help neurodivergent children",
+          "To make spaces and routines accessible for everyone",
+          "To avoid making any changes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_fostering_understanding",
+      "title": "Fostering Understanding and Empathy",
+      "goal": "Guide parents in building empathy and understanding among family members.",
+      "keyConcept": "Open conversations about neurodiversity help children and adults understand each other's differences and strengths. When everyone feels heard and respected, it\u2019s easier to support each other and work together. Empathy grows when we listen and learn from each other\u2019s experiences.",
+      "example": "A parent explains to siblings why their brother needs extra time to finish homework, helping them understand and support him instead of feeling frustrated.",
+      "parentTip": "Use simple language to talk about differences and strengths in your family. Encourage questions and share positive stories about neurodiversity.",
+      "reflectionPrompt": "How can you start a conversation about neurodiversity in your family this week?",
+      "quizQuestion": {
+        "question": "Why is it important to talk openly about neurodiversity at home?",
+        "options": [
+          "To help family members understand and support each other",
+          "To make things more complicated",
+          "To avoid addressing differences"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_collaborative_problem_solving",
+      "title": "Collaborative Problem-Solving",
+      "goal": "Teach parents how to involve their child in finding solutions to challenges.",
+      "keyConcept": "When children are part of the problem-solving process, they feel valued and are more likely to use the solutions. Collaboration means listening to your child\u2019s ideas and working together to find what works best for them. This builds confidence and trust.",
+      "example": "A parent and child brainstorm together about how to make mornings less stressful, and the child suggests picking out clothes the night before.",
+      "parentTip": "Next time a challenge comes up, ask your child for their ideas on how to solve it. Try one of their suggestions, even if it\u2019s small.",
+      "reflectionPrompt": "What is one challenge you could solve together with your child this week?",
+      "quizQuestion": {
+        "question": "What is a key benefit of involving your child in problem-solving?",
+        "options": [
+          "They feel valued and are more likely to use the solution",
+          "It takes less time",
+          "Parents don\u2019t have to listen to their child\u2019s ideas"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_advocacy_and_communication",
+      "title": "Advocacy and Communication Techniques",
+      "goal": "Empower parents to advocate for their child and communicate effectively with others.",
+      "keyConcept": "Advocacy means speaking up for your child\u2019s needs in a respectful and clear way. Good communication with teachers, caregivers, and others helps ensure your child gets the support they need. Being prepared with specific examples and focusing on solutions makes advocacy more effective.",
+      "example": "A parent meets with their child\u2019s teacher and shares specific examples of what helps their child learn best, leading to better support in the classroom.",
+      "parentTip": "Before meetings, write down your child\u2019s strengths and needs. Practice explaining them clearly and positively.",
+      "reflectionPrompt": "How can you prepare to advocate for your child in your next conversation with a teacher or caregiver?",
+      "quizQuestion": {
+        "question": "What is an effective way to advocate for your child?",
+        "options": [
+          "Share specific examples and focus on solutions",
+          "Avoid talking about your child\u2019s needs",
+          "Wait for others to notice problems"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "resources_and_advocacy": [
+    {
+      "id": "lesson1_identifying_support_networks",
+      "title": "Identifying Support Networks",
+      "goal": "Help parents recognize and connect with organizations and communities that support neurodivergent children.",
+      "keyConcept": "Support networks, such as local advocacy groups, online communities, and national organizations, offer valuable resources and a sense of belonging for families. Connecting with these networks can provide emotional support, practical advice, and access to services tailored to neurodivergent needs. Building these connections early helps parents feel less isolated and more empowered.",
+      "example": "A parent joins a local autism support group and learns about sensory-friendly events and therapy options in their area.",
+      "parentTip": "Search online for neurodiversity organizations in your region, and consider joining at least one group or forum this week.",
+      "reflectionPrompt": "Who in your community or online could become part of your support network?",
+      "quizQuestion": {
+        "question": "What is one benefit of joining a neurodiversity support network?",
+        "options": [
+          "Access to practical advice and resources",
+          "Guaranteed medical diagnosis",
+          "Faster school admissions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_finding_reliable_resources",
+      "title": "Finding Reliable Resources",
+      "goal": "Teach parents how to identify trustworthy information and resources about neurodiversity.",
+      "keyConcept": "Not all information found online or in print is accurate or helpful. Reliable resources are often provided by reputable organizations, medical professionals, or lived-experience advocates. Learning to evaluate sources helps parents make informed decisions and avoid misinformation.",
+      "example": "A parent checks whether a website is affiliated with a recognized neurodiversity organization before following its advice.",
+      "parentTip": "When you find a new resource, look for author credentials, organizational backing, and recent updates to ensure its reliability.",
+      "reflectionPrompt": "How do you currently decide if a resource is trustworthy?",
+      "quizQuestion": {
+        "question": "Which is a sign that a resource may be reliable?",
+        "options": [
+          "It is frequently updated and cites expert sources",
+          "It promises instant cures",
+          "It has no contact information",
+          "It uses sensational headlines"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_practicing_self_advocacy",
+      "title": "Practicing Self-Advocacy",
+      "goal": "Empower parents to advocate for their child's needs in various settings.",
+      "keyConcept": "Self-advocacy means speaking up for your child's rights and needs, whether at school, in healthcare, or in the community. It involves clear communication, persistence, and knowing your child's strengths and challenges. Effective advocacy can lead to better support and accommodations.",
+      "example": "A parent requests a meeting with their child's teacher to discuss classroom adjustments for sensory sensitivities.",
+      "parentTip": "Prepare a short script describing your child's needs and practice saying it aloud before important meetings.",
+      "reflectionPrompt": "What is one situation where you could advocate for your child this month?",
+      "quizQuestion": {
+        "question": "What is a key part of self-advocacy?",
+        "options": [
+          "Ignoring your child's needs",
+          "Clearly communicating your child's strengths and challenges",
+          "Waiting for others to notice problems"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_being_an_ally",
+      "title": "Being an Ally to Neurodivergent Individuals",
+      "goal": "Guide parents in supporting not just their own child, but the broader neurodivergent community.",
+      "keyConcept": "Allyship involves listening to neurodivergent voices, challenging stereotypes, and promoting acceptance. By modeling inclusive attitudes and language, parents can help create a more supportive environment for all neurodivergent individuals.",
+      "example": "A parent corrects a family member who uses outdated or stigmatizing language about neurodiversity.",
+      "parentTip": "Use person-first or identity-first language as preferred by the individual, and encourage others to do the same.",
+      "reflectionPrompt": "How can you show support for neurodivergent people outside your immediate family?",
+      "quizQuestion": {
+        "question": "What is one way to be an ally to neurodivergent individuals?",
+        "options": [
+          "Listen to their experiences and challenge stereotypes",
+          "Ignore their preferences",
+          "Speak for them without asking"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_committing_to_ongoing_learning",
+      "title": "Committing to Ongoing Learning",
+      "goal": "Encourage parents to continue learning about neurodiversity and mental health.",
+      "keyConcept": "Neurodiversity research and understanding are always evolving. Staying informed helps parents adapt their support strategies and advocate effectively. Ongoing learning also models curiosity and openness for children.",
+      "example": "A parent subscribes to a newsletter from a neurodiversity advocacy group to stay updated on new research and events.",
+      "parentTip": "Set aside time each month to read an article, attend a webinar, or discuss neurodiversity topics with your child.",
+      "reflectionPrompt": "What is one new thing you want to learn about neurodiversity this year?",
+      "quizQuestion": {
+        "question": "Why is ongoing learning important for parents of neurodivergent children?",
+        "options": [
+          "Because information and best practices change over time",
+          "Because it guarantees perfect parenting",
+          "Because it replaces professional advice"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

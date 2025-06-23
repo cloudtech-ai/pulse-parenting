@@ -2,7 +2,13 @@
   "books": [
     {
       "id": 31,
-      "title": "Neurodivergent - Understanding Neurodiversity"
+      "title": "Neurodivergent - Understanding Neurodiversity",
+      "info": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_summary.json",
+      "strategies": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_strategies.json",
+      "studyPlans": {
+        "module_path": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_modules.json",
+        "lesson_path": "nd_books/neurodivergent___understanding_neurodiversity/neurodivergent___understanding_neurodiversity_lessons.json"
+      }
     },
     {
       "id": 32,

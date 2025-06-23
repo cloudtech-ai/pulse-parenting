@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "Neurodivergent - Understanding Neurodiversity",
+  "description": "Exploring the concept of neurodiversity, which recognizes and respects the variety of human brains and minds, and the unique ways they function.",
+  "videoPreview": "Embracing Neurodiversity",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Understanding Different Neurotypes",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Promoting Inclusivity and Acceptance"
+    },
+    {
+      "id": 53,
+      "title": "Supporting Neurodivergent Individuals"
+    },
+    {
+      "id": 54,
+      "title": "Challenging Stereotypes and Misconceptions"
+    },
+    {
+      "id": 55,
+      "title": "Advocating for Accommodations"
+    },
+    {
+      "id": 56,
+      "title": "Celebrating Neurodiverse Strengths"
+    },
+    {
+      "id": 57,
+      "title": "Building Neurodiverse Communities"
+    }
+  ],
+  "videos": [
+    {
+      "id": "A1B2C3D4E5F",
+      "title": "Introduction to Neurodiversity"
+    },
+    {
+      "id": "F5E4D3C2B1A",
+      "title": "Neurodiversity in the Workplace"
+    },
+    {
+      "id": "G6H7I8J9K0L",
+      "title": "Supporting Neurodivergent Children"
+    },
+    {
+      "id": "M0N9O8P7Q6R",
+      "title": "Neurodiversity and Mental Health"
+    },
+    {
+      "id": "S5T4U3V2W1X",
+      "title": "Celebrating Neurodiverse Talents"
+    },
+    {
+      "id": "Y1Z2A3B4C5D",
+      "title": "Challenging Neurodiversity Myths"
+    },
+    {
+      "id": "E6F7G8H9I0J",
+      "title": "Building Inclusive Communities"
+    },
+    {
+      "id": "K0L9M8N7O6P",
+      "title": "Neurodiversity Advocacy and Rights"
+    }
+  ]
+}
