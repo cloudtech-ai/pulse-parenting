@@ -14,10 +14,17 @@
     "last_updated_utc": "2025-06-08T05:14:38Z"
   },
   {
-  "id": "003-ND",
-  "name": "Neurodivergent",
-  "file": "neuro_divergent.json",
-  "summary": "A collection of books on Neurodivergent.",
-  "last_updated_utc": "2025-06-23T05:14:38Z"
-}
+    "id": "003-ND",
+    "name": "Neurodivergent",
+    "file": "neuro_divergent.json",
+    "summary": "A collection of books on Neurodivergent.",
+    "last_updated_utc": "2025-06-23T05:14:38Z"
+  },
+  {
+    "id": "004-ParentingBooks",
+    "name": "Parenting Books",
+    "file": "parenting_books.json",
+    "summary": "A collection of books on Parenting for Teens.",
+    "last_updated_utc": "2025-07-09T05:14:38Z"
+  }
 ]
