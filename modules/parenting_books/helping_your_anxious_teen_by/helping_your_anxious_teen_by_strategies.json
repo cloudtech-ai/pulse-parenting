@@ -1,0 +1,184 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Communication Techniques",
+    "summary": "Use open, supportive communication to help your teen feel understood and safe.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective communication builds trust, reduces misunderstandings, and helps teens express their anxieties without fear of judgment."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of dismissing your teen\u2019s worries, you listen attentively, validate their feelings, and ask open-ended questions to encourage sharing."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use active listening\u2014maintain eye contact and avoid interrupting.",
+          "Reflect back what you hear to show understanding.",
+          "Validate your teen\u2019s feelings, even if you don\u2019t agree.",
+          "Ask open-ended questions to encourage discussion.",
+          "Avoid criticism or minimizing their concerns."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Cognitive Behavioral Strategies",
+    "summary": "Help your teen identify and challenge anxious thoughts and replace them with more balanced thinking.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Anxious teens often get stuck in negative thinking patterns. Cognitive behavioral strategies teach them to recognize and reframe these thoughts, reducing anxiety."
+      },
+      {
+        "section": "Example",
+        "content": "Your teen worries about failing a test. You help them identify the thought ('I\u2019ll fail and ruin my future'), examine the evidence, and develop a more realistic perspective ('I\u2019ve studied and can do my best')."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Teach your teen to notice automatic negative thoughts.",
+          "Help them question the evidence for and against these thoughts.",
+          "Encourage them to come up with more balanced alternatives.",
+          "Practice thought-challenging together after anxious situations.",
+          "Model flexible thinking in your own life."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Mindfulness Practices",
+    "summary": "Encourage your teen to use mindfulness to stay present and reduce anxiety.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindfulness helps teens observe their thoughts and feelings without judgment, making it easier to manage anxiety and avoid getting overwhelmed."
+      },
+      {
+        "section": "Example",
+        "content": "When your teen feels anxious before a presentation, you guide them through a short breathing exercise to help them focus on the present moment."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Practice mindful breathing together for a few minutes daily.",
+          "Encourage noticing sensations, sounds, and sights in the environment.",
+          "Use guided mindfulness apps or recordings.",
+          "Remind your teen to bring attention back to the present when anxious.",
+          "Model mindfulness by taking pauses and being present yourself."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Building Resilience",
+    "summary": "Support your teen in developing coping skills and confidence to handle challenges.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Resilience helps teens bounce back from setbacks and face fears, reducing the impact of anxiety over time."
+      },
+      {
+        "section": "Example",
+        "content": "After a disappointing grade, you help your teen reflect on what they learned and encourage them to try again, reinforcing their ability to cope."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Praise effort and persistence, not just outcomes.",
+          "Encourage problem-solving and brainstorming solutions.",
+          "Share stories of overcoming challenges.",
+          "Help your teen set realistic goals and celebrate progress.",
+          "Allow your teen to experience manageable failures and learn from them."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Setting Boundaries",
+    "summary": "Establish healthy boundaries to support your teen\u2019s independence and reduce enabling behaviors.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clear boundaries help teens develop autonomy and learn to manage anxiety without excessive parental intervention."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of completing your teen\u2019s homework when they feel anxious, you encourage them to try on their own and offer support if needed."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Communicate expectations and limits clearly and calmly.",
+          "Avoid rescuing your teen from every anxious situation.",
+          "Encourage your teen to take age-appropriate risks.",
+          "Be consistent with rules and consequences.",
+          "Model healthy boundaries in your own relationships."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Encouraging Healthy Habits",
+    "summary": "Promote routines and habits that support your teen\u2019s physical and emotional well-being.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Good sleep, nutrition, exercise, and self-care reduce vulnerability to anxiety and improve mood regulation."
+      },
+      {
+        "section": "Example",
+        "content": "You help your teen create a bedtime routine and encourage regular physical activity to support their mental health."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage regular sleep and wake times.",
+          "Promote balanced meals and hydration.",
+          "Support daily physical activity.",
+          "Limit screen time before bed.",
+          "Model self-care and healthy routines yourself."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "Seeking Professional Help",
+    "summary": "Recognize when to involve mental health professionals to support your teen\u2019s anxiety.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Some anxiety requires specialized treatment. Professional help can provide therapy, guidance, and resources for your teen and family."
+      },
+      {
+        "section": "Example",
+        "content": "When your teen\u2019s anxiety interferes with daily life, you consult a therapist who specializes in adolescent anxiety."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Watch for signs that anxiety is persistent or worsening.",
+          "Discuss the idea of therapy openly and without stigma.",
+          "Research qualified mental health professionals together.",
+          "Support your teen in attending appointments.",
+          "Stay involved in treatment as appropriate."
+        ]
+      }
+    ]
+  }
+]

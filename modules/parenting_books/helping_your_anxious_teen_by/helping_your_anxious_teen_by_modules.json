@@ -1,0 +1,57 @@
+{
+  "id": "helping_your_anxious_teen",
+  "title": "Helping Your Anxious Teen",
+  "description": "This book provides practical, evidence-based guidance for parents supporting teenagers with anxiety. Drawing from cognitive-behavioral therapy (CBT) principles, it offers strategies to help parents understand anxiety, foster resilience, and empower teens to face their fears. The book emphasizes collaborative problem-solving, healthy communication, and gradual exposure to anxiety-provoking situations. It also addresses common parental pitfalls and provides tools to support both teens and parents throughout the journey.",
+  "modules": [
+    {
+      "id": "understanding_teen_anxiety",
+      "title": "Understanding Teen Anxiety",
+      "goal": "Help parents recognize and understand the nature and impact of anxiety in teenagers.",
+      "key_points": [
+        "Identify common symptoms and types of anxiety seen in teens.",
+        "Explore why anxiety increases during adolescence, including biological and social factors.",
+        "Learn how anxiety can affect daily functioning and family dynamics."
+      ]
+    },
+    {
+      "id": "parental_responses_to_anxiety",
+      "title": "Parental Responses to Anxiety",
+      "goal": "Teach parents how their reactions can influence their teen's anxiety.",
+      "key_points": [
+        "Understand common parental behaviors that unintentionally reinforce anxiety.",
+        "Recognize the difference between supportive and enabling responses.",
+        "Learn how to validate feelings without accommodating avoidance behaviors."
+      ]
+    },
+    {
+      "id": "building_resilience_and_confidence",
+      "title": "Building Resilience and Confidence",
+      "goal": "Guide parents in fostering resilience and healthy coping skills in their teens.",
+      "key_points": [
+        "Encourage teens to face fears through gradual exposure.",
+        "Promote problem-solving and positive self-talk.",
+        "Support the development of independence and self-efficacy."
+      ]
+    },
+    {
+      "id": "collaborative_problem_solving",
+      "title": "Collaborative Problem-Solving",
+      "goal": "Introduce effective communication and problem-solving strategies for families.",
+      "key_points": [
+        "Learn how to have open, non-judgmental conversations about anxiety.",
+        "Set realistic expectations and goals together.",
+        "Develop step-by-step plans for managing anxiety-provoking situations."
+      ]
+    },
+    {
+      "id": "managing_setbacks_and_self_care",
+      "title": "Managing Setbacks and Parental Self-Care",
+      "goal": "Prepare parents to handle setbacks and maintain their own well-being.",
+      "key_points": [
+        "Recognize that setbacks are a normal part of progress.",
+        "Develop strategies for staying calm and consistent during challenging moments.",
+        "Practice self-care and seek support when needed."
+      ]
+    }
+  ]
+}

@@ -15,7 +15,13 @@
       "id": 43,
       "title": "Helping Your Anxious Teen",
       "author": "Sheila Achar Josephs",
-      "generative_title": "Helping Your Anxious Teen by Sheila Achar Josephs"
+      "generative_title": "Helping Your Anxious Teen by Sheila Achar Josephs",
+      "info": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_summary.json",
+      "strategies": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_strategies.json",
+      "studyPlans": {
+        "module_path": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_modules.json",
+        "lesson_path": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_lessons.json"
+      }
     },
     {
       "id": 44,

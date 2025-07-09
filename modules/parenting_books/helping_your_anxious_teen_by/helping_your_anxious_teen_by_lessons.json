@@ -1,0 +1,456 @@
+{
+  "understanding_teen_anxiety": [
+    {
+      "id": "lesson1_identifying_symptoms",
+      "title": "Spotting Signs of Anxiety in Teens",
+      "goal": "Help parents recognize common symptoms of anxiety in their teenagers.",
+      "keyConcept": "Anxiety in teens can show up in many ways, not just as worry or fear. It may appear as irritability, trouble sleeping, avoidance of activities, physical complaints (like headaches or stomachaches), or changes in school performance. Recognizing these signs early can help you support your teen before anxiety becomes overwhelming.",
+      "example": "Your usually outgoing teen suddenly avoids social events and complains of frequent stomachaches before school.",
+      "parentTip": "Pay attention to changes in your teen\u2019s mood, behavior, or routines. Gently ask open-ended questions like, 'I\u2019ve noticed you seem quieter lately. Is something on your mind?'",
+      "reflectionPrompt": "What changes have you noticed in your teen\u2019s behavior or mood recently? Could these be signs of anxiety?",
+      "quizQuestion": {
+        "question": "Which of the following can be a sign of anxiety in teens?",
+        "options": [
+          "Frequent stomachaches",
+          "Always feeling happy",
+          "Increased interest in hobbies"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_types_of_anxiety",
+      "title": "Understanding Different Types of Teen Anxiety",
+      "goal": "Enable parents to distinguish between various forms of anxiety that may affect teens.",
+      "keyConcept": "Teens can experience different types of anxiety, such as social anxiety, generalized anxiety, panic attacks, or specific phobias. Each type has unique triggers and symptoms. Understanding these differences helps you respond appropriately and seek the right support if needed.",
+      "example": "Your teen avoids giving presentations in class and worries for days beforehand, which may indicate social anxiety.",
+      "parentTip": "Observe patterns in your teen\u2019s worries or fears. Note when and where anxiety seems to peak, and discuss these observations with your teen in a non-judgmental way.",
+      "reflectionPrompt": "Does your teen\u2019s anxiety seem to center around specific situations, or is it more general and persistent?",
+      "quizQuestion": {
+        "question": "What is a common feature of social anxiety in teens?",
+        "options": [
+          "Fear of being judged in social situations",
+          "Fear of heights",
+          "Constant happiness"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_why_anxiety_increases",
+      "title": "Why Anxiety Rises During Adolescence",
+      "goal": "Help parents understand the biological and social reasons for increased anxiety in teens.",
+      "keyConcept": "Adolescence is a time of rapid brain development, hormonal changes, and increased social pressures. These factors can make teens more sensitive to stress and prone to anxiety. Recognizing that some anxiety is a normal part of growing up can help you respond with empathy.",
+      "example": "Your teen feels anxious about fitting in at a new school, which is heightened by hormonal changes and the desire to be accepted by peers.",
+      "parentTip": "Normalize conversations about stress and anxiety. Reassure your teen that it\u2019s common to feel anxious during big life changes.",
+      "reflectionPrompt": "How did you feel during your own teenage years when facing new challenges or social situations?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT a reason anxiety may increase during adolescence?",
+        "options": [
+          "Hormonal changes",
+          "Increased social pressures",
+          "Less need for sleep"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson4_anxiety_and_daily_life",
+      "title": "How Anxiety Affects Daily Life",
+      "goal": "Help parents recognize the impact of anxiety on their teen\u2019s daily functioning.",
+      "keyConcept": "Anxiety can interfere with sleep, concentration, relationships, and participation in activities. It may lead to avoidance of school, hobbies, or social events. Understanding these impacts can help you support your teen in managing daily challenges.",
+      "example": "Your teen starts missing classes and stops attending soccer practice due to overwhelming worries about performance.",
+      "parentTip": "Work with your teen to identify areas where anxiety is making life harder. Offer support and brainstorm small steps to re-engage with avoided activities.",
+      "reflectionPrompt": "In what ways has anxiety affected your teen\u2019s daily routines or interests?",
+      "quizQuestion": {
+        "question": "Which is a possible effect of anxiety on a teen\u2019s daily life?",
+        "options": [
+          "Improved concentration",
+          "Avoidance of activities",
+          "Increased socializing"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_family_dynamics",
+      "title": "Anxiety\u2019s Impact on Family Dynamics",
+      "goal": "Help parents understand how teen anxiety can affect the whole family.",
+      "keyConcept": "When a teen is anxious, it can create stress for the entire family. Parents may become overprotective, siblings may feel neglected, or family routines may change to accommodate the anxious teen. Recognizing these patterns can help you maintain balance and support everyone\u2019s needs.",
+      "example": "Family outings are often canceled because your teen feels too anxious to participate, leading to frustration among siblings.",
+      "parentTip": "Acknowledge the impact of anxiety on the family. Hold regular family check-ins to discuss feelings and find solutions together.",
+      "reflectionPrompt": "How has your teen\u2019s anxiety influenced your family\u2019s routines or relationships?",
+      "quizQuestion": {
+        "question": "What is a common family response to a teen\u2019s anxiety?",
+        "options": [
+          "Ignoring the teen\u2019s feelings",
+          "Becoming overprotective",
+          "Encouraging independence"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "parental_responses_to_anxiety": [
+    {
+      "id": "lesson1_identifying_reinforcing_behaviors",
+      "title": "Spotting Behaviors That Reinforce Anxiety",
+      "goal": "Help parents recognize actions that may unintentionally increase their teen's anxiety.",
+      "keyConcept": "Parents often want to protect their children from distress, but certain responses\u2014like allowing avoidance or providing excessive reassurance\u2014can actually reinforce anxious behaviors. By identifying these patterns, parents can begin to shift their approach and support their teen's growth.",
+      "example": "A parent lets their teen skip a social event because the teen feels anxious about attending. Over time, the teen becomes more avoidant of social situations.",
+      "parentTip": "Notice when you allow your teen to avoid anxiety-provoking situations. Instead of immediately accommodating, pause and consider how your response might affect their long-term coping skills.",
+      "reflectionPrompt": "Can you recall a recent time when you may have unintentionally reinforced your teen's anxiety? What did you do, and how might you respond differently next time?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of reinforcing a teen's anxiety?",
+        "options": [
+          "Letting them skip a feared activity",
+          "Encouraging them to face their fear with support",
+          "Listening to their concerns without changing plans"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_supportive_vs_enabling",
+      "title": "Supportive vs. Enabling Responses",
+      "goal": "Teach parents to distinguish between helping and enabling anxious behaviors.",
+      "keyConcept": "Supportive parenting involves validating your teen's feelings while encouraging them to face their fears. Enabling, on the other hand, means making it easier for your teen to avoid anxiety triggers, which can prevent them from learning coping skills.",
+      "example": "When a teen is nervous about a school presentation, a supportive parent listens and offers encouragement, while an enabling parent might offer to write the presentation for them or let them stay home.",
+      "parentTip": "Practice saying, 'I know this is hard, and I believe you can handle it,' instead of stepping in to remove the challenge.",
+      "reflectionPrompt": "Think of a recent situation where your teen was anxious. Did you respond in a supportive or enabling way? What could you do differently?",
+      "quizQuestion": {
+        "question": "What is a supportive response to a teen's anxiety?",
+        "options": [
+          "Letting them avoid the situation",
+          "Encouraging them to try with your support",
+          "Ignoring their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_validating_without_accommodating",
+      "title": "Validating Feelings Without Accommodating Avoidance",
+      "goal": "Show parents how to acknowledge their teen's emotions without encouraging avoidance.",
+      "keyConcept": "Validation means letting your teen know their feelings are real and understandable. However, it's important not to change plans or routines just to avoid triggering anxiety. This balance helps teens feel heard while still building resilience.",
+      "example": "A teen is anxious about going to a new club. The parent says, 'I can see you're nervous\u2014trying new things can be scary. Let's go together for the first meeting.'",
+      "parentTip": "Use phrases like, 'It's okay to feel anxious,' and follow up with, 'Let's make a plan to face this together.'",
+      "reflectionPrompt": "How comfortable are you with validating your teen's feelings without changing your expectations or plans?",
+      "quizQuestion": {
+        "question": "Which statement both validates feelings and encourages facing anxiety?",
+        "options": [
+          "'Don't worry, it's not a big deal.'",
+          "'I know you're anxious, and I believe you can handle this.'",
+          "'You don't have to go if you don't want to.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_modeling_calm_responses",
+      "title": "Modeling Calm and Confident Responses",
+      "goal": "Encourage parents to model calmness and confidence when their teen is anxious.",
+      "keyConcept": "Teens often look to their parents for cues on how to react to stress. By remaining calm and confident, parents can show their teen that anxiety is manageable and not dangerous. This helps teens learn to regulate their own emotions.",
+      "example": "When a teen panics about an upcoming test, the parent takes a deep breath, speaks calmly, and helps the teen make a study plan instead of reacting with worry.",
+      "parentTip": "Before responding to your teen's anxiety, take a moment to check your own emotions. Respond with a steady tone and reassuring words.",
+      "reflectionPrompt": "How do you usually react when your teen is anxious? What might help you stay calm in those moments?",
+      "quizQuestion": {
+        "question": "Why is it important for parents to model calmness during their teen's anxious moments?",
+        "options": [
+          "It teaches teens that anxiety is manageable",
+          "It makes the anxiety go away instantly",
+          "It ignores the teen's feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_encouraging_small_steps",
+      "title": "Encouraging Small Steps Toward Facing Fears",
+      "goal": "Help parents support their teen in gradually confronting anxiety triggers.",
+      "keyConcept": "Facing fears all at once can be overwhelming. Encouraging your teen to take small, manageable steps toward their goals builds confidence and reduces anxiety over time. Celebrate progress, no matter how minor.",
+      "example": "A teen is afraid of speaking in class. The parent encourages them to start by answering one question per week, then gradually increase participation.",
+      "parentTip": "Work with your teen to set small, achievable goals related to their anxiety. Praise their efforts and progress, not just the outcome.",
+      "reflectionPrompt": "What is one small step your teen could take this week to face a fear? How can you support and encourage them?",
+      "quizQuestion": {
+        "question": "What is an effective way to help a teen face their fears?",
+        "options": [
+          "Encourage small, gradual steps",
+          "Force them to confront everything at once",
+          "Let them avoid the situation entirely"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "building_resilience_and_confidence": [
+    {
+      "id": "lesson_1_validating_fears",
+      "title": "Validating Your Teen's Fears",
+      "goal": "Help parents understand the importance of acknowledging and validating their teen's anxieties.",
+      "keyConcept": "Teens need to feel heard and understood when they express fear or anxiety. Validating their feelings does not mean agreeing with the fear, but rather showing empathy and support. This builds trust and opens the door for further guidance.",
+      "example": "When your teen says, 'I'm scared I'll fail the test,' you respond, 'I can see why you're worried. Tests can be stressful.'",
+      "parentTip": "Try saying, 'It makes sense that you feel this way,' before offering advice or solutions.",
+      "reflectionPrompt": "How do you usually respond when your teen shares a worry? How might validation change your conversations?",
+      "quizQuestion": {
+        "question": "What is the first step when your teen shares a fear?",
+        "options": [
+          "Validate their feelings",
+          "Tell them not to worry",
+          "Offer a solution immediately"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_small_steps_exposure",
+      "title": "Encouraging Small Steps Toward Fears",
+      "goal": "Teach parents how to help teens face fears gradually through exposure.",
+      "keyConcept": "Gradual exposure means helping your teen face their fears in small, manageable steps. This approach reduces anxiety over time and builds confidence as they experience success with each step.",
+      "example": "If your teen is anxious about public speaking, start by having them practice a short speech at home, then in front of a family member, and eventually in class.",
+      "parentTip": "Work with your teen to break down a big fear into smaller challenges, and celebrate each small victory.",
+      "reflectionPrompt": "What is one fear your teen has? How could you help them take a small step toward facing it?",
+      "quizQuestion": {
+        "question": "What is the benefit of gradual exposure?",
+        "options": [
+          "It helps teens avoid their fears",
+          "It builds confidence through small successes",
+          "It makes fears go away instantly"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_positive_self_talk",
+      "title": "Promoting Positive Self-Talk",
+      "goal": "Show parents how to encourage their teen to use positive self-talk to manage anxiety.",
+      "keyConcept": "Positive self-talk helps teens challenge negative thoughts and replace them with more realistic, encouraging ones. This skill can reduce anxiety and increase resilience when facing challenges.",
+      "example": "When your teen says, 'I can't do this,' help them reframe it to, 'This is hard, but I can try my best.'",
+      "parentTip": "Model positive self-talk yourself and gently prompt your teen to notice and rephrase negative thoughts.",
+      "reflectionPrompt": "What negative phrases do you hear from your teen? How can you help them reframe these into positive statements?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of positive self-talk?",
+        "options": [
+          "'I'm terrible at this.'",
+          "'I can improve if I keep practicing.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_problem_solving_skills",
+      "title": "Teaching Problem-Solving Skills",
+      "goal": "Equip parents to guide their teens in developing practical problem-solving abilities.",
+      "keyConcept": "Problem-solving skills empower teens to handle challenges independently. By brainstorming solutions together and evaluating possible outcomes, teens learn to approach problems with confidence rather than avoidance.",
+      "example": "If your teen is overwhelmed by homework, help them list tasks, prioritize, and create a plan to tackle each one.",
+      "parentTip": "Ask your teen, 'What are some ways you could handle this?' instead of immediately offering your own solution.",
+      "reflectionPrompt": "How can you involve your teen in finding solutions to their own challenges?",
+      "quizQuestion": {
+        "question": "What is a key benefit of teaching problem-solving skills?",
+        "options": [
+          "Teens become more dependent on parents",
+          "Teens learn to handle challenges independently",
+          "Teens avoid difficult situations"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_supporting_independence",
+      "title": "Supporting Independence and Self-Efficacy",
+      "goal": "Help parents foster independence and a sense of capability in their teens.",
+      "keyConcept": "Allowing teens to make choices and take responsibility for their actions builds self-efficacy\u2014the belief in their own abilities. This strengthens resilience and prepares them for future challenges.",
+      "example": "Let your teen choose how to organize their study time, even if their approach is different from yours.",
+      "parentTip": "Resist the urge to step in immediately; instead, express confidence in your teen's ability to handle things.",
+      "reflectionPrompt": "In what areas could you give your teen more independence to build their confidence?",
+      "quizQuestion": {
+        "question": "How does supporting independence help teens?",
+        "options": [
+          "It makes them feel less capable",
+          "It builds their confidence and resilience"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "collaborative_problem_solving": [
+    {
+      "id": "cps_micro1_open_conversations",
+      "title": "Starting Open Conversations About Anxiety",
+      "goal": "Help parents initiate non-judgmental discussions about their teen's anxiety.",
+      "keyConcept": "Open, honest conversations are the foundation for supporting an anxious teen. By creating a safe space where your child feels heard and not judged, you encourage them to share their feelings and experiences. This builds trust and helps you better understand their perspective.",
+      "example": "A parent notices their teen seems withdrawn after school. Instead of making assumptions, the parent says, 'I've noticed you seem a bit down lately. If you want to talk about anything that's bothering you, I'm here to listen.'",
+      "parentTip": "Use open-ended questions like, 'How are you feeling about school these days?' and avoid interrupting or offering immediate solutions.",
+      "reflectionPrompt": "When was the last time you had an open conversation with your teen about their feelings? How did it go?",
+      "quizQuestion": {
+        "question": "What is the most important element of starting a conversation about anxiety with your teen?",
+        "options": [
+          "Giving advice right away",
+          "Listening without judgment",
+          "Telling them not to worry"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cps_micro2_validating_feelings",
+      "title": "Validating Your Teen\u2019s Feelings",
+      "goal": "Teach parents how to acknowledge and validate their teen's emotions.",
+      "keyConcept": "Validation means letting your teen know their feelings are real and understandable, even if you don't fully agree or relate. This helps reduce shame and encourages them to keep communicating. Validation is not the same as agreeing with every thought or behavior, but it shows empathy and support.",
+      "example": "Your teen says, 'I'm scared I'll fail my math test.' You respond, 'It sounds like you're really worried about doing well. That makes sense\u2014tests can be stressful.'",
+      "parentTip": "Try saying, 'I can see why you\u2019d feel that way,' or 'That sounds tough.' Avoid minimizing their feelings or telling them to 'just relax.'",
+      "reflectionPrompt": "How do you usually respond when your teen shares something they're anxious about? What could you say to show more validation?",
+      "quizQuestion": {
+        "question": "Which response best validates a teen's anxious feelings?",
+        "options": [
+          "'Don't worry, it's not a big deal.'",
+          "'I can see why that would make you anxious.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cps_micro3_setting_expectations",
+      "title": "Setting Realistic Expectations Together",
+      "goal": "Guide parents to collaboratively set achievable goals with their teen.",
+      "keyConcept": "Setting expectations together helps your teen feel involved and capable. Instead of imposing goals, work as a team to decide what\u2019s realistic and manageable. This approach increases motivation and reduces pressure, making it easier for your teen to face anxiety-provoking situations.",
+      "example": "Instead of saying, 'You must attend every social event,' you and your teen agree to try attending one event this month and discuss how it goes afterward.",
+      "parentTip": "Ask your teen, 'What do you think is a reasonable first step?' and be open to adjusting goals as needed.",
+      "reflectionPrompt": "Are your current expectations for your teen realistic given their anxiety? How could you involve them more in setting these goals?",
+      "quizQuestion": {
+        "question": "Why is it important to set expectations with your teen rather than for them?",
+        "options": [
+          "It helps them feel more in control and motivated.",
+          "It makes it easier for you to enforce rules."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "cps_micro4_step_by_step_plans",
+      "title": "Creating Step-by-Step Plans",
+      "goal": "Show parents how to break down anxiety-provoking situations into manageable steps.",
+      "keyConcept": "Big challenges can feel overwhelming for anxious teens. By breaking tasks into smaller, achievable steps, you help your teen build confidence and experience success. This gradual approach makes it easier to face fears and develop coping skills.",
+      "example": "If your teen is anxious about public speaking, start by practicing a short speech at home, then gradually work up to speaking in front of a small group of friends.",
+      "parentTip": "Work with your teen to list the steps needed to tackle a challenge, and celebrate progress at each stage.",
+      "reflectionPrompt": "Think of a situation that makes your teen anxious. How could you break it down into smaller, more manageable steps?",
+      "quizQuestion": {
+        "question": "What is the benefit of breaking down anxiety-provoking situations into steps?",
+        "options": [
+          "It helps your teen avoid the situation.",
+          "It makes the challenge feel more manageable."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cps_micro5_follow_up_support",
+      "title": "Following Up and Offering Support",
+      "goal": "Encourage parents to check in and provide ongoing encouragement after problem-solving.",
+      "keyConcept": "After working through a plan, it's important to follow up with your teen. Checking in shows you care and helps you both learn what worked and what needs adjusting. Ongoing support reinforces your teen\u2019s efforts and builds resilience over time.",
+      "example": "A week after your teen attends a social event, you ask, 'How did it feel to go? Is there anything you\u2019d like to do differently next time?'",
+      "parentTip": "Schedule regular check-ins to discuss progress and challenges. Offer praise for effort, not just outcomes.",
+      "reflectionPrompt": "How do you usually follow up with your teen after they've faced a challenge? What could you do to provide more encouragement?",
+      "quizQuestion": {
+        "question": "Why is it important to follow up after your teen tries a new coping strategy?",
+        "options": [
+          "To criticize what they did wrong",
+          "To support and encourage their efforts"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "managing_setbacks_and_self_care": [
+    {
+      "id": "setbacks_are_normal",
+      "title": "Understanding Setbacks as Part of Growth",
+      "goal": "Help parents recognize that setbacks are a normal and expected part of their teen's progress.",
+      "keyConcept": "Progress in managing anxiety is rarely a straight line\u2014setbacks are a natural part of learning and growth. When your teen experiences a difficult day or regresses in their coping skills, it doesn't mean all progress is lost. Recognizing this helps you respond with patience and encouragement, rather than frustration.",
+      "example": "Your teen has been attending social events more confidently, but suddenly feels anxious before a school dance and decides not to go. Instead of seeing this as failure, you remember that ups and downs are part of the process.",
+      "parentTip": "When a setback happens, remind yourself and your teen: 'It's okay to have tough days. Progress takes time, and every step counts.'",
+      "reflectionPrompt": "How do you usually react when your teen has a setback? How might viewing setbacks as normal change your response?",
+      "quizQuestion": {
+        "question": "What is the best way to view setbacks in your teen's progress?",
+        "options": [
+          "As a sign that nothing is working",
+          "As a normal part of growth",
+          "As something to ignore"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "staying_calm_in_challenges",
+      "title": "Staying Calm During Challenging Moments",
+      "goal": "Teach parents strategies to remain calm and consistent when their teen is struggling.",
+      "keyConcept": "Your calm presence can help your teen feel safe and supported, especially during anxious moments. When you stay composed, you model effective coping and show your teen that difficult emotions can be managed. This doesn't mean you have to hide your feelings, but rather, respond thoughtfully instead of reacting impulsively.",
+      "example": "Your teen becomes upset about an upcoming test and starts yelling. Instead of raising your voice or panicking, you take a deep breath and speak in a steady, reassuring tone.",
+      "parentTip": "Before responding to your teen's anxiety, pause and take three slow breaths. This brief moment can help you respond more calmly.",
+      "reflectionPrompt": "What helps you stay calm when your teen is upset? What could you try next time to maintain your composure?",
+      "quizQuestion": {
+        "question": "What is a helpful first step when your teen is anxious and upset?",
+        "options": [
+          "Take a few deep breaths before responding",
+          "Immediately offer solutions",
+          "Ignore their feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "consistency_in_support",
+      "title": "Being Consistent in Your Support",
+      "goal": "Encourage parents to provide steady, predictable support during setbacks.",
+      "keyConcept": "Consistency helps your teen feel secure, especially when they're anxious or discouraged. This means responding in similar ways to similar situations, setting clear expectations, and following through with supportive actions. Consistency builds trust and reassures your teen that you are a reliable source of support.",
+      "example": "Whenever your teen expresses worry about school, you listen without judgment and encourage them to use their coping skills, rather than changing your approach each time.",
+      "parentTip": "Choose one supportive phrase or action you can use every time your teen faces a setback, such as 'I'm here for you, and we'll get through this together.'",
+      "reflectionPrompt": "How consistent are you in your responses to your teen's anxiety? What could you do to be more predictable and supportive?",
+      "quizQuestion": {
+        "question": "Why is consistency important when supporting your anxious teen?",
+        "options": [
+          "It helps your teen feel secure and supported",
+          "It makes things more convenient for you",
+          "It prevents your teen from having any setbacks"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "parental_self_care_basics",
+      "title": "Prioritizing Your Own Self-Care",
+      "goal": "Help parents understand the importance of self-care for their own well-being and their ability to support their teen.",
+      "keyConcept": "Caring for an anxious teen can be emotionally draining. Taking time for your own self-care\u2014such as rest, hobbies, or connecting with friends\u2014replenishes your energy and patience. When you care for yourself, you model healthy habits and are better equipped to support your child.",
+      "example": "After a stressful week, you schedule a walk with a friend or set aside 15 minutes to read, helping you recharge and approach parenting challenges with a clearer mind.",
+      "parentTip": "Identify one small self-care activity you can do this week, and schedule it on your calendar.",
+      "reflectionPrompt": "What self-care practices help you feel recharged? How can you make time for them, even in busy weeks?",
+      "quizQuestion": {
+        "question": "Why is parental self-care important?",
+        "options": [
+          "It helps you stay patient and supportive",
+          "It shows your teen you are busy",
+          "It prevents your teen from feeling anxious"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "seeking_support_when_needed",
+      "title": "Seeking Support for Yourself",
+      "goal": "Encourage parents to reach out for help when they need it.",
+      "keyConcept": "You don't have to handle everything alone. Seeking support\u2014from friends, family, or professionals\u2014can provide relief, new perspectives, and practical advice. Asking for help is a sign of strength, not weakness, and it benefits both you and your teen.",
+      "example": "You join a parent support group or talk to a counselor when you feel overwhelmed, gaining reassurance and useful tips from others who understand.",
+      "parentTip": "If you're feeling isolated or stuck, reach out to someone you trust or look for local or online support groups for parents of anxious teens.",
+      "reflectionPrompt": "Who could you reach out to for support when parenting feels overwhelming? What might hold you back, and how can you overcome it?",
+      "quizQuestion": {
+        "question": "What is a healthy way to cope when you feel overwhelmed as a parent?",
+        "options": [
+          "Keep your feelings to yourself",
+          "Reach out for support from others",
+          "Ignore the problem"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

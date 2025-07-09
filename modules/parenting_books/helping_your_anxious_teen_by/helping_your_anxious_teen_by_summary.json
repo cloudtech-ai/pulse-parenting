@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "title": "Helping Your Anxious Teen",
+  "description": "A guide for parents to help their teenagers manage anxiety through practical strategies and support.",
+  "videoPreview": "Understanding Teen Anxiety",
+  "image": "https://example.com/image/anxious-teen.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Communication Techniques",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Cognitive Behavioral Strategies"
+    },
+    {
+      "id": 13,
+      "title": "Mindfulness Practices"
+    },
+    {
+      "id": 14,
+      "title": "Building Resilience"
+    },
+    {
+      "id": 15,
+      "title": "Setting Boundaries"
+    },
+    {
+      "id": 16,
+      "title": "Encouraging Healthy Habits"
+    },
+    {
+      "id": 17,
+      "title": "Seeking Professional Help"
+    }
+  ],
+  "videos": [
+    {
+      "id": "5sCZYWSJ2J0",
+      "title": "Understanding Teen Anxiety"
+    },
+    {
+      "id": "yPIuPHilAlE",
+      "title": "Effective Communication with Teens"
+    },
+    {
+      "id": "4zQFLj28g0Q",
+      "title": "CBT Techniques for Teens"
+    }
+  ]}
