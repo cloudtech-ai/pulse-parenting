@@ -1,0 +1,67 @@
+{
+  "id": "the_teenage_brain",
+  "title": "The Teenage Brain",
+  "description": "The Teenage Brain by Frances E. Jensen explores the unique development and challenges of adolescent brains. The book examines how changes in brain structure and function shape teen behavior, risk-taking, learning, and emotional health. Dr. Jensen blends neuroscience research with practical advice for teenagers, parents, and educators. The book aims to foster understanding and informed support for teens during this critical period of growth.",
+  "modules": [
+    {
+      "id": "introduction_to_the_teenage_brain",
+      "title": "Introduction to the Teenage Brain",
+      "goal": "Understand the basics of adolescent brain development and why teenagers think and act differently from adults.",
+      "key_points": [
+        "Teen brains are still developing, particularly in areas controlling judgment and self-regulation.",
+        "Hormonal changes influence emotions, motivation, and social interactions.",
+        "The brain's plasticity makes adolescence a key period for learning and growth."
+      ]
+    },
+    {
+      "id": "neuroscience_of_adolescence",
+      "title": "The Neuroscience of Adolescence",
+      "goal": "Learn about the scientific foundations of how the teenage brain grows and changes.",
+      "key_points": [
+        "The prefrontal cortex, responsible for decision-making, is not fully mature until the mid-20s.",
+        "The limbic system, which governs emotions and reward, develops earlier, leading to heightened sensitivity and impulsivity.",
+        "Brain connectivity and myelination improve throughout adolescence, enhancing speed and integration of thought."
+      ]
+    },
+    {
+      "id": "risk_taking_and_decision_making",
+      "title": "Risk-Taking and Decision-Making",
+      "goal": "Explore why teenagers are more prone to risky behaviors and how decision-making processes differ in adolescence.",
+      "key_points": [
+        "Reward circuits are highly active in teens, making novel experiences especially appealing.",
+        "Peer influence can strongly affect decisions due to social brain development.",
+        "Developing self-control and setting boundaries can help reduce unhealthy risks."
+      ]
+    },
+    {
+      "id": "learning_memory_and_stress",
+      "title": "Learning, Memory, and Stress",
+      "goal": "Examine how teens learn, remember, and respond to stress, and how these processes can be supported.",
+      "key_points": [
+        "Adolescent brains are primed for learning but are also vulnerable to distraction.",
+        "Stress and sleep deprivation can impair memory and cognitive function.",
+        "Building strong study habits and managing stress improves learning outcomes."
+      ]
+    },
+    {
+      "id": "mental_health_and_substance_use",
+      "title": "Mental Health and Substance Use",
+      "goal": "Understand the increased risk for mental health issues and substance abuse during adolescence.",
+      "key_points": [
+        "Teens are at higher risk for anxiety, depression, and other mental health challenges.",
+        "Substance use can have lasting impacts on brain development.",
+        "Early intervention and open communication can protect mental health."
+      ]
+    },
+    {
+      "id": "supporting_healthy_development",
+      "title": "Supporting Healthy Development",
+      "goal": "Identify strategies for parents, educators, and teens themselves to foster positive brain development.",
+      "key_points": [
+        "Positive relationships, clear communication, and supportive environments aid healthy growth.",
+        "Encouraging autonomy and responsibility builds self-confidence and resilience.",
+        "Understanding the science behind the teenage brain can reduce conflict and promote empathy."
+      ]
+    }
+  ]
+}

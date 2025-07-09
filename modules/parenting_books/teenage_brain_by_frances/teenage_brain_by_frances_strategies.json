@@ -1,0 +1,183 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Understanding Brain Development",
+    "summary": "Learn about the unique features and changes in the teenage brain to better support growth and decision-making.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Adolescence is a critical period of brain development, with ongoing changes in the prefrontal cortex and limbic system affecting judgment, impulse control, and emotions."
+      },
+      {
+        "section": "Example",
+        "content": "Knowing that teens may act impulsively due to ongoing brain maturation helps parents respond with patience rather than frustration."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Read about adolescent brain development.",
+          "Discuss brain changes with your teen to normalize their experiences.",
+          "Be patient with mistakes and impulsive behavior.",
+          "Encourage reflection and self-awareness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Communication Strategies",
+    "summary": "Use effective communication techniques to foster trust and understanding with teenagers.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Open, respectful communication helps teens feel heard and understood, reducing conflict and promoting healthy relationships."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of lecturing, ask open-ended questions and listen actively when your teen shares their thoughts."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use active listening and avoid interrupting.",
+          "Validate your teen\u2019s feelings.",
+          "Ask open-ended questions.",
+          "Stay calm during disagreements.",
+          "Set aside regular time to talk."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Risk Management",
+    "summary": "Help teens recognize and manage risky behaviors by providing guidance and clear boundaries.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens are more likely to engage in risky behaviors due to heightened sensitivity to rewards and peer influence."
+      },
+      {
+        "section": "Example",
+        "content": "Discussing the consequences of substance use and setting clear expectations can reduce the likelihood of risky experimentation."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Talk openly about risks and consequences.",
+          "Set clear, consistent boundaries.",
+          "Encourage safe decision-making.",
+          "Monitor activities without being intrusive.",
+          "Model responsible behavior."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Promoting Healthy Habits",
+    "summary": "Encourage routines that support physical and mental health, such as sleep, nutrition, and exercise.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Healthy habits are crucial for optimal brain development and emotional regulation during adolescence."
+      },
+      {
+        "section": "Example",
+        "content": "Establishing a regular sleep schedule helps teens concentrate better and manage stress."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Promote consistent sleep routines.",
+          "Encourage balanced meals and hydration.",
+          "Support regular physical activity.",
+          "Limit screen time, especially before bed.",
+          "Model healthy habits yourself."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Supporting Emotional Growth",
+    "summary": "Help teens identify, express, and manage their emotions in healthy ways.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Adolescents experience intense emotions due to brain changes; learning emotional skills builds resilience and well-being."
+      },
+      {
+        "section": "Example",
+        "content": "Teaching your teen to name their feelings and use coping strategies can prevent emotional outbursts."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage open discussions about emotions.",
+          "Teach coping skills like deep breathing or journaling.",
+          "Model healthy emotional expression.",
+          "Validate and normalize emotional experiences.",
+          "Seek professional help if needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Educational Approaches",
+    "summary": "Adopt learning strategies that align with the adolescent brain\u2019s strengths and challenges.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens learn best with repetition, active engagement, and real-world relevance due to ongoing brain development."
+      },
+      {
+        "section": "Example",
+        "content": "Using interactive projects and real-life examples helps teens retain information and stay motivated."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage active learning and hands-on activities.",
+          "Use repetition and review to reinforce concepts.",
+          "Connect lessons to real-life situations.",
+          "Support organizational and study skills.",
+          "Allow for breaks and movement during study sessions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Building Resilience",
+    "summary": "Foster coping skills and a growth mindset to help teens handle setbacks and challenges.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Resilience helps teens recover from difficulties, adapt to change, and develop confidence."
+      },
+      {
+        "section": "Example",
+        "content": "Encouraging your teen to view mistakes as learning opportunities builds perseverance and self-esteem."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model a growth mindset and positive self-talk.",
+          "Encourage problem-solving and independence.",
+          "Praise effort, not just results.",
+          "Help teens set realistic goals.",
+          "Support social connections and community involvement."
+        ]
+      }
+    ]
+  }
+]

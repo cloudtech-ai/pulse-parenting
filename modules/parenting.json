@@ -1,2 +1,49 @@
 {
+  "books": [
+    {
+      "id": 42,
+      "title": "The Teenage Brain",
+      "generative_title": "The Teenage Brain by Frances E. Jensen",
+      "info": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_summary.json",
+      "strategies": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_strategies.json",
+      "studyPlans": {
+        "module_path": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_modules.json",
+        "lesson_path": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_lessons.json"
+      }
+    },
+    {
+      "id": 43,
+      "title": "Helping Your Anxious Teen",
+      "author": "Sheila Achar Josephs",
+      "generative_title": "Helping Your Anxious Teen by Sheila Achar Josephs"
+    },
+    {
+      "id": 44,
+      "title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk",
+      "generative_title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk by Adele Faber & Elaine Mazlish"
+    },
+    {
+      "id": 45,
+      "title": "The DBT Skills Workbook for Parents of Teens",
+      "generative_title": "The DBT Skills Workbook for Parents of Teens by Amanda L. Smith"
+    },
+    {
+      "id": 46,
+      "title": "The Mindful Teen",
+      "author": "Dzung X. Vo",
+      "generative_title": "The Mindful Teen by Dzung X. Vo"
+    },
+    {
+      "id": 47,
+      "title": "Raising a Moody Child",
+      "author": "Mary A. Fristad & Jill S. Goldberg Arnold",
+      "generative_title": "Raising a Moody Child by Mary A. Fristad & Jill S. Goldberg Arnold"
+    },
+    {
+      "id": 48,
+      "title": "Brainstorm",
+      "author": "Daniel J. Siegel",
+      "generative_title": "Brainstorm by Daniel J. Siegel"
+    }
+  ]
 }

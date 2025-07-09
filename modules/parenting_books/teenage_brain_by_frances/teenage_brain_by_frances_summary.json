@@ -1,0 +1,72 @@
+{
+  "id": 6,
+  "title": "The Teenage Brain",
+  "description": "Exploration of the adolescent brain's development, highlighting its strengths and vulnerabilities, and offering insights for parents and educators.",
+  "videoPreview": "Understanding the Adolescent Mind",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Understanding Brain Development",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Communication Strategies"
+    },
+    {
+      "id": 63,
+      "title": "Risk Management"
+    },
+    {
+      "id": 64,
+      "title": "Promoting Healthy Habits"
+    },
+    {
+      "id": 65,
+      "title": "Supporting Emotional Growth"
+    },
+    {
+      "id": 66,
+      "title": "Educational Approaches"
+    },
+    {
+      "id": 67,
+      "title": "Building Resilience"
+    }
+  ],
+  "videos": [
+    {
+      "id": "A1B2C3D4E5F6",
+      "title": "The Teenage Brain: A Guide for Parents"
+    },
+    {
+      "id": "G7H8I9J0K1L2",
+      "title": "Adolescent Brain Development Explained"
+    },
+    {
+      "id": "M3N4O5P6Q7R8",
+      "title": "Communicating with Teens Effectively"
+    },
+    {
+      "id": "S9T0U1V2W3X4",
+      "title": "Managing Risks in Teenage Years"
+    },
+    {
+      "id": "Y5Z6A7B8C9D0",
+      "title": "Promoting Healthy Teen Habits"
+    },
+    {
+      "id": "E1F2G3H4I5J6",
+      "title": "Supporting Emotional Growth in Adolescents"
+    },
+    {
+      "id": "K7L8M9N0O1P2",
+      "title": "Educational Strategies for Teenagers"
+    },
+    {
+      "id": "Q3R4S5T6U7V8",
+      "title": "Building Resilience in Teens"
+    }
+  ]
+}
