@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "DBT Distress Tolerance",
+  "description": "Skills for surviving emotional crises without making things worse: rapid body\u2011calming techniques, short\u2011term distractions, and radical acceptance tools that let pain pass safely.",
+  "videoPreview": "Staying Afloat in Crisis",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "TIPP (Rapid Body Reset)",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Self\u2011Soothe with the Five Senses"
+    },
+    {
+      "id": 53,
+      "title": "ACCEPTS Distraction Skills"
+    },
+    {
+      "id": 54,
+      "title": "IMPROVE the Moment"
+    },
+    {
+      "id": 55,
+      "title": "Pros & Cons Before Acting"
+    },
+    {
+      "id": 56,
+      "title": "STOP Skill for Immediate Grounding"
+    },
+    {
+      "id": 57,
+      "title": "Radical Acceptance & Turning the Mind"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "DBT \u2013 Distress Tolerance \u2013 Quick Overview of All Skills"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "How to Deal with Negative Emotions \u2013 Distress Tolerance"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "DBT Skills: TIPP for Distress Tolerance"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "DBT Skills: ACCEPTS for Distress Tolerance"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "DBT Skills: Improve for Distress Tolerance"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "DBT Skills: Self-Soothe for Distress Tolerance"
+    },
+    {
+      "id": "2SI6C2Obzgc",
+      "title": "DBT Skills: Pros and Cons for Distress Tolerance"
+    },
+    {
+      "id": "u_795UX9VJ8",
+      "title": "DBT Skills: Radical Acceptance for Distress Tolerance"
+    }
+  ]
+}

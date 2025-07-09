@@ -1,0 +1,177 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Mindful Breathing",
+    "summary": "Focus your attention on your breath to anchor yourself in the present moment.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindful breathing helps calm the mind, reduce stress, and increase awareness of the present moment. It is a foundational mindfulness practice that can be used anytime, anywhere."
+      },
+      {
+        "section": "Example",
+        "content": "When feeling anxious before a test, you pause, close your eyes, and focus on the sensation of your breath entering and leaving your body for a few minutes."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Sit or stand comfortably with your back straight.",
+          "Bring your attention to your breath, noticing each inhale and exhale.",
+          "If your mind wanders, gently bring it back to your breath.",
+          "Practice for 1-5 minutes to start, gradually increasing the duration."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Body Scan Meditation",
+    "summary": "Systematically bring awareness to different parts of your body to promote relaxation and self-awareness.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Body scan meditation helps you notice physical sensations, release tension, and connect with your body. It can reduce stress and improve your ability to respond to discomfort."
+      },
+      {
+        "section": "Example",
+        "content": "Lying in bed, you slowly move your attention from your toes to your head, noticing sensations without judgment."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Find a quiet place and lie down or sit comfortably.",
+          "Start at your toes and work your way up, noticing sensations in each body part.",
+          "If you notice tension or discomfort, acknowledge it without trying to change it.",
+          "Spend 10-20 seconds on each area, moving slowly and mindfully."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Mindful Walking",
+    "summary": "Walk slowly and pay attention to the sensations of movement and contact with the ground.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindful walking integrates mindfulness into daily life, helping you stay present and grounded. It can be especially helpful if sitting meditation is difficult."
+      },
+      {
+        "section": "Example",
+        "content": "During a walk in the park, you focus on the feeling of your feet touching the ground and the rhythm of your steps."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Walk slowly and deliberately, paying attention to each step.",
+          "Notice the sensations in your feet, legs, and body as you move.",
+          "If your mind wanders, gently return your focus to the act of walking.",
+          "Try practicing for 5-10 minutes in a quiet space."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Loving-Kindness Meditation",
+    "summary": "Cultivate feelings of compassion and goodwill toward yourself and others.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Loving-kindness meditation can increase empathy, reduce negative emotions, and improve relationships. It helps foster a sense of connection and well-being."
+      },
+      {
+        "section": "Example",
+        "content": "You silently repeat phrases like 'May I be happy, may I be healthy' for yourself, then extend those wishes to friends, family, and even people you find difficult."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Sit comfortably and close your eyes.",
+          "Begin by offering kind wishes to yourself.",
+          "Gradually extend these wishes to others: loved ones, acquaintances, and all beings.",
+          "Use simple phrases such as 'May you be safe, may you be happy.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Mindful Listening",
+    "summary": "Listen to others with full attention, without judgment or interruption.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindful listening improves communication, deepens relationships, and helps you understand others more fully. It reduces misunderstandings and increases empathy."
+      },
+      {
+        "section": "Example",
+        "content": "During a conversation with a friend, you focus completely on their words and emotions, resisting the urge to plan your response."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Give the speaker your full attention, making eye contact if appropriate.",
+          "Notice your own reactions and thoughts, but return your focus to the speaker.",
+          "Avoid interrupting or judging what is being said.",
+          "Reflect back what you heard to show understanding."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Mindful Eating",
+    "summary": "Eat slowly and pay attention to the flavors, textures, and sensations of your food.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mindful eating helps you enjoy your food more, recognize hunger and fullness cues, and develop a healthier relationship with eating."
+      },
+      {
+        "section": "Example",
+        "content": "At lunch, you take small bites, chew slowly, and notice the taste and texture of each mouthful."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Eat without distractions like TV or phones.",
+          "Take small bites and chew slowly.",
+          "Notice the colors, smells, and flavors of your food.",
+          "Pause between bites to check in with your hunger and fullness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Gratitude Practice",
+    "summary": "Regularly reflect on and appreciate the positive aspects of your life.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Practicing gratitude can boost mood, increase resilience, and help you focus on what is going well, even during tough times."
+      },
+      {
+        "section": "Example",
+        "content": "Each night, you write down three things you are grateful for, such as a supportive friend or a beautiful sunset."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set aside a few minutes daily to reflect on things you appreciate.",
+          "Write your gratitudes in a journal or share them with someone.",
+          "Be specific\u2014focus on small, everyday moments.",
+          "Notice how this practice affects your mood over time."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 51,
+    "bookId": 7,
+    "title": "Embracing Emotional Spark",
+    "summary": "Recognize, accept, and channel intense emotions as a source of energy and creativity.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Adolescence and young adulthood are marked by heightened emotional intensity. Embracing these feelings, rather than suppressing them, can lead to greater self-understanding and motivation."
+      },
+      {
+        "section": "Example",
+        "content": "When you feel a surge of anger or excitement, instead of ignoring it, pause to notice where you feel it in your body and what thoughts accompany it. Use this awareness to guide your actions constructively."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pause and name your emotions as they arise.",
+          "Journal about intense feelings to explore their origins.",
+          "Channel emotional energy into creative activities like art or music.",
+          "Share your feelings with a trusted friend or mentor."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 7,
+    "title": "Social Engagement",
+    "summary": "Actively seek out and nurture meaningful connections with others.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Social relationships are essential for emotional well-being and brain development, especially during adolescence. Engaging with others helps build empathy, resilience, and a sense of belonging."
+      },
+      {
+        "section": "Example",
+        "content": "Join a club or group that interests you, or reach out to a friend you haven\u2019t spoken to in a while to reconnect."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular time to connect with friends or family.",
+          "Practice active listening in conversations.",
+          "Participate in group activities or community service.",
+          "Reflect on what you value in your relationships."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 7,
+    "title": "Novelty Seeking",
+    "summary": "Pursue new experiences and challenges to stimulate growth and learning.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Seeking novelty is a natural drive during adolescence and supports brain development. Healthy novelty seeking can foster adaptability, creativity, and confidence."
+      },
+      {
+        "section": "Example",
+        "content": "Try a new hobby, visit a place you\u2019ve never been, or learn a new skill outside your comfort zone."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set a goal to try something new each week.",
+          "Reflect on what you learn from new experiences.",
+          "Balance risk-taking with safety and self-awareness.",
+          "Share your discoveries with others."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 7,
+    "title": "Creative Exploration",
+    "summary": "Engage in imaginative thinking and creative activities to express yourself and solve problems.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Creative exploration strengthens problem-solving skills and emotional resilience. It allows you to see possibilities, adapt to change, and express your unique perspective."
+      },
+      {
+        "section": "Example",
+        "content": "Write a story, compose music, or brainstorm solutions to a challenge you\u2019re facing using mind maps or drawing."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set aside time for creative pursuits each week.",
+          "Experiment with different forms of expression (writing, art, music, etc.).",
+          "Collaborate with others on creative projects.",
+          "Embrace mistakes as opportunities for learning and growth."
+        ]
+      }
+    ]
+  }
+]

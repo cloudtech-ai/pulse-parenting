@@ -1,0 +1,78 @@
+{
+  "id": "dbt_skills_workbook_parents_teens",
+  "title": "The DBT Skills Workbook for Parents of Teens",
+  "description": "This workbook provides parents of teenagers with practical Dialectical Behavior Therapy (DBT) skills to support their own emotional well-being and foster healthier relationships with their teens. Through step-by-step exercises, parents learn to manage stress, regulate emotions, and communicate more effectively. The book emphasizes understanding adolescent behavior, building resilience, and navigating family challenges using evidence-based strategies. It is designed to empower parents with accessible tools to strengthen family connections and promote positive change.",
+  "modules": [
+    {
+      "id": "introduction_to_dbt_and_parenting_teens",
+      "title": "Introduction to DBT and Parenting Teens",
+      "goal": "Understand the fundamentals of DBT and its relevance for parents of adolescents.",
+      "key_points": [
+        "Overview of DBT and its core principles.",
+        "Unique challenges parents face during the teen years.",
+        "The importance of self-care and emotional regulation for parents.",
+        "How DBT skills can benefit the whole family."
+      ]
+    },
+    {
+      "id": "mindfulness_skills_for_parents",
+      "title": "Mindfulness Skills for Parents",
+      "goal": "Learn and practice mindfulness techniques to increase present-moment awareness and reduce reactivity.",
+      "key_points": [
+        "Definition and benefits of mindfulness in parenting.",
+        "Practical mindfulness exercises for everyday situations.",
+        "Strategies to respond rather than react to teen behaviors."
+      ]
+    },
+    {
+      "id": "emotion_regulation_for_parents",
+      "title": "Emotion Regulation for Parents",
+      "goal": "Enhance emotional regulation skills to manage intense feelings and model healthy coping.",
+      "key_points": [
+        "Understanding emotional triggers and patterns.",
+        "Identifying and labeling emotions accurately.",
+        "Techniques to reduce emotional vulnerability and increase positive emotions."
+      ]
+    },
+    {
+      "id": "distress_tolerance_skills",
+      "title": "Distress Tolerance Skills",
+      "goal": "Develop tools to handle stressful parenting situations without escalating conflict.",
+      "key_points": [
+        "Crisis survival strategies for overwhelming moments.",
+        "Acceptance skills for situations outside of parental control.",
+        "Short-term coping techniques for high-stress interactions."
+      ]
+    },
+    {
+      "id": "interpersonal_effectiveness_with_teens",
+      "title": "Interpersonal Effectiveness with Teens",
+      "goal": "Improve communication and relationship skills to foster understanding and cooperation.",
+      "key_points": [
+        "Assertive communication strategies with adolescents.",
+        "Balancing parental needs with those of the teen.",
+        "Setting boundaries and negotiating effectively."
+      ]
+    },
+    {
+      "id": "validating_and_supporting_your_teen",
+      "title": "Validating and Supporting Your Teen",
+      "goal": "Master validation skills to enhance your teen's sense of being heard and understood.",
+      "key_points": [
+        "The role of validation in building trust.",
+        "Levels of validation and how to apply them.",
+        "Avoiding invalidating responses and fostering emotional safety."
+      ]
+    },
+    {
+      "id": "applying_dbt_skills_in_daily_life",
+      "title": "Applying DBT Skills in Daily Life",
+      "goal": "Integrate DBT skills into everyday parenting challenges and family routines.",
+      "key_points": [
+        "Real-life scenarios and case examples.",
+        "Problem-solving with DBT strategies.",
+        "Tips for maintaining skill use over time."
+      ]
+    }
+  ]
+}

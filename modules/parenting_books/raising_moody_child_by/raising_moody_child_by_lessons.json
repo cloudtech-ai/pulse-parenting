@@ -1,0 +1,550 @@
+{
+  "understanding_mood_disorders": [
+    {
+      "id": "lesson1_normal_vs_disorder",
+      "title": "Normal Mood Swings vs. Mood Disorders",
+      "goal": "Help parents distinguish between typical mood changes and signs of a mood disorder.",
+      "keyConcept": "All children experience ups and downs, but mood disorders are more than just occasional sadness or irritability. Mood disorders involve persistent, intense emotions that interfere with daily life and relationships. Recognizing the difference is the first step in supporting your child effectively.",
+      "example": "A child feels sad after losing a game but cheers up after dinner. Another child remains withdrawn, irritable, and uninterested in favorite activities for weeks.",
+      "parentTip": "Notice how long your child's mood lasts and whether it affects their daily routines, friendships, or schoolwork.",
+      "reflectionPrompt": "Think about a recent time your child was upset. Did their mood pass quickly, or did it linger and disrupt their usual activities?",
+      "quizQuestion": {
+        "question": "Which is a sign of a possible mood disorder in children?",
+        "options": [
+          "Occasional sadness after a disappointment",
+          "Persistent sadness lasting several weeks",
+          "Getting upset when told 'no'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_common_symptoms",
+      "title": "Recognizing Common Symptoms",
+      "goal": "Enable parents to identify key symptoms of mood disorders in children.",
+      "keyConcept": "Mood disorders in children can show up as ongoing sadness, irritability, loss of interest in activities, changes in sleep or appetite, and difficulty concentrating. These symptoms are often more severe and long-lasting than typical moodiness.",
+      "example": "A child who once loved soccer no longer wants to play, sleeps much more than usual, and struggles to finish homework.",
+      "parentTip": "Keep a simple journal of your child's moods and behaviors to spot patterns or changes over time.",
+      "reflectionPrompt": "Have you noticed any changes in your child's interests, energy, or sleep habits recently?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT a common symptom of a mood disorder?",
+        "options": [
+          "Sudden loss of interest in hobbies",
+          "Occasional excitement about a new activity",
+          "Difficulty concentrating for several weeks"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_risk_factors",
+      "title": "Understanding Risk Factors",
+      "goal": "Help parents recognize factors that may increase a child's risk for mood disorders.",
+      "keyConcept": "Certain factors, such as family history of mood disorders, stressful life events, or chronic illness, can make children more vulnerable. Being aware of these risks can help parents stay alert and seek help early if needed.",
+      "example": "A child whose parent has depression and who recently moved to a new city may be at higher risk for developing mood issues.",
+      "parentTip": "If your family has a history of mood disorders, talk openly (in age-appropriate ways) with your child about emotions and mental health.",
+      "reflectionPrompt": "Are there any risk factors in your child's life that you should be aware of?",
+      "quizQuestion": {
+        "question": "Which of the following is a risk factor for childhood mood disorders?",
+        "options": [
+          "Family history of depression",
+          "Liking to play outside",
+          "Preferring quiet activities"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_impact_on_family",
+      "title": "How Mood Disorders Affect Family Life",
+      "goal": "Increase parents\u2019 awareness of how a child\u2019s mood disorder can impact the whole family.",
+      "keyConcept": "A child\u2019s mood disorder can create stress, confusion, or conflict within the family. Siblings may feel neglected, and parents may feel overwhelmed or guilty. Recognizing these effects can help families support each other and seek help together.",
+      "example": "A parent spends extra time comforting a sad child, leaving less time for siblings, who then act out to get attention.",
+      "parentTip": "Schedule regular family check-ins to share feelings and make sure everyone feels heard and supported.",
+      "reflectionPrompt": "How has your child\u2019s mood affected your family\u2019s routines or relationships?",
+      "quizQuestion": {
+        "question": "What is a common effect of a child\u2019s mood disorder on the family?",
+        "options": [
+          "Improved communication",
+          "Increased stress or tension",
+          "More family outings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_support_and_next_steps",
+      "title": "Taking Supportive Action",
+      "goal": "Empower parents to take practical steps if they suspect a mood disorder.",
+      "keyConcept": "If you notice persistent symptoms, don\u2019t wait to seek help. Early intervention can make a big difference. Talk to your child\u2019s doctor, reach out to school counselors, and connect with mental health professionals for guidance.",
+      "example": "A parent notices ongoing sadness and loss of interest in their child, so they schedule a visit with a pediatrician and ask about mental health resources.",
+      "parentTip": "Trust your instincts\u2014if something feels off, reach out for support. You are not alone, and help is available.",
+      "reflectionPrompt": "What is one step you could take this week if you\u2019re concerned about your child\u2019s mood?",
+      "quizQuestion": {
+        "question": "What should you do if you suspect your child has a mood disorder?",
+        "options": [
+          "Wait and hope it goes away",
+          "Talk to a healthcare professional",
+          "Ignore the symptoms"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "assessment_and_professional_help": [
+    {
+      "id": "lesson_1_observing_patterns",
+      "title": "Observing Patterns in Your Child\u2019s Mood and Behavior",
+      "goal": "Help parents systematically notice and record changes in their child's mood and behavior.",
+      "keyConcept": "Careful observation is the first step in understanding your child\u2019s emotional world. By noticing patterns\u2014such as when your child seems most upset, withdrawn, or irritable\u2014you can gather valuable information. This helps distinguish between typical moodiness and signs that may require professional attention.",
+      "example": "A parent notices their child becomes especially irritable after school and tends to isolate themselves on weekends. By writing these observations down, the parent sees a pattern that might otherwise be missed.",
+      "parentTip": "Keep a simple daily log for one week, noting your child\u2019s mood, energy, and any significant events or changes in behavior.",
+      "reflectionPrompt": "What patterns have you noticed in your child\u2019s mood or behavior over the past week?",
+      "quizQuestion": {
+        "question": "Why is it important to observe and record your child\u2019s mood patterns?",
+        "options": [
+          "To have detailed information for discussions with professionals",
+          "To compare your child to others",
+          "To discipline your child more effectively"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_communicating_concerns",
+      "title": "Communicating Concerns to Healthcare Providers",
+      "goal": "Teach parents how to effectively share their observations and concerns with professionals.",
+      "keyConcept": "Clear communication with healthcare providers ensures your concerns are understood and taken seriously. Sharing specific examples and patterns, rather than general worries, helps professionals make accurate assessments and recommendations.",
+      "example": "Instead of saying, 'My child is moody,' a parent says, 'My child has been withdrawing from friends and seems sad most evenings for the past month.'",
+      "parentTip": "Before your appointment, write down 2-3 specific examples of concerning behaviors, including when and how often they occur.",
+      "reflectionPrompt": "What specific examples can you share with your child\u2019s healthcare provider to illustrate your concerns?",
+      "quizQuestion": {
+        "question": "What is the most effective way to communicate concerns to a healthcare provider?",
+        "options": [
+          "Share vague worries",
+          "Provide specific examples and patterns",
+          "Wait for the provider to ask all the questions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_understanding_assessment",
+      "title": "Understanding the Assessment Process",
+      "goal": "Familiarize parents with what to expect during a professional evaluation.",
+      "keyConcept": "A mental health assessment may include interviews, questionnaires, and sometimes input from teachers or other caregivers. Understanding this process can reduce anxiety and help you prepare your child for what will happen.",
+      "example": "A parent explains to their child that the doctor will ask questions about their feelings and daily life, and that there are no right or wrong answers.",
+      "parentTip": "Ask the provider ahead of time what the assessment will involve, so you can explain it to your child in simple, reassuring terms.",
+      "reflectionPrompt": "How can you help your child feel comfortable and prepared for an assessment?",
+      "quizQuestion": {
+        "question": "Which of the following is commonly part of a mental health assessment?",
+        "options": [
+          "A written test only",
+          "Interviews and questionnaires",
+          "Physical exercise routines"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_exploring_treatment_options",
+      "title": "Exploring Treatment Options",
+      "goal": "Guide parents in understanding the range of support and treatment available.",
+      "keyConcept": "Treatment for mood issues can include therapy, family support, school accommodations, and sometimes medication. The best approach is tailored to your child\u2019s needs and may involve a combination of strategies.",
+      "example": "After an assessment, a family works with a therapist and the school to create a support plan that includes counseling and classroom adjustments.",
+      "parentTip": "Ask your provider to explain all recommended options, including the benefits and possible side effects, so you can make informed decisions.",
+      "reflectionPrompt": "What questions do you have about the treatment options offered for your child?",
+      "quizQuestion": {
+        "question": "Which of the following might be part of a treatment plan for a moody child?",
+        "options": [
+          "Therapy and school support",
+          "Ignoring the problem",
+          "Only medication"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_building_a_support_team",
+      "title": "Building a Support Team",
+      "goal": "Encourage parents to collaborate with professionals, family, and school staff.",
+      "keyConcept": "Raising a mentally healthy child is a team effort. Involving teachers, counselors, and trusted family members ensures your child receives consistent support across different environments.",
+      "example": "A parent meets with their child\u2019s teacher and school counselor to discuss strategies that can help their child manage emotions at school.",
+      "parentTip": "Identify one or two people at your child\u2019s school or in your family who can be part of your support network, and keep them informed about your child\u2019s needs.",
+      "reflectionPrompt": "Who can you invite to be part of your child\u2019s support team, and how will you keep them involved?",
+      "quizQuestion": {
+        "question": "Why is it helpful to involve others in supporting your child?",
+        "options": [
+          "It provides consistent support in different settings",
+          "It makes things more complicated",
+          "It is not necessary"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "building_supportive_home_environment": [
+    {
+      "id": "lesson1_establishing_routines",
+      "title": "Establishing Predictable Routines",
+      "goal": "Help parents create consistent daily routines to provide stability for their child.",
+      "keyConcept": "Children thrive on predictability, especially those who are emotionally sensitive. Consistent routines help reduce anxiety and emotional outbursts by letting children know what to expect. Simple routines for meals, homework, and bedtime can make a big difference in your child's sense of security.",
+      "example": "A parent sets a regular bedtime routine: dinner at 6:00 pm, bath at 7:00 pm, and reading together at 7:30 pm. Over time, the child begins to settle down more easily at night.",
+      "parentTip": "Pick one part of the day (like bedtime) and write down the steps you want to follow. Stick to this routine for a week and notice any changes in your child\u2019s mood or behavior.",
+      "reflectionPrompt": "Which part of your family's day feels most chaotic? How could a simple routine help?",
+      "quizQuestion": {
+        "question": "Why are routines important for emotionally sensitive children?",
+        "options": [
+          "They make life more exciting.",
+          "They provide predictability and reduce anxiety.",
+          "They help children avoid responsibilities."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_consistent_expectations",
+      "title": "Setting Clear and Consistent Expectations",
+      "goal": "Guide parents in communicating household rules and expectations clearly.",
+      "keyConcept": "Children feel safer and more confident when they know what is expected of them. Clearly stated rules and consistent consequences help prevent misunderstandings and reduce power struggles. Consistency from all caregivers is key.",
+      "example": "A parent explains to their child that screen time is only allowed after homework is finished. Each day, the parent gently reminds the child of this rule and follows through.",
+      "parentTip": "Choose one household rule to clarify with your child today. Explain it in simple terms and discuss what will happen if the rule is followed or broken.",
+      "reflectionPrompt": "Are there any rules at home that are unclear or inconsistently enforced? How might this affect your child?",
+      "quizQuestion": {
+        "question": "What is the benefit of consistent expectations?",
+        "options": [
+          "They help children know what to expect and reduce conflict.",
+          "They make children feel bored.",
+          "They allow parents to change rules frequently."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_open_communication",
+      "title": "Encouraging Open, Nonjudgmental Communication",
+      "goal": "Teach parents how to foster honest and supportive conversations with their child.",
+      "keyConcept": "Children are more likely to share their feelings when they feel heard and not judged. Open communication builds trust and helps children learn to express emotions in healthy ways. Listening without interrupting or criticizing is essential.",
+      "example": "When their child comes home upset, a parent listens quietly and says, 'That sounds really hard. Do you want to talk more about it?' instead of offering immediate solutions.",
+      "parentTip": "Practice active listening today: give your child your full attention, reflect back what you hear, and avoid jumping in with advice or criticism.",
+      "reflectionPrompt": "How do you usually respond when your child shares difficult feelings? What might help you listen more openly?",
+      "quizQuestion": {
+        "question": "What is a key part of open communication?",
+        "options": [
+          "Listening without judgment or interruption.",
+          "Giving advice immediately.",
+          "Ignoring the child's feelings."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_identifying_triggers",
+      "title": "Identifying Emotional Triggers",
+      "goal": "Help parents recognize situations or patterns that lead to their child's emotional distress.",
+      "keyConcept": "Every child has unique triggers\u2014situations, people, or events that spark strong emotions. By observing and noting when outbursts or mood swings occur, parents can start to identify patterns. Understanding triggers is the first step to preventing or managing difficult moments.",
+      "example": "A parent notices their child often becomes irritable before dinner when they're hungry. The parent starts offering a healthy snack after school, which helps reduce evening meltdowns.",
+      "parentTip": "Keep a simple diary for a week, noting when your child seems most upset. Look for patterns related to time of day, activities, or people involved.",
+      "reflectionPrompt": "What situations seem to upset your child most often? How might you adjust routines or expectations to help?",
+      "quizQuestion": {
+        "question": "Why is it helpful to identify your child's emotional triggers?",
+        "options": [
+          "So you can avoid or prepare for challenging situations.",
+          "So you can punish your child.",
+          "So you can ignore their feelings."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_proactive_conflict_reduction",
+      "title": "Proactive Strategies to Reduce Conflict",
+      "goal": "Equip parents with tools to prevent and de-escalate conflicts before they escalate.",
+      "keyConcept": "Proactive strategies, like giving advance warnings, offering choices, and using positive reinforcement, can help prevent conflicts. When parents anticipate challenges and respond calmly, children feel more supported and less likely to act out.",
+      "example": "Before leaving the playground, a parent gives a 10-minute warning and offers a choice: 'Would you like to go now or in five minutes?' This helps the child transition more smoothly.",
+      "parentTip": "Try giving your child a heads-up before transitions today, and offer simple choices when possible. Notice if this helps reduce resistance or arguments.",
+      "reflectionPrompt": "How do you usually handle transitions or potential conflicts? What proactive step could you try next time?",
+      "quizQuestion": {
+        "question": "Which is a proactive way to reduce conflict?",
+        "options": [
+          "Surprising your child with sudden changes.",
+          "Giving advance warnings and offering choices.",
+          "Ignoring your child's preferences."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "teaching_cbt_skills": [
+    {
+      "id": "cbt_micro_1",
+      "title": "Understanding the Mood Triangle",
+      "goal": "Help parents recognize the link between thoughts, feelings, and actions.",
+      "keyConcept": "Our moods are shaped by the way we think, feel, and act\u2014these three parts are connected like a triangle. When a child feels upset, their thoughts and actions can make those feelings stronger or weaker. Understanding this connection is the first step in helping your child manage their moods.",
+      "example": "Your child comes home from school looking sad. They think, 'No one likes me,' which makes them feel worse and withdraw from family activities.",
+      "parentTip": "Next time your child seems upset, gently ask: 'What were you thinking when you started feeling this way?' This helps them connect their thoughts, feelings, and actions.",
+      "reflectionPrompt": "Can you recall a recent time when your child's actions or words reflected their mood? What thoughts might have been behind those feelings?",
+      "quizQuestion": {
+        "question": "Which three parts make up the 'mood triangle' in CBT?",
+        "options": [
+          "Thoughts, feelings, actions",
+          "Sleep, diet, exercise",
+          "Friends, family, school"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "cbt_micro_2",
+      "title": "Spotting Unhelpful Thoughts",
+      "goal": "Teach parents to help their child identify negative or unhelpful thinking patterns.",
+      "keyConcept": "Children often have automatic thoughts that are negative or unrealistic, especially when they're upset. These thoughts can make moods worse. By learning to spot these unhelpful thoughts, parents can guide their child to see things more clearly.",
+      "example": "Your child says, 'I always mess up,' after making a mistake on homework. This is an example of an unhelpful, all-or-nothing thought.",
+      "parentTip": "When your child voices a negative thought, try saying: 'Is that always true, or just how you feel right now?' This encourages them to question their thinking.",
+      "reflectionPrompt": "What are some common negative phrases your child uses? How might you gently challenge these?",
+      "quizQuestion": {
+        "question": "What is an example of an unhelpful thought?",
+        "options": [
+          "'I can try again tomorrow.'",
+          "'I always mess up.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_micro_3",
+      "title": "Challenging Negative Thoughts",
+      "goal": "Show parents how to help their child reframe negative thoughts into more balanced ones.",
+      "keyConcept": "Once a negative thought is identified, it can be challenged and replaced with a more realistic or positive one. This doesn't mean ignoring problems, but rather helping your child see the whole picture and not just the negative parts.",
+      "example": "When your child says, 'No one likes me,' you help them remember a friend who invited them to play last week.",
+      "parentTip": "Ask your child: 'What's another way to look at this?' or 'Can you think of a time when things went differently?'",
+      "reflectionPrompt": "How comfortable do you feel helping your child look for evidence against their negative thoughts?",
+      "quizQuestion": {
+        "question": "What is a helpful way to challenge a negative thought?",
+        "options": [
+          "Ignore your child's feelings.",
+          "Ask for evidence that supports or contradicts the thought."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_micro_4",
+      "title": "Problem-Solving Together",
+      "goal": "Equip parents with a simple process to help their child solve everyday problems.",
+      "keyConcept": "Problem-solving is a key CBT skill that helps children feel more in control. By breaking problems into smaller steps and brainstorming solutions together, parents can teach their child to handle challenges more confidently.",
+      "example": "Your child is upset about a disagreement with a friend. Together, you list possible ways to make up, like writing a note or talking it out.",
+      "parentTip": "Guide your child through these steps: 1) What is the problem? 2) What are some solutions? 3) What might happen with each solution? 4) Which one will you try?",
+      "reflectionPrompt": "When your child faces a problem, how do you usually respond? How might you involve them more in finding solutions?",
+      "quizQuestion": {
+        "question": "What is the first step in problem-solving with your child?",
+        "options": [
+          "Pick a solution immediately.",
+          "Define the problem together."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_micro_5",
+      "title": "Practicing Relaxation and Self-Soothing",
+      "goal": "Help parents teach their child simple ways to calm down when emotions run high.",
+      "keyConcept": "Strong emotions can make it hard for children to think clearly or use coping skills. Relaxation and self-soothing techniques, like deep breathing or using a comfort object, help children calm their bodies and minds so they can handle tough feelings.",
+      "example": "When your child is overwhelmed, you practice slow, deep breaths together or encourage them to squeeze a favorite stuffed animal.",
+      "parentTip": "Model calm breathing by inhaling slowly for four counts and exhaling for four counts. Invite your child to join you when they're upset.",
+      "reflectionPrompt": "What calming strategies work best for your child? How can you remind them to use these skills when needed?",
+      "quizQuestion": {
+        "question": "Why are relaxation techniques important for children?",
+        "options": [
+          "They help children calm down so they can use other coping skills.",
+          "They make problems go away instantly."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "managing_crises_and_setbacks": [
+    {
+      "id": "crisis_plan_basics",
+      "title": "Creating a Family Crisis Plan",
+      "goal": "Help parents develop a clear, actionable plan for managing emotional crises.",
+      "keyConcept": "A family crisis plan outlines steps to take when a child experiences a severe mood episode. It includes who to contact, safe places to go, and how to communicate during a crisis. Having a plan reduces panic and helps everyone know what to do, making crises more manageable.",
+      "example": "The Smith family writes down emergency contacts, identifies a quiet room for calming down, and agrees on a code word to signal when someone needs help.",
+      "parentTip": "Sit down with your child and other caregivers to create a simple crisis plan. Write it out and post it somewhere accessible.",
+      "reflectionPrompt": "What are the most important steps you want included in your family\u2019s crisis plan?",
+      "quizQuestion": {
+        "question": "What is a key benefit of having a family crisis plan?",
+        "options": [
+          "It helps everyone know what to do during a crisis.",
+          "It guarantees crises will never happen.",
+          "It replaces the need for professional help."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "deescalation_skills",
+      "title": "Using De-escalation Strategies",
+      "goal": "Teach parents how to calm tense situations before they escalate.",
+      "keyConcept": "De-escalation involves using calm voices, non-threatening body language, and simple statements to prevent a situation from getting worse. Staying calm yourself helps your child feel safer and more in control. These strategies can stop a crisis before it peaks.",
+      "example": "When her son starts yelling, Maria lowers her voice, sits down at his level, and says, 'I\u2019m here to help you. Let\u2019s take some deep breaths together.'",
+      "parentTip": "Practice using a calm, steady tone and open body language even when you feel stressed. Model the calm you want your child to feel.",
+      "reflectionPrompt": "How do you usually react when your child is upset? What could you try differently next time?",
+      "quizQuestion": {
+        "question": "Which of the following is a helpful de-escalation technique?",
+        "options": [
+          "Raising your voice to be heard",
+          "Using a calm, steady tone",
+          "Ignoring your child completely"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "safety_first",
+      "title": "Prioritizing Safety During a Crisis",
+      "goal": "Help parents recognize and act on safety concerns during emotional crises.",
+      "keyConcept": "Safety is the top priority during any crisis. This means removing dangerous objects, ensuring everyone is in a safe space, and knowing when to seek outside help. Sometimes, calling a professional or emergency service is the safest choice.",
+      "example": "When her daughter threatens to hurt herself, Lisa calmly removes sharp objects from the room and calls her therapist for guidance.",
+      "parentTip": "Identify potential hazards in your home and make a list of emergency contacts you can call if needed.",
+      "reflectionPrompt": "What steps can you take to make your home safer during a crisis?",
+      "quizQuestion": {
+        "question": "What should you do first if you believe your child is in immediate danger?",
+        "options": [
+          "Try to handle it alone",
+          "Call a trusted professional or emergency service",
+          "Wait and see if it gets better"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "recovery_steps",
+      "title": "Recovering After a Setback",
+      "goal": "Guide parents in helping their child and family recover after a crisis or relapse.",
+      "keyConcept": "After a crisis, it's important to allow time for everyone to recover emotionally and physically. Discuss what happened in a calm moment, focus on what went well, and identify what could be improved next time. Recovery is a process and setbacks are part of growth.",
+      "example": "After a difficult night, the Johnsons talk as a family about what helped and what they want to try differently if it happens again.",
+      "parentTip": "Schedule a calm time to talk with your child about the crisis. Emphasize strengths and small successes.",
+      "reflectionPrompt": "How can you support your child\u2019s recovery after a setback?",
+      "quizQuestion": {
+        "question": "What is a helpful step after a crisis has passed?",
+        "options": [
+          "Blame your child for what happened",
+          "Discuss what worked and what could be improved",
+          "Ignore the situation and move on"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "selfcare_for_parents",
+      "title": "Taking Care of Yourself",
+      "goal": "Encourage parents to practice self-care to better support their child.",
+      "keyConcept": "Supporting a moody child can be emotionally draining. Parents need to care for their own mental and physical health to stay resilient. Self-care can include rest, talking to friends, or seeking professional support for yourself.",
+      "example": "After a tough week, Tom arranges for a friend to watch his daughter so he can take a walk and call his own therapist.",
+      "parentTip": "Make a list of small self-care activities you can do regularly, even if only for a few minutes.",
+      "reflectionPrompt": "What is one thing you can do this week to recharge your own energy?",
+      "quizQuestion": {
+        "question": "Why is self-care important for parents?",
+        "options": [
+          "It helps parents stay calm and effective during crises.",
+          "It is selfish to take time for yourself.",
+          "It makes crises disappear completely."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "fostering_resilience_and_growth": [
+    {
+      "id": "lesson_1_identify_strengths",
+      "title": "Spotting and Celebrating Your Child\u2019s Strengths",
+      "goal": "Help parents recognize and nurture their child's unique strengths.",
+      "keyConcept": "Every child has talents, interests, and qualities that make them unique. By identifying and celebrating these strengths, parents can boost their child\u2019s confidence and resilience. Focusing on what your child does well helps them feel valued and encourages positive self-esteem.",
+      "example": "You notice your child enjoys drawing and spends time sketching after school. You praise their creativity and display their artwork on the fridge.",
+      "parentTip": "Take a few minutes each week to observe what your child enjoys or excels at. Offer specific praise, such as, 'I love how imaginative your stories are!'",
+      "reflectionPrompt": "What is one strength or interest your child has shown recently? How did you respond?",
+      "quizQuestion": {
+        "question": "Why is it important to focus on your child's strengths?",
+        "options": [
+          "It helps build their confidence and resilience.",
+          "It makes them perfect.",
+          "It prevents all negative emotions."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_hobbies_and_peer_connections",
+      "title": "Encouraging Hobbies and Positive Friendships",
+      "goal": "Guide parents in supporting their child\u2019s interests and healthy social connections.",
+      "keyConcept": "Hobbies and positive peer relationships give children a sense of belonging and accomplishment. Encouraging your child to pursue activities they enjoy and make friends with supportive peers can protect against mood difficulties and promote emotional growth.",
+      "example": "Your child expresses interest in joining a soccer team. You help them sign up and attend practices, supporting their involvement and new friendships.",
+      "parentTip": "Ask your child what activities they\u2019d like to try or which friends they enjoy spending time with. Help them find opportunities to participate.",
+      "reflectionPrompt": "How can you support your child in exploring a new hobby or strengthening a friendship this month?",
+      "quizQuestion": {
+        "question": "What is a benefit of encouraging hobbies and friendships?",
+        "options": [
+          "It distracts children from schoolwork.",
+          "It helps them develop social skills and resilience.",
+          "It guarantees they will never feel sad."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_self_advocacy_skills",
+      "title": "Teaching Self-Advocacy Skills",
+      "goal": "Empower parents to help their child express needs and seek support.",
+      "keyConcept": "Self-advocacy means knowing how to ask for help and express feelings or needs in a healthy way. Teaching your child to speak up for themselves builds confidence and prepares them to handle challenges independently.",
+      "example": "Your child feels overwhelmed by homework. You encourage them to tell their teacher, and together you practice what they might say.",
+      "parentTip": "Model and role-play simple scripts with your child, such as, 'I need help with this,' or 'Can I talk to you about something that\u2019s bothering me?'",
+      "reflectionPrompt": "When was the last time your child needed help? How did they (or you) handle it?",
+      "quizQuestion": {
+        "question": "What is an example of self-advocacy?",
+        "options": [
+          "Ignoring problems.",
+          "Asking for help when needed.",
+          "Waiting for someone to notice you\u2019re upset."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_self_care_for_parents_and_children",
+      "title": "Prioritizing Self-Care for the Whole Family",
+      "goal": "Encourage parents to model and support self-care routines.",
+      "keyConcept": "Self-care isn\u2019t selfish\u2014it\u2019s essential for emotional health. When parents and children make time for rest, relaxation, and enjoyable activities, they are better equipped to handle stress and setbacks. Modeling self-care teaches children its importance.",
+      "example": "You set aside 10 minutes each evening for quiet reading, and invite your child to join you with their own book or activity.",
+      "parentTip": "Share your self-care routines with your child and invite them to create their own. For example, 'I feel better after a walk\u2014what helps you feel calm?'",
+      "reflectionPrompt": "What is one self-care activity you and your child can do together this week?",
+      "quizQuestion": {
+        "question": "Why is self-care important for parents and children?",
+        "options": [
+          "It helps everyone manage stress and stay healthy.",
+          "It wastes time.",
+          "It only benefits adults."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_maintaining_progress",
+      "title": "Planning for Ongoing Support and Growth",
+      "goal": "Help parents create a plan to maintain and build on their child\u2019s progress.",
+      "keyConcept": "Emotional growth is a journey, not a destination. Regular check-ins, celebrating small wins, and adjusting strategies as needed help families stay on track. Planning for ongoing support ensures that resilience and coping skills continue to develop over time.",
+      "example": "Every Sunday, you and your child talk about what went well that week and set a small goal for the next week, like trying a new activity or practicing a coping skill.",
+      "parentTip": "Set aside regular time to review progress and discuss any challenges. Celebrate successes, no matter how small, and adjust your approach as your child grows.",
+      "reflectionPrompt": "How can you make regular check-ins a part of your family\u2019s routine?",
+      "quizQuestion": {
+        "question": "What is a good way to maintain your child\u2019s emotional growth?",
+        "options": [
+          "Ignore progress and hope for the best.",
+          "Have regular check-ins and celebrate small successes.",
+          "Only focus on problems."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

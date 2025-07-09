@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "The Mindful Teen",
+  "description": "A guide for teenagers to develop mindfulness skills to handle stress and emotions effectively, promoting mental well-being and resilience.",
+  "videoPreview": "Introduction to Mindfulness for Teens",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Mindful Breathing",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Body Scan Meditation"
+    },
+    {
+      "id": 53,
+      "title": "Mindful Walking"
+    },
+    {
+      "id": 54,
+      "title": "Loving-Kindness Meditation"
+    },
+    {
+      "id": 55,
+      "title": "Mindful Listening"
+    },
+    {
+      "id": 56,
+      "title": "Mindful Eating"
+    },
+    {
+      "id": 57,
+      "title": "Gratitude Practice"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "Mindfulness for Teens \u2013 Quick Overview of All Skills"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "How to Deal with Stress \u2013 Mindfulness Techniques"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "Mindful Breathing for Stress Reduction"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "Body Scan Meditation for Relaxation"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "Mindful Walking for Awareness"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "Loving-Kindness Meditation for Compassion"
+    },
+    {
+      "id": "2SI6C2Obzgc",
+      "title": "Mindful Listening for Better Communication"
+    },
+    {
+      "id": "u_795UX9VJ8",
+      "title": "Gratitude Practice for Positivity"
+    }
+  ]
+}

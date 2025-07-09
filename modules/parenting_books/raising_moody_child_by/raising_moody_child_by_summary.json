@@ -1,0 +1,63 @@
+{
+  "id": 6,
+  "title": "Raising a Moody Child",
+  "description": "A guide for parents to help their children manage mood disorders, with strategies for understanding and addressing emotional challenges.",
+  "videoPreview": "Understanding Mood Disorders in Children",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Identifying Mood Symptoms",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Building Emotional Resilience"
+    },
+    {
+      "id": 63,
+      "title": "Effective Communication Techniques"
+    },
+    {
+      "id": 64,
+      "title": "Creating a Supportive Environment"
+    },
+    {
+      "id": 65,
+      "title": "Collaborating with Professionals"
+    },
+    {
+      "id": 66,
+      "title": "Implementing Routine and Structure"
+    },
+    {
+      "id": 67,
+      "title": "Coping Strategies for Parents"
+    }
+  ],
+  "videos": [
+    {
+      "id": "-38ii8UBXB0",
+      "title": "Understanding Childhood Mood Disorders"
+    },
+    {
+      "id": "zeu9X88g8DE",
+      "title": "Building Resilience in Children"
+    },
+    {
+      "id": "mEqaNDwaKfk",
+      "title": "Effective Communication with Your Child"
+    },
+    {
+      "id": "iCXtGfNz0Yc",
+      "title": "Creating a Supportive Home Environment"
+    },
+    {
+      "id": "_F3lgztx2-I",
+      "title": "Establishing Routines for Stability"
+    },
+    {
+      "id": "EszLfK8lI-g",
+      "title": "Self-Care for Parents of Moody Children"
+    }
+  ]}

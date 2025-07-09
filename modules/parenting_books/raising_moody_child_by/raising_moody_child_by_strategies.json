@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Identifying Mood Symptoms",
+    "summary": "Learn to recognize and track early signs of mood changes in your child.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Early identification of mood symptoms allows for timely intervention, helping to prevent escalation and supporting your child\u2019s emotional well-being."
+      },
+      {
+        "section": "Example",
+        "content": "Noticing that your child becomes withdrawn and irritable before a depressive episode allows you to offer support and adjust routines proactively."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep a daily mood chart to track patterns.",
+          "Note changes in sleep, appetite, and energy.",
+          "Ask your child about their feelings regularly.",
+          "Watch for triggers or stressful events."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Building Emotional Resilience",
+    "summary": "Help your child develop skills to bounce back from setbacks and manage stress.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Emotional resilience equips children to handle challenges and reduces the impact of mood swings on daily life."
+      },
+      {
+        "section": "Example",
+        "content": "Teaching your child to use positive self-talk after a disappointing grade helps them recover faster and try again."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model coping strategies like deep breathing.",
+          "Encourage problem-solving and flexible thinking.",
+          "Praise efforts, not just outcomes.",
+          "Help your child set realistic goals."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Effective Communication Techniques",
+    "summary": "Use clear, supportive communication to strengthen your relationship and reduce misunderstandings.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Open communication fosters trust and helps children feel understood, which can reduce emotional outbursts."
+      },
+      {
+        "section": "Example",
+        "content": "Using reflective listening when your child is upset shows empathy and helps them feel heard."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use 'I' statements to express your feelings.",
+          "Practice active listening without interrupting.",
+          "Validate your child\u2019s emotions, even if you disagree.",
+          "Avoid criticism and focus on solutions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Creating a Supportive Environment",
+    "summary": "Establish a home atmosphere that promotes emotional safety and stability.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A supportive environment reduces stress and helps children feel secure, making it easier to manage mood symptoms."
+      },
+      {
+        "section": "Example",
+        "content": "Designating a quiet space for your child to calm down when overwhelmed can prevent escalation."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Maintain consistent routines.",
+          "Set clear expectations and boundaries.",
+          "Encourage open expression of feelings.",
+          "Minimize conflict and model respectful interactions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Collaborating with Professionals",
+    "summary": "Work with mental health and educational professionals to support your child\u2019s needs.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Professional guidance ensures your child receives appropriate interventions and helps you access resources."
+      },
+      {
+        "section": "Example",
+        "content": "Meeting regularly with your child\u2019s therapist and teachers helps coordinate strategies at home and school."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep open communication with therapists and teachers.",
+          "Share observations about your child\u2019s mood and behavior.",
+          "Ask questions and seek clarification about treatment plans.",
+          "Advocate for your child\u2019s needs in school settings."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Implementing Routine and Structure",
+    "summary": "Establish predictable routines to provide stability and reduce anxiety.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Consistent routines help children know what to expect, which can decrease mood swings and improve functioning."
+      },
+      {
+        "section": "Example",
+        "content": "Having a set bedtime and morning routine helps your child feel more secure and rested."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Create daily schedules for meals, homework, and bedtime.",
+          "Use visual charts for younger children.",
+          "Prepare your child for changes in routine.",
+          "Review the day\u2019s plan together each morning."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Coping Strategies for Parents",
+    "summary": "Develop self-care and coping skills to manage your own stress and model healthy behavior.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Parents\u2019 emotional health directly affects their ability to support their child and maintain a positive home environment."
+      },
+      {
+        "section": "Example",
+        "content": "Taking time for relaxation or seeking support from friends helps you stay calm during your child\u2019s difficult moments."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular self-care activities.",
+          "Seek support from friends, family, or support groups.",
+          "Practice stress-reduction techniques like mindfulness.",
+          "Set realistic expectations for yourself and your child."
+        ]
+      }
+    ]
+  }
+]

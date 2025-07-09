@@ -1,0 +1,177 @@
+[
+  {
+    "id": 51,
+    "bookId": 5,
+    "title": "TIPP (Rapid Body Reset)",
+    "summary": "A set of crisis survival skills to quickly change your body chemistry and reduce intense emotions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When emotions are overwhelming, your body is in a state of high arousal. TIPP skills use temperature, intense exercise, paced breathing, and progressive muscle relaxation to rapidly calm your body and mind."
+      },
+      {
+        "section": "Example",
+        "content": "If you feel panic rising, you might hold your face in cold water, do jumping jacks for a minute, slow your breathing, and tense/relax muscle groups to regain control."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use cold water or ice packs on your face or wrists for 30 seconds.",
+          "Engage in brief, intense exercise like running in place.",
+          "Practice slow, deep breathing (inhale 4, exhale 6).",
+          "Tense and release muscle groups from head to toe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 5,
+    "title": "Self\u2011Soothe with the Five Senses",
+    "summary": "Use your senses\u2014sight, sound, smell, taste, and touch\u2014to calm and comfort yourself during distress.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Engaging your senses can shift your focus away from distressing thoughts and help ground you in the present moment, reducing emotional intensity."
+      },
+      {
+        "section": "Example",
+        "content": "When upset, you might listen to calming music, light a scented candle, sip a favorite tea, look at nature photos, or wrap yourself in a soft blanket."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Create a self-soothe kit with items for each sense.",
+          "Notice what sensory experiences are most calming for you.",
+          "Practice using one sense at a time during mild stress.",
+          "Use self-soothing as a regular self-care routine, not just in crisis."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 5,
+    "title": "ACCEPTS Distraction Skills",
+    "summary": "A set of distraction techniques to help you tolerate distress and avoid impulsive reactions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When emotions are too intense to solve a problem right away, distraction can help you get through the moment without making things worse."
+      },
+      {
+        "section": "Example",
+        "content": "If you\u2019re angry after an argument, you might call a friend (Contributing), watch a funny video (Activities), or count objects in the room (Pushing away)."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Remember the ACCEPTS acronym: Activities, Contributing, Comparisons, Emotions, Pushing away, Thoughts, Sensations.",
+          "Prepare a list of distraction activities in advance.",
+          "Use distraction as a temporary strategy, not avoidance.",
+          "Notice which ACCEPTS skills work best for you."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 5,
+    "title": "IMPROVE the Moment",
+    "summary": "Use positive coping strategies to make a difficult moment more bearable.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When you can\u2019t change a distressing situation, you can still improve your experience of it, making it easier to tolerate without acting impulsively."
+      },
+      {
+        "section": "Example",
+        "content": "During a stressful wait at the doctor\u2019s office, you might use imagery to picture a peaceful place, repeat a comforting phrase, or pray."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use the IMPROVE acronym: Imagery, Meaning, Prayer, Relaxation, One thing in the moment, Vacation, Encouragement.",
+          "Try different strategies to see which are most effective.",
+          "Practice these skills during mild stress to build confidence.",
+          "Combine with other distress tolerance skills as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 5,
+    "title": "Pros & Cons Before Acting",
+    "summary": "Weigh the advantages and disadvantages of acting on an urge versus using a skill before making decisions in distress.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When emotions are high, it\u2019s easy to act impulsively. Considering pros and cons helps you make wiser choices and avoid regret."
+      },
+      {
+        "section": "Example",
+        "content": "Before yelling at your teen, you pause to consider the pros and cons of expressing anger versus using a DBT skill to calm down first."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Write down pros and cons for both acting on the urge and using a skill.",
+          "Review your lists before making a decision.",
+          "Practice this skill even with small urges to build the habit.",
+          "Reflect on outcomes to reinforce skillful choices."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 5,
+    "title": "STOP Skill for Immediate Grounding",
+    "summary": "A four-step process to pause and ground yourself before reacting impulsively.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "STOP helps you interrupt automatic reactions, giving you space to choose a mindful and effective response."
+      },
+      {
+        "section": "Example",
+        "content": "When your teen says something hurtful, you Stop, Take a step back, Observe your feelings, and Proceed mindfully instead of snapping back."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Remember the STOP acronym: Stop, Take a step back, Observe, Proceed mindfully.",
+          "Practice STOP in low-stress situations to build the habit.",
+          "Pair STOP with deep breathing or grounding techniques.",
+          "Remind yourself that pausing is a strength, not a weakness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 5,
+    "title": "Radical Acceptance & Turning the Mind",
+    "summary": "Fully accept reality as it is, even when it\u2019s painful, and choose acceptance again and again.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Fighting reality increases suffering. Radical acceptance reduces emotional pain and helps you respond more effectively."
+      },
+      {
+        "section": "Example",
+        "content": "You learn your teen is struggling at school. Instead of denying or fighting the facts, you acknowledge the reality and focus on what you can do next."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice when you\u2019re resisting reality and gently remind yourself to accept.",
+          "Use the phrase, 'It is what it is,' to reinforce acceptance.",
+          "Practice 'turning the mind'\u2014recommitting to acceptance each time you drift into resistance.",
+          "Remember, acceptance does not mean approval or giving up."
+        ]
+      }
+    ]
+  }
+]

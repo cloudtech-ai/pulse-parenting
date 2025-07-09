@@ -1,0 +1,60 @@
+{
+  "id": 5,
+  "title": "Brainstorm by Daniel J. Siegel",
+  "description": "Explores the adolescent brain and provides insights into the changes and challenges during this developmental period, emphasizing the importance of understanding and nurturing the adolescent mind.",
+  "videoPreview": "Understanding the Adolescent Brain",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Embracing Emotional Spark",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Social Engagement"
+    },
+    {
+      "id": 53,
+      "title": "Novelty Seeking"
+    },
+    {
+      "id": 54,
+      "title": "Creative Exploration"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "The Adolescent Brain: A Work in Progress"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "Understanding Teen Behavior"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "The Power and Purpose of the Teenage Brain"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "Navigating Adolescence with Insight"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "Parenting Teens: Strategies for Connection"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "Adolescent Brain Development Explained"
+    },
+    {
+      "id": "2SI6C2Obzgc",
+      "title": "Harnessing the Power of the Teenage Brain"
+    },
+    {
+      "id": "u_795UX9VJ8",
+      "title": "The Science of the Teenage Brain"
+    }
+  ]
+}

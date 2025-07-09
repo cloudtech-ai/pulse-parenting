@@ -1,0 +1,67 @@
+{
+  "id": "raising_a_moody_child",
+  "title": "Raising a Moody Child",
+  "description": "Raising a Moody Child by Mary A. Fristad and Jill S. Goldberg Arnold is a practical guide for parents of children who struggle with mood disorders. The book combines expert advice with real-life examples to help families understand mood swings, manage challenging behaviors, and support their child's emotional development. It introduces cognitive-behavioral strategies, effective communication skills, and problem-solving tools tailored for children and adolescents. The focus is on fostering resilience, building coping skills, and promoting healthy family dynamics.",
+  "modules": [
+    {
+      "id": "understanding_mood_disorders",
+      "title": "Understanding Mood Disorders in Children",
+      "goal": "To help parents recognize and understand the signs, symptoms, and impact of mood disorders in children.",
+      "key_points": [
+        "Learn the difference between normal mood swings and mood disorders.",
+        "Recognize common symptoms and risk factors for childhood mood disorders.",
+        "Understand how mood disorders affect family life and child development."
+      ]
+    },
+    {
+      "id": "assessment_and_professional_help",
+      "title": "Assessment and Getting Professional Help",
+      "goal": "To guide families through the process of seeking evaluation and collaborating with mental health professionals.",
+      "key_points": [
+        "Understand the steps involved in assessing a child's mood and behavior.",
+        "Learn how to communicate concerns to healthcare providers.",
+        "Explore the range of available treatment options and how to choose appropriate support."
+      ]
+    },
+    {
+      "id": "building_supportive_home_environment",
+      "title": "Building a Supportive Home Environment",
+      "goal": "To equip parents with strategies for creating a stable and nurturing environment that supports emotional regulation.",
+      "key_points": [
+        "Establish clear routines and consistent expectations at home.",
+        "Promote open, nonjudgmental communication within the family.",
+        "Identify triggers and implement proactive strategies to reduce conflict."
+      ]
+    },
+    {
+      "id": "teaching_cbt_skills",
+      "title": "Teaching CBT Skills to Your Child",
+      "goal": "To introduce parents and children to core cognitive-behavioral techniques for managing moods and behaviors.",
+      "key_points": [
+        "Explain the connection between thoughts, feelings, and actions.",
+        "Teach practical CBT tools such as thought challenging and problem-solving.",
+        "Practice relaxation and self-soothing strategies to manage strong emotions."
+      ]
+    },
+    {
+      "id": "managing_crises_and_setbacks",
+      "title": "Managing Crises and Setbacks",
+      "goal": "To provide families with tools to handle emotional crises and setbacks effectively.",
+      "key_points": [
+        "Develop a family crisis plan for managing severe mood episodes.",
+        "Use de-escalation and safety strategies during difficult situations.",
+        "Learn how to recover and rebuild after setbacks or relapses."
+      ]
+    },
+    {
+      "id": "fostering_resilience_and_growth",
+      "title": "Fostering Resilience and Growth",
+      "goal": "To help children and families build resilience, coping skills, and long-term emotional health.",
+      "key_points": [
+        "Encourage the development of strengths, hobbies, and positive peer relationships.",
+        "Promote self-advocacy and self-care for both children and parents.",
+        "Plan for ongoing support and maintenance of progress."
+      ]
+    }
+  ]
+}
