@@ -6,7 +6,7 @@
       "generative_title": "The Teenage Brain by Frances E. Jensen",
       "info": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_summary.json",
       "strategies": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_modules.json",
         "lesson_path": "parenting_books/teenage_brain_by_frances/teenage_brain_by_frances_lessons.json"
       }
@@ -18,7 +18,7 @@
       "generative_title": "Helping Your Anxious Teen by Sheila Achar Josephs",
       "info": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_summary.json",
       "strategies": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_modules.json",
         "lesson_path": "parenting_books/helping_your_anxious_teen_by/helping_your_anxious_teen_by_lessons.json"
       }
@@ -29,7 +29,7 @@
       "generative_title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk by Adele Faber & Elaine Mazlish",
       "info": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_summary.json",
       "strategies": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_modules.json",
         "lesson_path": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_lessons.json"
       }
@@ -40,7 +40,7 @@
       "generative_title": "The DBT Skills Workbook for Parents of Teens by Amanda L. Smith",
       "info": "parenting_books/dbt_skills_workbook_for/dbt_skills_workbook_for_summary.json",
       "strategies": "parenting_books/dbt_skills_workbook_for/dbt_skills_workbook_for_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/dbt_skills_workbook_for/dbt_skills_workbook_for_modules.json",
         "lesson_path": "parenting_books/dbt_skills_workbook_for/dbt_skills_workbook_for_lessons.json"
       }
@@ -52,7 +52,7 @@
       "generative_title": "The Mindful Teen by Dzung X. Vo",
       "info": "parenting_books/mindful_teen_by_dzung/mindful_teen_by_dzung_summary.json",
       "strategies": "parenting_books/mindful_teen_by_dzung/mindful_teen_by_dzung_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/mindful_teen_by_dzung/mindful_teen_by_dzung_modules.json",
         "lesson_path": "parenting_books/mindful_teen_by_dzung/mindful_teen_by_dzung_lessons.json"
       }
@@ -64,7 +64,7 @@
       "generative_title": "Raising a Moody Child by Mary A. Fristad & Jill S. Goldberg Arnold",
       "info": "parenting_books/raising_moody_child_by/raising_moody_child_by_summary.json",
       "strategies": "parenting_books/raising_moody_child_by/raising_moody_child_by_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/raising_moody_child_by/raising_moody_child_by_modules.json",
         "lesson_path": "parenting_books/raising_moody_child_by/raising_moody_child_by_lessons.json"
       }
@@ -76,7 +76,7 @@
       "generative_title": "Brainstorm by Daniel J. Siegel",
       "info": "parenting_books/brainstorm_by_daniel_j_siegel/brainstorm_by_daniel_j_siegel_summary.json",
       "strategies": "parenting_books/brainstorm_by_daniel_j_siegel/brainstorm_by_daniel_j_siegel_strategies.json",
-      "studyPlans": {
+      "studyPlan": {
         "module_path": "parenting_books/brainstorm_by_daniel_j_siegel/brainstorm_by_daniel_j_siegel_modules.json",
         "lesson_path": "parenting_books/brainstorm_by_daniel_j_siegel/brainstorm_by_daniel_j_siegel_lessons.json"
       }
