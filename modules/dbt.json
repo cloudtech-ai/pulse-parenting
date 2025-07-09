@@ -26,8 +26,8 @@
       "info": "dbt_books/dbt_3.json",
       "strategies": "dbt_books/dbt_3_strategies.json",
       "studyPlan": {
-        "module_path": "",
-        "lesson_path": ""
+        "module_path": "dbt_books/study_plans/dbt_mindfulness/dbt_mindfulness_modules.json",
+        "lesson_path": "dbt_books/study_plans/dbt_mindfulness/dbt_mindfulness_lessons.json"
       }
     },
     {
@@ -36,8 +36,8 @@
       "info": "dbt_books/dbt_4.json",
       "strategies": "dbt_books/dbt_4_strategies.json",
       "studyPlan": {
-        "module_path": "",
-        "lesson_path": ""
+        "module_path": "dbt_books/study_plans/dbt___walking_middle/dbt___walking_middle_modules.json",
+        "lesson_path": "dbt_books/study_plans/dbt___walking_middle/dbt___walking_middle_lessons.json"
       }
     }
   ],

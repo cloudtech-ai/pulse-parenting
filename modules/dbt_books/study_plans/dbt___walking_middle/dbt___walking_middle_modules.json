@@ -1,0 +1,67 @@
+{
+  "id": "dbt_walking_the_middle_path",
+  "title": "DBT - Walking the Middle Path",
+  "description": "This book focuses on the principles and practices of Dialectical Behavior Therapy (DBT) tailored to help individuals find balance between extremes. It emphasizes the 'middle path' approach, supporting users in managing intense emotions, navigating relationships, and resolving conflicts. The book teaches practical skills for blending acceptance and change, improving communication, and fostering mutual understanding. Through structured exercises and real-life scenarios, it empowers users to apply DBT concepts in daily life.",
+  "modules": [
+    {
+      "id": "introduction_to_the_middle_path",
+      "title": "Introduction to the Middle Path",
+      "goal": "Understand the concept of walking the middle path and its importance in DBT.",
+      "key_points": [
+        "Explains the dialectical stance of balancing acceptance and change.",
+        "Introduces the concept of extremes and why they hinder emotional regulation.",
+        "Highlights the benefits of adopting a balanced perspective in relationships."
+      ]
+    },
+    {
+      "id": "validation_and_acceptance",
+      "title": "Validation and Acceptance",
+      "goal": "Learn how to validate emotions and experiences, both in yourself and others.",
+      "key_points": [
+        "Defines validation and its role in emotional regulation.",
+        "Describes levels of validation and practical validation techniques.",
+        "Explains how acceptance reduces conflict and fosters understanding."
+      ]
+    },
+    {
+      "id": "behavior_change_strategies",
+      "title": "Behavior Change Strategies",
+      "goal": "Develop skills to effectively initiate change without invalidating yourself or others.",
+      "key_points": [
+        "Presents methods for advocating change in a respectful, non-confrontational manner.",
+        "Discusses the importance of compromise and flexibility.",
+        "Offers tools for collaborative problem-solving."
+      ]
+    },
+    {
+      "id": "reducing_extreme_thinking",
+      "title": "Reducing Extreme Thinking",
+      "goal": "Recognize and manage all-or-nothing thinking to support balanced decision-making.",
+      "key_points": [
+        "Identifies common patterns of black-and-white thinking.",
+        "Provides strategies to reframe thoughts towards the middle path.",
+        "Encourages mindfulness practices to increase awareness of cognitive extremes."
+      ]
+    },
+    {
+      "id": "balancing_needs_in_relationships",
+      "title": "Balancing Needs in Relationships",
+      "goal": "Enhance relationship skills by balancing your needs with the needs of others.",
+      "key_points": [
+        "Teaches assertive communication without aggression or passivity.",
+        "Explains how to set healthy boundaries while maintaining connection.",
+        "Addresses common relationship conflicts and how to navigate them using DBT skills."
+      ]
+    },
+    {
+      "id": "practicing_the_middle_path_daily",
+      "title": "Practicing the Middle Path Daily",
+      "goal": "Integrate middle path skills into everyday situations for long-term emotional wellness.",
+      "key_points": [
+        "Offers daily exercises and real-life applications of middle path skills.",
+        "Encourages ongoing self-assessment and flexibility.",
+        "Provides tips for maintaining progress and overcoming setbacks."
+      ]
+    }
+  ]
+}

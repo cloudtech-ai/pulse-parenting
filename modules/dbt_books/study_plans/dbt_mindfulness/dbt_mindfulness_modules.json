@@ -1,0 +1,97 @@
+{
+  "id": "dbt_mindfulness",
+  "title": "DBT Mindfulness",
+  "description": "DBT Mindfulness introduces core mindfulness concepts and skills as taught in Dialectical Behavior Therapy (DBT). The book guides readers through practical exercises, helping them develop present moment awareness, emotional regulation, and non-judgmental acceptance. It breaks down complex ideas into accessible modules, making mindfulness a practical tool for managing stress, emotions, and everyday challenges. Designed for anyone seeking greater well-being, the book emphasizes experiential learning and self-compassion.",
+  "modules": [
+    {
+      "id": "introduction_to_mindfulness",
+      "title": "Introduction to Mindfulness",
+      "goal": "Understand the basic principles and benefits of mindfulness in DBT.",
+      "key_points": [
+        "Defines mindfulness and its importance in DBT.",
+        "Explains how mindfulness can help with emotional regulation and stress reduction.",
+        "Outlines the role of mindfulness in improving overall well-being."
+      ]
+    },
+    {
+      "id": "what_and_how_skills_overview",
+      "title": "What and How Skills Overview",
+      "goal": "Learn the two categories of DBT mindfulness skills: 'What' and 'How' skills.",
+      "key_points": [
+        "Introduces 'What' skills: Observe, Describe, Participate.",
+        "Presents 'How' skills: Non-judgmentally, One-mindfully, Effectively.",
+        "Explains how these skills structure mindful awareness and action."
+      ]
+    },
+    {
+      "id": "observe_skill",
+      "title": "Observe Skill: Noticing without Judgment",
+      "goal": "Practice observing thoughts, feelings, and sensations without reacting.",
+      "key_points": [
+        "Teaches techniques for noticing internal and external experiences.",
+        "Emphasizes viewing thoughts and emotions as passing events.",
+        "Encourages curiosity and openness in the observation process."
+      ]
+    },
+    {
+      "id": "describe_skill",
+      "title": "Describe Skill: Putting Words to Experience",
+      "goal": "Learn to accurately label and articulate experiences.",
+      "key_points": [
+        "Guides users to describe what they observe without interpretation.",
+        "Highlights the value of clear, precise self-expression.",
+        "Helps separate facts from personal judgments."
+      ]
+    },
+    {
+      "id": "participate_skill",
+      "title": "Participate Skill: Full Engagement",
+      "goal": "Develop the ability to immerse oneself fully in the present activity.",
+      "key_points": [
+        "Encourages going with the flow without self-consciousness.",
+        "Promotes wholehearted involvement in current activities.",
+        "Reduces avoidance and increases enjoyment of the moment."
+      ]
+    },
+    {
+      "id": "nonjudgmental_attitude",
+      "title": "Nonjudgmental Attitude: Acceptance without Criticism",
+      "goal": "Cultivate a nonjudgmental stance towards thoughts, feelings, and actions.",
+      "key_points": [
+        "Explains the impact of judgment on emotions and behavior.",
+        "Demonstrates ways to notice and let go of judgments.",
+        "Encourages self-compassion and acceptance."
+      ]
+    },
+    {
+      "id": "one_mindful_practice",
+      "title": "One-Mindful Practice: Focusing on One Thing",
+      "goal": "Strengthen the ability to focus attention on one thing at a time.",
+      "key_points": [
+        "Describes strategies for staying present and minimizing distractions.",
+        "Provides exercises for practicing single-task focus.",
+        "Explores the benefits of one-mindful living in daily life."
+      ]
+    },
+    {
+      "id": "effectiveness_skill",
+      "title": "Effectiveness Skill: Doing What Works",
+      "goal": "Learn to act with purpose and flexibility, focusing on what works in the moment.",
+      "key_points": [
+        "Teaches how to let go of unhelpful habits and rigid thinking.",
+        "Promotes goal-oriented actions over being right or perfect.",
+        "Highlights adaptability and practical problem-solving."
+      ]
+    },
+    {
+      "id": "integrating_mindfulness_daily_life",
+      "title": "Integrating Mindfulness into Daily Life",
+      "goal": "Apply DBT mindfulness skills to everyday situations for lasting change.",
+      "key_points": [
+        "Offers tips for establishing a regular mindfulness practice.",
+        "Suggests ways to respond mindfully to stress and difficult emotions.",
+        "Encourages ongoing reflection and self-assessment."
+      ]
+    }
+  ]
+}

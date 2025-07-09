@@ -1,0 +1,818 @@
+{
+  "introduction_to_mindfulness": [
+    {
+      "id": "mindfulness_defined",
+      "title": "What is Mindfulness?",
+      "goal": "Understand the basic definition of mindfulness and its relevance for parents.",
+      "keyConcept": "Mindfulness means paying full attention to the present moment, without judgment. It involves noticing your thoughts, feelings, and surroundings as they are, rather than getting caught up in worries or distractions. For parents, practicing mindfulness can help you respond calmly and thoughtfully to your child, even in stressful situations.",
+      "example": "You\u2019re helping your child with homework and notice yourself getting frustrated. Instead of reacting, you pause, take a breath, and notice your feelings before responding.",
+      "parentTip": "Try taking a slow, deep breath and silently say to yourself, 'I am here, now,' whenever you notice yourself feeling overwhelmed with your child.",
+      "reflectionPrompt": "When was the last time you felt distracted or reactive with your child? How might mindfulness have helped in that moment?",
+      "quizQuestion": {
+        "question": "What is the core idea of mindfulness?",
+        "options": [
+          "Paying attention to the present moment without judgment",
+          "Always being happy",
+          "Ignoring your feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "mindfulness_in_dbt",
+      "title": "Mindfulness in DBT: Why It Matters",
+      "goal": "Learn why mindfulness is a foundational skill in Dialectical Behavior Therapy (DBT) and how it supports parenting.",
+      "keyConcept": "In DBT, mindfulness is a core skill that helps people become more aware of their thoughts and emotions. For parents, this awareness can make it easier to notice your own emotional reactions and choose how to respond to your child, rather than acting on impulse.",
+      "example": "Your child throws a tantrum. Instead of yelling back, you notice your rising anger and choose to speak calmly, modeling emotional control.",
+      "parentTip": "Before reacting to your child\u2019s behavior, pause and ask yourself, 'What am I feeling right now?' This simple check-in can help you respond more thoughtfully.",
+      "reflectionPrompt": "How might being more aware of your emotions change the way you interact with your child?",
+      "quizQuestion": {
+        "question": "Why is mindfulness important in DBT for parents?",
+        "options": [
+          "It helps parents ignore their feelings",
+          "It helps parents notice and manage their emotions",
+          "It encourages parents to always say yes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "benefits_of_mindfulness",
+      "title": "Benefits of Mindfulness for Parents and Children",
+      "goal": "Recognize the positive effects mindfulness can have on both you and your child.",
+      "keyConcept": "Practicing mindfulness can reduce stress, improve emotional regulation, and boost overall well-being for both parents and children. When you model mindfulness, your child learns to handle their own emotions more effectively, creating a calmer home environment.",
+      "example": "You practice mindful breathing during a stressful morning routine. Your child notices your calmness and begins to mirror your behavior, leading to fewer arguments.",
+      "parentTip": "Share a simple mindfulness practice with your child, like taking three deep breaths together before starting a new activity.",
+      "reflectionPrompt": "What changes have you noticed in your child\u2019s behavior when you remain calm and present during challenging moments?",
+      "quizQuestion": {
+        "question": "Which of the following is a benefit of mindfulness for families?",
+        "options": [
+          "Increased stress and arguments",
+          "Improved emotional regulation and well-being",
+          "Ignoring problems"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "mindful_moments",
+      "title": "Creating Mindful Moments in Daily Life",
+      "goal": "Learn how to incorporate simple mindfulness practices into your daily parenting routine.",
+      "keyConcept": "Mindfulness doesn\u2019t require special equipment or lots of time. You can practice it in small moments throughout the day, such as during meals, walks, or bedtime routines. These mindful moments help you and your child feel more connected and present.",
+      "example": "During dinner, you put away your phone and focus on the taste, smell, and texture of your food, encouraging your child to do the same.",
+      "parentTip": "Pick one daily activity (like brushing teeth or walking to school) to do mindfully with your child this week. Notice sights, sounds, and sensations together.",
+      "reflectionPrompt": "What daily routines could you turn into mindful moments with your child?",
+      "quizQuestion": {
+        "question": "How can you practice mindfulness with your child?",
+        "options": [
+          "By focusing on shared activities and being present together",
+          "By multitasking during family time",
+          "By ignoring your surroundings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "nonjudgmental_awareness",
+      "title": "Practicing Nonjudgmental Awareness",
+      "goal": "Understand how to observe thoughts and feelings without criticism or judgment.",
+      "keyConcept": "A key part of mindfulness is noticing your thoughts and feelings without labeling them as 'good' or 'bad.' This nonjudgmental awareness helps you accept your experiences and respond more calmly to your child, even when things don\u2019t go as planned.",
+      "example": "You feel annoyed when your child refuses to listen. Instead of criticizing yourself for feeling this way, you simply notice the annoyance and let it pass.",
+      "parentTip": "When you notice a strong emotion, silently say, 'This is just a feeling. I don\u2019t have to act on it.'",
+      "reflectionPrompt": "How might accepting your feelings without judgment change your reactions to your child\u2019s behavior?",
+      "quizQuestion": {
+        "question": "What does nonjudgmental awareness mean in mindfulness?",
+        "options": [
+          "Ignoring your feelings",
+          "Labeling feelings as good or bad",
+          "Noticing thoughts and feelings without criticism"
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "what_and_how_skills_overview": [
+    {
+      "id": "micro_lesson_1_observe_skill",
+      "title": "Mindful Observing: Noticing Without Judgment",
+      "goal": "Help parents practice observing their child's behavior and emotions without immediately reacting or judging.",
+      "keyConcept": "The 'Observe' skill is about simply noticing what is happening in the present moment, both in your child and yourself, without trying to change it or label it as good or bad. This means paying attention to your child's words, actions, and emotions as they are. Observing helps you become more aware of your child's needs and your own reactions.",
+      "example": "Your child is having a tantrum. Instead of immediately telling them to stop or feeling frustrated, you take a moment to notice their facial expressions, tone of voice, and your own physical sensations.",
+      "parentTip": "When your child is upset, silently say to yourself, 'I am noticing my child is crying. I notice my heart is beating faster.' Just observe, without acting right away.",
+      "reflectionPrompt": "When was the last time you simply observed your child without trying to fix or judge the situation?",
+      "quizQuestion": {
+        "question": "What does the 'Observe' skill encourage you to do?",
+        "options": [
+          "Notice what is happening without judgment",
+          "Quickly solve your child's problem",
+          "Ignore your child's emotions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_2_describe_skill",
+      "title": "Describing: Putting Words to What You Notice",
+      "goal": "Teach parents how to accurately describe what they and their child are experiencing.",
+      "keyConcept": "The 'Describe' skill involves putting words to what you observe, without adding opinions or assumptions. This helps you and your child understand what is happening. Describing can also help your child learn to name their own feelings and experiences.",
+      "example": "You notice your child is frowning and clenching their fists. You say, 'I see that your hands are tight and your face looks upset.'",
+      "parentTip": "Try describing what you see and hear, using simple and factual language. Avoid labels like 'bad' or 'naughty.'",
+      "reflectionPrompt": "How might describing your child's behavior help them feel understood?",
+      "quizQuestion": {
+        "question": "Which is an example of the 'Describe' skill?",
+        "options": [
+          "'You are always so dramatic.'",
+          "'I see you are stomping your feet and your voice is loud.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_3_participate_skill",
+      "title": "Participating: Being Fully Engaged with Your Child",
+      "goal": "Encourage parents to be present and involved in the moment with their child.",
+      "keyConcept": "The 'Participate' skill means joining in with your child\u2019s activities or emotions wholeheartedly, without holding back or overthinking. It\u2019s about being present and engaged, whether your child is playing, talking, or expressing feelings. This builds connection and trust.",
+      "example": "Your child invites you to play a game. Instead of watching from the sidelines, you join in, focusing on the activity and letting go of distractions.",
+      "parentTip": "Set aside a few minutes each day to fully participate in something your child enjoys, giving them your undivided attention.",
+      "reflectionPrompt": "What activities could you participate in with your child to strengthen your bond?",
+      "quizQuestion": {
+        "question": "What does it mean to 'Participate' mindfully with your child?",
+        "options": [
+          "Be fully engaged and present in the activity",
+          "Think about your to-do list while playing",
+          "Correct your child\u2019s every move"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_4_nonjudgmental_how_skill",
+      "title": "Responding Non-Judgmentally",
+      "goal": "Guide parents to respond to their child\u2019s behavior and emotions without criticism or labeling.",
+      "keyConcept": "The 'Non-judgmentally' skill means noticing and accepting things as they are, without labeling them as good or bad. This helps your child feel safe to express themselves and reduces shame or defensiveness. Practicing non-judgment helps you stay calm and supportive.",
+      "example": "Your child spills juice on the floor. Instead of saying, 'You\u2019re so careless,' you say, 'The juice spilled. Let\u2019s clean it up together.'",
+      "parentTip": "When you notice yourself judging, pause and rephrase your thoughts or words to be more neutral and accepting.",
+      "reflectionPrompt": "How might responding non-judgmentally change your child\u2019s reaction to mistakes?",
+      "quizQuestion": {
+        "question": "Which response is non-judgmental?",
+        "options": [
+          "'You always make a mess!'",
+          "'The juice spilled. Let's clean it up.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_5_one_mindfully_effectively",
+      "title": "One-Mindfully and Effectively: Doing One Thing at a Time",
+      "goal": "Help parents focus on being present and effective in their interactions with their child.",
+      "keyConcept": "Practicing 'One-mindfully' means giving your full attention to one thing at a time, which helps you be more effective. 'Effectively' means doing what works in the moment, rather than what you wish would work or what you feel like doing. Together, these skills help you respond to your child\u2019s needs with clarity and purpose.",
+      "example": "Your child is telling you about their day. You put down your phone, make eye contact, and listen fully, responding to what they say rather than thinking about your next task.",
+      "parentTip": "When interacting with your child, try to set aside distractions and focus only on them. Ask yourself, 'What will help most right now?'",
+      "reflectionPrompt": "What distractions can you reduce to be more present and effective with your child?",
+      "quizQuestion": {
+        "question": "What does it mean to act 'one-mindfully'?",
+        "options": [
+          "Multitask while talking to your child",
+          "Focus on your child and set aside other thoughts",
+          "Think about tomorrow\u2019s plans"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "observe_skill": [
+    {
+      "id": "observe_micro1",
+      "title": "Noticing Without Reacting",
+      "goal": "Learn to observe your thoughts and feelings without immediately reacting to them.",
+      "keyConcept": "The first step in mindfulness is simply noticing what is happening inside and around you. This means paying attention to your thoughts, feelings, and physical sensations as they arise, without trying to change or judge them. By practicing this, you create space between what you notice and how you respond.",
+      "example": "You feel frustrated when your child refuses to eat dinner. Instead of reacting right away, you pause and notice the feeling of frustration in your body and the thoughts running through your mind.",
+      "parentTip": "When you notice a strong emotion, silently say to yourself, 'I notice I am feeling ___ right now,' and take a slow breath before responding.",
+      "reflectionPrompt": "When was the last time you reacted quickly to your child? How might it have felt to pause and notice your feelings first?",
+      "quizQuestion": {
+        "question": "What is the first step in practicing the observe skill?",
+        "options": [
+          "Noticing your thoughts and feelings without reacting",
+          "Trying to change your emotions",
+          "Judging your reactions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "observe_micro2",
+      "title": "Curiosity Over Judgment",
+      "goal": "Practice observing your experiences with curiosity instead of judgment.",
+      "keyConcept": "When we observe with curiosity, we become open to learning about our inner world and our child's behavior. This means noticing what is happening without labeling it as 'good' or 'bad.' Curiosity helps us respond thoughtfully rather than react impulsively.",
+      "example": "Your child throws a tantrum. Instead of thinking, 'This is terrible,' you ask yourself, 'I wonder what my child is feeling right now?'",
+      "parentTip": "Replace judgmental thoughts with curious questions, such as, 'What am I noticing?' or 'What might my child need right now?'",
+      "reflectionPrompt": "How does it feel to approach your child\u2019s behavior with curiosity instead of judgment?",
+      "quizQuestion": {
+        "question": "What is a helpful mindset to bring to observing your child's behavior?",
+        "options": [
+          "Judgment",
+          "Curiosity",
+          "Criticism"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "observe_micro3",
+      "title": "Observing the Present Moment",
+      "goal": "Focus your attention on what is happening right now, both inside and outside of you.",
+      "keyConcept": "Mindfulness means being present in the current moment. This involves noticing your surroundings, your child\u2019s actions, and your own internal experiences as they happen. Staying present helps you respond more calmly and effectively to your child.",
+      "example": "While playing with your child, you notice the sound of their laughter, the feel of the toys, and your own sense of joy.",
+      "parentTip": "Take a moment each day to pause and notice three things you can see, hear, or feel in the present moment.",
+      "reflectionPrompt": "What do you notice about your child or yourself when you pay close attention to the present moment?",
+      "quizQuestion": {
+        "question": "What does it mean to observe the present moment?",
+        "options": [
+          "Thinking about the past",
+          "Focusing on what is happening right now",
+          "Worrying about the future"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "observe_micro4",
+      "title": "Letting Thoughts and Feelings Pass",
+      "goal": "Learn to watch your thoughts and emotions come and go without holding onto them.",
+      "keyConcept": "Thoughts and feelings are like clouds passing in the sky\u2014they come and go. By observing them without clinging or pushing them away, you can avoid getting stuck in unhelpful patterns. This helps you stay calm and supportive with your child.",
+      "example": "You feel anxious when your child is upset. Instead of trying to stop the anxiety, you notice it, let it be, and watch as it eventually fades.",
+      "parentTip": "Imagine your thoughts and feelings as leaves floating down a stream\u2014notice them, but let them drift by without grabbing onto them.",
+      "reflectionPrompt": "What happens when you allow your thoughts or feelings to pass instead of reacting to them?",
+      "quizQuestion": {
+        "question": "What is a helpful way to relate to your thoughts and feelings?",
+        "options": [
+          "Hold onto them tightly",
+          "Let them come and go",
+          "Ignore them completely"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "observe_micro5",
+      "title": "Modeling Mindful Observation for Your Child",
+      "goal": "Show your child how to observe their own thoughts and feelings by modeling the skill yourself.",
+      "keyConcept": "Children learn by watching their parents. When you practice observing your own experiences calmly and openly, your child is more likely to do the same. Modeling mindfulness helps create a supportive environment for emotional growth.",
+      "example": "You say aloud, 'I notice I\u2019m feeling a little tired right now, so I\u2019m going to take a deep breath.' Your child sees you managing your feelings in a healthy way.",
+      "parentTip": "Narrate your own observations out loud in simple language, so your child can see how you notice and handle your feelings.",
+      "reflectionPrompt": "How might your child benefit from seeing you practice mindful observation?",
+      "quizQuestion": {
+        "question": "How can you help your child learn to observe their feelings?",
+        "options": [
+          "By modeling the skill yourself",
+          "By ignoring your own feelings",
+          "By telling them to stop feeling"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "describe_skill": [
+    {
+      "id": "describe_skill_lesson1",
+      "title": "Observing Without Judgment",
+      "goal": "Learn to notice your child's behavior without adding personal interpretations.",
+      "keyConcept": "The first step in describing is to observe what is happening, just as it is, without labeling it as good or bad. This helps you respond to your child more calmly and accurately. By focusing on the facts, you avoid misunderstandings and emotional reactions.",
+      "example": "Instead of thinking, 'My child is being difficult,' you might observe, 'My child is raising their voice and stomping their feet.'",
+      "parentTip": "When you notice your child doing something, pause and silently name exactly what you see or hear, without adding any opinions.",
+      "reflectionPrompt": "When was the last time you reacted to your child's behavior based on an assumption? How might observing without judgment have changed your response?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of observing without judgment?",
+        "options": [
+          "My child is being rude.",
+          "My child is not listening to me.",
+          "My child is looking away while I am speaking."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "describe_skill_lesson2",
+      "title": "Putting Words to What You Notice",
+      "goal": "Practice describing your child's actions using clear, specific language.",
+      "keyConcept": "Describing means stating exactly what you observe, using simple and precise words. This helps your child understand what you notice and can reduce defensiveness. Clear descriptions build trust and make communication smoother.",
+      "example": "Say, 'I see you are clenching your fists and your face looks tense,' instead of, 'You\u2019re angry again.'",
+      "parentTip": "Use phrases like, 'I notice...' or 'I see...' to start your descriptions. Focus on what is visible or audible.",
+      "reflectionPrompt": "How might your child feel if you describe their actions instead of labeling their emotions?",
+      "quizQuestion": {
+        "question": "Which phrase best describes a child's behavior without interpretation?",
+        "options": [
+          "You are upset.",
+          "You are crossing your arms and looking at the floor.",
+          "You are being disrespectful."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "describe_skill_lesson3",
+      "title": "Separating Facts from Feelings",
+      "goal": "Distinguish between what actually happened and your emotional response.",
+      "keyConcept": "It's easy to mix up what you see with how you feel about it. By separating facts from feelings, you can respond more thoughtfully and help your child feel understood. This skill reduces conflict and increases emotional safety at home.",
+      "example": "Fact: 'You left your toys on the floor.' Feeling: 'I feel frustrated when I see toys left out.'",
+      "parentTip": "Before responding, silently ask yourself, 'Is this what happened, or is this how I feel about what happened?'",
+      "reflectionPrompt": "Think of a recent conflict. What were the facts, and what were your feelings about those facts?",
+      "quizQuestion": {
+        "question": "Which statement separates fact from feeling?",
+        "options": [
+          "You never listen to me.",
+          "I feel ignored when you don't respond after I ask a question.",
+          "You are always disrespectful."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "describe_skill_lesson4",
+      "title": "Modeling Descriptive Language",
+      "goal": "Use descriptive language in front of your child to teach them how to express themselves.",
+      "keyConcept": "Children learn by example. When you describe your own experiences clearly and without judgment, your child is more likely to do the same. This helps them develop emotional awareness and better communication skills.",
+      "example": "You say, 'I notice my heart is beating fast and my hands are shaking. I think I\u2019m feeling nervous about the meeting.'",
+      "parentTip": "Narrate your own experiences out loud using descriptive language, especially during emotional moments.",
+      "reflectionPrompt": "How might your child benefit from hearing you describe your feelings and actions in a clear, non-judgmental way?",
+      "quizQuestion": {
+        "question": "What is a benefit of modeling descriptive language for your child?",
+        "options": [
+          "They learn to hide their feelings.",
+          "They learn to express themselves clearly.",
+          "They become more argumentative."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "describe_skill_lesson5",
+      "title": "Encouraging Your Child to Describe",
+      "goal": "Help your child practice describing their own experiences.",
+      "keyConcept": "Children may need guidance to put their experiences into words. By gently prompting them to describe what they notice or feel, you support their emotional growth and problem-solving skills.",
+      "example": "You ask, 'Can you tell me what happened, using just what you saw or heard?'",
+      "parentTip": "When your child is upset, encourage them to describe what happened before talking about feelings or solutions.",
+      "reflectionPrompt": "What are some ways you can help your child practice describing their experiences at home?",
+      "quizQuestion": {
+        "question": "How can you encourage your child to use the describe skill?",
+        "options": [
+          "Ask them to explain what they saw or heard.",
+          "Tell them how they should feel.",
+          "Ignore their explanation."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "participate_skill": [
+    {
+      "id": "participate_lesson_1",
+      "title": "Understanding Full Engagement",
+      "goal": "Recognize what it means to be fully engaged in the present moment with your child.",
+      "keyConcept": "Full engagement means giving your complete attention to the activity or interaction at hand, without distractions or preoccupation with other thoughts. This helps you connect more deeply with your child and model mindful presence. Being fully engaged is not about perfection, but about being open and attentive to what is happening right now.",
+      "example": "While playing a board game with your child, you put your phone away and focus only on the game and your child's reactions, rather than thinking about your to-do list.",
+      "parentTip": "Set aside a few minutes each day to do one activity with your child where you intentionally put away distractions and focus only on them.",
+      "reflectionPrompt": "When was the last time you felt truly present with your child? What made that moment possible?",
+      "quizQuestion": {
+        "question": "What does it mean to be fully engaged with your child?",
+        "options": [
+          "Thinking about your work while spending time together",
+          "Giving your complete attention to the current activity",
+          "Multitasking during playtime"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "participate_lesson_2",
+      "title": "Letting Go of Self-Consciousness",
+      "goal": "Learn how to participate with your child without worrying about how you look or perform.",
+      "keyConcept": "Self-consciousness can make it hard to enjoy time with your child, as you may worry about being judged or making mistakes. Letting go of these worries allows you to be more authentic and connected. Children benefit from seeing you participate freely, as it encourages them to do the same.",
+      "example": "You join your child in a silly dance, even if you feel awkward, focusing on the fun rather than how you appear.",
+      "parentTip": "Remind yourself that your child values your presence and joy more than your performance. Try saying, 'It's okay to be silly together!'",
+      "reflectionPrompt": "What holds you back from fully joining in your child's activities? How might you gently challenge those thoughts?",
+      "quizQuestion": {
+        "question": "Why is it helpful to let go of self-consciousness when engaging with your child?",
+        "options": [
+          "It helps you enjoy the moment and connect more deeply",
+          "It makes you look more impressive",
+          "It ensures you never make mistakes"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "participate_lesson_3",
+      "title": "Going with the Flow",
+      "goal": "Practice adapting to your child\u2019s lead and being flexible during shared activities.",
+      "keyConcept": "Going with the flow means allowing yourself to be guided by the present moment, rather than sticking rigidly to plans or expectations. This flexibility helps you respond to your child\u2019s needs and interests, making interactions more enjoyable and less stressful.",
+      "example": "You planned to read a story, but your child wants to build with blocks instead. You join in building, letting go of your original plan.",
+      "parentTip": "Try saying, 'Let\u2019s see where this takes us!' when your child changes the activity. Notice how it feels to follow their lead.",
+      "reflectionPrompt": "How do you usually react when your child changes plans? What might help you be more flexible in those moments?",
+      "quizQuestion": {
+        "question": "What does 'going with the flow' mean in parenting?",
+        "options": [
+          "Always sticking to your original plan",
+          "Adapting to your child\u2019s interests and needs in the moment",
+          "Avoiding activities altogether"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "participate_lesson_4",
+      "title": "Wholehearted Involvement",
+      "goal": "Experience the benefits of being fully involved in shared activities with your child.",
+      "keyConcept": "Wholehearted involvement means immersing yourself in the activity, using all your senses and emotions. This deep participation not only strengthens your bond with your child but also increases your own enjoyment and satisfaction.",
+      "example": "While baking together, you notice the smell of the dough, the feel of the flour, and the sound of your child\u2019s laughter, allowing yourself to savor the experience.",
+      "parentTip": "During your next shared activity, pause and notice what you see, hear, and feel. Let yourself be absorbed in the moment.",
+      "reflectionPrompt": "What changes do you notice in yourself and your child when you are fully involved in an activity together?",
+      "quizQuestion": {
+        "question": "What is a sign of wholehearted involvement?",
+        "options": [
+          "Thinking about chores while playing",
+          "Using all your senses and emotions in the activity",
+          "Rushing through the activity to finish quickly"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "participate_lesson_5",
+      "title": "Reducing Avoidance, Increasing Enjoyment",
+      "goal": "Identify and reduce avoidance behaviors to increase enjoyment in parenting moments.",
+      "keyConcept": "Avoidance can show up as distraction, reluctance, or rushing through activities. By noticing and gently challenging these habits, you can open yourself to more positive and meaningful experiences with your child.",
+      "example": "You catch yourself checking your phone during playtime and choose to put it away, noticing how much more you enjoy the interaction.",
+      "parentTip": "When you notice yourself avoiding or distracting, pause and ask, 'What am I missing right now?' Refocus on your child and the activity.",
+      "reflectionPrompt": "What are your common avoidance habits during time with your child? How might you shift them to be more present?",
+      "quizQuestion": {
+        "question": "How can you increase enjoyment in parenting moments?",
+        "options": [
+          "By reducing avoidance and being more present",
+          "By multitasking during activities",
+          "By focusing on future tasks"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "nonjudgmental_attitude": [
+    {
+      "id": "nonjudgmental_01_impact_of_judgment",
+      "title": "How Judgment Shapes Emotions",
+      "goal": "Understand how judging thoughts and behaviors can affect your child's emotional well-being.",
+      "keyConcept": "Judging ourselves or our children\u2014labeling actions as 'good' or 'bad'\u2014can increase stress, shame, or defensiveness. When we notice and label judgments, we can begin to see how they influence our reactions and our child's feelings. Reducing judgment creates a safer space for your child to express themselves honestly.",
+      "example": "You notice your child forgot to do their homework. Thinking, 'They are so lazy,' may make you feel frustrated and lead to criticism. Recognizing this judgment helps you respond more calmly.",
+      "parentTip": "When you catch yourself judging, pause and rephrase your thought as a neutral observation. Instead of 'lazy,' try 'My child didn't do their homework today.'",
+      "reflectionPrompt": "When was the last time you judged your child's behavior? How did it affect your response?",
+      "quizQuestion": {
+        "question": "What is a common effect of judging your child's behavior?",
+        "options": [
+          "It helps them feel safe and understood.",
+          "It can increase feelings of shame or defensiveness."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "nonjudgmental_02_noticing_judgments",
+      "title": "Spotting Judgments in Everyday Life",
+      "goal": "Learn to recognize judgmental thoughts as they arise.",
+      "keyConcept": "Judgments often appear as quick labels or evaluations, such as 'messy,' 'naughty,' or 'perfect.' By becoming aware of these automatic thoughts, you can choose how to respond rather than react. Awareness is the first step toward change.",
+      "example": "You see your child spill juice and immediately think, 'They're so careless.' Noticing this thought helps you pause before reacting.",
+      "parentTip": "Throughout the day, notice when you use words like 'should,' 'always,' or 'never' about your child. These can signal a judgment.",
+      "reflectionPrompt": "What judgmental words or phrases do you often use when thinking about your child?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign you may be making a judgment?",
+        "options": [
+          "Describing what happened factually",
+          "Thinking 'My child always makes a mess'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "nonjudgmental_03_letting_go_of_judgments",
+      "title": "Letting Go of Judgments",
+      "goal": "Practice releasing judgmental thoughts and focusing on what is happening.",
+      "keyConcept": "Letting go of judgments doesn't mean ignoring problems; it means seeing situations clearly without adding negative labels. This helps you respond more effectively and with greater kindness. With practice, you can notice a judgment, acknowledge it, and then return your focus to the present moment.",
+      "example": "When your child argues with a sibling, instead of thinking 'They're being mean,' you notice the judgment and shift to observing, 'They're upset and raising their voice.'",
+      "parentTip": "When you notice a judgment, silently say to yourself, 'That's a judgment,' and then describe the situation using only observable facts.",
+      "reflectionPrompt": "How might your response change if you describe your child's actions without judgment?",
+      "quizQuestion": {
+        "question": "What is a helpful first step when you notice a judgmental thought?",
+        "options": [
+          "Ignore it and move on",
+          "Acknowledge it and focus on the facts"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "nonjudgmental_04_self_compassion",
+      "title": "Practicing Self-Compassion",
+      "goal": "Develop a kinder, more accepting attitude toward yourself as a parent.",
+      "keyConcept": "Being nonjudgmental includes how you treat yourself. Parenting is challenging, and everyone makes mistakes. Self-compassion means recognizing your efforts and forgiving yourself for imperfections, which models healthy self-acceptance for your child.",
+      "example": "After losing your temper, instead of thinking 'I'm a terrible parent,' you remind yourself, 'Parenting is hard, and I\u2019m doing my best.'",
+      "parentTip": "When you feel self-critical, pause and say, 'I'm learning and growing as a parent, just like my child is learning and growing.'",
+      "reflectionPrompt": "How do you usually talk to yourself after making a parenting mistake? How could you be more compassionate?",
+      "quizQuestion": {
+        "question": "What is an example of self-compassion?",
+        "options": [
+          "Telling yourself you are a failure",
+          "Reminding yourself that everyone makes mistakes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "nonjudgmental_05_acceptance_and_growth",
+      "title": "Acceptance Opens the Door to Growth",
+      "goal": "Recognize how acceptance helps both you and your child grow emotionally.",
+      "keyConcept": "Accepting your child's feelings and behaviors as they are\u2014without judgment\u2014creates a foundation of trust and safety. Acceptance does not mean approval; it means understanding reality as it is, which allows for honest communication and positive change.",
+      "example": "Your child is upset about a lost toy. Instead of dismissing their feelings as 'silly,' you accept their sadness and offer comfort, helping them learn to cope.",
+      "parentTip": "When your child expresses a strong emotion, try saying, 'It's okay to feel that way. I'm here with you.'",
+      "reflectionPrompt": "How might your child benefit from feeling accepted, even when they make mistakes?",
+      "quizQuestion": {
+        "question": "What does acceptance mean in the context of parenting?",
+        "options": [
+          "Approving of everything your child does",
+          "Understanding and acknowledging your child's feelings and behaviors"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "one_mindful_practice": [
+    {
+      "id": "one_mindful_lesson_1",
+      "title": "Understanding One-Mindful Attention",
+      "goal": "Learn what it means to be one-mindful and why it matters for parenting.",
+      "keyConcept": "Being one-mindful means focusing your attention fully on one thing at a time, without letting your mind wander to other tasks or worries. This skill helps you be present with your child, notice their needs, and respond calmly. Practicing one-mindful attention can reduce stress and improve your connection with your child.",
+      "example": "Imagine you are helping your child with homework. Instead of checking your phone or thinking about dinner, you give your full attention to your child and the task at hand.",
+      "parentTip": "When spending time with your child, put away distractions like your phone or TV. Tell yourself, 'Right now, my focus is on my child.'",
+      "reflectionPrompt": "When was the last time you felt truly present with your child? What helped you stay focused?",
+      "quizQuestion": {
+        "question": "What does it mean to be one-mindful?",
+        "options": [
+          "Doing several things at once",
+          "Focusing on one thing at a time",
+          "Letting your mind wander"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "one_mindful_lesson_2",
+      "title": "Minimizing Distractions",
+      "goal": "Identify common distractions and learn how to reduce them during parent-child time.",
+      "keyConcept": "Distractions can pull your attention away from your child and make it harder to connect. By noticing what commonly distracts you\u2014such as phones, chores, or worries\u2014you can take steps to minimize these interruptions. Creating a distraction-free environment helps you practice being one-mindful.",
+      "example": "Before reading a bedtime story, you silence your phone and close the door to minimize noise, allowing you to focus fully on your child.",
+      "parentTip": "Before an activity with your child, take a moment to notice and remove possible distractions. Let family members know you need a few uninterrupted minutes.",
+      "reflectionPrompt": "What are the top three distractions that interrupt your time with your child? How can you reduce one of them this week?",
+      "quizQuestion": {
+        "question": "Which of the following is a helpful way to minimize distractions?",
+        "options": [
+          "Keep your phone nearby and check it often",
+          "Let others know you need quiet time",
+          "Multitask while spending time with your child"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "one_mindful_lesson_3",
+      "title": "Practicing Single-Task Focus",
+      "goal": "Try a simple exercise to build your one-mindful attention.",
+      "keyConcept": "Single-task focus is the practice of doing just one thing at a time, with your full attention. This can be practiced in small ways, like listening to your child without planning your response, or focusing on a shared activity. Over time, this builds your ability to stay present.",
+      "example": "During breakfast, you focus only on eating and talking with your child, instead of reading emails or making a to-do list.",
+      "parentTip": "Choose one daily routine\u2014like mealtime or bedtime\u2014to practice single-task focus. Gently bring your attention back when you notice your mind wandering.",
+      "reflectionPrompt": "Which daily routine could you use to practice single-task focus with your child?",
+      "quizQuestion": {
+        "question": "What is single-task focus?",
+        "options": [
+          "Doing one thing at a time with full attention",
+          "Switching quickly between tasks",
+          "Thinking about tomorrow's plans"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "one_mindful_lesson_4",
+      "title": "Benefits of One-Mindful Parenting",
+      "goal": "Recognize how one-mindful attention supports your child\u2019s mental health and your relationship.",
+      "keyConcept": "When you are one-mindful with your child, you show them they are important and worthy of your attention. This builds their self-esteem and helps them feel safe and understood. One-mindful parenting also helps you notice your child\u2019s emotions and needs more clearly, leading to better communication and fewer misunderstandings.",
+      "example": "Your child tells you about a problem at school. By listening with full attention, you help them feel heard and supported, which can calm their worries.",
+      "parentTip": "Remind yourself that your presence is a gift. Even a few minutes of focused attention can make a big difference for your child.",
+      "reflectionPrompt": "How might your relationship with your child change if you practiced being one-mindful more often?",
+      "quizQuestion": {
+        "question": "What is one benefit of being one-mindful with your child?",
+        "options": [
+          "They feel ignored",
+          "They feel valued and understood",
+          "They become more distracted"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "one_mindful_lesson_5",
+      "title": "Gentle Redirection: Bringing Back Your Focus",
+      "goal": "Learn how to gently bring your attention back when your mind wanders.",
+      "keyConcept": "It\u2019s normal for your mind to wander, especially when you\u2019re busy or stressed. The key is to notice when your attention drifts and gently bring it back to your child or the present moment, without judging yourself. This practice strengthens your ability to be one-mindful over time.",
+      "example": "You catch yourself thinking about work while playing with your child. You take a breath and refocus on the game, letting go of the other thought.",
+      "parentTip": "When you notice your mind has wandered, silently say to yourself, 'Come back,' and return your attention to your child. Be kind to yourself\u2014this is a skill that improves with practice.",
+      "reflectionPrompt": "How do you usually respond when you notice you\u2019re distracted? How can you practice gentle redirection?",
+      "quizQuestion": {
+        "question": "What should you do when you notice your mind has wandered?",
+        "options": [
+          "Judge yourself harshly",
+          "Gently bring your attention back",
+          "Ignore it and keep thinking"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "effectiveness_skill": [
+    {
+      "id": "effectiveness_let_go_rigid_thinking",
+      "title": "Letting Go of Rigid Thinking",
+      "goal": "Recognize and release unhelpful habits or rigid thinking patterns.",
+      "keyConcept": "Rigid thinking can make parenting more stressful and less effective. Flexibility allows you to respond to your child's needs in the moment, rather than sticking to 'shoulds' or strict routines. By letting go of the need to always be right or follow a set plan, you can adapt to what your child truly needs.",
+      "example": "You always expect your child to finish homework before playing, but today they seem overwhelmed. Instead of insisting on the usual order, you allow a short play break first, which helps them return to homework with a better attitude.",
+      "parentTip": "When you notice yourself thinking, 'It has to be this way,' pause and ask, 'Is this working right now?'",
+      "reflectionPrompt": "Can you recall a recent time when sticking to a rule or routine made things harder for you or your child?",
+      "quizQuestion": {
+        "question": "What is a sign of rigid thinking in parenting?",
+        "options": [
+          "Insisting on the same routine even when it's not working",
+          "Adapting plans to your child's needs"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "effectiveness_focus_on_goals",
+      "title": "Focusing on What Matters Most",
+      "goal": "Shift your attention from being right or perfect to achieving your parenting goals.",
+      "keyConcept": "It's easy to get caught up in proving a point or wanting to be the perfect parent. Effectiveness means focusing on what actually helps your child grow and feel supported. Sometimes, letting go of being right leads to better outcomes for everyone.",
+      "example": "During a disagreement about bedtime, you realize arguing isn't helping. Instead, you calmly restate the goal: 'I want you to get enough sleep so you feel good tomorrow.' This shifts the focus from winning the argument to supporting your child's well-being.",
+      "parentTip": "When conflict arises, remind yourself: 'My goal is to support my child, not to win this argument.'",
+      "reflectionPrompt": "What is one parenting goal you want to keep in mind during challenging moments?",
+      "quizQuestion": {
+        "question": "What does being effective as a parent mean?",
+        "options": [
+          "Always being right",
+          "Focusing on what helps your child grow"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "effectiveness_adapt_in_the_moment",
+      "title": "Adapting in the Moment",
+      "goal": "Practice flexibility and respond to your child's needs as they arise.",
+      "keyConcept": "Children's needs can change quickly, and what worked yesterday might not work today. Being effective means noticing what's happening now and adjusting your approach. This helps you stay connected and supportive, even when things don't go as planned.",
+      "example": "Your child usually enjoys reading before bed, but tonight they're restless. Instead of insisting on reading, you offer to talk about their day, which helps them settle down.",
+      "parentTip": "Check in with your child and yourself: 'What do we need right now?' Adjust your response based on the answer.",
+      "reflectionPrompt": "How comfortable are you with changing plans when your child needs something different?",
+      "quizQuestion": {
+        "question": "Why is adaptability important in parenting?",
+        "options": [
+          "Because children\u2019s needs can change quickly",
+          "Because routines should never change"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "effectiveness_problem_solving",
+      "title": "Practical Problem-Solving",
+      "goal": "Use practical strategies to address challenges as they arise.",
+      "keyConcept": "Effectiveness is about finding what works, not just what\u2019s ideal. When faced with a problem, look for realistic solutions that fit the situation, even if they aren\u2019t perfect. This approach models resilience and resourcefulness for your child.",
+      "example": "You planned to cook dinner, but you\u2019re running late. Instead of stressing, you prepare a simple meal and involve your child in the process, turning it into a fun activity.",
+      "parentTip": "When things go off track, ask: 'What\u2019s a simple step I can take right now to move forward?'",
+      "reflectionPrompt": "Think of a recent parenting challenge. What practical solution worked, even if it wasn\u2019t your first choice?",
+      "quizQuestion": {
+        "question": "What is a key part of practical problem-solving?",
+        "options": [
+          "Waiting for the perfect solution",
+          "Finding a workable solution for now"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "effectiveness_self_compassion",
+      "title": "Practicing Self-Compassion",
+      "goal": "Be kind to yourself as you learn and practice new skills.",
+      "keyConcept": "Parenting effectively doesn\u2019t mean being perfect. Mistakes are opportunities to learn and grow. By treating yourself with compassion, you model self-acceptance for your child and create a more positive home environment.",
+      "example": "You lose your patience and raise your voice. Instead of criticizing yourself, you acknowledge the mistake, apologize, and remind yourself that everyone has tough moments.",
+      "parentTip": "When you make a mistake, say to yourself: 'I\u2019m learning, and it\u2019s okay to have hard days.'",
+      "reflectionPrompt": "How do you usually respond to your own mistakes as a parent? What would it feel like to be more compassionate with yourself?",
+      "quizQuestion": {
+        "question": "Why is self-compassion important for parents?",
+        "options": [
+          "It helps you recover from mistakes and model healthy coping",
+          "It means you never make mistakes"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "integrating_mindfulness_daily_life": [
+    {
+      "id": "mindful_moments_routine",
+      "title": "Creating Mindful Moments in Your Routine",
+      "goal": "Learn how to weave short mindfulness practices into your daily parenting schedule.",
+      "keyConcept": "Mindfulness doesn't require long periods of meditation; it can be practiced in small moments throughout the day. By intentionally pausing and focusing on the present, you can bring calm and awareness into everyday routines. This helps you model healthy coping for your child and creates a more peaceful home environment.",
+      "example": "While preparing breakfast, you take a deep breath and notice the colors and smells of the food, feeling gratitude for the moment before calling your child to the table.",
+      "parentTip": "Pick one daily activity\u2014like brushing your child's hair or walking to school\u2014and use it as a cue to pause, breathe, and notice your surroundings together.",
+      "reflectionPrompt": "What is one daily routine where you could add a mindful pause?",
+      "quizQuestion": {
+        "question": "Which of the following is a simple way to practice mindfulness during your day?",
+        "options": [
+          "Taking a deep breath and noticing your surroundings while doing chores",
+          "Waiting until you have a free hour to meditate",
+          "Ignoring your feelings until the day is over"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "responding_mindfully_stress",
+      "title": "Responding Mindfully to Stressful Moments",
+      "goal": "Discover how to pause and choose a mindful response during stressful parenting situations.",
+      "keyConcept": "Stressful moments are inevitable in parenting, but how you respond can make a big difference. Mindfulness helps you notice your emotions and physical reactions before reacting impulsively. This pause allows you to choose a calmer, more thoughtful response, which teaches your child emotional regulation.",
+      "example": "Your child spills juice on the floor. Instead of yelling, you take a slow breath, notice your frustration, and calmly ask your child to help clean up.",
+      "parentTip": "When you feel stress rising, silently say to yourself, 'Pause. Breathe. Respond.' before taking action.",
+      "reflectionPrompt": "How might your child benefit from seeing you handle stress mindfully?",
+      "quizQuestion": {
+        "question": "What is the first step to responding mindfully to stress?",
+        "options": [
+          "React immediately",
+          "Pause and notice your feelings",
+          "Ignore the situation"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "mindful_emotion_awareness",
+      "title": "Noticing and Naming Emotions",
+      "goal": "Practice recognizing and labeling your emotions as they arise.",
+      "keyConcept": "Mindfulness involves being aware of your internal experiences, including emotions. By noticing and naming your feelings without judgment, you gain clarity and can respond more effectively. This skill also helps your child learn to identify and express their emotions.",
+      "example": "You feel irritation when your child refuses to put on shoes. You silently say to yourself, 'I notice I\u2019m feeling frustrated right now.'",
+      "parentTip": "Try saying aloud, 'I\u2019m feeling a bit (emotion) right now,' to model healthy emotional awareness for your child.",
+      "reflectionPrompt": "What emotion do you most often experience during challenging parenting moments?",
+      "quizQuestion": {
+        "question": "Why is it helpful to name your emotions?",
+        "options": [
+          "It helps you ignore them",
+          "It allows you to respond thoughtfully",
+          "It makes emotions go away instantly"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "reflecting_growth_mindfulness",
+      "title": "Reflecting on Your Mindfulness Growth",
+      "goal": "Encourage ongoing self-assessment to strengthen your mindfulness practice.",
+      "keyConcept": "Regular reflection helps you notice progress and areas for improvement in your mindfulness journey. By taking a few moments to review your experiences, you reinforce positive changes and set intentions for continued growth. This habit also supports your ability to model lifelong learning for your child.",
+      "example": "At the end of the week, you recall a time you paused before reacting and feel proud of your progress.",
+      "parentTip": "Set aside 2\u20133 minutes each week to jot down one mindful moment you experienced and how it affected your parenting.",
+      "reflectionPrompt": "What is one small way you\u2019ve grown in mindfulness this week?",
+      "quizQuestion": {
+        "question": "What is a benefit of reflecting on your mindfulness practice?",
+        "options": [
+          "It helps you notice your progress",
+          "It makes you perfect",
+          "It prevents all future stress"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "involving_child_mindfulness",
+      "title": "Involving Your Child in Mindfulness",
+      "goal": "Learn simple ways to practice mindfulness together with your child.",
+      "keyConcept": "Mindfulness can be a shared experience that strengthens your bond with your child. Simple activities like mindful breathing, listening, or noticing nature can help your child develop self-awareness and emotional skills. Practicing together makes mindfulness fun and accessible for both of you.",
+      "example": "You and your child sit quietly for one minute, listening to all the sounds you can hear, then share what you noticed.",
+      "parentTip": "Invite your child to join you in a short 'noticing' game\u2014like spotting five things you can see, four you can touch, and so on.",
+      "reflectionPrompt": "How might practicing mindfulness together change your daily interactions with your child?",
+      "quizQuestion": {
+        "question": "What is one benefit of practicing mindfulness with your child?",
+        "options": [
+          "It helps both of you develop self-awareness",
+          "It makes chores go away",
+          "It guarantees perfect behavior"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}
