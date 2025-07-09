@@ -26,7 +26,13 @@
     {
       "id": 44,
       "title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk",
-      "generative_title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk by Adele Faber & Elaine Mazlish"
+      "generative_title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk by Adele Faber & Elaine Mazlish",
+      "info": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_summary.json",
+      "strategies": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_strategies.json",
+      "studyPlans": {
+        "module_path": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_modules.json",
+        "lesson_path": "parenting_books/how_to_talk_so_teens/how_to_talk_so_teens_lessons.json"
+      }
     },
     {
       "id": 45,

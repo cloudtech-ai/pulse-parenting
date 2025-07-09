@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk",
+  "description": "A guide for parents to improve communication with their teenage children, fostering mutual respect and understanding.",
+  "videoPreview": "Effective Communication with Teens",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Acknowledge Feelings",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Engage Cooperation"
+    },
+    {
+      "id": 63,
+      "title": "Alternatives to Punishment"
+    },
+    {
+      "id": 64,
+      "title": "Encourage Autonomy"
+    },
+    {
+      "id": 65,
+      "title": "Praise and Self-Esteem"
+    },
+    {
+      "id": 66,
+      "title": "Freeing Teens from Playing Roles"
+    }
+  ],
+  "videos": [
+    {
+      "id": "SYcg2cJUUds",
+      "title": "How to Talk So Teens Will Listen"
+    },
+    {
+      "id": "-uEBVIGoC9Y",
+      "title": "Listening Skills for Parents"
+    },
+    {
+      "id": "4Ikd-7vCvHw",
+      "title": "Encouraging Teen Cooperation"
+    },
+    {
+      "id": "UDY3KmktMTc",
+      "title": "Alternatives to Punishment"
+    },
+    {
+      "id": "_tzcE_35jxk",
+      "title": "Building Teen Self-Esteem"
+    }
+  ]
+}

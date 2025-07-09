@@ -1,0 +1,641 @@
+{
+  "understanding_teenagers": [
+    {
+      "id": "lesson_1_identity_exploration",
+      "title": "Recognizing Identity Exploration",
+      "goal": "Understand why teens seek to define their own identity.",
+      "keyConcept": "During adolescence, teens are figuring out who they are, what they value, and how they fit into the world. This process can lead to experimentation with new interests, styles, and friendships. Recognizing this as a normal and healthy part of development helps parents respond with empathy rather than fear or resistance.",
+      "example": "Your teen suddenly wants to dye their hair a bright color or join a new club that surprises you. Instead of reacting negatively, you remember that they are exploring their identity.",
+      "parentTip": "When your teen tries something new, say, 'I see you\u2019re interested in something different. Tell me more about what drew you to this.'",
+      "reflectionPrompt": "How did you explore your own identity as a teen, and how did adults in your life respond?",
+      "quizQuestion": {
+        "question": "Why do teens often try out new interests or styles?",
+        "options": [
+          "They are being rebellious.",
+          "They are exploring their identity.",
+          "They want to annoy their parents."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_respecting_autonomy",
+      "title": "Respecting Your Teen\u2019s Need for Autonomy",
+      "goal": "Learn how to support your teen\u2019s growing independence.",
+      "keyConcept": "Teens crave autonomy as they prepare for adulthood. They want to make more of their own choices and have their opinions respected. Allowing them appropriate freedom, while setting clear boundaries, fosters trust and responsibility.",
+      "example": "Your teen asks to choose their own clothes for school. Instead of insisting on your preferences, you let them decide, as long as it meets basic guidelines.",
+      "parentTip": "Offer choices whenever possible, such as, 'Would you rather do your homework before or after dinner?'",
+      "reflectionPrompt": "In what areas could you give your teen more say or responsibility?",
+      "quizQuestion": {
+        "question": "What is a healthy way to support your teen\u2019s autonomy?",
+        "options": [
+          "Letting them make all decisions without guidance.",
+          "Giving them choices within clear boundaries.",
+          "Controlling every aspect of their life."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_validating_emotions",
+      "title": "Validating Your Teen\u2019s Emotions",
+      "goal": "Practice acknowledging and accepting your teen\u2019s feelings.",
+      "keyConcept": "Adolescence is emotionally intense. Teens need to feel that their emotions are heard and accepted, not dismissed or minimized. Validation helps them feel understood and builds emotional resilience.",
+      "example": "Your teen is upset about a friendship issue. Instead of saying, 'It\u2019s not a big deal,' you respond, 'That sounds really tough. I can see why you\u2019re upset.'",
+      "parentTip": "When your teen shares a feeling, reflect it back: 'You seem really frustrated about what happened at school.'",
+      "reflectionPrompt": "How do you usually respond when your teen is upset? How might validation change your conversations?",
+      "quizQuestion": {
+        "question": "What is an example of validating a teen\u2019s emotions?",
+        "options": [
+          "'You shouldn\u2019t feel that way.'",
+          "'That sounds hard. I understand why you feel that way.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_understanding_perspective",
+      "title": "Seeing Through Your Teen\u2019s Eyes",
+      "goal": "Learn to understand situations from your teen\u2019s perspective.",
+      "keyConcept": "Teens often feel misunderstood by adults. Taking time to see things from their point of view can reduce conflict and open communication. Empathy helps bridge the gap between parent and teen.",
+      "example": "Your teen complains about a teacher being unfair. Instead of dismissing it, you ask, 'What happened that made you feel that way?' and listen to their side.",
+      "parentTip": "Before reacting, pause and ask yourself, 'How might my teen be experiencing this situation?'",
+      "reflectionPrompt": "Think of a recent disagreement. How might your teen have seen the situation differently from you?",
+      "quizQuestion": {
+        "question": "Why is it important to try to see things from your teen\u2019s perspective?",
+        "options": [
+          "It helps reduce conflict and improves communication.",
+          "It makes them do what you want.",
+          "It shows you are always right."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_communicating_respect",
+      "title": "Communicating Respect",
+      "goal": "Discover ways to show respect in everyday interactions with your teen.",
+      "keyConcept": "Teens are sensitive to being talked down to or dismissed. Respectful communication means listening without interrupting, using a calm tone, and acknowledging their thoughts. This builds trust and encourages open dialogue.",
+      "example": "Your teen disagrees with a family rule. Instead of shutting them down, you listen to their reasoning and explain your perspective calmly.",
+      "parentTip": "Use phrases like, 'I appreciate hearing your thoughts,' or 'Let\u2019s talk about this together.'",
+      "reflectionPrompt": "How do you show respect to your teen during disagreements?",
+      "quizQuestion": {
+        "question": "What is a sign of respectful communication with your teen?",
+        "options": [
+          "Listening without interrupting.",
+          "Raising your voice to make a point.",
+          "Ignoring their opinions."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "acknowledging_feelings": [
+    {
+      "id": "listen_without_interrupting",
+      "title": "Listen Without Interrupting",
+      "goal": "Help parents practice attentive listening to encourage teens to open up.",
+      "keyConcept": "When parents listen without interrupting, they show respect for their teen's thoughts and feelings. This creates a safe space where teens feel comfortable sharing what's on their minds. Interrupting or jumping in too quickly can make teens feel dismissed or unheard.",
+      "example": "Your teen comes home upset about a disagreement with a friend. Instead of offering immediate advice or asking questions, you simply listen and let them finish their story.",
+      "parentTip": "When your teen starts talking, focus on them and avoid interrupting. Nod or use small verbal cues like 'I see' or 'Go on' to show you're listening.",
+      "reflectionPrompt": "How do you usually respond when your teen starts sharing something important? What might change if you simply listened?",
+      "quizQuestion": {
+        "question": "What is the best way to show your teen you are listening?",
+        "options": [
+          "Interrupt to offer advice",
+          "Let them finish speaking before responding",
+          "Change the subject"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "name_the_feeling",
+      "title": "Name the Feeling",
+      "goal": "Teach parents to help teens identify and express their emotions.",
+      "keyConcept": "Teens often struggle to articulate their feelings. By gently naming the emotion you observe, you help them feel understood and give them language to express themselves. This can ease emotional intensity and foster connection.",
+      "example": "Your teen slams their backpack down and sighs. You say, 'You seem really frustrated about something.'",
+      "parentTip": "Try to put your teen's feelings into words without judgment. Use phrases like, 'It sounds like you're feeling...' or 'You seem...'",
+      "reflectionPrompt": "How comfortable are you with naming emotions\u2014both your own and your teen's? What feelings do you notice most often in your teen?",
+      "quizQuestion": {
+        "question": "Why is naming a teen's feelings helpful?",
+        "options": [
+          "It helps them feel understood",
+          "It makes them more upset",
+          "It solves their problems immediately"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "avoid_dismissing_feelings",
+      "title": "Avoid Dismissing Feelings",
+      "goal": "Help parents recognize and stop dismissive responses that shut down communication.",
+      "keyConcept": "Dismissing a teen's feelings\u2014by saying things like 'It's not a big deal' or 'You'll get over it'\u2014can make them feel invalidated. Instead, acknowledging their emotions, even if you don't agree, shows empathy and keeps the conversation open.",
+      "example": "Your teen is upset about a low grade. Instead of saying, 'It's just one test,' you acknowledge, 'I can see you're really disappointed.'",
+      "parentTip": "Resist the urge to minimize or brush off your teen's feelings. Practice validating their experience, even if it seems minor to you.",
+      "reflectionPrompt": "Can you recall a time when your feelings were dismissed? How did it affect you? How might your teen feel in a similar situation?",
+      "quizQuestion": {
+        "question": "What is a dismissive response to a teen's feelings?",
+        "options": [
+          "'I can see you're upset.'",
+          "'It's not a big deal.'",
+          "'That sounds tough.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "hold_back_advice",
+      "title": "Hold Back Immediate Advice",
+      "goal": "Encourage parents to pause before offering solutions, allowing teens to process their feelings.",
+      "keyConcept": "Jumping in with advice can make teens feel like their emotions are being overlooked or that they can't handle their own problems. Giving them space to express themselves first helps them feel respected and may even lead them to find their own solutions.",
+      "example": "Your teen complains about a friend being unfair. Instead of immediately suggesting what to do, you listen and say, 'That sounds really hard.'",
+      "parentTip": "Before offering advice, ask your teen if they want help solving the problem or if they just want to talk about it.",
+      "reflectionPrompt": "How do you feel when someone gives you advice before you've finished sharing? How might your teen feel in the same situation?",
+      "quizQuestion": {
+        "question": "What should you do before giving advice to your teen?",
+        "options": [
+          "Listen and ask if they want advice",
+          "Give advice right away",
+          "Ignore their feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "use_empathy_statements",
+      "title": "Use Empathy Statements",
+      "goal": "Show parents how to use empathetic language to connect with their teen.",
+      "keyConcept": "Empathy statements let your teen know you care about their experience. Simple phrases like 'That sounds tough' or 'I can see why you'd feel that way' can make a big difference in how supported your teen feels.",
+      "example": "Your teen is nervous about an upcoming exam. You say, 'It's understandable to feel anxious before a big test.'",
+      "parentTip": "Practice using empathy statements in everyday conversations. Focus on acknowledging your teen's feelings without trying to fix them right away.",
+      "reflectionPrompt": "What empathy statements feel natural for you to use? Which ones might you try with your teen this week?",
+      "quizQuestion": {
+        "question": "Which of the following is an empathy statement?",
+        "options": [
+          "'You'll be fine, don't worry.'",
+          "'I can see why you're nervous.'",
+          "'Just study harder next time.'"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "engaging_in_cooperation": [
+    {
+      "id": "engage_coop_lesson1",
+      "title": "Describe, Don\u2019t Blame",
+      "goal": "Learn to describe situations neutrally instead of blaming your teen.",
+      "keyConcept": "When addressing a problem, describing what you see or what needs to be done helps avoid defensiveness. Blaming or accusing can make teens shut down or argue. Neutral descriptions invite cooperation and keep communication open.",
+      "example": "Instead of saying, 'You never clean up your mess!', try, 'I see dishes on the table from lunch.'",
+      "parentTip": "Next time you notice an issue, pause and simply describe what you observe without adding judgment or blame.",
+      "reflectionPrompt": "How might your teen react differently if you describe the problem instead of blaming them?",
+      "quizQuestion": {
+        "question": "Which approach is more likely to encourage cooperation?",
+        "options": [
+          "Describing the situation neutrally",
+          "Blaming your teen for the problem"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "engage_coop_lesson2",
+      "title": "Offer Choices, Not Commands",
+      "goal": "Discover how giving choices can motivate teens to cooperate.",
+      "keyConcept": "Teens value autonomy and are more likely to cooperate when they feel they have some control. Offering choices, even small ones, helps them feel respected and involved in decision-making.",
+      "example": "Instead of saying, 'Do your homework now,' try, 'Would you like to do your homework before or after dinner?'",
+      "parentTip": "When you need your teen to do something, offer two acceptable options and let them choose.",
+      "reflectionPrompt": "What is one area where you could offer your teen a choice instead of issuing a command?",
+      "quizQuestion": {
+        "question": "Why do choices help teens cooperate?",
+        "options": [
+          "They feel more in control and respected",
+          "They get to avoid responsibilities"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "engage_coop_lesson3",
+      "title": "Invite Solutions Together",
+      "goal": "Learn to involve your teen in problem-solving.",
+      "keyConcept": "Inviting your teen to brainstorm solutions together shows that you value their input. This collaborative approach increases their investment in the outcome and teaches problem-solving skills.",
+      "example": "Say, 'We\u2019re having trouble getting out the door on time. What ideas do you have to help us leave earlier?'",
+      "parentTip": "When a recurring issue arises, ask your teen for their ideas on how to solve it, and listen without judgment.",
+      "reflectionPrompt": "How could involving your teen in finding solutions change the way you handle conflicts?",
+      "quizQuestion": {
+        "question": "What is a benefit of inviting your teen to help solve problems?",
+        "options": [
+          "They feel more responsible and engaged",
+          "They will always agree with your solution"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "engage_coop_lesson4",
+      "title": "Use Respectful Language",
+      "goal": "Understand the impact of respectful communication on cooperation.",
+      "keyConcept": "Respectful language sets a positive tone and models how to treat others. Even when you\u2019re frustrated, using calm and considerate words helps maintain trust and keeps your teen open to cooperation.",
+      "example": "Instead of, 'You\u2019re so lazy!', try, 'I\u2019d appreciate your help with the trash when you have a minute.'",
+      "parentTip": "Before speaking, ask yourself if your words show the same respect you\u2019d want from your teen.",
+      "reflectionPrompt": "How does your tone or choice of words affect your teen\u2019s willingness to cooperate?",
+      "quizQuestion": {
+        "question": "What is a key effect of using respectful language with teens?",
+        "options": [
+          "It encourages openness and cooperation",
+          "It makes them ignore you"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "engage_coop_lesson5",
+      "title": "Acknowledge Feelings First",
+      "goal": "Learn to validate your teen\u2019s feelings to build trust and cooperation.",
+      "keyConcept": "Teens are more likely to cooperate when they feel heard and understood. Acknowledging their feelings, even if you disagree, helps them feel respected and less defensive.",
+      "example": "If your teen says, 'I hate chores,' respond with, 'I get that chores aren\u2019t fun. Let\u2019s figure out how to make them easier.'",
+      "parentTip": "When your teen resists, pause and reflect their feelings back to them before moving to solutions.",
+      "reflectionPrompt": "How might acknowledging your teen\u2019s feelings change the way you handle disagreements?",
+      "quizQuestion": {
+        "question": "What is the first step to take when your teen resists cooperating?",
+        "options": [
+          "Acknowledge their feelings",
+          "Ignore their complaints"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "encouraging_autonomy": [
+    {
+      "id": "autonomy_micro1",
+      "title": "Letting Teens Make Choices",
+      "goal": "Help parents understand the value of allowing teens to make their own decisions.",
+      "keyConcept": "Teens need opportunities to make choices in order to develop decision-making skills and confidence. Even small decisions, like what to wear or how to organize their homework, help them learn responsibility. Allowing them to choose shows respect for their growing independence.",
+      "example": "Your teen wants to choose their own extracurricular activity, even if it\u2019s not what you would have picked. You support their choice, letting them take ownership of the decision.",
+      "parentTip": "Offer your teen choices whenever possible, such as, 'Would you prefer to do your homework before or after dinner?'",
+      "reflectionPrompt": "When was the last time you let your teen make a decision, big or small? How did it go?",
+      "quizQuestion": {
+        "question": "Why is it important to let teens make their own choices?",
+        "options": [
+          "It helps them develop decision-making skills.",
+          "It makes parenting easier.",
+          "It prevents all mistakes."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "autonomy_micro2",
+      "title": "Allowing Natural Consequences",
+      "goal": "Teach parents how to let teens experience the results of their actions.",
+      "keyConcept": "Experiencing natural consequences helps teens understand the impact of their choices. Instead of rescuing them from every mistake, allow them to face reasonable outcomes. This builds responsibility and problem-solving skills.",
+      "example": "Your teen forgets their lunch at home. Instead of rushing to bring it to school, you let them handle the situation, trusting they\u2019ll remember next time.",
+      "parentTip": "Resist the urge to fix every problem for your teen. Ask yourself if it\u2019s safe to let them experience the consequence.",
+      "reflectionPrompt": "How do you feel when your teen faces a consequence of their choice? What might you do differently next time?",
+      "quizQuestion": {
+        "question": "What is a benefit of allowing natural consequences?",
+        "options": [
+          "Teens become more responsible.",
+          "Teens avoid all mistakes.",
+          "Parents have more control.",
+          "Teens never get upset."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "autonomy_micro3",
+      "title": "Encouraging Problem-Solving",
+      "goal": "Guide parents to support their teen\u2019s independent thinking and solutions.",
+      "keyConcept": "When teens face challenges, encourage them to brainstorm solutions rather than providing all the answers. This helps them develop critical thinking and confidence in their abilities. Your role is to support, not solve.",
+      "example": "Your teen is struggling with a group project. Instead of telling them what to do, you ask, 'What ideas do you have for working with your group?'",
+      "parentTip": "Ask open-ended questions like, 'What do you think might work?' or 'How would you handle this?'",
+      "reflectionPrompt": "How do you usually respond when your teen asks for help with a problem? Could you try asking questions instead of giving advice?",
+      "quizQuestion": {
+        "question": "What is a good way to encourage problem-solving?",
+        "options": [
+          "Give your teen the solution immediately.",
+          "Ask them what ideas they have.",
+          "Ignore their problems."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "autonomy_micro4",
+      "title": "Expressing Confidence in Your Teen",
+      "goal": "Help parents communicate belief in their teen\u2019s abilities.",
+      "keyConcept": "Teens are more likely to take responsibility when they feel trusted and capable. Expressing confidence in their ability to handle challenges boosts their self-esteem and motivation. Your words can empower them to try, even when things are difficult.",
+      "example": "Your teen is nervous about an upcoming test. You say, 'I know you\u2019ve worked hard, and I believe you can handle this.'",
+      "parentTip": "Use encouraging statements like, 'I trust your judgment,' or 'I believe you can figure this out.'",
+      "reflectionPrompt": "How often do you tell your teen you believe in them? What effect do you notice when you do?",
+      "quizQuestion": {
+        "question": "How does expressing confidence help your teen?",
+        "options": [
+          "It makes them feel trusted and capable.",
+          "It makes them dependent on you.",
+          "It prevents all mistakes."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "autonomy_micro5",
+      "title": "Balancing Guidance and Independence",
+      "goal": "Teach parents how to support teens without taking over.",
+      "keyConcept": "Teens need both guidance and space to grow. Offer support and advice when asked, but avoid micromanaging. This balance helps teens feel secure while learning to rely on themselves.",
+      "example": "Your teen is planning a school project. You offer to help if needed, but let them take the lead and make decisions.",
+      "parentTip": "Say, 'I\u2019m here if you need help,' and step back to let your teen try things on their own.",
+      "reflectionPrompt": "Do you tend to step in too quickly, or do you give your teen enough space? How can you adjust your approach?",
+      "quizQuestion": {
+        "question": "What is a good way to balance guidance and independence?",
+        "options": [
+          "Do everything for your teen.",
+          "Let your teen know you\u2019re available, but let them lead.",
+          "Never offer any help."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "resolving_conflicts": [
+    {
+      "id": "conflict_listening_skills",
+      "title": "Listening to Understand, Not to Judge",
+      "goal": "Learn how to listen actively and acknowledge your teen\u2019s feelings during conflicts.",
+      "keyConcept": "Active listening means giving your full attention to your teen, showing empathy, and reflecting back what you hear without judgment. This helps your teen feel heard and respected, which is the first step toward resolving disagreements. Avoid interrupting or immediately offering solutions; instead, focus on understanding their perspective.",
+      "example": "Your teen is upset about a new curfew. Instead of saying, 'That\u2019s the rule, end of story,' you listen and say, 'It sounds like you feel the curfew is unfair because your friends can stay out later.'",
+      "parentTip": "Try saying, 'I hear that you\u2019re frustrated about this. Can you tell me more about what\u2019s bothering you?'",
+      "reflectionPrompt": "When was the last time you felt truly listened to? How did it affect your willingness to talk?",
+      "quizQuestion": {
+        "question": "What is the first step in resolving a conflict with your teen?",
+        "options": [
+          "Offer your solution immediately",
+          "Listen and acknowledge their feelings",
+          "Remind them of the rules"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "conflict_needs_acknowledgment",
+      "title": "Recognizing Everyone\u2019s Needs",
+      "goal": "Understand how to identify and validate both your own and your teen\u2019s needs in a disagreement.",
+      "keyConcept": "Conflicts often escalate when one or both sides feel their needs are ignored. By openly stating your own needs and inviting your teen to share theirs, you create a foundation for mutual respect. This step is about making sure both voices are heard before moving to solutions.",
+      "example": "You say, 'I need to know you\u2019re safe at night, and you need more independence. Let\u2019s see how we can address both.'",
+      "parentTip": "Use 'I need...' and 'You need...' statements to clarify both perspectives.",
+      "reflectionPrompt": "What needs do you often bring to conflicts with your teen? How can you express them clearly?",
+      "quizQuestion": {
+        "question": "Why is it important to acknowledge both your needs and your teen\u2019s needs?",
+        "options": [
+          "It helps both sides feel respected and understood",
+          "It makes your teen agree with you",
+          "It avoids having to compromise"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "conflict_brainstorming",
+      "title": "Brainstorming Solutions Together",
+      "goal": "Learn how to involve your teen in generating possible solutions to a conflict.",
+      "keyConcept": "Collaborative problem-solving means inviting your teen to help think of ways to address the issue. This empowers them, builds problem-solving skills, and increases the chances they\u2019ll follow through. Encourage all ideas without judgment at first, then discuss which ones might work best.",
+      "example": "You and your teen list possible ways to handle curfew, such as checking in by text, adjusting the time on weekends, or setting consequences for late arrivals.",
+      "parentTip": "Say, 'Let\u2019s come up with as many ideas as we can\u2014no idea is too silly right now.'",
+      "reflectionPrompt": "How might your teen respond if you invite them to help brainstorm solutions?",
+      "quizQuestion": {
+        "question": "What is the main benefit of brainstorming solutions with your teen?",
+        "options": [
+          "It gives you more control",
+          "It helps your teen feel involved and responsible",
+          "It speeds up the process"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "conflict_evaluating_options",
+      "title": "Evaluating and Choosing Solutions",
+      "goal": "Practice evaluating brainstormed ideas and agreeing on a workable plan.",
+      "keyConcept": "After brainstorming, review each idea together and discuss the pros and cons. Aim for a solution that meets both your needs as much as possible. Agree on a plan and clarify what each person will do, so expectations are clear.",
+      "example": "You and your teen agree that on weekends, curfew can be later if they check in by phone, but on school nights, it stays earlier.",
+      "parentTip": "Ask, 'Which of these ideas do you think could work for both of us? What would make it fair?'",
+      "reflectionPrompt": "How can you ensure the solution you choose is realistic and fair for both you and your teen?",
+      "quizQuestion": {
+        "question": "What should you do after brainstorming solutions?",
+        "options": [
+          "Pick your favorite idea without discussion",
+          "Evaluate each idea together and agree on a plan",
+          "Let your teen decide alone"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "conflict_followup_accountability",
+      "title": "Following Up and Ensuring Accountability",
+      "goal": "Learn how to follow up on agreements and maintain accountability without nagging.",
+      "keyConcept": "Following up shows your teen that agreements matter and builds trust. Check in after some time to see how the plan is working, and be open to making adjustments if needed. This helps your teen learn responsibility and that their input is valued.",
+      "example": "A week after changing the curfew, you ask, 'How do you feel the new arrangement is working? Is there anything we should change?'",
+      "parentTip": "Set a reminder to revisit the agreement together and discuss what\u2019s working or not.",
+      "reflectionPrompt": "How can you follow up on agreements in a way that feels supportive rather than controlling?",
+      "quizQuestion": {
+        "question": "Why is it important to follow up after making an agreement?",
+        "options": [
+          "To show you\u2019re paying attention and to adjust if needed",
+          "To remind your teen who\u2019s in charge",
+          "To avoid future conversations"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "setting_limits_with_respect": [
+    {
+      "id": "lesson1_state_expectations_clearly",
+      "title": "State Expectations Clearly",
+      "goal": "Learn how to communicate rules and boundaries in a way teens understand.",
+      "keyConcept": "Teens respond best when expectations are stated clearly and directly. Avoid vague instructions or assumptions that your child 'should know' what you want. Clear communication reduces misunderstandings and sets the stage for respectful cooperation.",
+      "example": "Instead of saying, 'Don't make a mess,' try, 'Please put your dishes in the sink after you eat.'",
+      "parentTip": "Before setting a rule, pause and ask yourself: Is my expectation clear and specific? If not, rephrase it so your teen knows exactly what is expected.",
+      "reflectionPrompt": "Think of a recent time you set a rule. Was your expectation clear? How could you have stated it more specifically?",
+      "quizQuestion": {
+        "question": "Which is a clear way to state an expectation?",
+        "options": [
+          "Be responsible.",
+          "Finish your homework before dinner.",
+          "Don't be lazy."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_explain_reasons_behind_limits",
+      "title": "Explain the Reasons Behind Limits",
+      "goal": "Understand the importance of sharing the 'why' behind your rules.",
+      "keyConcept": "Teens are more likely to respect boundaries when they understand the reasons behind them. Explaining your thinking shows respect for your teen's intelligence and helps them internalize values, not just follow orders.",
+      "example": "You might say, 'I ask you to be home by 9 PM because I worry about your safety when it's late and dark.'",
+      "parentTip": "Whenever you set a limit, add a brief explanation. This invites understanding and reduces resistance.",
+      "reflectionPrompt": "Recall a rule you set recently. Did you explain your reasoning? How did your teen respond?",
+      "quizQuestion": {
+        "question": "Why is it helpful to explain the reasons behind a rule?",
+        "options": [
+          "It makes the rule sound more important.",
+          "It helps teens understand and accept the rule.",
+          "It gives teens a chance to argue."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_set_limits_without_threats",
+      "title": "Set Limits Without Threats or Punitive Language",
+      "goal": "Learn to establish boundaries without resorting to threats or harsh consequences.",
+      "keyConcept": "Using threats or punitive language can damage trust and provoke defiance. Instead, state limits calmly and firmly, focusing on what needs to happen rather than what will happen if your teen disobeys.",
+      "example": "Instead of, 'If you don't clean your room, you're grounded,' try, 'Rooms need to be tidy before we go out this weekend.'",
+      "parentTip": "Replace threats with clear statements of what is expected and the natural consequences that follow.",
+      "reflectionPrompt": "How do you usually respond when your teen breaks a rule? Could you rephrase your response to avoid threats?",
+      "quizQuestion": {
+        "question": "Which statement avoids threats and focuses on expectations?",
+        "options": [
+          "If you don't do your chores, you won't get your allowance.",
+          "Chores need to be done before screen time.",
+          "Do your chores or else."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_be_consistent_yet_flexible",
+      "title": "Be Consistent, Yet Flexible",
+      "goal": "Balance consistency with flexibility to build trust and cooperation.",
+      "keyConcept": "Consistency helps teens know what to expect, but flexibility shows respect for their growing independence. When appropriate, allow room for negotiation or exceptions, especially as your teen demonstrates responsibility.",
+      "example": "If your teen asks for a later curfew for a special event, you might discuss and agree on a one-time exception, while reinforcing the usual rule.",
+      "parentTip": "Let your teen know which rules are non-negotiable and which can be discussed. This encourages responsibility and mutual respect.",
+      "reflectionPrompt": "Are there any rules in your home that could be more flexible? How might you involve your teen in these decisions?",
+      "quizQuestion": {
+        "question": "Why is it important to be both consistent and flexible?",
+        "options": [
+          "It confuses teens.",
+          "It helps teens feel respected and trusted.",
+          "It makes rules less important."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_invite_collaboration_on_rules",
+      "title": "Invite Collaboration on Rules",
+      "goal": "Encourage your teen to participate in setting limits and boundaries.",
+      "keyConcept": "When teens have a voice in creating rules, they are more likely to respect and follow them. Collaborative rule-setting fosters responsibility and strengthens your relationship.",
+      "example": "Sit down with your teen to discuss screen time limits, asking for their input and working together to agree on a plan.",
+      "parentTip": "Ask your teen, 'What do you think is a fair rule about...?' and listen to their perspective before making decisions.",
+      "reflectionPrompt": "How might involving your teen in rule-setting change their attitude toward the rules?",
+      "quizQuestion": {
+        "question": "What is a benefit of involving teens in setting rules?",
+        "options": [
+          "They will always agree with you.",
+          "They are more likely to follow the rules.",
+          "It makes rules unnecessary."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "encouragement_and_self_esteem": [
+    {
+      "id": "lesson1_acknowledge_effort",
+      "title": "Recognize Effort, Not Just Results",
+      "goal": "Help parents focus on acknowledging their teen's effort and process, rather than only the outcome.",
+      "keyConcept": "Teens need to know that their hard work and persistence are valued, not just their successes. By recognizing the effort they put into tasks, you show that growth and learning matter more than perfection. This approach encourages teens to keep trying, even when things are difficult.",
+      "example": "Instead of saying, 'Great job on getting an A!', try saying, 'I noticed how much time you spent studying for that test. Your dedication really paid off.'",
+      "parentTip": "Next time your teen works hard on something, comment specifically on the effort or strategy they used, rather than the final grade or result.",
+      "reflectionPrompt": "When was the last time you acknowledged your teen's effort? How did they respond?",
+      "quizQuestion": {
+        "question": "Which response best supports a teen's self-esteem?",
+        "options": [
+          "You\u2019re so smart for getting an A.",
+          "I\u2019m proud of how much effort you put into studying.",
+          "Why didn\u2019t you get an A+?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_specific_praise",
+      "title": "Give Specific, Genuine Praise",
+      "goal": "Teach parents to use specific praise that highlights what their teen did well.",
+      "keyConcept": "General praise like 'Good job!' can feel empty or insincere to teens. Specific praise helps them understand exactly what they did well and encourages them to repeat those positive behaviors. It also shows that you are paying attention to their unique strengths.",
+      "example": "Instead of saying, 'Nice work,' try, 'I noticed you organized your notes before starting your homework. That\u2019s a great way to stay focused.'",
+      "parentTip": "Observe your teen and mention something detailed about their actions or choices. Be sincere and avoid exaggeration.",
+      "reflectionPrompt": "How might your teen feel differently when you praise a specific action rather than giving general praise?",
+      "quizQuestion": {
+        "question": "Which is an example of specific praise?",
+        "options": [
+          "You\u2019re awesome!",
+          "You did well.",
+          "You really listened to your friend\u2019s problem and offered helpful advice."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson3_avoid_labels",
+      "title": "Avoid Labels and Comparisons",
+      "goal": "Help parents understand the harm of labeling and comparing teens.",
+      "keyConcept": "Labels like 'the smart one' or comparisons to siblings can create pressure and resentment. They may also limit how teens see themselves and their potential. Focusing on each teen\u2019s individual qualities and progress fosters a healthier self-image.",
+      "example": "Instead of saying, 'Why can\u2019t you be more like your brother?', say, 'I appreciate your creativity and the unique way you solve problems.'",
+      "parentTip": "Notice when you\u2019re tempted to compare your teen to others. Instead, highlight their individual strengths and efforts.",
+      "reflectionPrompt": "Have you ever been compared to someone else? How did it make you feel?",
+      "quizQuestion": {
+        "question": "What is a better alternative to comparing your teen to others?",
+        "options": [
+          "Pointing out their unique strengths and progress.",
+          "Telling them to be more like their sibling.",
+          "Labeling them as 'the smart one.'"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_growth_mindset",
+      "title": "Encourage a Growth Mindset",
+      "goal": "Show parents how to help teens see mistakes as opportunities to learn and grow.",
+      "keyConcept": "A growth mindset means believing that abilities can improve with effort and learning. When parents highlight progress and learning, teens become more resilient and willing to take on challenges. This mindset reduces fear of failure and builds confidence.",
+      "example": "If your teen struggles with a project, say, 'It\u2019s okay to make mistakes. What did you learn from this experience?'",
+      "parentTip": "When your teen faces a setback, focus on what they learned or how they improved, rather than the mistake itself.",
+      "reflectionPrompt": "How do you usually respond when your teen makes a mistake? What could you say to encourage a growth mindset?",
+      "quizQuestion": {
+        "question": "Which statement encourages a growth mindset?",
+        "options": [
+          "You\u2019ll never be good at this.",
+          "Mistakes help you learn and get better.",
+          "You should have known better."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_model_self_esteem",
+      "title": "Model Healthy Self-Esteem",
+      "goal": "Encourage parents to demonstrate self-acceptance and positive self-talk.",
+      "keyConcept": "Teens learn a lot by watching how their parents handle challenges and talk about themselves. If you model self-compassion and acknowledge your own efforts, your teen is more likely to develop a healthy self-esteem. Avoid harsh self-criticism in front of your teen.",
+      "example": "If you make a mistake, say, 'I\u2019m disappointed, but I know I can try again and do better next time.'",
+      "parentTip": "Be mindful of how you talk about your own successes and failures. Use positive, encouraging language about yourself.",
+      "reflectionPrompt": "What messages about self-worth do you think your teen picks up from the way you talk about yourself?",
+      "quizQuestion": {
+        "question": "How can you best model healthy self-esteem for your teen?",
+        "options": [
+          "Criticize yourself out loud when you make mistakes.",
+          "Show self-compassion and talk about learning from setbacks.",
+          "Pretend you never make mistakes."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

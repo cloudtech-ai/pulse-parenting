@@ -1,0 +1,77 @@
+{
+  "id": "how_to_talk_so_teens_will_listen",
+  "title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk",
+  "description": "This book by Adele Faber and Elaine Mazlish provides practical communication strategies for parents and caregivers of teenagers. It emphasizes respectful dialogue, emotional validation, and collaborative problem-solving as ways to strengthen relationships with teens. The book offers actionable advice to help adults listen effectively, respond without judgment, and empower teens to express themselves constructively. Through real-life examples and exercises, readers learn how to navigate common challenges and foster greater understanding with adolescents.",
+  "modules": [
+    {
+      "id": "understanding_teenagers",
+      "title": "Understanding Teenagers",
+      "goal": "Recognize the developmental changes and emotional needs of teens.",
+      "key_points": [
+        "Adolescence is a time of identity exploration, independence, and emotional intensity.",
+        "Teens often crave respect, autonomy, and validation from adults.",
+        "Understanding the teenage perspective can reduce conflict and open communication."
+      ]
+    },
+    {
+      "id": "acknowledging_feelings",
+      "title": "Acknowledge and Validate Feelings",
+      "goal": "Learn how to listen and validate teens' emotions to build trust.",
+      "key_points": [
+        "Listening without interruption shows respect and encourages teens to share.",
+        "Naming and acknowledging feelings helps teens feel understood.",
+        "Avoiding immediate advice or dismissal fosters openness."
+      ]
+    },
+    {
+      "id": "engaging_in_cooperation",
+      "title": "Engage Teens in Cooperation",
+      "goal": "Discover ways to encourage cooperation without lecturing or nagging.",
+      "key_points": [
+        "Describe the problem or situation instead of blaming.",
+        "Offer choices and invite teens to participate in finding solutions.",
+        "Use respectful language to maintain a collaborative tone."
+      ]
+    },
+    {
+      "id": "encouraging_autonomy",
+      "title": "Encouraging Autonomy and Responsibility",
+      "goal": "Support teens in making decisions and taking responsibility.",
+      "key_points": [
+        "Allow teens to make choices and experience natural consequences.",
+        "Encourage problem-solving and independent thinking.",
+        "Communicate confidence in their abilities to handle challenges."
+      ]
+    },
+    {
+      "id": "resolving_conflicts",
+      "title": "Resolving Conflicts and Problem-Solving",
+      "goal": "Apply collaborative approaches to resolve disagreements constructively.",
+      "key_points": [
+        "Listen to each side and acknowledge everyone\u2019s needs.",
+        "Brainstorm solutions together and evaluate options.",
+        "Agree on a plan and follow up to ensure accountability."
+      ]
+    },
+    {
+      "id": "setting_limits_with_respect",
+      "title": "Setting Limits with Respect",
+      "goal": "Establish boundaries and rules while maintaining a positive relationship.",
+      "key_points": [
+        "State expectations clearly and explain the reasons behind them.",
+        "Set limits without threats or punitive language.",
+        "Be consistent yet flexible, allowing room for negotiation where possible."
+      ]
+    },
+    {
+      "id": "encouragement_and_self_esteem",
+      "title": "Encouragement and Building Self-Esteem",
+      "goal": "Promote teens' confidence and self-worth through positive communication.",
+      "key_points": [
+        "Acknowledge effort and specific achievements, not just outcomes.",
+        "Avoid labels or comparisons that can damage self-esteem.",
+        "Foster a growth mindset by highlighting progress and learning."
+      ]
+    }
+  ]
+}

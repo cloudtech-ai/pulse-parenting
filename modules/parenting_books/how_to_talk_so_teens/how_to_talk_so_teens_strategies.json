@@ -1,0 +1,153 @@
+[
+  {
+    "id": 61,
+    "bookId": 7,
+    "title": "Acknowledge Feelings",
+    "summary": "Recognize and validate your teen\u2019s emotions before moving to problem-solving or advice.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens are more likely to listen and cooperate when they feel understood. Dismissing or minimizing feelings can lead to resistance or withdrawal."
+      },
+      {
+        "section": "Example",
+        "content": "When your teen says, 'School is so stressful,' respond with, 'It sounds like you\u2019re really overwhelmed right now,' instead of, 'It\u2019s not that bad.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Listen without interrupting.",
+          "Name the feeling you observe (e.g., 'You seem frustrated').",
+          "Avoid giving advice or reassurance right away.",
+          "Use phrases like, 'That sounds tough,' or 'I can see why you\u2019d feel that way.'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 7,
+    "title": "Engage Cooperation",
+    "summary": "Invite your teen\u2019s cooperation by describing the problem and expressing your needs clearly, rather than commanding or criticizing.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens are more likely to help when they feel respected and involved, rather than ordered around."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of saying, 'Pick up your clothes right now!' try, 'I\u2019m having trouble vacuuming with clothes on the floor.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Describe what you see or need without blame.",
+          "Give information rather than orders.",
+          "Offer choices or ask for input.",
+          "Express appreciation for cooperation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 7,
+    "title": "Alternatives to Punishment",
+    "summary": "Focus on solutions and learning rather than punishment when problems arise.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Punishment can breed resentment and rebellion. Alternatives help teens learn responsibility and problem-solving."
+      },
+      {
+        "section": "Example",
+        "content": "If your teen misses curfew, discuss what happened and brainstorm together how to handle it differently next time, instead of grounding them immediately."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "State your expectations clearly.",
+          "Express your feelings and needs.",
+          "Offer choices to make amends.",
+          "Work together to find solutions.",
+          "Allow natural consequences when safe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 7,
+    "title": "Encourage Autonomy",
+    "summary": "Support your teen\u2019s growing independence by allowing them to make choices and solve problems.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens need to develop confidence in their own judgment. Over-controlling can lead to power struggles or dependence."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of telling your teen exactly how to organize their homework, ask, 'What\u2019s your plan for getting your assignments done?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Let teens make age-appropriate decisions.",
+          "Encourage problem-solving rather than giving solutions.",
+          "Respect their privacy and opinions.",
+          "Acknowledge their efforts and progress."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 7,
+    "title": "Praise and Self-Esteem",
+    "summary": "Use specific, descriptive praise to build your teen\u2019s self-esteem and motivation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens benefit from knowing exactly what they did well. Generic praise can feel insincere or unhelpful."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of saying, 'Good job,' say, 'I noticed you spent extra time on your project and it really shows in your work.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Describe what you see and feel ('You put a lot of effort into this').",
+          "Focus on effort, progress, and strategies.",
+          "Avoid labels like 'smart' or 'talented.'",
+          "Encourage self-reflection ('How do you feel about what you accomplished?')."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 7,
+    "title": "Freeing Teens from Playing Roles",
+    "summary": "Help your teen break free from negative labels and fixed roles by noticing and encouraging positive behaviors.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Teens often internalize roles like 'the lazy one' or 'the troublemaker.' Highlighting their strengths helps them see themselves differently."
+      },
+      {
+        "section": "Example",
+        "content": "If your teen is usually disorganized but remembers an appointment, say, 'You kept track of the time today\u2014that was responsible.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice and comment on positive changes, even small ones.",
+          "Avoid repeating negative labels or stories.",
+          "Give opportunities for your teen to act differently.",
+          "Express confidence in their ability to grow and change."
+        ]
+      }
+    ]
+  }
+]
