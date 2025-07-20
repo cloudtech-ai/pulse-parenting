@@ -4,7 +4,11 @@
       "id": 21,
       "title": "CBT - Cognitive Restructuring (Challenging Thoughts)",
       "info": "cbt_books/cbt_01.json",
-      "strategies": "cbt_books/cbt_01_strategies.json"
+      "strategies": "cbt_books/cbt_01_strategies.json",
+      "studyPlan": {
+        "module_path": "cbt_books/cbt___cognitive_restructuring_challenging/cbt___cognitive_restructuring_challenging_modules.json",
+        "lesson_path": "cbt_books/cbt___cognitive_restructuring_challenging/cbt___cognitive_restructuring_challenging_lessons.json"
+      }
     },
     {
       "id": 22,
@@ -30,4 +34,3 @@
     }
   ]
 }
-

@@ -1,0 +1,449 @@
+{
+  "introduction_to_cognitive_restructuring": [
+    {
+      "id": "lesson1_what_is_cognitive_restructuring",
+      "title": "What is Cognitive Restructuring?",
+      "goal": "Understand the definition and purpose of cognitive restructuring in CBT.",
+      "keyConcept": "Cognitive restructuring is a core technique in Cognitive Behavioral Therapy (CBT) that helps people identify and change unhelpful or distorted thoughts. By recognizing these thoughts, we can challenge and replace them with more balanced and realistic ones. This process supports healthier emotional responses and behaviors, especially important for raising mentally healthy children.",
+      "example": "A parent notices their child says, 'I'm bad at math, I'll never get it right.' The parent helps the child see this is just a thought, not a fact, and encourages them to try a different perspective.",
+      "practiceTip": "When you notice your child expressing a negative thought, pause and gently ask, 'Is that really true, or is it just how you feel right now?'",
+      "reflectionPrompt": "How might your own thinking patterns influence the way you respond to your child's struggles?",
+      "quizQuestion": {
+        "question": "What is the main goal of cognitive restructuring?",
+        "options": [
+          "To ignore negative thoughts",
+          "To identify and change unhelpful thoughts",
+          "To focus only on positive thinking"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_thoughts_emotions_behaviors",
+      "title": "How Thoughts Influence Emotions and Behaviors",
+      "goal": "Learn the connection between thoughts, feelings, and actions.",
+      "keyConcept": "Our thoughts shape how we feel and act. When we or our children have negative or distorted thoughts, these can lead to unhelpful emotions and behaviors. Understanding this connection is the first step in helping children develop healthier thinking habits.",
+      "example": "A child thinks, 'No one wants to play with me,' which makes them feel sad and withdraw from others. The parent helps the child see that this thought might not be accurate.",
+      "practiceTip": "Ask your child to describe a recent situation, what they thought, how they felt, and what they did. Help them see the links between these steps.",
+      "reflectionPrompt": "Can you recall a time when a thought led you or your child to feel or act in a certain way?",
+      "quizQuestion": {
+        "question": "Which comes first in the CBT model?",
+        "options": [
+          "Thoughts",
+          "Emotions",
+          "Behaviors"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_identifying_unhelpful_thoughts",
+      "title": "Spotting Unhelpful Thoughts",
+      "goal": "Learn to recognize unhelpful or distorted thoughts in yourself and your child.",
+      "keyConcept": "Unhelpful thoughts are often automatic and can be exaggerated, negative, or unrealistic. Common types include all-or-nothing thinking, catastrophizing, and overgeneralization. Spotting these patterns is the first step to changing them.",
+      "example": "A child says, 'I always mess up,' after making a mistake. The parent recognizes this as an overgeneralization.",
+      "practiceTip": "Listen for words like 'always,' 'never,' or 'everyone' in your child's statements. Gently point out when these words might not be accurate.",
+      "reflectionPrompt": "What unhelpful thought patterns do you notice most often in your child or yourself?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an unhelpful thought?",
+        "options": [
+          "'I made a mistake, but I can try again.'",
+          "'I always fail at everything.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_challenging_unhelpful_thoughts",
+      "title": "Challenging Unhelpful Thoughts",
+      "goal": "Practice questioning and challenging unhelpful thoughts.",
+      "keyConcept": "Once an unhelpful thought is identified, it can be challenged by asking questions like, 'Is this thought really true?' or 'What evidence do I have for and against this thought?' This helps children (and adults) see things more realistically and reduces emotional distress.",
+      "example": "A child thinks, 'I'll never make friends.' The parent asks, 'Can you think of a time when someone wanted to play with you?'",
+      "practiceTip": "Teach your child to ask themselves, 'What would I say to a friend who had this thought?'",
+      "reflectionPrompt": "How comfortable do you feel challenging your own or your child's unhelpful thoughts?",
+      "quizQuestion": {
+        "question": "What is a good first step when challenging an unhelpful thought?",
+        "options": [
+          "Accept the thought as true",
+          "Look for evidence that supports or contradicts the thought"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_replacing_with_balanced_thoughts",
+      "title": "Replacing Unhelpful Thoughts with Balanced Ones",
+      "goal": "Learn how to help your child develop more balanced and realistic thoughts.",
+      "keyConcept": "After challenging an unhelpful thought, it's important to replace it with a more balanced one. This doesn't mean ignoring problems, but rather seeing situations more accurately and kindly. Balanced thoughts help children feel more confident and resilient.",
+      "example": "Instead of 'I'm terrible at reading,' a child learns to say, 'Reading is hard for me, but I can improve with practice.'",
+      "practiceTip": "Model balanced thinking by sharing your own realistic self-talk out loud, such as, 'This is tough, but I can handle it.'",
+      "reflectionPrompt": "What balanced thought could you offer your child the next time they feel discouraged?",
+      "quizQuestion": {
+        "question": "What is the purpose of replacing unhelpful thoughts?",
+        "options": [
+          "To ignore problems",
+          "To see situations more realistically and kindly"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "identifying_negative_thoughts": [
+    {
+      "id": "lesson1_what_are_automatic_thoughts",
+      "title": "Understanding Automatic Thoughts",
+      "goal": "Recognize what automatic thoughts are and why they matter.",
+      "keyConcept": "Automatic thoughts are quick, often subconscious ideas or beliefs that pop into our minds in response to situations. These thoughts can be positive, neutral, or negative, and they influence how we feel and act. Understanding automatic thoughts is the first step in helping children (and ourselves) develop healthier thinking patterns.",
+      "example": "A child spills juice and immediately thinks, 'I'm so clumsy.' This thought happens instantly, without much conscious awareness.",
+      "practiceTip": "Pay attention to the first thought that comes to mind when something unexpected happens. Try to notice it without judgment.",
+      "reflectionPrompt": "Can you recall a recent situation where you noticed an automatic thought? What was it?",
+      "quizQuestion": {
+        "question": "What are automatic thoughts?",
+        "options": [
+          "Thoughts we consciously choose to think",
+          "Quick, often subconscious thoughts that arise in response to situations"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_spotting_negative_thoughts",
+      "title": "Spotting Negative Thoughts",
+      "goal": "Learn to identify negative automatic thoughts in daily life.",
+      "keyConcept": "Negative automatic thoughts are often critical, pessimistic, or self-defeating. They can shape a child's mood and behavior, sometimes without anyone noticing. Being able to spot these thoughts is crucial for helping children challenge and change them.",
+      "example": "After getting a lower grade on a test, a child thinks, 'I'm not smart enough.'",
+      "practiceTip": "Listen for words like 'always,' 'never,' or 'can't' in your child's self-talk. These can signal negative automatic thoughts.",
+      "reflectionPrompt": "What are some common negative thoughts you\u2019ve noticed in yourself or your child?",
+      "quizQuestion": {
+        "question": "Which phrase is most likely a negative automatic thought?",
+        "options": [
+          "I can try again next time.",
+          "I always mess things up."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_recording_thoughts",
+      "title": "Recording Negative Thoughts",
+      "goal": "Practice writing down negative automatic thoughts as they occur.",
+      "keyConcept": "Recording negative thoughts helps make them visible and easier to understand. By writing them down, you and your child can start to see patterns and triggers, which is the first step toward changing them.",
+      "example": "A parent keeps a small notebook and writes, 'My child said, \u201cI can\u2019t do this math problem,\u201d after struggling with homework.'",
+      "practiceTip": "Keep a simple thought diary for a week. Write down any negative thoughts you or your child notice, along with the situation that triggered them.",
+      "reflectionPrompt": "How did it feel to write down negative thoughts? Did you notice any patterns?",
+      "quizQuestion": {
+        "question": "Why is it helpful to record negative thoughts?",
+        "options": [
+          "To ignore them",
+          "To make them visible and easier to understand"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_self_awareness_and_emotions",
+      "title": "Connecting Thoughts and Feelings",
+      "goal": "Understand how negative thoughts influence emotions and behavior.",
+      "keyConcept": "Negative automatic thoughts can lead to strong emotions like sadness, anger, or anxiety. Recognizing the link between thoughts and feelings helps children (and adults) become more self-aware and better able to manage their reactions.",
+      "example": "A child thinks, 'Nobody likes me,' and then feels lonely and withdrawn at school.",
+      "practiceTip": "When your child expresses a negative thought, gently ask, 'How does that thought make you feel?'",
+      "reflectionPrompt": "Can you think of a time when a thought changed how you or your child felt?",
+      "quizQuestion": {
+        "question": "What often happens when a child has a negative automatic thought?",
+        "options": [
+          "They feel strong emotions like sadness or anxiety.",
+          "They immediately feel better."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_building_awareness_together",
+      "title": "Building Awareness as a Family",
+      "goal": "Create a supportive environment for noticing and discussing thoughts.",
+      "keyConcept": "Talking openly about thoughts and feelings helps children feel safe and supported. When families practice noticing and sharing their thoughts together, it becomes easier for everyone to challenge negativity and build resilience.",
+      "example": "At dinner, each family member shares one thought they had during the day and how it made them feel.",
+      "practiceTip": "Set aside a few minutes each day for everyone to share a thought or feeling. Model openness and non-judgment.",
+      "reflectionPrompt": "How might regular family discussions about thoughts and feelings help your child?",
+      "quizQuestion": {
+        "question": "What is a benefit of discussing thoughts and feelings as a family?",
+        "options": [
+          "It helps everyone feel supported and less alone.",
+          "It encourages keeping feelings to oneself."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "understanding_cognitive_distortions": [
+    {
+      "id": "cd_micro_1_identify_distortions",
+      "title": "Spotting Cognitive Distortions",
+      "goal": "Learn to recognize when cognitive distortions are present in your or your child's thinking.",
+      "keyConcept": "Cognitive distortions are patterns of unhelpful thinking that can make situations seem worse than they are. Common types include all-or-nothing thinking, catastrophizing, and overgeneralization. Being able to spot these patterns is the first step toward changing them.",
+      "example": "Your child says, 'I failed my math test, so I'm terrible at math and will never get better.' This is an example of all-or-nothing thinking and overgeneralization.",
+      "practiceTip": "When you notice a strong emotional reaction, pause and ask yourself or your child, 'What am I telling myself right now?' Write down the thought and see if it fits a common distortion.",
+      "reflectionPrompt": "Can you recall a recent situation where you or your child may have used a cognitive distortion?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of a cognitive distortion?",
+        "options": [
+          "Believing one mistake means total failure",
+          "Taking time to reflect on a mistake",
+          "Asking for help when confused"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "cd_micro_2_all_or_nothing",
+      "title": "Understanding All-or-Nothing Thinking",
+      "goal": "Recognize and address all-or-nothing thinking in daily life.",
+      "keyConcept": "All-or-nothing thinking (also called black-and-white thinking) is when we see things as only good or bad, with no middle ground. This can make setbacks feel like total failures and successes feel like the only acceptable outcome.",
+      "example": "Your child says, 'If I don't get an A, I'm a bad student.' This ignores all the effort and progress made, focusing only on extremes.",
+      "practiceTip": "Help your child find the 'gray area' by asking, 'Is it possible to do well without being perfect?' or 'What did you do well, even if the result wasn't perfect?'",
+      "reflectionPrompt": "How might all-or-nothing thinking affect your child's motivation or self-esteem?",
+      "quizQuestion": {
+        "question": "What is a sign of all-or-nothing thinking?",
+        "options": [
+          "Recognizing both strengths and weaknesses",
+          "Believing only perfect results are good",
+          "Celebrating small improvements"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cd_micro_3_catastrophizing",
+      "title": "Challenging Catastrophizing",
+      "goal": "Learn how to recognize and reduce catastrophizing thoughts.",
+      "keyConcept": "Catastrophizing is when we imagine the worst possible outcome, even if it's unlikely. This can lead to unnecessary anxiety and stress for both you and your child.",
+      "example": "Your child forgets their homework and says, 'Now my teacher will hate me and I'll fail the class.' This is jumping to the worst-case scenario.",
+      "practiceTip": "When you notice catastrophizing, gently ask, 'What's the most likely thing that will happen?' or 'Have you been able to handle similar situations before?'",
+      "reflectionPrompt": "When was the last time you or your child imagined the worst-case scenario? How did it turn out?",
+      "quizQuestion": {
+        "question": "Catastrophizing means:",
+        "options": [
+          "Expecting the best outcome",
+          "Imagining the worst possible scenario",
+          "Ignoring problems"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cd_micro_4_distortions_and_mood",
+      "title": "How Distortions Affect Mood and Behavior",
+      "goal": "Understand the impact of cognitive distortions on emotions and actions.",
+      "keyConcept": "Cognitive distortions can make us feel sad, anxious, or angry, and can influence how we act. For children, these thoughts can lead to giving up easily, avoiding challenges, or feeling hopeless.",
+      "example": "A child who thinks, 'I always mess up,' may stop trying new things because they expect to fail.",
+      "practiceTip": "Notice how your child's mood changes after certain thoughts. Encourage them to talk about their feelings and what they were thinking just before.",
+      "reflectionPrompt": "How do you think your child's thoughts affect their feelings and choices?",
+      "quizQuestion": {
+        "question": "Cognitive distortions can lead to:",
+        "options": [
+          "Improved confidence",
+          "Unhelpful emotions and behaviors",
+          "Better problem-solving"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cd_micro_5_identify_and_label",
+      "title": "Practice: Identify and Label Distortions",
+      "goal": "Build the skill of noticing and naming cognitive distortions in real time.",
+      "keyConcept": "By identifying and labeling cognitive distortions as they happen, you and your child can start to separate unhelpful thoughts from reality. This makes it easier to challenge and change them.",
+      "example": "When your child says, 'Nobody likes me,' you might say, 'That sounds like a distortion called 'mind reading' or 'overgeneralization.''",
+      "practiceTip": "Create a list of common distortions and review them with your child. When a negative thought comes up, see if you can match it to one on the list.",
+      "reflectionPrompt": "What is one distortion you or your child notice most often? How can you remind yourself to label it next time?",
+      "quizQuestion": {
+        "question": "What is the benefit of labeling cognitive distortions?",
+        "options": [
+          "It helps ignore problems",
+          "It makes unhelpful thoughts easier to challenge",
+          "It encourages negative thinking"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "challenging_and_reframing_thoughts": [
+    {
+      "id": "lesson1_identifying_unhelpful_thoughts",
+      "title": "Spotting Unhelpful Thoughts",
+      "goal": "Learn to recognize when you or your child are having unhelpful thoughts.",
+      "keyConcept": "Unhelpful thoughts are negative or unrealistic ideas that can affect how we feel and act. These thoughts often pop up automatically, especially in stressful situations. By learning to notice them, you can start to address and change them, which is the first step in cognitive restructuring.",
+      "example": "Your child says, 'I\u2019m bad at math, I\u2019ll never get it right.' This is an example of an unhelpful thought that can lower confidence and motivation.",
+      "practiceTip": "When you notice your child expressing a negative thought, gently ask, 'What are you thinking right now?' Write down the exact words they use.",
+      "reflectionPrompt": "Can you recall a recent time when you or your child had an unhelpful thought? What was it?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an unhelpful thought?",
+        "options": [
+          "I can try my best and ask for help if I need it.",
+          "I always mess things up, so there\u2019s no point in trying."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_gathering_evidence",
+      "title": "Evaluating the Evidence",
+      "goal": "Learn to question the truth of unhelpful thoughts by looking for evidence.",
+      "keyConcept": "Unhelpful thoughts often feel true, but they may not be based on facts. By asking for evidence that supports or contradicts the thought, you can help your child see things more clearly and reduce the power of negative thinking.",
+      "example": "If your child says, 'Nobody likes me,' ask, 'Can you think of times when someone was kind to you or wanted to play with you?'",
+      "practiceTip": "When your child shares a negative thought, ask them to list one piece of evidence for and one against that thought.",
+      "reflectionPrompt": "How might gathering evidence help you or your child see a situation differently?",
+      "quizQuestion": {
+        "question": "What is a good question to ask when evaluating a negative thought?",
+        "options": [
+          "Why do you always think this way?",
+          "What facts support or challenge this thought?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_introducing_alternative_thoughts",
+      "title": "Finding Balanced Alternatives",
+      "goal": "Learn to create more balanced and realistic thoughts.",
+      "keyConcept": "Once you\u2019ve identified and questioned an unhelpful thought, the next step is to come up with a more balanced alternative. This doesn\u2019t mean ignoring problems, but rather seeing the situation in a fairer, more helpful way.",
+      "example": "Instead of 'I always fail,' a balanced thought could be, 'Sometimes I struggle, but I can improve with practice.'",
+      "practiceTip": "Help your child rephrase a negative thought into a more balanced one by asking, 'What\u2019s another way to look at this?'",
+      "reflectionPrompt": "What is a more balanced way to think about a recent challenge you or your child faced?",
+      "quizQuestion": {
+        "question": "Which is a balanced alternative to 'I\u2019m terrible at sports'?",
+        "options": [
+          "I\u2019m not good at sports yet, but I can get better with practice.",
+          "I\u2019ll never be good at any sport."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_step_by_step_reframing",
+      "title": "Step-by-Step Reframing",
+      "goal": "Practice a simple process for reframing unhelpful thoughts.",
+      "keyConcept": "Reframing involves moving from an unhelpful thought to a more balanced one in a few steps: notice the thought, evaluate the evidence, and then create an alternative. Practicing this process regularly helps make it a habit for both you and your child.",
+      "example": "Your child says, 'I\u2019ll never make friends.' You help them notice the thought, look for evidence (e.g., 'You played with Sam yesterday'), and reframe it: 'Making friends can take time, and I\u2019m learning how.'",
+      "practiceTip": "Use a worksheet or notebook to write down the three steps: 1) The unhelpful thought, 2) Evidence for and against, 3) A balanced alternative.",
+      "reflectionPrompt": "How could you make this three-step process a regular part of your conversations with your child?",
+      "quizQuestion": {
+        "question": "What is the first step in reframing an unhelpful thought?",
+        "options": [
+          "Create a balanced alternative",
+          "Notice and write down the unhelpful thought"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_modeling_and_encouragement",
+      "title": "Modeling and Encouraging Healthy Thinking",
+      "goal": "Learn how to model and reinforce cognitive restructuring for your child.",
+      "keyConcept": "Children learn by watching adults. When you model challenging your own unhelpful thoughts and encourage your child to do the same, you create a supportive environment for mental health. Praise effort and progress, not just results.",
+      "example": "You say aloud, 'I was worried about making a mistake at work, but I reminded myself that everyone makes mistakes and I can learn from them.'",
+      "practiceTip": "Share your own reframing process with your child and praise them when they try it themselves.",
+      "reflectionPrompt": "How can you show your child that it\u2019s okay to have unhelpful thoughts and that they can be changed?",
+      "quizQuestion": {
+        "question": "What is a helpful way to encourage your child to challenge unhelpful thoughts?",
+        "options": [
+          "Tell them to stop thinking negatively.",
+          "Praise them for trying to find a balanced thought."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "practicing_cognitive_restructuring": [
+    {
+      "id": "lesson_1_identifying_thoughts",
+      "title": "Identifying Unhelpful Thoughts",
+      "goal": "Learn how to recognize unhelpful or negative thoughts in yourself and your child.",
+      "keyConcept": "The first step in cognitive restructuring is to notice when unhelpful thoughts arise. These thoughts often appear automatically and can influence our feelings and actions. By becoming aware of them, you can begin to challenge and change them, setting a positive example for your child.",
+      "example": "You notice your child says, 'I\u2019m bad at making friends.' This is an unhelpful thought that could affect their confidence.",
+      "practiceTip": "Keep a small notebook or use your phone to jot down any negative or unhelpful thoughts you or your child express throughout the day.",
+      "reflectionPrompt": "What is one unhelpful thought you or your child had today? How did it affect your mood or actions?",
+      "quizQuestion": {
+        "question": "What is the first step in cognitive restructuring?",
+        "options": [
+          "Trying to ignore negative thoughts",
+          "Identifying unhelpful thoughts",
+          "Telling your child to 'just be positive'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_recording_thoughts",
+      "title": "Using Thought Journals",
+      "goal": "Practice recording thoughts and feelings to better understand patterns.",
+      "keyConcept": "Writing down thoughts and feelings helps make them clearer and easier to address. A thought journal can reveal patterns in thinking and highlight situations that trigger negative thoughts. This is a practical tool for both adults and children.",
+      "example": "After a tough day at school, your child writes, 'I felt lonely at lunch because I thought no one wanted to sit with me.'",
+      "practiceTip": "Set aside five minutes each evening to write down one situation, the thoughts you had, and how you felt. Encourage your child to do the same.",
+      "reflectionPrompt": "How did writing down your thoughts help you see them differently?",
+      "quizQuestion": {
+        "question": "What is the main benefit of keeping a thought journal?",
+        "options": [
+          "It helps you ignore negative feelings",
+          "It makes thoughts and patterns easier to understand",
+          "It solves all your problems instantly"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_challenging_thoughts",
+      "title": "Challenging Unhelpful Thoughts",
+      "goal": "Learn how to question and challenge negative thoughts.",
+      "keyConcept": "Once you identify an unhelpful thought, the next step is to challenge its accuracy. Ask yourself if the thought is really true, or if there is evidence that contradicts it. Teaching your child to do this builds resilience and critical thinking.",
+      "example": "Your child thinks, 'I always mess up.' You help them recall times when they succeeded, showing the thought isn\u2019t completely true.",
+      "practiceTip": "When you or your child have a negative thought, ask: 'What evidence do I have for and against this thought?'",
+      "reflectionPrompt": "What is one negative thought you challenged today? What did you discover?",
+      "quizQuestion": {
+        "question": "What is a helpful question to ask when challenging a negative thought?",
+        "options": [
+          "Is this thought always true?",
+          "Why do I feel this way?",
+          "Should I ignore this thought?"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_replacing_thoughts",
+      "title": "Replacing Negative Thoughts",
+      "goal": "Practice creating balanced, realistic thoughts to replace unhelpful ones.",
+      "keyConcept": "After challenging a negative thought, replace it with a more balanced and realistic one. This doesn\u2019t mean ignoring problems, but seeing situations more clearly. Modeling this for your child helps them develop healthier thinking habits.",
+      "example": "Instead of 'I\u2019m bad at math,' your child learns to say, 'Math is hard for me, but I can improve with practice.'",
+      "practiceTip": "Help your child rephrase one negative thought each day into a more balanced statement.",
+      "reflectionPrompt": "How did changing a negative thought to a balanced one affect your or your child\u2019s feelings?",
+      "quizQuestion": {
+        "question": "What is the goal of replacing negative thoughts?",
+        "options": [
+          "To ignore problems",
+          "To see situations more realistically",
+          "To always be positive"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_overcoming_setbacks",
+      "title": "Overcoming Setbacks and Staying Consistent",
+      "goal": "Learn strategies to handle setbacks and maintain progress with cognitive restructuring.",
+      "keyConcept": "Setbacks are a normal part of learning new skills. Sometimes old thinking patterns return, especially during stressful times. The key is to be patient, recognize progress, and keep practicing. Supporting your child through setbacks teaches them perseverance.",
+      "example": "After a difficult week, you and your child notice more negative thoughts creeping in. Instead of giving up, you review your journals together and celebrate small wins.",
+      "practiceTip": "When setbacks happen, remind yourself and your child that progress takes time. Review past successes and encourage trying again.",
+      "reflectionPrompt": "What is one way you can support yourself or your child when setbacks occur?",
+      "quizQuestion": {
+        "question": "What should you do when old negative thoughts return?",
+        "options": [
+          "Give up on cognitive restructuring",
+          "Recognize it's normal and keep practicing",
+          "Ignore the thoughts completely"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

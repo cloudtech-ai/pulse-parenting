@@ -1,0 +1,57 @@
+{
+  "id": "cbt_cognitive_restructuring_challenging_thoughts",
+  "title": "CBT - Cognitive Restructuring (Challenging Thoughts)",
+  "description": "This book provides a practical introduction to cognitive restructuring, a core technique in Cognitive Behavioral Therapy (CBT). It guides readers through understanding, identifying, and challenging negative or unhelpful thoughts. With step-by-step exercises and real-life examples, the book empowers individuals to reshape their thinking patterns for improved emotional wellbeing. Readers will learn how to recognize cognitive distortions and develop healthier, more balanced thought processes.",
+  "modules": [
+    {
+      "id": "introduction_to_cognitive_restructuring",
+      "title": "Introduction to Cognitive Restructuring",
+      "goal": "Understand the foundations and purpose of cognitive restructuring within CBT.",
+      "key_points": [
+        "Defines cognitive restructuring and its role in CBT.",
+        "Explains how thoughts influence emotions and behaviors.",
+        "Introduces the basic process of challenging unhelpful thoughts."
+      ]
+    },
+    {
+      "id": "identifying_negative_thoughts",
+      "title": "Identifying Negative Thoughts",
+      "goal": "Learn to recognize and record automatic negative thoughts.",
+      "key_points": [
+        "Describes what automatic thoughts are and how they arise.",
+        "Provides techniques for noticing and recording negative thoughts.",
+        "Emphasizes the importance of self-awareness in cognitive restructuring."
+      ]
+    },
+    {
+      "id": "understanding_cognitive_distortions",
+      "title": "Understanding Cognitive Distortions",
+      "goal": "Recognize common cognitive distortions that contribute to unhelpful thinking.",
+      "key_points": [
+        "Outlines types of cognitive distortions (e.g., all-or-nothing thinking, catastrophizing).",
+        "Explains how distortions impact mood and behavior.",
+        "Offers examples to help identify distortions in everyday life."
+      ]
+    },
+    {
+      "id": "challenging_and_reframing_thoughts",
+      "title": "Challenging and Reframing Thoughts",
+      "goal": "Develop skills to question and change unhelpful thoughts.",
+      "key_points": [
+        "Teaches strategies to evaluate the evidence for and against negative thoughts.",
+        "Introduces alternative, balanced ways of thinking.",
+        "Provides step-by-step exercises for reframing unhelpful thoughts."
+      ]
+    },
+    {
+      "id": "practicing_cognitive_restructuring",
+      "title": "Practicing Cognitive Restructuring",
+      "goal": "Apply cognitive restructuring techniques in real-life situations.",
+      "key_points": [
+        "Encourages regular practice through worksheets and journaling.",
+        "Addresses common challenges and setbacks in the restructuring process.",
+        "Shares tips for maintaining progress and building long-term habits."
+      ]
+    }
+  ]
+}
