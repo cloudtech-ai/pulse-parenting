@@ -1,0 +1,87 @@
+{
+  "id": "cbt_workbook_for_teens",
+  "title": "The CBT Workbook for Teens",
+  "description": "The CBT Workbook for Teens is a practical guide designed to help adolescents understand and manage their thoughts, emotions, and behaviors using Cognitive Behavioral Therapy techniques. Through engaging exercises and real-life scenarios, teens learn how to challenge negative thinking patterns, build resilience, and develop healthy coping strategies. The workbook is structured into modules that address common challenges faced by teens, such as anxiety, stress, and low self-esteem. Each module provides actionable tools to foster emotional well-being and boost confidence.",
+  "modules": [
+    {
+      "id": "introduction_to_cbt",
+      "title": "Introduction to CBT",
+      "goal": "Understand the basics of Cognitive Behavioral Therapy and its benefits for teens.",
+      "key_points": [
+        "Explains what CBT is and how it works.",
+        "Highlights the connection between thoughts, feelings, and behaviors.",
+        "Describes common challenges teens face and how CBT can help."
+      ]
+    },
+    {
+      "id": "identifying_negative_thoughts",
+      "title": "Identifying Negative Thoughts",
+      "goal": "Learn how to recognize and track unhelpful or automatic thoughts.",
+      "key_points": [
+        "Introduces the concept of automatic negative thoughts.",
+        "Provides tools for tracking and recording thoughts.",
+        "Explains how thoughts influence emotions and behaviors."
+      ]
+    },
+    {
+      "id": "challenging_unhelpful_thoughts",
+      "title": "Challenging Unhelpful Thoughts",
+      "goal": "Develop skills to question and reframe negative or distorted thinking.",
+      "key_points": [
+        "Teaches how to recognize common thinking traps.",
+        "Guides users through the process of questioning negative thoughts.",
+        "Offers practical exercises for reframing thoughts positively."
+      ]
+    },
+    {
+      "id": "managing_emotions",
+      "title": "Managing Emotions",
+      "goal": "Build emotional awareness and learn strategies to regulate intense feelings.",
+      "key_points": [
+        "Explains how emotions work and their purpose.",
+        "Introduces techniques for coping with strong feelings like anxiety and anger.",
+        "Encourages mindfulness and emotional acceptance."
+      ]
+    },
+    {
+      "id": "coping_with_stress_and_anxiety",
+      "title": "Coping with Stress and Anxiety",
+      "goal": "Apply CBT tools to handle stress and reduce anxiety in everyday life.",
+      "key_points": [
+        "Identifies common sources of stress and anxiety in teens.",
+        "Teaches relaxation and grounding techniques.",
+        "Provides problem-solving strategies for stressful situations."
+      ]
+    },
+    {
+      "id": "boosting_self_esteem",
+      "title": "Boosting Self-Esteem",
+      "goal": "Enhance self-confidence and develop a positive self-image.",
+      "key_points": [
+        "Explores the impact of self-talk on self-esteem.",
+        "Offers exercises to challenge self-criticism.",
+        "Encourages setting realistic goals and celebrating achievements."
+      ]
+    },
+    {
+      "id": "building_resilience",
+      "title": "Building Resilience",
+      "goal": "Strengthen the ability to bounce back from setbacks and adapt to challenges.",
+      "key_points": [
+        "Defines resilience and why it matters for teens.",
+        "Shares strategies for facing obstacles and learning from failure.",
+        "Promotes optimism and healthy coping mechanisms."
+      ]
+    },
+    {
+      "id": "maintaining_progress",
+      "title": "Maintaining Progress",
+      "goal": "Create a plan for ongoing growth and sustaining positive changes.",
+      "key_points": [
+        "Summarizes key CBT skills learned throughout the workbook.",
+        "Provides tips for staying motivated and handling setbacks.",
+        "Encourages building a personal support system."
+      ]
+    }
+  ]
+}

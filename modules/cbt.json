@@ -14,13 +14,21 @@
       "id": 22,
       "title": "Parenting a Child with Emotional or Behavioral Disorder",
       "info": "cbt_books/cbt_02.json",
-      "strategies": "cbt_books/cbt_02_strategies.json"
+      "strategies": "cbt_books/cbt_02_strategies.json",
+      "studyPlan": {
+        "module_path": "cbt_books/parenting_child_with_emotional/parenting_child_with_emotional_modules.json",
+        "lesson_path": "cbt_books/parenting_child_with_emotional/parenting_child_with_emotional_lessons.json"
+      }
     },
     {
       "id": 23,
       "title": "The CBT Workbook for Teens",
       "info": "cbt_books/cbt_03.json",
-      "strategies": "cbt_books/cbt_03_strategies.json"
+      "strategies": "cbt_books/cbt_03_strategies.json",
+      "studyPlan": {
+        "module_path": "cbt_books/cbt_workbook_for_teens/cbt_workbook_for_teens_modules.json",
+        "lesson_path": "cbt_books/cbt_workbook_for_teens/cbt_workbook_for_teens_lessons.json"
+      }
     }
   ],
   "recommendedVideos": [

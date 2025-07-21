@@ -1,0 +1,735 @@
+{
+  "introduction_to_cbt": [
+    {
+      "id": "cbt_lesson_1_what_is_cbt",
+      "title": "What is CBT?",
+      "goal": "Understand the basic definition and purpose of Cognitive Behavioral Therapy.",
+      "keyConcept": "Cognitive Behavioral Therapy (CBT) is a type of talk therapy that helps people understand how their thoughts, feelings, and behaviors are connected. It teaches practical skills to manage difficult emotions and situations. CBT is widely used to help teens cope with stress, anxiety, and other challenges by changing unhelpful thinking patterns.",
+      "example": "A teen who feels nervous about speaking in class learns through CBT that their fear comes from the thought, 'Everyone will laugh at me.' By changing this thought, they can feel less anxious and more confident.",
+      "practiceTip": "When you notice your child feeling upset, ask them what they are thinking at that moment. Help them see the link between their thoughts and feelings.",
+      "reflectionPrompt": "How might understanding the connection between thoughts, feelings, and behaviors help you support your child?",
+      "quizQuestion": {
+        "question": "What does CBT primarily focus on?",
+        "options": [
+          "Changing thoughts and behaviors",
+          "Learning new sports",
+          "Improving physical health only"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "cbt_lesson_2_thoughts_feelings_behaviors",
+      "title": "The Thoughts-Feelings-Behaviors Triangle",
+      "goal": "Learn how thoughts, feelings, and behaviors influence each other.",
+      "keyConcept": "CBT teaches that our thoughts, feelings, and behaviors are closely linked. A negative thought can lead to unpleasant feelings and unhelpful behaviors, while positive or realistic thoughts can lead to better emotional and behavioral outcomes. Recognizing this triangle helps teens (and parents) break negative cycles.",
+      "example": "If a teen thinks, 'I'm going to fail this test,' they might feel anxious and avoid studying, which increases the chance of a poor result.",
+      "practiceTip": "Draw a triangle with your child and label each corner: Thoughts, Feelings, Behaviors. Use it to talk through a recent challenge together.",
+      "reflectionPrompt": "Can you recall a recent situation where your child's thoughts affected their feelings or actions?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT part of the CBT triangle?",
+        "options": [
+          "Thoughts",
+          "Feelings",
+          "Nutrition"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "cbt_lesson_3_identifying_unhelpful_thoughts",
+      "title": "Spotting Unhelpful Thoughts",
+      "goal": "Learn to recognize common unhelpful thinking patterns in teens.",
+      "keyConcept": "Teens often experience unhelpful thoughts like 'I'm not good enough' or 'Everyone is judging me.' These patterns, called cognitive distortions, can make challenges feel bigger than they are. Learning to spot these thoughts is the first step in changing them.",
+      "example": "A teen who gets a low grade might think, 'I'm a failure,' instead of 'I had a tough test this time.'",
+      "practiceTip": "Listen for all-or-nothing words like 'always,' 'never,' or 'everyone' when your child talks about themselves or situations.",
+      "reflectionPrompt": "What unhelpful thoughts have you noticed in your child or yourself recently?",
+      "quizQuestion": {
+        "question": "Which is an example of an unhelpful thought?",
+        "options": [
+          "'I can try again next time.'",
+          "'I always mess things up.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_lesson_4_challenging_unhelpful_thoughts",
+      "title": "Challenging Unhelpful Thoughts",
+      "goal": "Practice ways to question and reframe unhelpful thoughts.",
+      "keyConcept": "Once unhelpful thoughts are identified, CBT encourages us to challenge them by asking if they are really true or if there is another way to look at the situation. This helps teens develop more balanced and realistic thinking, which can improve their mood and behavior.",
+      "example": "Instead of thinking, 'Everyone hates me,' a teen can ask, 'Is there evidence for this? Are there people who like me?'",
+      "practiceTip": "Teach your child to ask themselves, 'Is this thought 100% true? What would I say to a friend who thought this?'",
+      "reflectionPrompt": "How might challenging unhelpful thoughts change the way your child responds to setbacks?",
+      "quizQuestion": {
+        "question": "What is a good first step when you notice an unhelpful thought?",
+        "options": [
+          "Ignore it",
+          "Ask if it's really true"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cbt_lesson_5_benefits_of_cbt_for_teens",
+      "title": "Benefits of CBT for Teens",
+      "goal": "Understand how CBT can help teens manage common challenges.",
+      "keyConcept": "CBT gives teens practical tools to handle stress, anxiety, low mood, and other challenges. By learning to change their thinking patterns, teens can feel more confident, resilient, and in control of their emotions and actions.",
+      "example": "A teen who used to avoid social situations because of anxiety learns through CBT to manage their worries and gradually participate more.",
+      "practiceTip": "Encourage your child to use a CBT strategy, like writing down their thoughts and looking for evidence, when they feel upset.",
+      "reflectionPrompt": "What is one challenge your child faces that CBT strategies might help with?",
+      "quizQuestion": {
+        "question": "Which of the following is a benefit of CBT?",
+        "options": [
+          "It helps teens manage stress and emotions.",
+          "It guarantees perfect grades."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "identifying_negative_thoughts": [
+    {
+      "id": "lesson1_what_are_negative_thoughts",
+      "title": "What Are Negative Thoughts?",
+      "goal": "Understand what automatic negative thoughts are and why they matter.",
+      "keyConcept": "Automatic negative thoughts are quick, unhelpful ideas that pop into our minds without us even noticing. They often make us feel bad about ourselves or situations, and can influence how we act. Recognizing these thoughts is the first step to changing them and improving our mental health.",
+      "example": "A teen thinks, 'I always mess up,' after making a small mistake on a homework assignment. This thought happens instantly and makes them feel discouraged.",
+      "practiceTip": "Pay attention to your inner voice today. When you notice a thought that makes you feel upset or anxious, pause and ask yourself, 'Was that thought helpful or unhelpful?'",
+      "reflectionPrompt": "Can you remember a time today when a negative thought popped into your mind? What was it?",
+      "quizQuestion": {
+        "question": "What are automatic negative thoughts?",
+        "options": [
+          "Thoughts that happen quickly and make us feel bad",
+          "Thoughts we plan out carefully",
+          "Positive thoughts about ourselves"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_how_thoughts_affect_feelings",
+      "title": "How Thoughts Affect Feelings",
+      "goal": "Learn how our thoughts can influence our emotions and behaviors.",
+      "keyConcept": "The way we think about a situation can change how we feel and act. Negative thoughts can make us feel sad, angry, or anxious, while more balanced thoughts can help us feel better. Understanding this connection helps us take control of our reactions.",
+      "example": "If a child thinks, 'Nobody likes me,' they might feel lonely and avoid talking to others, even if it's not true.",
+      "practiceTip": "When you notice a strong emotion, pause and ask yourself, 'What thought just went through my mind?' Write it down if you can.",
+      "reflectionPrompt": "How did a recent thought you had affect the way you felt or acted?",
+      "quizQuestion": {
+        "question": "What can happen if we have negative thoughts about a situation?",
+        "options": [
+          "We might feel sad or act differently",
+          "Nothing changes",
+          "We always feel happy"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_tracking_negative_thoughts",
+      "title": "Tracking Negative Thoughts",
+      "goal": "Practice noticing and recording negative thoughts as they happen.",
+      "keyConcept": "Writing down negative thoughts helps us see patterns and understand what triggers them. By keeping a simple thought journal, we can start to notice when and why these thoughts appear, making it easier to address them.",
+      "example": "A teen keeps a small notebook and writes, 'I can't do this,' every time they feel overwhelmed at school. After a week, they notice this thought comes up most during math class.",
+      "practiceTip": "Carry a notebook or use your phone to jot down any negative thoughts you notice today. Try to record what was happening when the thought appeared.",
+      "reflectionPrompt": "What patterns do you notice in your negative thoughts? Are there certain times or situations when they appear more often?",
+      "quizQuestion": {
+        "question": "Why is it helpful to write down negative thoughts?",
+        "options": [
+          "To see patterns and triggers",
+          "To ignore them",
+          "To make them stronger"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_challenging_negative_thoughts",
+      "title": "Challenging Negative Thoughts",
+      "goal": "Learn a simple way to question and challenge unhelpful thoughts.",
+      "keyConcept": "Once we notice a negative thought, we can ask ourselves if it's really true or if there's another way to look at the situation. This helps us break the cycle of negativity and find more balanced, realistic thoughts.",
+      "example": "After thinking, 'I'm terrible at making friends,' a teen asks, 'Is that always true? Have I ever made a friend before?' They remember a time they made a new friend at summer camp.",
+      "practiceTip": "When you catch a negative thought, ask yourself: 'Is this 100% true? What evidence do I have for and against this thought?'",
+      "reflectionPrompt": "Think of a negative thought you had recently. What might be a more balanced or realistic way to look at the situation?",
+      "quizQuestion": {
+        "question": "What is one way to challenge a negative thought?",
+        "options": [
+          "Ask if it's really true and look for evidence",
+          "Ignore it completely",
+          "Believe it without question"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_supporting_your_child",
+      "title": "Supporting Your Child with Negative Thoughts",
+      "goal": "Learn how to help your child recognize and talk about their negative thoughts.",
+      "keyConcept": "Children may not always realize when they're having negative thoughts. By creating a safe space for them to share, and modeling how to talk about thoughts and feelings, you can help them develop healthy thinking habits.",
+      "example": "A parent notices their child seems upset after school and gently asks, 'What was going through your mind when you started feeling sad?' This helps the child open up about their worries.",
+      "practiceTip": "Use open-ended questions like, 'What were you thinking when that happened?' to encourage your child to share their thoughts without judgment.",
+      "reflectionPrompt": "How can you make it easier for your child to talk about their thoughts and feelings with you?",
+      "quizQuestion": {
+        "question": "What is a helpful way to support your child with negative thoughts?",
+        "options": [
+          "Ask open-ended questions and listen",
+          "Tell them to stop thinking that way",
+          "Ignore their feelings"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "challenging_unhelpful_thoughts": [
+    {
+      "id": "lesson1_identify_thinking_traps",
+      "title": "Spotting Unhelpful Thinking Traps",
+      "goal": "Learn to recognize common thinking traps in everyday thoughts.",
+      "keyConcept": "Thinking traps are patterns of negative or distorted thinking that can make us feel worse about ourselves or situations. Examples include 'all-or-nothing thinking,' 'catastrophizing,' and 'mind reading.' By learning to spot these traps, you can start to challenge and change them.",
+      "example": "A teen thinks, 'I failed this test, so I\u2019m a total failure at school.' This is an example of all-or-nothing thinking.",
+      "practiceTip": "Pay attention to your thoughts today and write down any that seem extreme or overly negative. Try to label the thinking trap if you can.",
+      "reflectionPrompt": "What is one negative thought you\u2019ve had recently, and which thinking trap might it fit into?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of a thinking trap?",
+        "options": [
+          "Believing you will never succeed after one setback",
+          "Making a plan to improve your grades",
+          "Asking a friend for help"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_question_negative_thoughts",
+      "title": "Questioning Negative Thoughts",
+      "goal": "Practice asking questions to challenge negative or unhelpful thoughts.",
+      "keyConcept": "Negative thoughts often feel true, but they aren\u2019t always accurate. By asking questions like 'Is this thought 100% true?' or 'What evidence do I have for and against this thought?', you can start to see things more clearly and reduce their power.",
+      "example": "A teen thinks, 'Nobody likes me.' They ask themselves, 'Is this really true? Are there people who have been friendly to me?'",
+      "practiceTip": "When you notice a negative thought, pause and ask yourself: 'What evidence do I have that this thought is true? What evidence do I have that it\u2019s not?'",
+      "reflectionPrompt": "Think of a recent negative thought. What evidence supports it, and what evidence goes against it?",
+      "quizQuestion": {
+        "question": "What is a helpful question to ask when you have a negative thought?",
+        "options": [
+          "Is this thought 100% true?",
+          "Why do I always fail?",
+          "Should I ignore my feelings?"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_reframe_thoughts",
+      "title": "Reframing Unhelpful Thoughts",
+      "goal": "Learn how to turn negative thoughts into more balanced, helpful ones.",
+      "keyConcept": "Reframing means taking a negative or distorted thought and finding a more realistic or positive way to look at the situation. This doesn\u2019t mean ignoring problems, but rather seeing them in a way that is fair and kind to yourself.",
+      "example": "Instead of thinking, 'I always mess up,' you might reframe it as, 'Sometimes I make mistakes, but I can learn from them.'",
+      "practiceTip": "When you catch yourself thinking negatively, try to rewrite the thought in a more balanced way. Ask, 'What would I say to a friend in this situation?'",
+      "reflectionPrompt": "What is one negative thought you can reframe today? How would you say it differently to be more fair to yourself?",
+      "quizQuestion": {
+        "question": "What does it mean to reframe a thought?",
+        "options": [
+          "Ignore your feelings",
+          "Find a more balanced or positive way to view the situation",
+          "Pretend nothing is wrong"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_practice_with_examples",
+      "title": "Practicing with Real-Life Examples",
+      "goal": "Apply the skills of identifying, questioning, and reframing to real situations.",
+      "keyConcept": "Practicing these skills with real-life examples helps make them a habit. By working through actual situations, you can see how challenging unhelpful thoughts can change how you feel and act.",
+      "example": "A teen is nervous about a presentation and thinks, 'I\u2019m going to embarrass myself.' They identify this as catastrophizing, question the thought by recalling past successes, and reframe it as, 'I might feel nervous, but I can prepare and do my best.'",
+      "practiceTip": "Choose a recent situation that made you feel upset. Write down your thoughts, identify any thinking traps, question them, and try to reframe them.",
+      "reflectionPrompt": "How did your feelings change after you challenged and reframed your negative thought?",
+      "quizQuestion": {
+        "question": "Why is it helpful to practice these skills with real-life examples?",
+        "options": [
+          "It helps you ignore your feelings",
+          "It makes the skills more automatic and useful",
+          "It makes problems go away instantly"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_building_a_healthy_thinking_habit",
+      "title": "Building a Healthy Thinking Habit",
+      "goal": "Establish a routine for regularly challenging and reframing unhelpful thoughts.",
+      "keyConcept": "Like any skill, challenging unhelpful thoughts gets easier with practice. Making it a regular habit\u2014such as checking in with your thoughts each day\u2014can help you and your child develop a more positive and resilient mindset over time.",
+      "example": "A parent and child set aside five minutes each evening to talk about one negative thought they had that day and how they could reframe it.",
+      "practiceTip": "Set a daily or weekly reminder to reflect on your thoughts and practice the steps: identify, question, and reframe.",
+      "reflectionPrompt": "What time of day could you set aside to practice healthy thinking with your child?",
+      "quizQuestion": {
+        "question": "What is one way to make challenging unhelpful thoughts a habit?",
+        "options": [
+          "Practice regularly, like at the same time each day",
+          "Only do it when you feel upset",
+          "Wait for someone else to remind you"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "managing_emotions": [
+    {
+      "id": "lesson1_emotion_basics",
+      "title": "Understanding What Emotions Are",
+      "goal": "Recognize that emotions are natural and serve important purposes.",
+      "keyConcept": "Emotions are signals from our minds and bodies that help us respond to the world around us. They can alert us to danger, help us connect with others, or let us know when something matters to us. Understanding that all emotions\u2014even difficult ones\u2014are normal is the first step to managing them.",
+      "example": "When your child feels nervous before a test, that anxiety is their brain\u2019s way of preparing them to focus and do their best.",
+      "practiceTip": "The next time your child expresses a strong emotion, remind yourself and them: 'It\u2019s okay to feel this way. Emotions are messages, not problems.'",
+      "reflectionPrompt": "How do you usually react when your child shows strong emotions? What might change if you viewed these emotions as helpful signals?",
+      "quizQuestion": {
+        "question": "What is the main purpose of emotions?",
+        "options": [
+          "To signal and help us respond to situations",
+          "To make life difficult",
+          "To be ignored"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_naming_feelings",
+      "title": "Naming and Noticing Feelings",
+      "goal": "Help your child identify and label their emotions.",
+      "keyConcept": "Being able to name emotions is a powerful tool for managing them. When we put feelings into words, it becomes easier to understand and handle them. This process is called 'emotional labeling' and it helps reduce the intensity of strong feelings.",
+      "example": "If your child says, 'I\u2019m just upset,' you can help them get more specific: 'Are you feeling sad, frustrated, or maybe disappointed?'",
+      "practiceTip": "Use an 'emotion chart' or simple feeling words (happy, sad, angry, scared, excited) to check in with your child daily. Ask, 'What are you feeling right now?'",
+      "reflectionPrompt": "How comfortable are you with naming your own feelings? How might this influence your child\u2019s ability to do the same?",
+      "quizQuestion": {
+        "question": "What is one benefit of naming emotions?",
+        "options": [
+          "It makes them go away instantly",
+          "It helps us understand and manage them",
+          "It makes them stronger"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_mindful_breathing",
+      "title": "Using Mindful Breathing to Calm Down",
+      "goal": "Teach your child a simple breathing technique to manage intense emotions.",
+      "keyConcept": "Mindful breathing is a quick and effective way to calm the body and mind when emotions run high. By focusing on slow, deep breaths, we signal to our brains that we are safe, which helps reduce anxiety and anger.",
+      "example": "When your child starts to feel overwhelmed, you can guide them to take three slow, deep breaths together, counting to four as you inhale and exhale.",
+      "practiceTip": "Practice '4-4 breathing': Breathe in for 4 seconds, hold for 4 seconds, breathe out for 4 seconds, and pause for 4 seconds. Repeat this cycle three times with your child.",
+      "reflectionPrompt": "When was the last time you used your breath to calm down? How could you model this for your child?",
+      "quizQuestion": {
+        "question": "What does mindful breathing help with?",
+        "options": [
+          "Making emotions stronger",
+          "Calming the body and mind",
+          "Ignoring feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_accepting_emotions",
+      "title": "Accepting Emotions Without Judgment",
+      "goal": "Encourage emotional acceptance instead of avoidance or criticism.",
+      "keyConcept": "Trying to ignore or 'fix' emotions can make them feel worse. Accepting emotions means allowing yourself and your child to feel what you feel, without labeling those feelings as 'good' or 'bad.' This helps emotions pass more quickly and teaches resilience.",
+      "example": "If your child is angry, instead of saying 'Don\u2019t be mad,' you might say, 'It\u2019s okay to feel angry. Let\u2019s talk about it.'",
+      "practiceTip": "When your child expresses a tough emotion, respond with, 'It\u2019s okay to feel that way. I\u2019m here for you.' Avoid rushing to solve or dismiss their feelings.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What would it look like to simply accept their feelings in the moment?",
+      "quizQuestion": {
+        "question": "What is a healthy way to respond to emotions?",
+        "options": [
+          "Accept them without judgment",
+          "Ignore them",
+          "Tell your child to stop feeling that way"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_coping_strategies",
+      "title": "Trying Out Coping Strategies",
+      "goal": "Explore practical ways to help your child handle strong emotions.",
+      "keyConcept": "Coping strategies are tools we use to manage difficult feelings. These can include taking a walk, drawing, listening to music, talking to someone, or using positive self-talk. Having a 'toolbox' of coping skills helps your child feel more in control when emotions get intense.",
+      "example": "If your child feels anxious before a big event, you might suggest they listen to their favorite song or squeeze a stress ball to help them feel better.",
+      "practiceTip": "Work with your child to make a list of 3\u20135 coping strategies they can try when they feel overwhelmed. Keep the list somewhere visible.",
+      "reflectionPrompt": "What coping strategies have helped you in the past? How can you share these with your child?",
+      "quizQuestion": {
+        "question": "Which of the following is a coping strategy?",
+        "options": [
+          "Yelling at someone",
+          "Taking deep breaths",
+          "Ignoring your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "coping_with_stress_and_anxiety": [
+    {
+      "id": "lesson1_identifying_stress_triggers",
+      "title": "Spotting Stress and Anxiety Triggers",
+      "goal": "Learn to recognize common sources of stress and anxiety in teens.",
+      "keyConcept": "Understanding what causes stress and anxiety is the first step to managing them. Teens often feel stressed by schoolwork, friendships, family expectations, or social media. By identifying specific triggers, you can help your child anticipate and prepare for challenging situations.",
+      "example": "Your teen feels anxious before exams or gets upset after scrolling through social media. Recognizing these patterns helps you support them more effectively.",
+      "practiceTip": "Ask your child to keep a simple journal for one week, noting when they feel stressed or anxious and what was happening at the time.",
+      "reflectionPrompt": "What are the top three situations that seem to cause the most stress for your child?",
+      "quizQuestion": {
+        "question": "Which of the following is a common source of stress for teens?",
+        "options": [
+          "Schoolwork",
+          "Watching a comedy movie",
+          "Eating breakfast"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_breathing_and_relaxation",
+      "title": "Practicing Relaxation Techniques",
+      "goal": "Learn a simple relaxation technique to help reduce stress in the moment.",
+      "keyConcept": "Relaxation techniques like deep breathing can quickly calm the body and mind. When stress hits, slowing down and focusing on your breath signals to the brain that it\u2019s safe to relax. This is a practical tool you and your child can use anytime, anywhere.",
+      "example": "Before a big test, your child feels nervous. You guide them to take five slow, deep breaths, which helps them feel more in control.",
+      "practiceTip": "Teach your child the '4-7-8' breathing technique: inhale for 4 seconds, hold for 7 seconds, exhale for 8 seconds. Practice together once a day.",
+      "reflectionPrompt": "How does your child\u2019s mood or body feel after practicing deep breathing?",
+      "quizQuestion": {
+        "question": "What is the main purpose of deep breathing exercises?",
+        "options": [
+          "To increase stress",
+          "To calm the body and mind",
+          "To make you run faster"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_grounding_in_the_present",
+      "title": "Using Grounding to Stay Present",
+      "goal": "Help your child use grounding techniques to manage overwhelming feelings.",
+      "keyConcept": "Grounding techniques help bring attention back to the present moment, which can reduce anxiety. These strategies use the senses\u2014sight, sound, touch, taste, and smell\u2014to anchor your child when they feel overwhelmed.",
+      "example": "When your child feels panicked, you guide them to name five things they can see, four they can touch, three they can hear, two they can smell, and one they can taste.",
+      "practiceTip": "Practice the '5-4-3-2-1' grounding exercise together during calm moments so it\u2019s easier to use during stressful times.",
+      "reflectionPrompt": "Which grounding technique does your child find most helpful or enjoyable?",
+      "quizQuestion": {
+        "question": "What is the main goal of grounding techniques?",
+        "options": [
+          "To focus on the present moment",
+          "To ignore feelings",
+          "To solve math problems"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_problem_solving_skills",
+      "title": "Solving Problems Step by Step",
+      "goal": "Teach your child a simple process for tackling stressful situations.",
+      "keyConcept": "Problem-solving skills empower teens to break down big challenges into manageable steps. By identifying the problem, brainstorming solutions, weighing pros and cons, and choosing a plan, your child can feel more confident and less overwhelmed.",
+      "example": "Your child is stressed about a group project. Together, you list possible actions: talk to the teacher, divide tasks, or set up a meeting with group members.",
+      "practiceTip": "When your child faces a problem, guide them through these steps: 1) What\u2019s the problem? 2) What are some solutions? 3) What are the pros and cons? 4) What will you try first?",
+      "reflectionPrompt": "How does your child\u2019s attitude change when they have a plan for handling a stressful situation?",
+      "quizQuestion": {
+        "question": "What is the first step in problem-solving?",
+        "options": [
+          "Choose a solution",
+          "Identify the problem",
+          "Ignore the issue"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_building_support_networks",
+      "title": "Encouraging Support and Communication",
+      "goal": "Help your child identify supportive people and practice asking for help.",
+      "keyConcept": "Having a support network reduces stress and anxiety. Encourage your child to talk to trusted friends, family, or teachers when they feel overwhelmed. Knowing they\u2019re not alone can make challenges feel more manageable.",
+      "example": "Your child feels anxious about a new school. You help them think of adults or peers they can talk to, like a school counselor or a close friend.",
+      "practiceTip": "Role-play with your child how to ask for help or share their feelings with someone they trust.",
+      "reflectionPrompt": "Who are three people your child can turn to when they need support?",
+      "quizQuestion": {
+        "question": "Why is it important for teens to have a support network?",
+        "options": [
+          "It helps them feel less alone",
+          "It makes them more stressed",
+          "It is not important"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "boosting_self_esteem": [
+    {
+      "id": "self_talk_awareness",
+      "title": "Noticing Your Self-Talk",
+      "goal": "Recognize and become aware of your inner dialogue.",
+      "keyConcept": "Self-talk is the ongoing stream of thoughts you have about yourself. These thoughts can be positive, negative, or neutral, and they strongly influence how you feel and act. By becoming aware of your self-talk, you can start to notice patterns that may affect your self-esteem.",
+      "example": "For example, after making a mistake at work, you might think, 'I'm so careless,' or you might think, 'Everyone makes mistakes sometimes.'",
+      "practiceTip": "Take a few minutes at the end of each day to write down one positive and one negative thought you had about yourself.",
+      "reflectionPrompt": "What kinds of things do you usually say to yourself when you make a mistake?",
+      "quizQuestion": {
+        "question": "What is self-talk?",
+        "options": [
+          "The thoughts you have about yourself",
+          "Talking to friends about your day",
+          "Reading out loud"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "challenge_negative_self_talk",
+      "title": "Challenging Negative Self-Talk",
+      "goal": "Learn how to question and reframe self-critical thoughts.",
+      "keyConcept": "Negative self-talk can lower your self-esteem and make you feel worse about yourself. By challenging these thoughts, you can replace them with more balanced and realistic ones. This helps you see yourself in a kinder, more accurate light.",
+      "example": "If you catch yourself thinking, 'I'm terrible at making friends,' you can challenge it by asking, 'Is that really true? Have I ever made a friend before?'",
+      "practiceTip": "When you notice a negative thought, ask yourself: 'Is there evidence for this? What would I say to a friend in this situation?'",
+      "reflectionPrompt": "Can you remember a recent negative thought you had about yourself? How might you challenge it?",
+      "quizQuestion": {
+        "question": "What is a good first step when you notice negative self-talk?",
+        "options": [
+          "Ignore it",
+          "Challenge it by asking if it's really true",
+          "Accept it as a fact"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "celebrate_small_wins",
+      "title": "Celebrating Small Achievements",
+      "goal": "Build self-esteem by recognizing and celebrating your successes.",
+      "keyConcept": "Acknowledging your achievements, no matter how small, helps reinforce a positive self-image. Celebrating progress boosts motivation and reminds you of your strengths.",
+      "example": "If you completed a homework assignment on time, take a moment to feel proud and maybe reward yourself with a favorite activity.",
+      "practiceTip": "At the end of each day, write down one thing you did well, no matter how minor it seems.",
+      "reflectionPrompt": "What is one small achievement from today that you can celebrate?",
+      "quizQuestion": {
+        "question": "Why is it important to celebrate small achievements?",
+        "options": [
+          "It helps build self-esteem",
+          "It wastes time",
+          "It makes you arrogant"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "set_realistic_goals",
+      "title": "Setting Realistic Goals",
+      "goal": "Learn how to set achievable goals to support self-confidence.",
+      "keyConcept": "Setting goals that are realistic and attainable helps you experience success and builds your confidence. Unrealistic goals can lead to disappointment and lower self-esteem, so it's important to break big goals into smaller, manageable steps.",
+      "example": "Instead of aiming to get perfect grades in every subject, set a goal to improve your math grade by one letter this semester.",
+      "practiceTip": "Choose one area you\u2019d like to improve and set a specific, realistic goal for the next week.",
+      "reflectionPrompt": "What is one realistic goal you can set for yourself this week?",
+      "quizQuestion": {
+        "question": "What is a benefit of setting realistic goals?",
+        "options": [
+          "It helps you experience success",
+          "It guarantees perfection",
+          "It makes things harder"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "self_compassion_practice",
+      "title": "Practicing Self-Compassion",
+      "goal": "Develop a kinder, more understanding attitude toward yourself.",
+      "keyConcept": "Self-compassion means treating yourself with the same kindness and understanding you would offer a good friend. When you make mistakes or face setbacks, being gentle with yourself helps you recover and maintain a healthy self-esteem.",
+      "example": "If you forget an important appointment, instead of calling yourself 'stupid,' remind yourself that everyone makes mistakes and it's okay to be imperfect.",
+      "practiceTip": "When you notice self-criticism, pause and ask, 'What would I say to a friend in this situation?' Then, say those words to yourself.",
+      "reflectionPrompt": "How can you show yourself more compassion the next time you make a mistake?",
+      "quizQuestion": {
+        "question": "What does self-compassion involve?",
+        "options": [
+          "Being harsh with yourself",
+          "Treating yourself with kindness",
+          "Ignoring your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "building_resilience": [
+    {
+      "id": "resilience_defined",
+      "title": "What is Resilience?",
+      "goal": "Understand the meaning and importance of resilience for teens.",
+      "keyConcept": "Resilience is the ability to recover from setbacks, adapt to change, and keep going in the face of challenges. It helps teens handle stress, disappointment, and failure in healthy ways. Building resilience is essential for mental well-being and long-term success.",
+      "example": "After failing a math test, a teen feels upset but decides to ask for help and study harder for the next one instead of giving up.",
+      "practiceTip": "Talk with your child about a time when you faced a setback and how you overcame it. Encourage them to share their own experiences.",
+      "reflectionPrompt": "When was the last time you or your child bounced back from a difficult situation? What helped?",
+      "quizQuestion": {
+        "question": "What does resilience help teens do?",
+        "options": [
+          "Avoid all problems",
+          "Recover from setbacks and adapt to challenges",
+          "Never feel sad"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "growth_mindset",
+      "title": "Adopting a Growth Mindset",
+      "goal": "Learn how a growth mindset supports resilience.",
+      "keyConcept": "A growth mindset is the belief that abilities and intelligence can be developed through effort and learning. Teens with a growth mindset see challenges as opportunities to grow, not as threats. This attitude makes it easier to bounce back from failure and keep trying.",
+      "example": "A teen who struggles with writing believes they can improve by practicing and seeking feedback, rather than thinking they\u2019re just 'bad at writing.'",
+      "practiceTip": "Praise your child\u2019s effort and strategies, not just their results. Say things like, 'I\u2019m proud of how hard you worked on this.'",
+      "reflectionPrompt": "How can you encourage your child to see mistakes as chances to learn?",
+      "quizQuestion": {
+        "question": "What is a key feature of a growth mindset?",
+        "options": [
+          "Believing abilities are fixed",
+          "Seeing challenges as opportunities to improve",
+          "Avoiding difficult tasks"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "healthy_coping",
+      "title": "Healthy Coping Strategies",
+      "goal": "Identify and practice healthy ways to cope with stress and setbacks.",
+      "keyConcept": "Coping strategies are the actions we take to manage stress and difficult emotions. Healthy coping includes talking to someone you trust, taking deep breaths, or doing something you enjoy. These strategies help teens handle tough times without feeling overwhelmed.",
+      "example": "After a disagreement with a friend, a teen takes a walk to calm down and then talks to a parent about how they feel.",
+      "practiceTip": "Help your child brainstorm a list of healthy coping strategies they can use when they feel stressed or upset.",
+      "reflectionPrompt": "What coping strategies have worked for you or your child in the past?",
+      "quizQuestion": {
+        "question": "Which of the following is a healthy coping strategy?",
+        "options": [
+          "Bottling up emotions",
+          "Talking to someone you trust",
+          "Ignoring your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "learning_from_failure",
+      "title": "Learning from Failure",
+      "goal": "Help your child see failure as a learning opportunity.",
+      "keyConcept": "Everyone experiences failure at some point. What matters is how we respond. By reflecting on what went wrong and what can be done differently next time, teens can turn setbacks into valuable lessons and build resilience.",
+      "example": "A teen who didn\u2019t make the soccer team asks the coach for feedback and practices more for next year\u2019s tryouts.",
+      "practiceTip": "When your child faces a setback, ask them, 'What did you learn from this experience?' and 'What could you try differently next time?'",
+      "reflectionPrompt": "How can you model learning from mistakes for your child?",
+      "quizQuestion": {
+        "question": "What is a helpful response to failure?",
+        "options": [
+          "Give up immediately",
+          "Reflect on what can be learned and try again",
+          "Blame others"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "promoting_optimism",
+      "title": "Promoting Optimism",
+      "goal": "Encourage a positive outlook in your child during tough times.",
+      "keyConcept": "Optimism is the habit of focusing on the positive aspects of situations and expecting good outcomes. Optimistic teens are more likely to persevere through difficulties and recover from setbacks. You can help your child develop optimism by modeling positive thinking and helping them reframe negative thoughts.",
+      "example": "When plans are canceled, instead of focusing on disappointment, a teen looks for another fun activity to do at home.",
+      "practiceTip": "When your child is discouraged, help them list three things that are still going well or that they are grateful for.",
+      "reflectionPrompt": "How do you usually respond to setbacks, and how might your attitude influence your child?",
+      "quizQuestion": {
+        "question": "How can you help your child develop optimism?",
+        "options": [
+          "Ignore their feelings",
+          "Model positive thinking and help reframe negative thoughts",
+          "Tell them to always expect the worst"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "maintaining_progress": [
+    {
+      "id": "lesson1_review_skills",
+      "title": "Reviewing Your CBT Skills",
+      "goal": "Recall and reinforce the key CBT skills learned so far.",
+      "keyConcept": "Regularly reviewing the skills you've learned helps keep them fresh in your mind and ready to use. CBT skills like identifying unhelpful thoughts, practicing positive self-talk, and using problem-solving strategies are most effective when you remember to use them in daily life. Making a habit of reviewing these tools can boost your confidence and resilience.",
+      "example": "A parent and teen sit together once a week to talk about which CBT skills they've used recently and how those skills helped them handle a tough situation.",
+      "practiceTip": "Set aside five minutes each week to list the CBT skills you remember and think of one way you used (or could use) each skill.",
+      "reflectionPrompt": "Which CBT skill do you find most helpful, and how could you use it more often?",
+      "quizQuestion": {
+        "question": "Why is it important to regularly review CBT skills?",
+        "options": [
+          "To keep them fresh and ready to use",
+          "Because they are only useful once",
+          "To impress others"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_staying_motivated",
+      "title": "Staying Motivated Over Time",
+      "goal": "Learn strategies to maintain motivation for positive change.",
+      "keyConcept": "Motivation can go up and down, especially when working on long-term goals. Finding ways to celebrate small successes and reminding yourself why you started can help you stay on track. Motivation grows when you notice your progress and reward your efforts, even if the steps are small.",
+      "example": "A teen keeps a journal where they write down one thing they did each week that made them feel proud or showed progress.",
+      "practiceTip": "Pick one small reward you can give yourself after practicing a CBT skill, like watching your favorite show or enjoying a treat.",
+      "reflectionPrompt": "What motivates you to keep working on your mental health, and how can you remind yourself of this motivation?",
+      "quizQuestion": {
+        "question": "What is a good way to stay motivated?",
+        "options": [
+          "Ignore your progress",
+          "Celebrate small successes",
+          "Wait for others to notice"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_handling_setbacks",
+      "title": "Handling Setbacks with Self-Compassion",
+      "goal": "Develop a healthy response to setbacks and challenges.",
+      "keyConcept": "Everyone faces setbacks, but how you respond makes a big difference. Instead of being hard on yourself, practice self-compassion\u2014treat yourself with the same kindness you would offer a friend. This helps you bounce back faster and keeps you moving forward.",
+      "example": "After having a tough day and falling back into old habits, a teen reminds themselves, 'It's okay to have setbacks. I can try again tomorrow.'",
+      "practiceTip": "When you notice a setback, pause and say to yourself, 'I'm learning and growing. It's normal to have ups and downs.'",
+      "reflectionPrompt": "How do you usually react to setbacks, and what could you say to yourself to be more supportive?",
+      "quizQuestion": {
+        "question": "What is a helpful way to respond to setbacks?",
+        "options": [
+          "Be very critical of yourself",
+          "Ignore your feelings",
+          "Practice self-compassion"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson4_support_system",
+      "title": "Building Your Support System",
+      "goal": "Identify and strengthen your personal support network.",
+      "keyConcept": "Having people you trust makes it easier to handle challenges and stay on track with your goals. A support system can include family, friends, teachers, or counselors. Reaching out for help is a sign of strength, not weakness.",
+      "example": "A teen talks to a trusted adult when they're feeling overwhelmed, and together they come up with a plan to manage stress.",
+      "practiceTip": "List three people you can turn to for support and think of one way you could reach out to each of them this week.",
+      "reflectionPrompt": "Who are the people in your life you can count on, and how can you let them know you appreciate their support?",
+      "quizQuestion": {
+        "question": "What is a benefit of having a support system?",
+        "options": [
+          "You have people to help you through tough times",
+          "You never have to solve problems alone",
+          "Both of the above"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson5_growth_plan",
+      "title": "Creating Your Growth Plan",
+      "goal": "Make a simple, personalized plan for ongoing growth.",
+      "keyConcept": "A growth plan helps you stay focused on your goals and track your progress. By setting small, realistic steps and reviewing them regularly, you can keep moving forward even when life gets busy. Your plan should be flexible and change as you grow.",
+      "example": "A parent and teen write down one mental health goal for the month and break it into weekly steps, checking in together at the end of each week.",
+      "practiceTip": "Write down one goal you want to work on and list two small actions you can take this week to move closer to it.",
+      "reflectionPrompt": "What is one area you\u2019d like to keep improving, and what\u2019s the first step you can take?",
+      "quizQuestion": {
+        "question": "What is an important part of a growth plan?",
+        "options": [
+          "Setting small, realistic steps",
+          "Making it complicated",
+          "Ignoring your progress"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

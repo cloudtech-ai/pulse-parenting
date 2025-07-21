@@ -1,0 +1,458 @@
+{
+  "understanding_disorders": [
+    {
+      "id": "lesson1_defining_disorders",
+      "title": "What Are Emotional and Behavioral Disorders?",
+      "goal": "Understand what emotional and behavioral disorders (EBDs) are in children.",
+      "keyConcept": "Emotional and behavioral disorders are patterns of emotional or behavioral responses in children that are significantly different from age-appropriate norms. These patterns can affect a child\u2019s ability to learn, build relationships, and function at home or school. Recognizing that these are real conditions\u2014not just 'bad behavior'\u2014is the first step in supporting your child.",
+      "example": "A child who frequently has intense outbursts at home and struggles to make friends at school may be showing signs of an emotional or behavioral disorder, rather than simply being 'difficult.'",
+      "practiceTip": "When you notice challenging behaviors, pause and ask yourself: Could this be more than just a phase or misbehavior?",
+      "reflectionPrompt": "Have you ever wondered if your child\u2019s behavior might be more than just a 'bad day'? What signs have you noticed?",
+      "quizQuestion": {
+        "question": "Which of the following best describes an emotional or behavioral disorder in children?",
+        "options": [
+          "Occasional misbehavior that is typical for their age",
+          "Patterns of emotional or behavioral responses that are significantly different from age norms",
+          "A child being shy or quiet"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_common_types",
+      "title": "Recognizing Common Types of EBDs",
+      "goal": "Identify the most common emotional and behavioral disorders in children.",
+      "keyConcept": "Some of the most common EBDs in children include anxiety disorders, depression, oppositional defiant disorder (ODD), and attention-deficit/hyperactivity disorder (ADHD). Each has its own set of symptoms, but all can impact a child\u2019s daily life and relationships. Early recognition helps in seeking the right support.",
+      "example": "A child with anxiety may avoid school or social situations, while a child with ODD might frequently argue with adults and refuse to follow rules.",
+      "practiceTip": "Read about the main symptoms of these disorders and observe if your child consistently shows any of them over several weeks.",
+      "reflectionPrompt": "Which behaviors have you noticed in your child that might fit one of these common disorders?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT a common emotional or behavioral disorder in children?",
+        "options": [
+          "Anxiety disorder",
+          "Oppositional defiant disorder",
+          "Chickenpox"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson3_possible_causes",
+      "title": "Understanding Causes and Contributing Factors",
+      "goal": "Learn about the possible causes and risk factors for EBDs.",
+      "keyConcept": "Emotional and behavioral disorders can result from a combination of genetic, biological, and environmental factors. Family history, exposure to trauma, inconsistent parenting, or brain chemistry imbalances can all play a role. Knowing the causes can help reduce blame and focus on solutions.",
+      "example": "A child who has experienced a stressful family event, like divorce or a move, may start showing signs of emotional distress.",
+      "practiceTip": "Reflect on any recent changes or stressors in your child\u2019s life that might be affecting their behavior.",
+      "reflectionPrompt": "What factors in your child\u2019s environment or history might be contributing to their current behavior?",
+      "quizQuestion": {
+        "question": "Which of the following is a possible contributing factor to EBDs?",
+        "options": [
+          "Family history of mental health issues",
+          "Eating vegetables",
+          "Having a pet"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_home_manifestation",
+      "title": "How EBDs Show Up at Home",
+      "goal": "Recognize how emotional and behavioral disorders can manifest in the home environment.",
+      "keyConcept": "At home, EBDs may appear as frequent tantrums, withdrawal from family activities, difficulty following routines, or aggressive behavior. These behaviors are often more intense or persistent than typical childhood misbehavior and can disrupt family life.",
+      "example": "A child who regularly isolates themselves in their room and refuses to participate in family meals may be showing signs of depression or anxiety.",
+      "practiceTip": "Keep a simple journal for one week, noting any recurring behaviors that concern you and the situations in which they occur.",
+      "reflectionPrompt": "What patterns do you notice in your child\u2019s behavior at home? Are there triggers or times when issues are more likely to arise?",
+      "quizQuestion": {
+        "question": "Which behavior might indicate an EBD at home?",
+        "options": [
+          "Occasionally forgetting to do chores",
+          "Frequent, intense tantrums that disrupt family routines",
+          "Preferring one parent over another"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_school_manifestation",
+      "title": "How EBDs Show Up at School",
+      "goal": "Identify signs of emotional and behavioral disorders in the school setting.",
+      "keyConcept": "In school, EBDs may manifest as trouble paying attention, difficulty making friends, frequent conflicts with teachers or peers, or declining grades. Teachers may report that your child is disruptive, withdrawn, or struggling to keep up academically.",
+      "example": "A teacher contacts you because your child is often alone at recess and has started refusing to participate in group activities.",
+      "practiceTip": "Communicate regularly with your child\u2019s teachers to gather their observations about your child\u2019s behavior and social interactions at school.",
+      "reflectionPrompt": "What feedback have you received from teachers or school staff about your child\u2019s behavior or performance?",
+      "quizQuestion": {
+        "question": "Which of the following could be a sign of an EBD at school?",
+        "options": [
+          "Occasionally forgetting homework",
+          "Consistently struggling to make friends and participate in class",
+          "Being excited for recess"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "seeking_professional_support": [
+    {
+      "id": "lesson1_identifying_need_for_support",
+      "title": "Recognizing When to Seek Professional Help",
+      "goal": "Learn how to identify signs that indicate your child may benefit from professional support.",
+      "keyConcept": "Early recognition of emotional or behavioral challenges is crucial for your child\u2019s well-being. Look for persistent changes in mood, behavior, or social interactions that interfere with daily life. Trust your instincts as a parent\u2014if you feel something isn\u2019t right, seeking help is a proactive step.",
+      "example": "You notice your child has become withdrawn, is struggling in school, and often seems anxious or upset for several weeks.",
+      "practiceTip": "Keep a simple journal for one week, noting any concerning behaviors, their frequency, and possible triggers. This record can help you decide if professional support is needed.",
+      "reflectionPrompt": "What changes have I noticed in my child\u2019s behavior or emotions that concern me?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign that may indicate the need for professional support?",
+        "options": [
+          "Occasional moodiness after a long day",
+          "Persistent withdrawal from friends and activities",
+          "Preferring one hobby over another"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_finding_right_professional",
+      "title": "Finding the Right Professional Support",
+      "goal": "Understand how to locate and choose appropriate mental health professionals for your child.",
+      "keyConcept": "Different professionals offer different types of support\u2014psychologists, psychiatrists, counselors, and school specialists each have unique roles. Consider your child\u2019s needs, ask for recommendations, and verify credentials before making a choice.",
+      "example": "After speaking with your child\u2019s teacher, you get referrals to a child psychologist and a school counselor, then check their backgrounds and areas of expertise.",
+      "practiceTip": "List three potential professionals or agencies in your area. Research their qualifications and read reviews or ask other parents about their experiences.",
+      "reflectionPrompt": "What qualities or expertise do I want in a professional who will work with my child?",
+      "quizQuestion": {
+        "question": "Which professional is typically qualified to diagnose and treat mental health disorders in children?",
+        "options": [
+          "Child psychologist",
+          "Math tutor"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_preparing_for_first_meeting",
+      "title": "Preparing for the First Appointment",
+      "goal": "Learn how to make the most of your initial meeting with a mental health professional.",
+      "keyConcept": "Preparation helps you communicate your concerns clearly and ensures the professional gets a full picture of your child\u2019s needs. Bring notes about your child\u2019s behaviors, school reports, and any questions you have.",
+      "example": "Before the appointment, you gather your journal notes, a recent report card, and write down three main concerns to discuss.",
+      "practiceTip": "Write down your top three questions or concerns to bring to the appointment. This helps you stay focused and ensures your main issues are addressed.",
+      "reflectionPrompt": "What are the most important things I want the professional to know about my child?",
+      "quizQuestion": {
+        "question": "What is a helpful step before your first meeting with a mental health professional?",
+        "options": [
+          "Arriving without any notes or questions",
+          "Preparing a list of concerns and relevant documents"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_building_partnerships",
+      "title": "Building Partnerships with Teachers and Therapists",
+      "goal": "Discover how to collaborate effectively with educators and therapists supporting your child.",
+      "keyConcept": "Strong partnerships with teachers and therapists help create a consistent support system for your child. Open, respectful communication and sharing information about your child\u2019s needs and progress are key to successful collaboration.",
+      "example": "You schedule regular check-ins with your child\u2019s teacher and therapist to discuss strategies that are working both at home and at school.",
+      "practiceTip": "Send a brief email update to your child\u2019s teacher or therapist once a month, sharing observations and asking for feedback.",
+      "reflectionPrompt": "How can I improve communication and teamwork with the professionals supporting my child?",
+      "quizQuestion": {
+        "question": "Why is it important to build partnerships with teachers and therapists?",
+        "options": [
+          "To ensure everyone is working toward the same goals for your child",
+          "To avoid sharing information"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_effective_communication",
+      "title": "Communicating Effectively with Professionals",
+      "goal": "Gain strategies for clear and productive communication with mental health professionals.",
+      "keyConcept": "Effective communication involves being honest, specific, and open to feedback. Express your concerns clearly, listen actively, and ask clarifying questions to ensure mutual understanding.",
+      "example": "During a meeting, you explain your child\u2019s recent challenges, listen to the therapist\u2019s suggestions, and ask follow-up questions to clarify the next steps.",
+      "practiceTip": "Use statements like, 'I\u2019ve noticed\u2026' or 'Can you help me understand\u2026?' to express concerns and invite collaboration.",
+      "reflectionPrompt": "What communication habits can I develop to strengthen my relationship with my child\u2019s support team?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of effective communication with a professional?",
+        "options": [
+          "Assuming they know everything about your child",
+          "Sharing specific observations and asking questions"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "parenting_strategies": [
+    {
+      "id": "positive_discipline_basics",
+      "title": "Understanding Positive Discipline",
+      "goal": "Learn the fundamentals of positive discipline and why it works for children with emotional or behavioral disorders.",
+      "keyConcept": "Positive discipline focuses on teaching and guiding children rather than punishing them. It emphasizes respect, encouragement, and clear expectations, helping children learn self-control and responsibility. This approach is especially effective for children with emotional or behavioral challenges, as it builds trust and reduces power struggles.",
+      "example": "Instead of yelling when a child refuses to do homework, a parent calmly explains the importance of homework and offers support, such as working together for a set time.",
+      "practiceTip": "The next time your child misbehaves, pause and respond with a calm voice. State what behavior you expect and offer a choice, such as, 'You can finish your homework now or after dinner.'",
+      "reflectionPrompt": "How do you usually respond to your child's challenging behaviors, and how might a positive discipline approach change your interactions?",
+      "quizQuestion": {
+        "question": "What is a key principle of positive discipline?",
+        "options": [
+          "Punishing mistakes quickly",
+          "Teaching and guiding with respect",
+          "Ignoring misbehavior"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "tailoring_strategies",
+      "title": "Adapting Strategies to Your Child\u2019s Needs",
+      "goal": "Understand how to adjust parenting techniques to fit your child\u2019s specific emotional or behavioral disorder.",
+      "keyConcept": "Every child is unique, especially those with emotional or behavioral disorders. Effective parenting means observing your child\u2019s triggers, strengths, and needs, then adapting strategies accordingly. This might mean using visual schedules for a child with ADHD or extra reassurance for a child with anxiety.",
+      "example": "A parent notices their child gets overwhelmed by transitions, so they start giving five-minute warnings before changing activities.",
+      "practiceTip": "Identify one situation where your child struggles. Try adjusting your approach\u2014such as giving advance notice or breaking tasks into smaller steps\u2014and observe the results.",
+      "reflectionPrompt": "What is one challenge your child faces, and how could you adapt your parenting strategy to better support them?",
+      "quizQuestion": {
+        "question": "Why is it important to tailor parenting strategies to your child?",
+        "options": [
+          "All children respond the same way",
+          "Each child has unique needs and triggers",
+          "It saves time"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "creating_supportive_routines",
+      "title": "Building Supportive Routines",
+      "goal": "Learn how to create daily routines that provide structure and security for your child.",
+      "keyConcept": "Consistent routines help children with emotional or behavioral disorders feel safe and know what to expect. Predictable schedules reduce anxiety, prevent meltdowns, and make transitions smoother. Simple routines for mornings, meals, and bedtime can make a big difference.",
+      "example": "A family sets a visual chart for the morning routine: wake up, brush teeth, get dressed, eat breakfast, and leave for school.",
+      "practiceTip": "Choose one part of your day\u2014like bedtime\u2014and create a simple, repeatable routine. Use pictures or written steps if helpful.",
+      "reflectionPrompt": "Which part of your daily routine is most challenging for your child, and how could you make it more predictable?",
+      "quizQuestion": {
+        "question": "What is a benefit of having consistent routines?",
+        "options": [
+          "Increases unpredictability",
+          "Reduces anxiety and helps transitions",
+          "Makes days more chaotic"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "reinforcing_positive_behaviors",
+      "title": "Reinforcing Positive Behaviors",
+      "goal": "Discover how to encourage and reinforce your child\u2019s positive actions.",
+      "keyConcept": "Children are more likely to repeat behaviors that are noticed and praised. Reinforcing positive behaviors means catching your child doing something right and giving specific, genuine praise or rewards. This builds self-esteem and motivates them to keep trying.",
+      "example": "When a child shares their toys without being asked, the parent says, 'I noticed how kindly you shared your toys. That was very thoughtful.'",
+      "practiceTip": "Today, look for one positive behavior from your child and acknowledge it with specific praise, such as, 'I appreciate how you put your shoes away.'",
+      "reflectionPrompt": "How often do you notice and praise your child\u2019s positive behaviors, and how might increasing this change their actions?",
+      "quizQuestion": {
+        "question": "What is the most effective way to reinforce positive behavior?",
+        "options": [
+          "Ignore it",
+          "Give specific, genuine praise",
+          "Punish negative behavior"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "teaching_coping_skills",
+      "title": "Teaching Coping Skills",
+      "goal": "Learn how to help your child develop healthy ways to manage strong emotions.",
+      "keyConcept": "Children with emotional or behavioral disorders often struggle to manage big feelings. Teaching coping skills\u2014like deep breathing, counting to ten, or using words to express feelings\u2014gives them tools to handle stress. Practicing these skills together makes it more likely they\u2019ll use them when needed.",
+      "example": "When a child starts to get frustrated, the parent reminds them to take three deep breaths and count to five before reacting.",
+      "practiceTip": "Pick one coping skill (like deep breathing) and practice it with your child during calm moments, so it\u2019s easier to use during stressful times.",
+      "reflectionPrompt": "What coping skills does your child already use, and what new skill could you introduce and practice together?",
+      "quizQuestion": {
+        "question": "Why is it important to practice coping skills during calm moments?",
+        "options": [
+          "So your child is prepared to use them when upset",
+          "It wastes time",
+          "It makes children more anxious"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "family_and_self_care": [
+    {
+      "id": "lesson1_family_impact",
+      "title": "Understanding Family Impact",
+      "goal": "Recognize how a child's emotional or behavioral disorder affects the whole family.",
+      "keyConcept": "When a child has an emotional or behavioral disorder, it can influence the entire family\u2019s routines, relationships, and stress levels. Siblings may feel neglected, parents may experience guilt or frustration, and overall family harmony can be disrupted. Recognizing these effects is the first step toward addressing them and building a supportive home environment.",
+      "example": "A parent notices that their other child has started acting out at school since their sibling\u2019s diagnosis, possibly due to feeling overlooked.",
+      "practiceTip": "Take five minutes to list ways your child\u2019s challenges have changed your family\u2019s daily life and relationships.",
+      "reflectionPrompt": "How has your child\u2019s disorder affected your family\u2019s routines or emotional climate?",
+      "quizQuestion": {
+        "question": "What is a common effect of a child's emotional or behavioral disorder on the family?",
+        "options": [
+          "No impact on family routines",
+          "Increased stress and changes in relationships",
+          "Immediate improvement in family harmony"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_self_care_basics",
+      "title": "Prioritizing Parental Self-Care",
+      "goal": "Learn why self-care is essential for parents and how to start small.",
+      "keyConcept": "Caring for a child with special needs can be exhausting, making self-care even more important. When parents neglect their own well-being, they may become less patient and effective. Even small acts of self-care, like a short walk or a quiet cup of tea, can help recharge your energy and resilience.",
+      "example": "A parent sets aside 10 minutes each evening to read or meditate, helping them feel calmer and more in control.",
+      "practiceTip": "Schedule one short self-care activity for yourself this week, and treat it as a non-negotiable appointment.",
+      "reflectionPrompt": "What is one small thing you can do for yourself this week to recharge?",
+      "quizQuestion": {
+        "question": "Why is self-care important for parents?",
+        "options": [
+          "It helps parents stay patient and effective",
+          "It is selfish to focus on yourself",
+          "It has no impact on parenting"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_stress_management",
+      "title": "Managing Parental Stress",
+      "goal": "Discover simple stress-management techniques for daily use.",
+      "keyConcept": "Chronic stress can take a toll on your health and parenting. Techniques like deep breathing, short breaks, or talking to a friend can help manage stress in the moment. Regularly practicing these strategies can improve your mood and your ability to respond calmly to your child.",
+      "example": "When feeling overwhelmed, a parent steps outside for five deep breaths before returning to a challenging situation.",
+      "practiceTip": "Try a 2-minute deep breathing exercise the next time you feel stressed.",
+      "reflectionPrompt": "Which stress-management technique could you try the next time you feel overwhelmed?",
+      "quizQuestion": {
+        "question": "Which of the following is a helpful stress-management strategy?",
+        "options": [
+          "Ignoring your feelings",
+          "Taking deep breaths",
+          "Yelling to release stress"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_support_networks",
+      "title": "Building a Support Network",
+      "goal": "Understand the value of support and how to connect with others.",
+      "keyConcept": "No parent should feel alone in their journey. Building a support network\u2014whether through family, friends, or parent groups\u2014provides emotional relief, practical advice, and a sense of belonging. Reaching out can be hard, but even one supportive conversation can make a difference.",
+      "example": "A parent joins a local support group for families with similar challenges and learns new coping strategies.",
+      "practiceTip": "Identify one person or group you can reach out to for support this week.",
+      "reflectionPrompt": "Who in your life could you ask for support or understanding right now?",
+      "quizQuestion": {
+        "question": "What is a benefit of having a support network?",
+        "options": [
+          "Feeling isolated",
+          "Receiving emotional and practical help",
+          "Having more parenting challenges"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_family_time",
+      "title": "Nurturing Positive Family Time",
+      "goal": "Learn how to create positive moments together as a family.",
+      "keyConcept": "Amidst challenges, it\u2019s important to intentionally create positive experiences together. Simple activities like a family game night or shared meal can strengthen bonds and provide relief from daily stress. These moments help everyone remember the joy in being together.",
+      "example": "A family sets aside Sunday evenings for a fun activity everyone enjoys, like playing a board game or watching a movie.",
+      "practiceTip": "Plan one enjoyable family activity this week, even if it\u2019s just 15 minutes long.",
+      "reflectionPrompt": "What is one simple activity your family could do together to create a positive memory?",
+      "quizQuestion": {
+        "question": "Why is it important to create positive family moments?",
+        "options": [
+          "To strengthen family bonds and reduce stress",
+          "To ignore problems",
+          "To avoid spending time together"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "resources_and_advocacy": [
+    {
+      "id": "lesson_1_identifying_resources",
+      "title": "Identifying Helpful Resources",
+      "goal": "Learn how to find and select resources that support your child and family.",
+      "keyConcept": "Many resources are available to families raising children with emotional or behavioral disorders, including community programs, support groups, and online forums. Knowing where to look and how to assess the quality of these resources can make a big difference in your child's progress and your own well-being. Start by exploring local organizations, school services, and reputable websites.",
+      "example": "Maria, a parent, discovers a local parent support group through her child's school counselor. Attending the group gives her new ideas and emotional support from others facing similar challenges.",
+      "practiceTip": "Ask your child's teacher, school counselor, or pediatrician for a list of recommended community and online resources. Make a list of three resources to explore this week.",
+      "reflectionPrompt": "What is one new resource you could try this month to support your child or yourself?",
+      "quizQuestion": {
+        "question": "Which of the following is a good first step in finding helpful resources?",
+        "options": [
+          "Ask your child's school or doctor for recommendations",
+          "Wait for resources to come to you",
+          "Ignore outside help"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_understanding_rights",
+      "title": "Understanding Your Rights",
+      "goal": "Become familiar with your rights as a parent in educational and healthcare settings.",
+      "keyConcept": "Parents have legal rights to ensure their child receives appropriate support at school and in healthcare. These rights may include access to special education services, accommodations, and participation in decision-making meetings. Knowing your rights empowers you to advocate effectively for your child.",
+      "example": "When her son is struggling in class, Lisa requests an Individualized Education Program (IEP) meeting. She brings a list of her son's needs and participates in creating a plan with the school team.",
+      "practiceTip": "Read your school district\u2019s parent handbook or visit their website to learn about special education rights. Write down two questions to ask at your next meeting with school staff.",
+      "reflectionPrompt": "How confident do you feel about your knowledge of your child\u2019s rights? What would help you feel more prepared?",
+      "quizQuestion": {
+        "question": "Why is it important to know your rights as a parent?",
+        "options": [
+          "So you can advocate for your child's needs",
+          "Because it is required by law",
+          "It is not important"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_3_advocacy_basics",
+      "title": "Basics of Advocacy",
+      "goal": "Learn simple strategies to advocate for your child's needs in school and community settings.",
+      "keyConcept": "Advocacy means speaking up for your child's needs and ensuring they receive the support they deserve. Effective advocacy involves clear communication, documentation, and persistence. You don\u2019t have to be an expert\u2014just a caring, informed parent who is willing to ask questions and seek solutions.",
+      "example": "After noticing her daughter\u2019s struggles, Priya writes a polite email to the teacher requesting a meeting to discuss possible classroom accommodations.",
+      "practiceTip": "Prepare a short script or list of points before meetings with teachers or service providers. Practice stating your child\u2019s needs clearly and respectfully.",
+      "reflectionPrompt": "What is one situation where you could practice advocating for your child this month?",
+      "quizQuestion": {
+        "question": "Which of the following is a key part of effective advocacy?",
+        "options": [
+          "Clear communication",
+          "Staying silent",
+          "Avoiding meetings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_navigating_insurance",
+      "title": "Navigating Insurance and Services",
+      "goal": "Understand how to access and use insurance and community services for your child.",
+      "keyConcept": "Insurance and service systems can be confusing, but learning the basics helps you access the care your child needs. Keep records of your child\u2019s diagnoses, treatments, and communications with providers. Don\u2019t hesitate to ask questions about coverage, costs, and available services.",
+      "example": "Jorge calls his insurance company to ask which therapists are covered and what paperwork is needed for reimbursement.",
+      "practiceTip": "Create a folder (digital or paper) for your child\u2019s medical and educational records. Write down important phone numbers and keep notes from conversations with providers.",
+      "reflectionPrompt": "What is one question you have about your child\u2019s insurance or available services?",
+      "quizQuestion": {
+        "question": "What is a helpful way to stay organized when navigating insurance?",
+        "options": [
+          "Keep all records and notes in one place",
+          "Rely on memory alone",
+          "Throw away paperwork"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_legal_considerations",
+      "title": "Legal Considerations for Families",
+      "goal": "Become aware of legal protections and responsibilities related to your child\u2019s care.",
+      "keyConcept": "There are laws that protect children with emotional or behavioral disorders, such as the Individuals with Disabilities Education Act (IDEA) and Section 504. Understanding these laws helps you ensure your child receives fair treatment and necessary accommodations at school and in the community.",
+      "example": "After learning about Section 504, Sam requests a meeting with the school to discuss accommodations for his child\u2019s anxiety disorder.",
+      "practiceTip": "Look up one law (such as IDEA or Section 504) and write down how it might apply to your child\u2019s situation.",
+      "reflectionPrompt": "What legal protections might help your child succeed at school or in the community?",
+      "quizQuestion": {
+        "question": "Which law helps protect the educational rights of children with disabilities?",
+        "options": [
+          "Individuals with Disabilities Education Act (IDEA)",
+          "Traffic Safety Act",
+          "Clean Air Act"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

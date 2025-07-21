@@ -1,0 +1,57 @@
+{
+  "id": "parenting_child_emotional_behavioral_disorder",
+  "title": "Parenting a Child with Emotional or Behavioral Disorder",
+  "description": "This book provides insight and practical guidance for parents raising children with emotional or behavioral disorders. It explores the nature of these disorders, strategies for effective parenting, and ways to collaborate with educators and mental health professionals. It also addresses self-care for parents and offers resources for ongoing support. The goal is to empower families to foster resilience and well-being in their children and themselves.",
+  "modules": [
+    {
+      "id": "understanding_disorders",
+      "title": "Understanding Emotional and Behavioral Disorders",
+      "goal": "To help parents recognize the signs and characteristics of emotional and behavioral disorders in children.",
+      "key_points": [
+        "Defines common emotional and behavioral disorders in children.",
+        "Explains possible causes and contributing factors.",
+        "Describes how these disorders manifest at home and school."
+      ]
+    },
+    {
+      "id": "seeking_professional_support",
+      "title": "Seeking and Working with Professional Support",
+      "goal": "To guide parents in finding and collaborating with mental health professionals and educators.",
+      "key_points": [
+        "Outlines steps to seek professional diagnosis and support.",
+        "Discusses building partnerships with teachers and therapists.",
+        "Offers tips for effective communication with professionals."
+      ]
+    },
+    {
+      "id": "parenting_strategies",
+      "title": "Effective Parenting Strategies",
+      "goal": "To equip parents with practical strategies for managing challenging behaviors and fostering emotional growth.",
+      "key_points": [
+        "Provides positive discipline techniques tailored to specific disorders.",
+        "Details routines and structures that create a supportive environment.",
+        "Covers ways to reinforce positive behaviors and coping skills."
+      ]
+    },
+    {
+      "id": "family_and_self_care",
+      "title": "Family Well-being and Self-Care",
+      "goal": "To emphasize the importance of self-care and maintaining healthy family dynamics.",
+      "key_points": [
+        "Highlights the impact of a child's disorder on the family system.",
+        "Suggests stress-management and self-care practices for parents.",
+        "Encourages building a support network for the family."
+      ]
+    },
+    {
+      "id": "resources_and_advocacy",
+      "title": "Resources and Advocacy",
+      "goal": "To provide information on resources and teach parents how to advocate for their child's needs.",
+      "key_points": [
+        "Lists community, educational, and online resources for families.",
+        "Explains parents' rights and advocacy strategies in schools.",
+        "Shares tips for navigating insurance, special education, and legal considerations."
+      ]
+    }
+  ]
+}
