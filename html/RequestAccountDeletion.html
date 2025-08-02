@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Account Deletion Request</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #007bff;
+    }
+    .container {
+      background-color: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      max-width: 600px;
+      margin: auto;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 1rem;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.75rem;
+      margin-top: 0.25rem;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+      font-size: 1rem;
+    }
+    button {
+      margin-top: 1.5rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    .note {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Request Account Deletion</h1>
+    <p>If you would like to delete your account and associated data from our app, please fill out the form below. We will process your request within 7 business days.</p>
+    
+    <form action="mailto:support@pulseparenting.com" method="post" enctype="text/plain">
+      <label for="email">Your Email Address (used in the app):</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="reason">Reason for Deletion (optional):</label>
+      <textarea id="reason" name="reason" rows="4" placeholder="Let us know if there's anything we can improve."></textarea>
+
+      <button type="submit">Submit Request</button>
+    </form>
+
+    <p class="note">
+      By submitting this request, you confirm that you want your account and all related data to be permanently deleted. This action cannot be undone.
+    </p>
+  </div>
+</body>
+</html>
