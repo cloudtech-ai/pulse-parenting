@@ -1,0 +1,73 @@
+{
+  "id": 6,
+  "title": "Late, Lost, and Unprepared",
+  "description": "A guide for parents to help children develop executive functioning skills, including planning, organization, time management, and emotional regulation.",
+  "videoPreview": "Helping Your Child with Executive Functioning",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348752451i/5672868._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Creating Routines",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Visual Schedules"
+    },
+    {
+      "id": 63,
+      "title": "Time Management Tools"
+    },
+    {
+      "id": 64,
+      "title": "Organizational Systems"
+    },
+    {
+      "id": 65,
+      "title": "Emotional Regulation Techniques"
+    },
+    {
+      "id": 66,
+      "title": "Goal Setting and Planning"
+    },
+    {
+      "id": 67,
+      "title": "Self-Monitoring Strategies"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Understanding Executive Functioning in Children",
+      "id": "TSJAI2iNHcs"
+    },
+    {
+      "title": "Helping Kids Develop Time Management Skills",
+      "id": "fWRF6BJ1OQk"
+    },
+    {
+      "title": "Organizational Skills for Children",
+      "id": "DzHEQcvp3l4"
+    },
+    {
+      "title": "Emotional Regulation for Kids",
+      "id": "Vs-MyQgfH3A"
+    },
+    {
+      "title": "Creating Effective Routines for Children",
+      "id": "q6pebL2-Vbk"
+    },
+    {
+      "title": "Goal Setting with Children",
+      "id": "9PwIZwIIv10"
+    },
+    {
+      "title": "Self-Monitoring Techniques for Kids",
+      "id": "jARDTuGAC54"
+    },
+    {
+      "title": "Late, Lost, and Unprepared: A Parents' Guide to Helping Children with Executive Functioning by Joyce Cooper-Kahn & Laurie Dietzel",
+      "id": "5NNvTtOKZ0s"
+    }
+  ],
+  "bookUrl": "/book/show/5672868-late-lost-and-unprepared"
+}

@@ -1,0 +1,642 @@
+{
+  "understanding_explosive_behavior": [
+    {
+      "id": "lesson1_lagging_skills_not_defiance",
+      "title": "Lagging Skills, Not Defiance",
+      "goal": "Recognize that explosive behavior is often a result of lagging skills rather than intentional misbehavior.",
+      "keyConcept": "Children who display explosive behavior are usually struggling with skills such as flexibility, frustration tolerance, and problem-solving. Their outbursts are not about being defiant or manipulative, but rather a sign that they lack the tools to cope with certain demands. Understanding this shifts our perspective from punishment to support.",
+      "example": "A child throws a tantrum when asked to stop playing and get ready for bed. Instead of seeing this as defiance, consider that the child may struggle with transitions and needs help developing this skill.",
+      "practiceTip": "Next time your child has an outburst, pause and remind yourself: 'This is a sign of lagging skills, not bad behavior.' Approach the situation with curiosity instead of frustration.",
+      "reflectionPrompt": "Can you recall a recent explosive moment with your child? How might it look different if you viewed it as a skill deficit rather than defiance?",
+      "quizQuestion": {
+        "question": "What is a common cause of explosive behavior in children?",
+        "options": [
+          "Intentional defiance",
+          "Lagging skills",
+          "Lack of interest"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_identifying_triggers",
+      "title": "Identifying Common Triggers",
+      "goal": "Learn to spot situations that commonly trigger explosive behavior in children.",
+      "keyConcept": "Explosive episodes are often set off by specific triggers, such as unexpected changes, overwhelming frustration, or tasks that require problem-solving. Recognizing these triggers helps you anticipate and prevent meltdowns.",
+      "example": "Your child becomes upset every time plans change at the last minute, indicating a difficulty with flexibility and adapting to new situations.",
+      "practiceTip": "Keep a simple log for a few days, noting when outbursts happen and what was happening right before. Look for patterns in the triggers.",
+      "reflectionPrompt": "What are some situations or demands that seem to consistently upset your child?",
+      "quizQuestion": {
+        "question": "Which of the following is a common trigger for explosive behavior?",
+        "options": [
+          "Winning a game",
+          "Unexpected changes",
+          "Eating a favorite food"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_traditional_discipline_limitations",
+      "title": "Why Traditional Discipline Often Fails",
+      "goal": "Understand why common discipline methods may not work for explosive children.",
+      "keyConcept": "Traditional discipline, such as time-outs or punishments, often fails because it doesn't address the underlying skill deficits. Instead of teaching new skills, these methods can escalate frustration and make the situation worse.",
+      "example": "A parent sends their child to their room after a meltdown, but the child returns even more upset, having learned nothing about how to handle frustration differently next time.",
+      "practiceTip": "When discipline is needed, focus on teaching and practicing new skills rather than just imposing consequences.",
+      "reflectionPrompt": "Have you noticed times when traditional discipline made things worse? What might you try differently next time?",
+      "quizQuestion": {
+        "question": "Why might time-outs not work for explosive children?",
+        "options": [
+          "They address the root cause",
+          "They teach new skills",
+          "They don't address underlying skill deficits"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson4_empathy_and_curiosity",
+      "title": "Responding with Empathy and Curiosity",
+      "goal": "Practice responding to explosive behavior with empathy and curiosity instead of anger.",
+      "keyConcept": "When you approach your child\u2019s outbursts with empathy and curiosity, you create a safe space for them to express their struggles. This helps you understand their perspective and work together to find solutions, rather than escalating the conflict.",
+      "example": "Instead of saying, 'Stop yelling!' try, 'I can see you're really upset. Can you tell me what\u2019s hard for you right now?'",
+      "practiceTip": "In your next challenging moment, take a deep breath and ask your child a gentle question about what\u2019s bothering them.",
+      "reflectionPrompt": "How might your child respond differently if you approached their outburst with curiosity instead of frustration?",
+      "quizQuestion": {
+        "question": "What is a helpful first step when your child is having an explosive moment?",
+        "options": [
+          "Respond with empathy and curiosity",
+          "Raise your voice",
+          "Ignore them"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_building_skills_together",
+      "title": "Building Skills Together",
+      "goal": "Learn to collaborate with your child to build the skills they need to handle frustration and change.",
+      "keyConcept": "Working together with your child to identify challenges and practice new skills empowers them to handle difficult situations. This collaborative approach strengthens your relationship and helps your child become more resilient.",
+      "example": "After a calm moment, you and your child talk about what made bedtime hard and brainstorm ways to make the transition easier next time.",
+      "practiceTip": "Set aside a quiet time to talk with your child about a recent challenge. Ask, 'What can we do together to make this easier next time?'",
+      "reflectionPrompt": "What is one skill your child could use more support with, and how can you practice it together?",
+      "quizQuestion": {
+        "question": "What is a key benefit of working together with your child to solve problems?",
+        "options": [
+          "It builds their resilience",
+          "It makes them more dependent",
+          "It avoids all future conflicts"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "rethinking_discipline": [
+    {
+      "id": "microlesson_1_understand_explosive_behavior",
+      "title": "Understanding Explosive Behavior",
+      "goal": "Recognize that explosive behavior signals unmet needs or lagging skills.",
+      "keyConcept": "Explosive outbursts in children are often a sign that they lack certain skills, such as frustration tolerance or flexibility, rather than simply being defiant or manipulative. Traditional discipline methods may overlook these underlying issues. By seeing explosive behavior as a form of communication, you can begin to address the root causes.",
+      "example": "A child throws a tantrum when asked to stop playing and come to dinner. Instead of seeing this as willful disobedience, consider that the child may struggle with transitions or managing disappointment.",
+      "practiceTip": "Next time your child has an outburst, pause and ask yourself: 'What skill might my child be struggling with right now?'",
+      "reflectionPrompt": "When was the last time your child had an explosive episode? What underlying skill or need might have been at play?",
+      "quizQuestion": {
+        "question": "What is a common reason for explosive behavior in children?",
+        "options": [
+          "They are trying to manipulate adults.",
+          "They lack certain coping skills.",
+          "They want attention."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_2_limitations_of_punishments_rewards",
+      "title": "Why Punishments and Rewards Fall Short",
+      "goal": "Understand why traditional discipline methods may not work for explosive children.",
+      "keyConcept": "Punishments and rewards focus on compliance, not skill-building. While they may temporarily change behavior, they do not teach children the skills they need to handle frustration or solve problems. For explosive children, these methods can increase stress and make outbursts more likely.",
+      "example": "A parent takes away screen time after a meltdown, but the child continues to have outbursts because they haven\u2019t learned how to manage their feelings.",
+      "practiceTip": "Instead of immediately reaching for a consequence or reward, try to identify what your child is struggling to do or understand in the moment.",
+      "reflectionPrompt": "Have you noticed times when punishments or rewards didn\u2019t change your child\u2019s behavior? What might have been missing?",
+      "quizQuestion": {
+        "question": "What is a limitation of using rewards and punishments with explosive children?",
+        "options": [
+          "They always make behavior worse.",
+          "They don\u2019t address underlying skill deficits.",
+          "They are too difficult to implement."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_3_avoiding_power_struggles",
+      "title": "Avoiding Power Struggles",
+      "goal": "Learn how to prevent escalation by sidestepping power struggles.",
+      "keyConcept": "Power struggles often escalate explosive episodes, as both adult and child become more rigid in their positions. Instead of insisting on immediate compliance, taking a collaborative approach can help de-escalate situations and preserve your relationship with your child.",
+      "example": "When a child refuses to do homework, instead of demanding compliance, the parent says, 'I see this is hard for you. Let\u2019s talk about what\u2019s making it tough.'",
+      "practiceTip": "When you feel a power struggle brewing, take a deep breath and shift from 'How do I make my child obey?' to 'How can we solve this problem together?'",
+      "reflectionPrompt": "Recall a recent power struggle with your child. How could you have responded differently to avoid escalation?",
+      "quizQuestion": {
+        "question": "What is a more effective alternative to engaging in a power struggle?",
+        "options": [
+          "Raising your voice to assert control.",
+          "Collaborating to solve the problem.",
+          "Ignoring the behavior completely."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_4_leading_with_empathy",
+      "title": "Leading with Empathy",
+      "goal": "Practice using empathy to connect and understand your child\u2019s perspective.",
+      "keyConcept": "Empathy helps children feel heard and understood, which can reduce defensiveness and open the door to problem-solving. When you validate your child\u2019s feelings, you show them that their emotions matter, even if their behavior needs to change.",
+      "example": "A child yells, 'It\u2019s not fair!' Instead of dismissing the feeling, the parent responds, 'It sounds like you\u2019re really upset about this. Can you tell me more?'",
+      "practiceTip": "Next time your child is upset, reflect their feelings back to them before addressing the behavior. For example, 'You seem really frustrated right now.'",
+      "reflectionPrompt": "How does your child respond when you acknowledge their feelings during a tough moment?",
+      "quizQuestion": {
+        "question": "What is the first step in responding empathetically to your child?",
+        "options": [
+          "Correct their behavior immediately.",
+          "Acknowledge and validate their feelings.",
+          "Ignore their emotions."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_5_focusing_on_skill_building",
+      "title": "Focusing on Skill-Building",
+      "goal": "Shift your approach from control to helping your child develop missing skills.",
+      "keyConcept": "The ultimate goal is to help your child learn the skills they need to handle challenges more effectively. This might include teaching problem-solving, flexibility, or frustration tolerance. By focusing on growth rather than punishment, you support your child\u2019s long-term resilience.",
+      "example": "After a meltdown, a parent works with their child to brainstorm ways to handle disappointment next time, practicing calming strategies together.",
+      "practiceTip": "Identify one skill your child struggles with and find a small way to practice it together this week.",
+      "reflectionPrompt": "What is one skill your child could benefit from developing? How can you support them in learning it?",
+      "quizQuestion": {
+        "question": "What is a key goal when responding to explosive behavior?",
+        "options": [
+          "Teaching missing skills.",
+          "Enforcing strict rules.",
+          "Avoiding all conflict."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_cps_model": [
+    {
+      "id": "cps_intro",
+      "title": "Understanding the CPS Approach",
+      "goal": "Gain a clear overview of the Collaborative & Proactive Solutions (CPS) model.",
+      "keyConcept": "The CPS model is a way of addressing challenging behaviors by working together with your child to solve problems. Instead of relying on punishments or rewards, CPS emphasizes understanding the reasons behind a child's behavior and collaborating on solutions. This approach helps build trust and teaches important life skills.",
+      "example": "Instead of sending a child to their room for refusing to do homework, a parent sits down with the child to discuss what makes homework difficult and brainstorms solutions together.",
+      "practiceTip": "Start by reminding yourself that challenging behavior is a sign of lagging skills, not intentional defiance. Approach your child with curiosity and a willingness to work together.",
+      "reflectionPrompt": "How does viewing your child's behavior as a skill deficit rather than a motivation problem change your response?",
+      "quizQuestion": {
+        "question": "What is the main focus of the CPS model?",
+        "options": [
+          "Punishing bad behavior",
+          "Collaborating to solve problems",
+          "Offering rewards for compliance"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "identifying_lagging_skills",
+      "title": "Spotting Lagging Skills",
+      "goal": "Learn to identify the skills your child may be struggling with.",
+      "keyConcept": "Children who act out often lack certain skills, such as flexibility, frustration tolerance, or problem-solving abilities. Recognizing these lagging skills is the first step in helping your child. Instead of blaming the child, focus on what skills they might need help developing.",
+      "example": "A child melts down when plans change unexpectedly. The parent realizes the child struggles with flexibility and transitions.",
+      "practiceTip": "Observe your child during challenging moments and ask yourself: 'What skill might my child be missing right now?'",
+      "reflectionPrompt": "Think of a recent challenging situation. What lagging skill might have contributed to your child's reaction?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of a lagging skill?",
+        "options": [
+          "Flexibility",
+          "Stubbornness"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "unsolved_problems",
+      "title": "Identifying Unsolved Problems",
+      "goal": "Learn how to pinpoint specific situations that lead to explosive behavior.",
+      "keyConcept": "Unsolved problems are specific situations or triggers that repeatedly cause difficulties for your child. By identifying these, you can address them proactively rather than reactively. The more specific you are, the easier it is to find solutions together.",
+      "example": "Instead of saying 'My child has trouble in the morning,' you specify, 'My child gets upset when asked to put on shoes before breakfast.'",
+      "practiceTip": "Keep a simple log for a week, noting when and where challenging behaviors occur. Look for patterns or repeated triggers.",
+      "reflectionPrompt": "What is one recurring situation that tends to lead to conflict or meltdowns with your child?",
+      "quizQuestion": {
+        "question": "Why is it important to be specific when identifying unsolved problems?",
+        "options": [
+          "It helps find targeted solutions",
+          "It makes the child feel guilty"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "empathy_step",
+      "title": "Practicing Empathy",
+      "goal": "Develop skills to listen and understand your child's perspective.",
+      "keyConcept": "Empathy is the foundation of the CPS model. It involves listening to your child's concerns without judgment or interruption. When children feel heard, they are more likely to engage in problem-solving and less likely to escalate.",
+      "example": "When a child refuses to do homework, the parent says, 'I notice you seem upset about homework. Can you tell me what's hard about it?' and listens quietly.",
+      "practiceTip": "During your next conflict, pause and ask your child to share their thoughts. Reflect back what you hear without offering solutions right away.",
+      "reflectionPrompt": "How might your child respond differently if they feel truly heard and understood?",
+      "quizQuestion": {
+        "question": "What is the first step in the CPS problem-solving process?",
+        "options": [
+          "Empathy",
+          "Giving consequences"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "proactive_planning",
+      "title": "Proactive Problem-Solving",
+      "goal": "Learn how to work with your child to find solutions before problems escalate.",
+      "keyConcept": "Proactive planning means addressing problems before they turn into crises. By collaborating with your child to brainstorm and agree on solutions, you both feel empowered and prepared. This reduces the likelihood of explosive episodes.",
+      "example": "A parent and child discuss after dinner that mornings are tough. Together, they agree to lay out clothes and pack the backpack the night before.",
+      "practiceTip": "Pick one unsolved problem and schedule a calm time to talk with your child about possible solutions. Make sure both of you contribute ideas.",
+      "reflectionPrompt": "What is one small change you and your child could try together to prevent a recurring problem?",
+      "quizQuestion": {
+        "question": "What is the benefit of proactive planning?",
+        "options": [
+          "It helps prevent problems before they start",
+          "It ignores the child's concerns"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "three_plans_for_handling_problems": [
+    {
+      "id": "lesson1_introducing_the_three_plans",
+      "title": "Introducing the Three Plans",
+      "goal": "Understand the three basic approaches (Plans A, B, and C) for handling challenging situations.",
+      "keyConcept": "Dr. Greene describes three main strategies for addressing problems with children: Plan A (imposing adult will), Plan B (collaborative problem-solving), and Plan C (temporarily setting aside issues). Each plan has its place, but they differ in how much they involve the child's input and how likely they are to reduce conflict.",
+      "example": "When a child refuses to do homework, a parent could insist (Plan A), work together to find a solution (Plan B), or decide to let it go for now (Plan C).",
+      "practiceTip": "Think of a recent conflict with your child. Which plan did you use? Identify which plan you tend to default to.",
+      "reflectionPrompt": "Which plan do you use most often, and how does it affect your relationship with your child?",
+      "quizQuestion": {
+        "question": "Which plan involves working together with your child to solve a problem?",
+        "options": [
+          "Plan A",
+          "Plan B",
+          "Plan C"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_plan_a_imposing_adult_will",
+      "title": "Plan A: Imposing Adult Will",
+      "goal": "Recognize the effects of using Plan A and when it might be appropriate or problematic.",
+      "keyConcept": "Plan A is when the adult insists on their solution without input from the child. While sometimes necessary for safety or urgent issues, frequent use of Plan A can lead to power struggles, resentment, and increased conflict.",
+      "example": "A parent demands that a child turn off the TV and do chores immediately, without discussion.",
+      "practiceTip": "Notice the next time you feel the urge to insist on your way. Pause and consider if Plan A is truly necessary.",
+      "reflectionPrompt": "How does your child typically react when you use Plan A?",
+      "quizQuestion": {
+        "question": "What is a common outcome of using Plan A frequently?",
+        "options": [
+          "Improved cooperation",
+          "Increased conflict",
+          "Faster problem-solving"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_plan_b_collaborative_problem_solving",
+      "title": "Plan B: Collaborative Problem-Solving",
+      "goal": "Learn how to use Plan B to address both adult and child concerns.",
+      "keyConcept": "Plan B involves both the adult and child working together to understand each other's concerns and find a mutually satisfactory solution. This approach builds skills like empathy, communication, and flexibility, and often leads to more lasting solutions.",
+      "example": "A child resists bedtime. The parent asks why, listens to the child's worries about nightmares, and together they agree to a new bedtime routine that feels safer.",
+      "practiceTip": "Next time a problem arises, try asking your child, 'Can we talk about what's making this hard for you?' Listen before offering solutions.",
+      "reflectionPrompt": "How might involving your child in problem-solving change the outcome of a recurring conflict?",
+      "quizQuestion": {
+        "question": "Which skill does Plan B help develop in children?",
+        "options": [
+          "Obedience",
+          "Empathy",
+          "Avoidance"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_plan_c_setting_aside_problems",
+      "title": "Plan C: Setting Aside Problems",
+      "goal": "Understand when and how to use Plan C to reduce conflict and prioritize issues.",
+      "keyConcept": "Plan C means temporarily putting aside certain expectations or problems to prevent unnecessary conflict. This doesn't mean giving up, but rather choosing your battles and focusing on what's most important right now.",
+      "example": "A parent decides not to argue about messy rooms during a stressful week at school, focusing instead on supporting their child's emotional well-being.",
+      "practiceTip": "Identify one minor issue you can set aside this week to reduce stress for both you and your child.",
+      "reflectionPrompt": "What is one expectation you could let go of, at least temporarily, to improve your relationship with your child?",
+      "quizQuestion": {
+        "question": "What is the main purpose of Plan C?",
+        "options": [
+          "To ignore problems forever",
+          "To reduce conflict by prioritizing issues",
+          "To punish the child"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_choosing_the_right_plan",
+      "title": "Choosing the Right Plan",
+      "goal": "Learn how to decide which plan to use in different situations.",
+      "keyConcept": "Not every problem requires the same approach. The right plan depends on the urgency, safety, and importance of the issue, as well as your child's needs and skills. Flexibility in choosing among Plans A, B, and C is key to effective parenting.",
+      "example": "A parent uses Plan A for safety (running into the street), Plan B for daily routines (homework struggles), and Plan C for less urgent matters (messy hair).",
+      "practiceTip": "Before reacting to a problem, pause and ask yourself: 'Which plan fits this situation best?'",
+      "reflectionPrompt": "How might using different plans for different problems change the atmosphere in your home?",
+      "quizQuestion": {
+        "question": "Which plan should be used for urgent safety issues?",
+        "options": [
+          "Plan A",
+          "Plan B",
+          "Plan C"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "implementing_plan_b": [
+    {
+      "id": "lesson_1_active_listening",
+      "title": "Active Listening: The Foundation of Empathy",
+      "goal": "Learn how to listen actively to your child's concerns without judgment.",
+      "keyConcept": "Active listening means giving your child your full attention and showing genuine interest in their thoughts and feelings. It involves listening without interrupting, making assumptions, or immediately offering solutions. This approach helps children feel heard and understood, which is essential for building trust and opening up honest dialogue.",
+      "example": "Your child refuses to do homework. Instead of insisting or lecturing, you say, 'I noticed you seem upset about homework. Can you tell me what's going on?' and listen quietly as they explain.",
+      "practiceTip": "When your child expresses frustration, pause and reflect back what you hear: 'It sounds like you're really frustrated because the homework feels too hard.' Avoid jumping in with advice right away.",
+      "reflectionPrompt": "When was the last time you truly listened to your child without interrupting or correcting them? How did it feel for both of you?",
+      "quizQuestion": {
+        "question": "What is the most important part of active listening?",
+        "options": [
+          "Offering immediate solutions",
+          "Listening without judgment or interruption",
+          "Correcting your child's perspective"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_validating_feelings",
+      "title": "Validating Your Child\u2019s Feelings",
+      "goal": "Understand how to acknowledge and validate your child's emotions.",
+      "keyConcept": "Validation means letting your child know that their feelings are real and understandable, even if you don't agree with their behavior. This helps children feel respected and safe to express themselves, which is crucial for problem-solving together.",
+      "example": "Your child is angry about having to stop playing video games. You say, 'I can see you're upset because you want to keep playing. That makes sense\u2014it's hard to stop when you're having fun.'",
+      "practiceTip": "Use phrases like, 'I understand why you feel that way,' or 'It makes sense that you're upset.' Avoid dismissing or minimizing their emotions.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? What could you say to show more validation?",
+      "quizQuestion": {
+        "question": "Why is validating feelings important?",
+        "options": [
+          "It encourages children to suppress their emotions",
+          "It helps children feel understood and safe to share",
+          "It solves the problem immediately"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_define_adult_concerns",
+      "title": "Expressing Your Concerns Clearly",
+      "goal": "Learn to communicate your own concerns in a calm and clear way.",
+      "keyConcept": "After listening to your child, it's important to share your perspective without blame or criticism. Clearly stating your concerns helps your child understand why a change is needed and sets the stage for collaborative problem-solving.",
+      "example": "You say, 'I\u2019m worried that if homework isn\u2019t done, you might fall behind in class. I want to help you succeed.'",
+      "practiceTip": "Use 'I' statements to express your concerns: 'I\u2019m concerned about\u2026' or 'I feel worried when\u2026' This keeps the conversation focused on the issue, not the child\u2019s character.",
+      "reflectionPrompt": "Think of a recent conflict. How could you have expressed your concern using an 'I' statement?",
+      "quizQuestion": {
+        "question": "What is a key part of expressing adult concerns?",
+        "options": [
+          "Blaming the child for the problem",
+          "Clearly stating your perspective without criticism",
+          "Ignoring your own needs"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_invitation_to_problem_solve",
+      "title": "Inviting Collaboration: Problem-Solving Together",
+      "goal": "Discover how to invite your child to brainstorm solutions with you.",
+      "keyConcept": "The invitation step is about working together to find a solution that addresses both your child's and your own concerns. This collaborative approach empowers your child and increases the likelihood of lasting change.",
+      "example": "You say, 'I wonder if we can think of a way for you to get your homework done and still have some time to play games. Do you have any ideas?'",
+      "practiceTip": "Use open-ended questions like, 'What do you think we could do about this?' Encourage your child to suggest solutions and build on their ideas.",
+      "reflectionPrompt": "How comfortable are you with letting your child help create solutions? What might make this easier or harder for you?",
+      "quizQuestion": {
+        "question": "What is the main goal of the invitation step?",
+        "options": [
+          "To impose the adult's solution",
+          "To brainstorm mutually satisfactory solutions",
+          "To avoid addressing the problem"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_following_up",
+      "title": "Following Up and Adjusting Solutions",
+      "goal": "Learn how to check in and adjust solutions as needed.",
+      "keyConcept": "Even the best solutions may need tweaking. Following up shows your child that you care about how things are working and are willing to make changes if needed. This reinforces resilience and flexibility.",
+      "example": "A week after agreeing on a new homework routine, you ask, 'How has our plan been working for you? Is there anything we should change?'",
+      "practiceTip": "Schedule a check-in after trying a new solution. Be open to feedback and ready to adjust the plan together.",
+      "reflectionPrompt": "How do you usually respond if a solution doesn\u2019t work out as planned? What could you do differently next time?",
+      "quizQuestion": {
+        "question": "Why is it important to follow up after implementing a solution?",
+        "options": [
+          "To ensure the solution is working and make adjustments if needed",
+          "To remind the child of their mistakes",
+          "To avoid further discussion"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "common_challenges_and_troubleshooting": [
+    {
+      "id": "lesson1_initial_resistance",
+      "title": "Understanding Initial Resistance",
+      "goal": "Recognize why children may resist collaborative problem solving at first.",
+      "keyConcept": "Children who have experienced traditional discipline or frequent conflict may be wary of new approaches like Plan B. Their resistance is often a protective response based on past experiences, not a rejection of collaboration itself. Understanding this helps caregivers respond with empathy rather than frustration.",
+      "example": "A child who is used to being punished for outbursts might refuse to talk when you invite them to solve a problem together, fearing they'll get in trouble.",
+      "practiceTip": "If your child resists, calmly acknowledge their feelings: \"I know this is different from what we usually do. I'm here to listen and work together.\"",
+      "reflectionPrompt": "How might your child's past experiences with discipline influence their response to new problem-solving efforts?",
+      "quizQuestion": {
+        "question": "Why might a child initially resist collaborative problem solving?",
+        "options": [
+          "They don't want to solve problems.",
+          "They may be cautious due to past experiences.",
+          "They always prefer to be alone."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_shifting_adult_mindset",
+      "title": "Shifting Your Mindset as a Caregiver",
+      "goal": "Help caregivers transition from traditional discipline to Collaborative & Proactive Solutions (CPS).",
+      "keyConcept": "Moving from a top-down discipline approach to collaboration requires practice and patience. Caregivers may instinctively revert to old habits, especially under stress. Being aware of these tendencies is the first step toward change.",
+      "example": "You catch yourself about to say, \"Because I said so,\" but pause and instead ask, \"Can you help me understand what's making this hard for you?\"",
+      "practiceTip": "Before responding to challenging behavior, take a deep breath and remind yourself: \"My goal is to solve this together, not to control.\"",
+      "reflectionPrompt": "What traditional discipline habits do you notice in yourself, and how might you begin to change them?",
+      "quizQuestion": {
+        "question": "What is a key first step in shifting to a collaborative approach?",
+        "options": [
+          "Punishing more strictly",
+          "Being aware of your own habits",
+          "Ignoring the child's perspective"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_persistence_and_patience",
+      "title": "Practicing Persistence and Patience",
+      "goal": "Encourage caregivers to stay committed to the process, even when progress is slow.",
+      "keyConcept": "Building new habits and trust takes time. Both children and adults may make mistakes or feel frustrated. Persistence and patience are essential for long-term success, even if early attempts at Plan B feel awkward or unsuccessful.",
+      "example": "After several unsuccessful conversations, you notice your child is slowly becoming more willing to share their thoughts.",
+      "practiceTip": "Celebrate small steps, like your child agreeing to talk or expressing a feeling, even if the problem isn't fully solved yet.",
+      "reflectionPrompt": "How can you remind yourself to be patient when progress feels slow?",
+      "quizQuestion": {
+        "question": "Why are persistence and patience important in using Plan B?",
+        "options": [
+          "Because change takes time and trust builds gradually.",
+          "Because children always cooperate immediately.",
+          "Because it makes problems disappear instantly."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_flexibility_in_application",
+      "title": "Staying Flexible with Plan B",
+      "goal": "Learn to adapt Plan B to fit different situations and needs.",
+      "keyConcept": "No two situations are exactly alike, and Plan B may need to be adjusted depending on the child's mood, the problem at hand, or your own energy level. Flexibility allows you to keep the process collaborative and responsive, rather than rigid.",
+      "example": "One day, your child is too upset to talk, so you agree to revisit the conversation later instead of forcing it.",
+      "practiceTip": "If a conversation isn't working, pause and say, \"Let's take a break and try again when we're both ready.\"",
+      "reflectionPrompt": "When have you needed to change your approach to better support your child?",
+      "quizQuestion": {
+        "question": "What does flexibility in Plan B mean?",
+        "options": [
+          "Always following a strict script",
+          "Adapting the approach to the situation",
+          "Giving up if it doesn't work right away"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_handling_setbacks",
+      "title": "Handling Setbacks and Staying Positive",
+      "goal": "Prepare for and respond constructively to setbacks during the collaborative process.",
+      "keyConcept": "Setbacks are a normal part of learning any new skill. Instead of viewing them as failures, treat them as opportunities to learn and adjust. Maintaining a positive outlook helps both you and your child stay engaged in the process.",
+      "example": "After a difficult conversation where emotions ran high, you reflect on what could be improved next time instead of giving up.",
+      "practiceTip": "After a setback, ask yourself: \"What worked, what didn't, and what can I try differently next time?\"",
+      "reflectionPrompt": "How can you model resilience and optimism for your child when things don't go as planned?",
+      "quizQuestion": {
+        "question": "What is a helpful way to view setbacks in the collaborative process?",
+        "options": [
+          "As failures to avoid",
+          "As learning opportunities",
+          "As reasons to stop trying"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "practical_strategies_and_case_examples": [
+    {
+      "id": "lesson_1_case_studies_introduction",
+      "title": "Learning from Real-Life Case Studies",
+      "goal": "Understand how CPS works through real family examples.",
+      "keyConcept": "Case studies provide concrete illustrations of how Collaborative & Proactive Solutions (CPS) can be applied in various family situations. By examining real-life scenarios, you can see how parents and children work together to solve problems and improve communication. These stories highlight both challenges and successes, making the CPS process more relatable and easier to implement.",
+      "example": "A parent struggles with their child\u2019s morning routine. By using CPS, they identify that the child feels rushed and anxious, leading to frequent meltdowns. Together, they brainstorm ways to make mornings smoother, such as preparing clothes and breakfast the night before.",
+      "practiceTip": "Read or listen to a CPS case study. Identify one strategy the parent used and consider how it might apply to your own situation.",
+      "reflectionPrompt": "What is one challenge in your daily routine that reminds you of a case study example?",
+      "quizQuestion": {
+        "question": "Why are case studies useful when learning CPS?",
+        "options": [
+          "They provide theoretical background.",
+          "They show practical, real-world applications.",
+          "They focus only on failures."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_customizing_cps",
+      "title": "Customizing CPS for Your Child",
+      "goal": "Learn how to adapt CPS strategies to fit your child\u2019s unique needs.",
+      "keyConcept": "Every child is different, and CPS is most effective when tailored to individual strengths, challenges, and preferences. Customizing the approach means considering your child\u2019s age, temperament, and specific difficulties. Flexibility in applying CPS ensures that solutions are meaningful and sustainable for your family.",
+      "example": "A parent notices their child responds better to visual schedules than verbal reminders. They adapt CPS conversations by using drawings and charts to help the child express concerns and brainstorm solutions.",
+      "practiceTip": "Think about your child\u2019s preferred ways of communicating. Try adjusting your next CPS conversation to match their style, such as using pictures, stories, or role-play.",
+      "reflectionPrompt": "How does your child best express their thoughts and feelings? How can you use this in your problem-solving?",
+      "quizQuestion": {
+        "question": "What is a key benefit of customizing CPS?",
+        "options": [
+          "It makes solutions more relevant and effective.",
+          "It saves time by skipping steps.",
+          "It guarantees instant results."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_3_identifying_unsolved_problems",
+      "title": "Identifying Unsolved Problems Together",
+      "goal": "Practice collaboratively identifying the root of challenging behaviors.",
+      "keyConcept": "CPS emphasizes working with your child to identify specific, unsolved problems that lead to challenging behavior. Instead of focusing on the behavior itself, you and your child explore what\u2019s getting in the way. This approach builds trust and opens the door to effective problem-solving.",
+      "example": "A child frequently refuses to do homework. Through a calm CPS conversation, the parent learns the child feels overwhelmed by the amount of work and doesn\u2019t know where to start.",
+      "practiceTip": "Set aside a quiet moment to ask your child, 'Can you help me understand what\u2019s hard about this for you?' Listen without interrupting or judging.",
+      "reflectionPrompt": "What unsolved problems might be causing your child\u2019s challenging behaviors?",
+      "quizQuestion": {
+        "question": "What is the first step in the CPS process?",
+        "options": [
+          "Punishing the behavior",
+          "Identifying unsolved problems",
+          "Ignoring the issue"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_brainstorming_solutions",
+      "title": "Brainstorming Solutions Collaboratively",
+      "goal": "Learn to generate and evaluate solutions with your child.",
+      "keyConcept": "Once an unsolved problem is identified, CPS encourages parents and children to brainstorm solutions together. The goal is to find options that address both the child\u2019s and the parent\u2019s concerns. This collaborative process increases buy-in and teaches valuable problem-solving skills.",
+      "example": "After identifying that a child dislikes bedtime because it feels too abrupt, the family brainstorms solutions like a 10-minute warning or a relaxing bedtime routine.",
+      "practiceTip": "Invite your child to suggest ideas for solving a problem, and add your own. Write down all ideas without judging them at first, then discuss which ones might work best.",
+      "reflectionPrompt": "How can you ensure both your concerns and your child\u2019s concerns are addressed in a solution?",
+      "quizQuestion": {
+        "question": "Why is it important to brainstorm solutions together?",
+        "options": [
+          "It helps children feel heard and invested.",
+          "It makes parents solely responsible.",
+          "It avoids addressing the real problem."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_reflection_and_adaptation",
+      "title": "Reflecting and Adapting Over Time",
+      "goal": "Understand the importance of ongoing reflection and adjustment in CPS.",
+      "keyConcept": "CPS is not a one-time fix; it requires ongoing reflection and adaptation. Regularly checking in on solutions helps you see what\u2019s working and what needs to change. This process models resilience and flexibility for your child, showing that problem-solving is an ongoing journey.",
+      "example": "A family tries a new morning routine, but after a week, they notice some steps aren\u2019t working. They meet again to discuss adjustments, making the routine smoother for everyone.",
+      "practiceTip": "Schedule a weekly check-in with your child to talk about how your solutions are working. Be open to making changes together.",
+      "reflectionPrompt": "How can you create a habit of reflecting on and adjusting your family\u2019s solutions?",
+      "quizQuestion": {
+        "question": "What is the benefit of ongoing reflection in CPS?",
+        "options": [
+          "It helps maintain progress and adapt to new challenges.",
+          "It means you never finish problem-solving.",
+          "It discourages trying new solutions."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

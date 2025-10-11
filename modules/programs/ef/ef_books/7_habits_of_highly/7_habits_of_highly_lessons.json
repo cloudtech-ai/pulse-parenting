@@ -1,0 +1,830 @@
+{
+  "get_in_the_habit": [
+    {
+      "id": "habit_power",
+      "title": "The Power of Habits",
+      "goal": "Recognize how habits shape daily life and long-term outcomes.",
+      "keyConcept": "Habits are automatic behaviors that we repeat every day, often without thinking. Over time, these small actions add up and have a big impact on our lives. Positive habits can help us achieve our goals, while negative habits can hold us back.",
+      "example": "For example, a teen who makes it a habit to review their homework every evening is more likely to do well in school, while someone who habitually procrastinates may struggle with deadlines.",
+      "practiceTip": "Notice one thing you do every day without thinking, like checking your phone first thing in the morning. Ask yourself: Is this habit helping or hurting me?",
+      "reflectionPrompt": "What is one habit you have that affects your day, either positively or negatively?",
+      "quizQuestion": {
+        "question": "Why are habits important in our lives?",
+        "options": [
+          "They only affect our weekends.",
+          "They influence our daily actions and long-term outcomes.",
+          "They are impossible to change."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "habit_awareness",
+      "title": "Becoming Aware of Your Habits",
+      "goal": "Learn to identify your own habits.",
+      "keyConcept": "The first step to changing or building habits is to become aware of them. Many habits are so ingrained that we don\u2019t even notice them. By paying attention, you can start to see which habits are helping you and which ones are not.",
+      "example": "A parent might realize they always react with frustration when their child forgets chores, instead of calmly reminding them.",
+      "practiceTip": "Spend one day writing down your repeated actions, especially those you do without thinking. At the end of the day, review your list.",
+      "reflectionPrompt": "Which habit surprised you the most when you noticed it?",
+      "quizQuestion": {
+        "question": "What is the first step in changing a habit?",
+        "options": [
+          "Punishing yourself for mistakes.",
+          "Becoming aware of the habit.",
+          "Ignoring the habit."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "positive_habits",
+      "title": "Building Positive Habits",
+      "goal": "Understand how to create habits that support your goals.",
+      "keyConcept": "Positive habits are routines that help you grow and succeed. Building them takes intention and repetition. Start small, focus on one habit at a time, and celebrate your progress.",
+      "example": "A teen who wants to be more organized might start by packing their backpack every night before bed.",
+      "practiceTip": "Choose one small habit you want to build this week. Write it down and track your progress each day.",
+      "reflectionPrompt": "What is one positive habit you\u2019d like to start, and why?",
+      "quizQuestion": {
+        "question": "What is a good way to build a new positive habit?",
+        "options": [
+          "Try to change everything at once.",
+          "Start with one small habit and track your progress.",
+          "Wait until you feel motivated."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "breaking_bad_habits",
+      "title": "Breaking Bad Habits",
+      "goal": "Learn strategies to replace negative habits with positive ones.",
+      "keyConcept": "Negative habits can be hard to break, but it\u2019s possible by understanding their triggers and replacing them with better choices. Focus on what you want to do instead, not just what you want to stop.",
+      "example": "If you tend to raise your voice when stressed, try pausing and taking a deep breath before responding.",
+      "practiceTip": "Identify one negative habit and its trigger. Plan a simple action to do instead when the trigger happens.",
+      "reflectionPrompt": "What is one negative habit you want to change, and what could you do instead?",
+      "quizQuestion": {
+        "question": "What helps most when trying to break a bad habit?",
+        "options": [
+          "Focusing on what you want to do instead.",
+          "Ignoring the habit.",
+          "Getting upset with yourself."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "role_modeling",
+      "title": "Modeling Habits for Your Child",
+      "goal": "Understand the impact of your habits on your child\u2019s development.",
+      "keyConcept": "Children often learn by watching their parents. When you practice positive habits, you set an example for your child to follow. Modeling resilience and healthy routines helps your child develop these qualities too.",
+      "example": "A parent who makes time for daily exercise shows their child that taking care of your body is important.",
+      "practiceTip": "Pick one positive habit you want your child to learn. Make a point to practice it openly and talk about why it matters.",
+      "reflectionPrompt": "How might your habits be influencing your child\u2019s behavior?",
+      "quizQuestion": {
+        "question": "How do parents influence their child's habits?",
+        "options": [
+          "By modeling behaviors their child can observe.",
+          "By telling their child what to do, but not doing it themselves.",
+          "By ignoring habits altogether."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "paradigms_and_principles": [
+    {
+      "id": "lesson1_paradigms_intro",
+      "title": "Understanding Paradigms",
+      "goal": "Learn what paradigms are and how they shape your perspective.",
+      "keyConcept": "Paradigms are like mental maps\u2014deeply held beliefs or viewpoints that influence how you interpret the world and your experiences. They affect your reactions, decisions, and relationships, often without you realizing it. Recognizing your paradigms is the first step to understanding why you think and act the way you do.",
+      "example": "If you believe that 'people can't be trusted,' you might avoid asking for help or sharing your feelings, even with close friends or family.",
+      "practiceTip": "Take a moment to notice your first thought when something unexpected happens. Ask yourself: 'What belief might be behind this reaction?'",
+      "reflectionPrompt": "What is one belief you hold about yourself or others that might be shaping your daily actions?",
+      "quizQuestion": {
+        "question": "What is a paradigm?",
+        "options": [
+          "A deeply held belief or viewpoint",
+          "A type of schedule",
+          "A physical object"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_paradigm_shift",
+      "title": "Shifting Negative Paradigms",
+      "goal": "Discover how to identify and shift negative paradigms to positive ones.",
+      "keyConcept": "Negative paradigms can limit your growth and happiness. By becoming aware of these unhelpful beliefs, you can challenge and replace them with more positive, empowering ones. This shift can transform your experiences and relationships for the better.",
+      "example": "If you often think, 'I'm not good at making friends,' try shifting to, 'I can learn social skills and connect with others.' This new belief opens up possibilities for growth.",
+      "practiceTip": "Identify one negative belief you have about yourself or your child. Write down a more positive, realistic version of that belief and repeat it to yourself daily.",
+      "reflectionPrompt": "How might your life change if you replaced one negative belief with a positive one?",
+      "quizQuestion": {
+        "question": "What is the benefit of shifting a negative paradigm to a positive one?",
+        "options": [
+          "It can help you see new possibilities and improve your experiences",
+          "It makes you ignore problems",
+          "It has no real effect"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_paradigms_about_children",
+      "title": "Paradigms About Your Child",
+      "goal": "Recognize how your beliefs about your child influence your parenting.",
+      "keyConcept": "The way you view your child\u2014your paradigm\u2014affects how you interact with them and respond to their behavior. If you see your child as resilient and capable, you are more likely to encourage independence and confidence. If you view them as fragile or difficult, you may unintentionally limit their growth.",
+      "example": "A parent who believes their child is 'always shy' might avoid encouraging them to try new social activities, missing opportunities for growth.",
+      "practiceTip": "Notice the words you use to describe your child, both to others and to yourself. Are they empowering or limiting? Try using more positive, growth-oriented language.",
+      "reflectionPrompt": "What is one positive quality you can focus on when thinking about your child?",
+      "quizQuestion": {
+        "question": "How can your paradigm about your child affect your parenting?",
+        "options": [
+          "It shapes how you respond to and support your child",
+          "It has no impact",
+          "It only affects your child's friends"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_principle_centered_living",
+      "title": "Living by Principles",
+      "goal": "Understand the importance of principle-centered living for stability and decision-making.",
+      "keyConcept": "Principles are timeless values like honesty, respect, and responsibility. When you base your actions and decisions on principles, you create a stable foundation for yourself and your family. Unlike changing moods or opinions, principles provide reliable guidance, especially in challenging situations.",
+      "example": "When faced with a tough parenting decision, using the principle of fairness can help you choose an action that respects everyone involved.",
+      "practiceTip": "Choose one principle (like kindness or honesty) to focus on this week. Look for opportunities to model it for your child.",
+      "reflectionPrompt": "Which principle do you want your child to learn from you, and how can you demonstrate it?",
+      "quizQuestion": {
+        "question": "What is a benefit of principle-centered living?",
+        "options": [
+          "It provides a stable foundation for making decisions",
+          "It makes life unpredictable",
+          "It encourages ignoring your values"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_applying_paradigms_and_principles",
+      "title": "Applying Paradigms and Principles Together",
+      "goal": "Learn how to combine positive paradigms and principles to support your child's resilience.",
+      "keyConcept": "When you view your child through a positive paradigm and guide your actions with strong principles, you create a nurturing environment that fosters resilience and mental health. This approach helps your child feel valued, understood, and empowered to face challenges.",
+      "example": "Believing your child can handle setbacks (positive paradigm) and responding with encouragement and honesty (principles) helps them learn to bounce back from difficulties.",
+      "practiceTip": "The next time your child faces a challenge, remind yourself of their strengths and respond using a principle like empathy or patience.",
+      "reflectionPrompt": "How can you use both positive beliefs and principles to help your child grow through challenges?",
+      "quizQuestion": {
+        "question": "What happens when you combine positive paradigms and principles in parenting?",
+        "options": [
+          "You help your child become more resilient and mentally healthy",
+          "You confuse your child",
+          "You avoid dealing with problems"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "be_proactive": [
+    {
+      "id": "be_proactive_1",
+      "title": "Taking Responsibility for Your Choices",
+      "goal": "Understand the importance of owning your actions and decisions.",
+      "keyConcept": "Being proactive means recognizing that you are in charge of your own life. Instead of blaming others or circumstances, you accept responsibility for your choices and their outcomes. This mindset helps you feel more in control and less like a victim of your environment.",
+      "example": "If your child forgets their homework, instead of blaming the teacher or a sibling, they acknowledge that it was their responsibility to pack it.",
+      "practiceTip": "When something goes wrong, pause and ask yourself: 'What part of this situation can I take responsibility for?'",
+      "reflectionPrompt": "Can you recall a recent situation where you blamed someone else? How might taking responsibility have changed the outcome?",
+      "quizQuestion": {
+        "question": "What does it mean to be proactive?",
+        "options": [
+          "Blaming others for your problems",
+          "Taking responsibility for your actions",
+          "Ignoring your mistakes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "be_proactive_2",
+      "title": "Choosing Your Attitude",
+      "goal": "Learn how to control your reactions and attitude in any situation.",
+      "keyConcept": "You can't always control what happens to you, but you can control how you respond. Proactive people choose their attitude, even when things are tough. This helps them stay calm and positive, which can influence others around them.",
+      "example": "When your child loses a game, instead of getting angry or upset, they choose to congratulate the winner and think about what they can improve next time.",
+      "practiceTip": "Teach your child to pause and take a deep breath before reacting, then ask: 'How do I want to respond right now?'",
+      "reflectionPrompt": "Think of a time when you reacted negatively. How could choosing a different attitude have changed the experience?",
+      "quizQuestion": {
+        "question": "What is something you can always control?",
+        "options": [
+          "Other people's actions",
+          "The weather",
+          "Your own attitude"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "be_proactive_3",
+      "title": "Using Proactive Language",
+      "goal": "Recognize and practice using language that reflects responsibility and control.",
+      "keyConcept": "The words you use shape your mindset. Proactive language shows that you are in control ('I can', 'I will', 'Let's try'), while reactive language gives away your power ('I can't', 'They made me', 'It's not my fault').",
+      "example": "Instead of saying, 'I have to do my chores,' your child says, 'I choose to do my chores so I can have free time later.'",
+      "practiceTip": "Encourage your child to replace reactive phrases with proactive ones. For example, swap 'I can't' with 'I'll find a way.'",
+      "reflectionPrompt": "What is one reactive phrase you often use? How can you change it to be more proactive?",
+      "quizQuestion": {
+        "question": "Which is an example of proactive language?",
+        "options": [
+          "I can't do this.",
+          "I'll find a way to solve this.",
+          "It's not my fault."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "be_proactive_4",
+      "title": "Making Small Proactive Choices",
+      "goal": "See how small daily decisions can lead to big positive changes.",
+      "keyConcept": "Proactivity isn't just about big decisions\u2014it's built on small, everyday choices. Each time you make a positive, responsible choice, you build resilience and confidence. Over time, these small steps add up to significant personal growth.",
+      "example": "Your child decides to set out their clothes the night before school, making mornings less stressful.",
+      "practiceTip": "Help your child identify one small proactive habit they can start today, like organizing their backpack or setting a reminder for homework.",
+      "reflectionPrompt": "What is one small proactive choice you can make today to improve your routine?",
+      "quizQuestion": {
+        "question": "How do small proactive choices affect your life?",
+        "options": [
+          "They don't make a difference.",
+          "They add up to big positive changes over time.",
+          "They make things harder."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "be_proactive_5",
+      "title": "Responding, Not Reacting",
+      "goal": "Practice pausing before responding to challenging situations.",
+      "keyConcept": "Proactive people pause and think before they act, rather than reacting impulsively. This pause gives you time to choose a thoughtful response, which leads to better outcomes and helps you stay in control.",
+      "example": "When your child is teased at school, instead of lashing out, they take a moment to breathe and decide how to respond calmly.",
+      "practiceTip": "Teach your child to count to five or take three deep breaths before responding to something upsetting.",
+      "reflectionPrompt": "How might pausing before responding help you handle difficult situations better?",
+      "quizQuestion": {
+        "question": "What is a good first step when you feel upset?",
+        "options": [
+          "React immediately",
+          "Pause and take a deep breath",
+          "Ignore your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "begin_with_the_end_in_mind": [
+    {
+      "id": "lesson1_visualize_goals",
+      "title": "Visualize Your Child\u2019s Future",
+      "goal": "Learn how to help your child imagine and articulate their long-term goals.",
+      "keyConcept": "Visualization is a powerful tool that helps teens (and parents) clarify what they want to achieve. By encouraging your child to picture their future\u2014whether it\u2019s academic success, strong friendships, or personal growth\u2014you help them set a direction for their actions. This process builds motivation and resilience, as your child understands what they are working toward.",
+      "example": "A parent asks their child to imagine what they want their life to look like in five years, discussing dreams like making the soccer team or learning a new skill.",
+      "practiceTip": "Sit down with your child and ask, 'What\u2019s something you\u2019d love to accomplish this year?' Listen and encourage them to describe it in detail.",
+      "reflectionPrompt": "How might helping your child visualize their future change the way you support their daily choices?",
+      "quizQuestion": {
+        "question": "Why is visualization important for teens?",
+        "options": [
+          "It helps them clarify and stay motivated about their goals.",
+          "It makes them daydream more often.",
+          "It prevents them from making mistakes."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_mission_statement",
+      "title": "Create a Family Mission Statement",
+      "goal": "Understand how to guide your child in defining their values and direction.",
+      "keyConcept": "A personal or family mission statement is a written expression of what matters most to you. It acts as a compass, helping your child make decisions that align with their values. Involving your child in creating a mission statement fosters self-awareness and a sense of purpose.",
+      "example": "A family sits together and writes, 'We value kindness, honesty, and trying our best,' then displays it on the fridge as a daily reminder.",
+      "practiceTip": "Invite your child to help write a short mission statement for your family or for themselves. Keep it simple and meaningful.",
+      "reflectionPrompt": "What values do you want your child to remember when making tough choices?",
+      "quizQuestion": {
+        "question": "What is the main purpose of a mission statement?",
+        "options": [
+          "To remind your child of family rules.",
+          "To clarify values and guide decisions.",
+          "To list chores and responsibilities."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_set_priorities",
+      "title": "Help Your Child Set Priorities",
+      "goal": "Learn how to teach your child to focus on what matters most each day.",
+      "keyConcept": "Setting priorities means deciding what is most important and focusing energy there. When your child learns to prioritize, they can manage time better and avoid feeling overwhelmed. This skill is essential for building resilience and making steady progress toward long-term goals.",
+      "example": "A teen chooses to finish homework before playing video games, knowing that school success is a top priority.",
+      "practiceTip": "Ask your child to list their top three tasks for tomorrow and discuss which is most important and why.",
+      "reflectionPrompt": "How can you model prioritizing important tasks in your own daily routine?",
+      "quizQuestion": {
+        "question": "What does setting priorities help your child do?",
+        "options": [
+          "Avoid all problems.",
+          "Manage time and focus on important tasks.",
+          "Do everything at once."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_daily_decisions",
+      "title": "Connect Daily Choices to Long-Term Goals",
+      "goal": "Help your child see how everyday actions impact their future.",
+      "keyConcept": "Every small decision adds up over time. When your child understands that daily habits\u2014like studying, practicing kindness, or staying active\u2014contribute to their bigger goals, they are more likely to make positive choices. This connection builds a sense of control and responsibility.",
+      "example": "A child who wants to become a better musician practices their instrument each day, knowing it will help them reach their goal.",
+      "practiceTip": "When your child faces a choice, ask, 'How will this help you get closer to your goal?'",
+      "reflectionPrompt": "What is one daily habit you can encourage in your child that supports their long-term dreams?",
+      "quizQuestion": {
+        "question": "Why is it important to connect daily actions to long-term goals?",
+        "options": [
+          "It makes chores more fun.",
+          "It helps your child see the value in their efforts.",
+          "It guarantees instant success."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_review_and_adjust",
+      "title": "Review and Adjust Goals Together",
+      "goal": "Learn how to regularly check in and adapt goals with your child.",
+      "keyConcept": "Goals and priorities can change as your child grows and learns. Regularly reviewing goals together helps your child reflect on their progress, celebrate successes, and make adjustments if needed. This process teaches flexibility and resilience, showing that it\u2019s okay to change direction when necessary.",
+      "example": "A parent and child meet each month to talk about what\u2019s working and what needs to change in their plans for school or hobbies.",
+      "practiceTip": "Schedule a monthly check-in with your child to discuss their goals and any changes they want to make.",
+      "reflectionPrompt": "How can you create a supportive environment for your child to talk openly about their changing goals?",
+      "quizQuestion": {
+        "question": "What is the benefit of regularly reviewing goals with your child?",
+        "options": [
+          "It helps them stay flexible and resilient.",
+          "It makes them stick to the same plan forever.",
+          "It prevents them from setting new goals."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "put_first_things_first": [
+    {
+      "id": "lesson1_identify_important_vs_urgent",
+      "title": "Identify Important vs. Urgent Tasks",
+      "goal": "Learn to distinguish between tasks that are important and those that are merely urgent.",
+      "keyConcept": "Not all tasks are created equal. Urgent tasks demand immediate attention but may not contribute to your long-term goals, while important tasks help you achieve what truly matters. By learning to tell the difference, you can focus your energy on what will make the biggest positive impact.",
+      "example": "Your child has a school project due next week (important), but a friend texts asking for help with a video game right now (urgent to them, but not important to you).",
+      "practiceTip": "Before starting an activity, ask yourself: 'Is this important for my goals or just urgent for someone else?' Prioritize important tasks first.",
+      "reflectionPrompt": "Think of a recent day\u2014did you spend more time on urgent or important tasks? How did that affect your stress and progress?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an important but not urgent task?",
+        "options": [
+          "Finishing a school project due next week",
+          "Replying immediately to a friend's text"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_learn_to_say_no",
+      "title": "Learn to Say No to Distractions",
+      "goal": "Develop the confidence to say no to distractions and protect your priorities.",
+      "keyConcept": "Distractions are everywhere\u2014social media, games, or even well-meaning friends. Saying no isn\u2019t about being rude; it\u2019s about respecting your time and commitments. When you say no to less important things, you say yes to your goals and well-being.",
+      "example": "Your child is invited to watch TV right before homework time. They politely decline, explaining they need to finish their assignments first.",
+      "practiceTip": "Practice a simple script: 'I can\u2019t right now because I have something important to do, but maybe later.'",
+      "reflectionPrompt": "When was the last time you said yes to something you didn\u2019t really want to do? How did it affect your priorities?",
+      "quizQuestion": {
+        "question": "What is a good way to say no to a distraction?",
+        "options": [
+          "Ignore the person",
+          "Politely explain you have something important to do",
+          "Say yes and hope you have time later"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_make_a_priority_list",
+      "title": "Make a Priority List",
+      "goal": "Create a simple list to organize and prioritize your most important tasks.",
+      "keyConcept": "A priority list helps you see what needs your attention first. By writing down your top tasks for the day or week, you can focus on what matters most and avoid feeling overwhelmed by less important activities.",
+      "example": "Your child writes down their top three tasks for the evening: finish math homework, call grandma, and pack their backpack for tomorrow.",
+      "practiceTip": "Each morning or evening, list your top 3 priorities. Tackle them before moving on to other activities.",
+      "reflectionPrompt": "How would having a daily priority list change the way you spend your time?",
+      "quizQuestion": {
+        "question": "What is the main benefit of making a priority list?",
+        "options": [
+          "You can do more things at once",
+          "You focus on what matters most",
+          "You avoid all urgent tasks"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_balance_life_areas",
+      "title": "Balance School, Family, Friends, and Self-Care",
+      "goal": "Understand the importance of balancing different areas of life for overall well-being.",
+      "keyConcept": "Focusing only on one area\u2014like school\u2014can lead to stress or burnout. Balancing time between school, family, friends, and self-care helps you stay healthy, happy, and resilient. Each area supports the others, creating a strong foundation for success.",
+      "example": "Your child schedules time for homework, helps set the table for family dinner, chats with a friend, and takes a walk to relax.",
+      "practiceTip": "Use a weekly planner to block out time for schoolwork, family, friends, and self-care activities.",
+      "reflectionPrompt": "Which area of your life do you spend the most time on? Is there an area you\u2019d like to give more attention to?",
+      "quizQuestion": {
+        "question": "Why is it important to balance different areas of your life?",
+        "options": [
+          "It helps you avoid stress and stay healthy",
+          "It makes you busier",
+          "It means you can ignore school"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_review_and_adjust",
+      "title": "Review and Adjust Your Priorities",
+      "goal": "Learn to regularly review and adjust your priorities as things change.",
+      "keyConcept": "Life is unpredictable\u2014plans and priorities can shift. By reviewing your priorities regularly, you can adapt to new situations and stay on track. This flexibility helps you manage stress and keep moving toward your goals.",
+      "example": "Your child planned to study for a test, but a family emergency comes up. They adjust their schedule to help out and find another time to study.",
+      "practiceTip": "At the end of each week, review what went well and what didn\u2019t. Adjust your priorities for the coming week as needed.",
+      "reflectionPrompt": "How do you feel when your plans change unexpectedly? What helps you adapt?",
+      "quizQuestion": {
+        "question": "What should you do if your priorities change during the week?",
+        "options": [
+          "Ignore the changes",
+          "Review and adjust your plans",
+          "Give up on your goals"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "think_win_win": [
+    {
+      "id": "winwin_mindset_intro",
+      "title": "Understanding the Win-Win Mindset",
+      "goal": "Recognize what it means to think win-win and why it matters.",
+      "keyConcept": "A win-win mindset is the belief that everyone can succeed and benefit, not just one person. Instead of seeing life as a competition with winners and losers, win-win thinking encourages cooperation and shared success. This approach helps build stronger relationships and a more positive environment for your child.",
+      "example": "If two siblings both want to play with the same toy, a win-win solution would be to take turns or play together, so both feel happy and included.",
+      "practiceTip": "Next time your child faces a conflict, ask them, 'How can we find a solution where everyone feels good?'",
+      "reflectionPrompt": "When have you seen a situation where both sides could have benefited, but didn\u2019t? What could have been done differently?",
+      "quizQuestion": {
+        "question": "What does a win-win mindset focus on?",
+        "options": [
+          "Making sure only one person gets what they want",
+          "Finding a solution where everyone benefits",
+          "Avoiding all conflicts"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "selfworth_winwin",
+      "title": "Building Self-Worth for Win-Win Solutions",
+      "goal": "Understand the role of self-worth in creating win-win outcomes.",
+      "keyConcept": "Feeling good about yourself makes it easier to respect others and seek solutions that work for everyone. When your child has healthy self-esteem, they are less likely to feel threatened by others\u2019 success and more likely to cooperate. Teaching self-worth helps your child approach challenges with confidence and empathy.",
+      "example": "A child who feels confident in their abilities is more willing to share credit for a group project, rather than needing all the praise for themselves.",
+      "practiceTip": "Encourage your child to list three things they like about themselves. Remind them that their value doesn\u2019t depend on being better than others.",
+      "reflectionPrompt": "How does your own sense of self-worth affect the way you handle disagreements or competition?",
+      "quizQuestion": {
+        "question": "Why is self-worth important for win-win thinking?",
+        "options": [
+          "It helps you feel superior to others",
+          "It allows you to respect yourself and others equally",
+          "It makes you avoid working with others"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "cooperation_compromise",
+      "title": "Practicing Cooperation and Compromise",
+      "goal": "Learn how to use cooperation and compromise to solve problems.",
+      "keyConcept": "Win-win outcomes often require cooperation and compromise. This means working together, listening to each other\u2019s needs, and sometimes giving up a little to reach a solution that works for everyone. Teaching your child these skills helps them build stronger friendships and resolve conflicts peacefully.",
+      "example": "Two friends want to play different games. They agree to play one friend\u2019s game today and the other\u2019s tomorrow, so both get a turn.",
+      "practiceTip": "Model compromise by saying, 'I hear you want this, and I want that. How can we both be happy?'",
+      "reflectionPrompt": "Can you recall a time when compromise led to a better outcome for everyone involved?",
+      "quizQuestion": {
+        "question": "What is a key part of reaching a win-win solution?",
+        "options": [
+          "Ignoring the other person\u2019s needs",
+          "Cooperating and compromising",
+          "Always insisting on your own way"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "respect_others_winwin",
+      "title": "Respecting Others in Win-Win Solutions",
+      "goal": "Discover how respecting others leads to better outcomes for all.",
+      "keyConcept": "Respecting others means valuing their feelings, opinions, and needs. When your child learns to listen and show empathy, it becomes easier to find solutions that work for everyone. Respect is a foundation for trust and healthy relationships.",
+      "example": "During a group activity, a child listens to everyone\u2019s ideas before making a decision, ensuring all voices are heard.",
+      "practiceTip": "Teach your child to ask, 'How do you feel about this?' or 'What would make you happy?' during disagreements.",
+      "reflectionPrompt": "How do you show respect to others when you don\u2019t agree with them?",
+      "quizQuestion": {
+        "question": "What does respecting others help build?",
+        "options": [
+          "Trust and healthy relationships",
+          "More arguments",
+          "Unfair solutions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "everyday_winwin",
+      "title": "Finding Win-Win in Everyday Life",
+      "goal": "Apply win-win thinking to daily situations with your child.",
+      "keyConcept": "Opportunities for win-win solutions are everywhere, from sharing chores to choosing family activities. By practicing win-win thinking in small, everyday moments, you help your child develop resilience and positive problem-solving habits.",
+      "example": "When deciding what to have for dinner, each family member suggests a favorite meal for different nights, so everyone gets a turn.",
+      "practiceTip": "Make it a habit to ask, 'Is there a way we can both get what we want?' whenever a disagreement arises.",
+      "reflectionPrompt": "What is one small way you can practice win-win thinking with your child today?",
+      "quizQuestion": {
+        "question": "How can you encourage win-win thinking at home?",
+        "options": [
+          "By making all the decisions yourself",
+          "By involving everyone in finding solutions",
+          "By avoiding discussions about disagreements"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "seek_first_to_understand_then_to_be_understood": [
+    {
+      "id": "lesson1_listen_without_interrupting",
+      "title": "Listen Without Interrupting",
+      "goal": "Learn to give your full attention when your child is speaking.",
+      "keyConcept": "Active listening means focusing completely on the speaker without planning your response or interrupting. This shows respect and helps your child feel valued and understood. It also allows you to fully grasp what they are trying to communicate before you react.",
+      "example": "Your child comes home upset about a disagreement with a friend. Instead of immediately offering advice or asking questions, you simply listen and let them finish their story.",
+      "practiceTip": "When your child talks to you, make eye contact, nod, and avoid interrupting until they have finished speaking.",
+      "reflectionPrompt": "How does your child react when you listen without interrupting? What do you notice about their willingness to share?",
+      "quizQuestion": {
+        "question": "What is the first step in empathetic listening?",
+        "options": [
+          "Give advice right away",
+          "Listen without interrupting",
+          "Share your own experience"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_validate_feelings",
+      "title": "Validate Their Feelings",
+      "goal": "Understand how to acknowledge and validate your child's emotions.",
+      "keyConcept": "Validation means letting your child know that their feelings are real and acceptable, even if you don't agree with their perspective. This builds trust and encourages open communication. Children are more likely to share when they feel their emotions are respected.",
+      "example": "When your child says, 'I'm scared about the test,' you respond, 'I can see why you\u2019d feel nervous. Tests can be stressful.'",
+      "practiceTip": "Use phrases like, 'That sounds tough,' or 'I understand why you feel that way,' to show empathy.",
+      "reflectionPrompt": "How does your child respond when you acknowledge their feelings instead of dismissing them?",
+      "quizQuestion": {
+        "question": "What does it mean to validate your child's feelings?",
+        "options": [
+          "Ignore their emotions",
+          "Tell them to stop feeling that way",
+          "Acknowledge and accept their emotions"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson3_ask_open_ended_questions",
+      "title": "Ask Open-Ended Questions",
+      "goal": "Encourage deeper conversation by asking questions that invite more than yes/no answers.",
+      "keyConcept": "Open-ended questions help your child express themselves more fully and show that you are interested in their thoughts. This type of questioning fosters a supportive environment and helps you understand their perspective better.",
+      "example": "Instead of asking, 'Did you have a good day?' try, 'What was the best part of your day?'",
+      "practiceTip": "Start your questions with 'What,' 'How,' or 'Tell me about...' to encourage your child to elaborate.",
+      "reflectionPrompt": "What differences do you notice in your conversations when you use open-ended questions?",
+      "quizQuestion": {
+        "question": "Which is an example of an open-ended question?",
+        "options": [
+          "Did you finish your homework?",
+          "How did you feel about your science project?",
+          "Are you hungry?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_paraphrase_to_show_understanding",
+      "title": "Paraphrase to Show Understanding",
+      "goal": "Demonstrate that you are listening by summarizing what your child has said.",
+      "keyConcept": "Paraphrasing means repeating back what your child has shared in your own words. This shows you are truly listening and gives your child a chance to clarify if you misunderstood. It also reassures them that their message is being heard.",
+      "example": "Your child says, 'I\u2019m frustrated because my friend ignored me.' You respond, 'It sounds like you felt left out when your friend didn\u2019t talk to you.'",
+      "practiceTip": "After your child shares something important, try summarizing it and ask, 'Did I get that right?'",
+      "reflectionPrompt": "How does paraphrasing affect your child's willingness to continue the conversation?",
+      "quizQuestion": {
+        "question": "What is the purpose of paraphrasing in a conversation?",
+        "options": [
+          "To correct your child",
+          "To show you understand what they said",
+          "To change the topic"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_express_yourself_respectfully",
+      "title": "Express Yourself Respectfully",
+      "goal": "Learn to share your own thoughts and feelings clearly and respectfully after listening.",
+      "keyConcept": "Once you have listened and understood your child, it\u2019s important to express your own perspective in a calm and respectful way. This models healthy communication and teaches your child how to express themselves assertively without being aggressive.",
+      "example": "After listening to your child\u2019s concerns about chores, you say, 'I understand you feel overwhelmed. I also need help around the house. Let\u2019s find a solution together.'",
+      "practiceTip": "Use 'I' statements, such as 'I feel...' or 'I need...', to express your thoughts without blaming or criticizing.",
+      "reflectionPrompt": "How does your child respond when you share your feelings respectfully after listening to theirs?",
+      "quizQuestion": {
+        "question": "Which is an example of a respectful 'I' statement?",
+        "options": [
+          "You never help me!",
+          "I feel stressed when the chores aren\u2019t done.",
+          "Why can\u2019t you be more responsible?"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "synergize": [
+    {
+      "id": "synergize_lesson1",
+      "title": "Understanding Synergy",
+      "goal": "Learn what synergy means and why it matters.",
+      "keyConcept": "Synergy is when people work together and combine their strengths to achieve results that are better than what each person could do alone. It\u2019s about creating a team where everyone\u2019s unique skills and perspectives make the group stronger. Synergy is not just cooperation, but a creative process that leads to new and better solutions.",
+      "example": "Imagine a group project at school where one student is great at research, another at drawing, and another at presenting. By working together, they create a project that\u2019s more impressive than if any one of them worked alone.",
+      "practiceTip": "Next time you work with others, notice what each person does best and think about how you can combine your strengths.",
+      "reflectionPrompt": "When have you experienced a time where working with others led to a better result than working alone?",
+      "quizQuestion": {
+        "question": "What does synergy mean?",
+        "options": [
+          "Working alone to get things done",
+          "Combining strengths to achieve better results",
+          "Letting others do all the work"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "synergize_lesson2",
+      "title": "Valuing Differences",
+      "goal": "Appreciate and celebrate differences in others.",
+      "keyConcept": "Everyone has unique backgrounds, talents, and viewpoints. Valuing these differences helps us learn new things and see problems from fresh perspectives. When we appreciate diversity, we open ourselves up to more creative and effective solutions.",
+      "example": "During a family discussion, you notice that your sibling has a different opinion than you. Instead of dismissing it, you listen and realize their idea could actually improve your plan.",
+      "practiceTip": "The next time someone disagrees with you, ask them to explain their point of view and look for something you can learn from it.",
+      "reflectionPrompt": "How can you show appreciation for someone\u2019s unique perspective this week?",
+      "quizQuestion": {
+        "question": "Why is it important to value differences in a group?",
+        "options": [
+          "It helps us avoid conflict",
+          "It leads to more creative and effective solutions",
+          "It makes everyone agree all the time"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "synergize_lesson3",
+      "title": "Practicing Open-Mindedness",
+      "goal": "Develop the habit of being open to new ideas and perspectives.",
+      "keyConcept": "Open-mindedness means being willing to listen to others and consider ideas that are different from your own. It\u2019s a key part of effective teamwork and synergy. When you\u2019re open-minded, you\u2019re more likely to find solutions that work for everyone.",
+      "example": "Your friend suggests a new way to solve a problem you\u2019ve been struggling with. Instead of rejecting it, you give it a try and discover it works even better than your original plan.",
+      "practiceTip": "When you hear a new idea, pause before responding. Ask yourself, 'What can I learn from this?'",
+      "reflectionPrompt": "Think of a time when being open-minded helped you solve a problem. What happened?",
+      "quizQuestion": {
+        "question": "What does it mean to be open-minded?",
+        "options": [
+          "Only listening to your own ideas",
+          "Being willing to consider new ideas and perspectives",
+          "Ignoring other people\u2019s suggestions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "synergize_lesson4",
+      "title": "Building Mutual Respect",
+      "goal": "Learn how to foster respect in teamwork and relationships.",
+      "keyConcept": "Mutual respect means valuing each person\u2019s contributions and treating everyone with kindness. It\u2019s essential for creating an environment where people feel safe to share their ideas. When respect is present, teamwork becomes more effective and enjoyable.",
+      "example": "During a group activity, you notice someone is quiet. You invite them to share their thoughts, showing that you value their input.",
+      "practiceTip": "Make a habit of thanking others for their ideas and efforts, even if you don\u2019t always agree with them.",
+      "reflectionPrompt": "How can you show more respect to others when working together?",
+      "quizQuestion": {
+        "question": "Why is mutual respect important in a team?",
+        "options": [
+          "It helps everyone feel valued and safe to share ideas",
+          "It makes people work faster",
+          "It means you always agree with others"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "synergize_lesson5",
+      "title": "Applying Synergy at Home",
+      "goal": "Use synergy to strengthen family relationships and solve problems together.",
+      "keyConcept": "Synergy isn\u2019t just for school or work\u2014it can make family life better too. When family members combine their strengths and respect each other\u2019s differences, they can solve problems and have more fun together. Working as a team at home builds resilience and trust.",
+      "example": "Your family wants to plan a weekend activity. Each person shares their ideas, and together you create a plan that includes something everyone enjoys.",
+      "practiceTip": "Hold a family meeting to solve a problem or plan an activity. Encourage everyone to share their ideas and look for ways to combine them.",
+      "reflectionPrompt": "What is one way your family could use synergy to make life at home better?",
+      "quizQuestion": {
+        "question": "How can synergy help families?",
+        "options": [
+          "By combining everyone\u2019s strengths to solve problems and have fun",
+          "By making one person do all the work",
+          "By avoiding family discussions"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "sharpen_the_saw": [
+    {
+      "id": "sharpen_the_saw_lesson1",
+      "title": "Understanding Balance for Well-being",
+      "goal": "Recognize the importance of balancing different areas of life for resilience.",
+      "keyConcept": "A resilient and mentally healthy person pays attention to their body, mind, heart, and spirit. Focusing too much on one area while neglecting others can lead to stress and burnout. Balance helps you stay energized and better handle challenges.",
+      "example": "A teen who spends all their time studying but never exercises or socializes may feel tired and lonely, while someone who balances schoolwork, hobbies, and friendships feels happier and more resilient.",
+      "practiceTip": "List the four areas: body, mind, heart, and spirit. Rate how much attention you give each one this week on a scale of 1\u20135. Notice any imbalances.",
+      "reflectionPrompt": "Which area of your life do you tend to neglect, and how does that affect your mood or energy?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT one of the four areas to balance for well-being?",
+        "options": [
+          "Body",
+          "Mind",
+          "Finances",
+          "Spirit"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "sharpen_the_saw_lesson2",
+      "title": "Making Time for Self-Care",
+      "goal": "Learn how to prioritize and schedule self-care activities.",
+      "keyConcept": "Self-care means taking deliberate actions to care for your physical and mental health. Even small routines, like a short walk or a few minutes of quiet time, can make a big difference. Scheduling self-care helps ensure it actually happens.",
+      "example": "A parent sets aside 10 minutes after dinner to stretch or meditate, making it a regular part of their day.",
+      "practiceTip": "Pick one self-care activity you enjoy and add it to your daily routine for the next week.",
+      "reflectionPrompt": "What is one small self-care habit you could start today?",
+      "quizQuestion": {
+        "question": "Why is it helpful to schedule self-care activities?",
+        "options": [
+          "It guarantees you'll do them",
+          "It makes you busier",
+          "It helps you avoid responsibilities"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "sharpen_the_saw_lesson3",
+      "title": "Nurturing Relationships for Emotional Health",
+      "goal": "Understand how connecting with others supports mental resilience.",
+      "keyConcept": "Strong relationships with family and friends provide support during tough times and boost happiness. Making time to connect, listen, and share with loved ones strengthens your emotional 'heart' and builds resilience.",
+      "example": "A teen talks to a parent about a stressful day, feeling understood and less alone afterward.",
+      "practiceTip": "Reach out to someone you care about today\u2014send a message, call, or spend a few minutes together.",
+      "reflectionPrompt": "Who in your life helps you feel supported, and how can you connect with them more often?",
+      "quizQuestion": {
+        "question": "What is one benefit of nurturing relationships?",
+        "options": [
+          "Increased stress",
+          "Greater emotional support",
+          "Less free time"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "sharpen_the_saw_lesson4",
+      "title": "Renewing Your Mind Through Learning",
+      "goal": "Discover how ongoing learning keeps your mind sharp and resilient.",
+      "keyConcept": "Challenging your mind with new information or skills keeps you adaptable and confident. Learning doesn't have to be formal\u2014it can be reading, puzzles, or trying something new. This mental renewal helps you handle setbacks and stay curious.",
+      "example": "A parent learns a new recipe with their child, turning it into a fun and educational experience.",
+      "practiceTip": "Choose one new thing to learn this week, no matter how small, and reflect on how it feels.",
+      "reflectionPrompt": "What is something you've always wanted to learn, and how could you start?",
+      "quizQuestion": {
+        "question": "Which activity helps renew your mind?",
+        "options": [
+          "Watching TV passively",
+          "Learning a new skill",
+          "Skipping meals"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "sharpen_the_saw_lesson5",
+      "title": "Finding Meaning Through Reflection",
+      "goal": "Explore how inner reflection and purpose support resilience.",
+      "keyConcept": "Taking time to reflect on your values, beliefs, or what gives your life meaning strengthens your spirit. This inner renewal helps you stay grounded and positive, even when facing challenges.",
+      "example": "A teen spends a few minutes each night writing in a gratitude journal, feeling more hopeful and focused.",
+      "practiceTip": "Set aside five minutes today to reflect on what matters most to you or write down three things you're grateful for.",
+      "reflectionPrompt": "How does reflecting on your values or gratitude affect your outlook?",
+      "quizQuestion": {
+        "question": "What is one way to renew your spirit?",
+        "options": [
+          "Ignoring your feelings",
+          "Reflecting on gratitude",
+          "Skipping sleep"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

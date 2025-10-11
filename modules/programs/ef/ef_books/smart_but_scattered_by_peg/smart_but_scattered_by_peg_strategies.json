@@ -1,0 +1,170 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Identifying Executive Skill Strengths and Weaknesses",
+    "summary": "Assess and recognize which executive skills are strong and which need improvement.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding your unique executive skill profile helps target interventions and build on strengths while addressing weaknesses."
+      },
+      {
+        "section": "Example",
+        "content": "A parent and child complete a checklist to identify that the child is strong in planning but struggles with organization and emotional control."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use self-assessment tools or checklists from the book.",
+          "Discuss results openly and non-judgmentally.",
+          "Revisit assessments periodically to track progress."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Creating Routines and Structures",
+    "summary": "Establish predictable routines and clear structures to support executive functioning.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Consistent routines reduce cognitive load, making it easier to remember tasks and manage time."
+      },
+      {
+        "section": "Example",
+        "content": "A morning checklist helps a child remember to brush teeth, pack lunch, and gather homework before school."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Start with one routine at a time (e.g., bedtime or homework).",
+          "Use visual schedules or written lists.",
+          "Review and adjust routines as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Setting Goals and Providing Incentives",
+    "summary": "Help children set achievable goals and use incentives to motivate progress.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clear goals and rewards increase motivation and provide a sense of accomplishment."
+      },
+      {
+        "section": "Example",
+        "content": "A child earns extra screen time for completing homework before dinner three days in a row."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set specific, measurable, and realistic goals.",
+          "Choose meaningful incentives.",
+          "Celebrate small successes to build momentum."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Teaching Problem-Solving Skills",
+    "summary": "Guide children through a step-by-step process to solve problems independently.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Problem-solving skills foster independence and resilience when facing challenges."
+      },
+      {
+        "section": "Example",
+        "content": "A child uses a problem-solving worksheet to brainstorm solutions when they forget their homework."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model the problem-solving process out loud.",
+          "Break down problems into manageable steps.",
+          "Encourage brainstorming multiple solutions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Using Visual Aids and Checklists",
+    "summary": "Support memory and organization with visual reminders and checklists.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Visual supports reduce reliance on working memory and help track tasks."
+      },
+      {
+        "section": "Example",
+        "content": "A laminated checklist by the door reminds a child to pack their backpack, lunch, and water bottle."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Create simple, colorful checklists for daily routines.",
+          "Use pictures for younger children.",
+          "Update checklists as routines change."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Managing Time Effectively",
+    "summary": "Teach strategies for estimating, allocating, and tracking time for tasks.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Time management skills help prevent last-minute rushes and reduce stress."
+      },
+      {
+        "section": "Example",
+        "content": "A child uses a timer to break homework into 20-minute work sessions with short breaks."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use timers or alarms to signal transitions.",
+          "Practice estimating how long tasks will take.",
+          "Encourage use of planners or calendars."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Building Emotional Control and Flexibility",
+    "summary": "Develop strategies to manage emotions and adapt to changes or setbacks.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Emotional regulation and flexibility are key for coping with frustration and unexpected events."
+      },
+      {
+        "section": "Example",
+        "content": "A child practices deep breathing when upset and learns to adjust plans when a playdate is canceled."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Teach and model calming techniques (e.g., deep breathing, counting to ten).",
+          "Discuss alternative plans when things change.",
+          "Praise efforts to stay calm and adapt."
+        ]
+      }
+    ]
+  }
+]

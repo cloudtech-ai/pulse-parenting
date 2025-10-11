@@ -1,0 +1,87 @@
+{
+  "id": "late_lost_and_unprepared",
+  "title": "Late, Lost, and Unprepared: A Parents' Guide to Helping Children with Executive Functioning",
+  "description": "This book offers practical guidance for parents and caregivers to support children who struggle with executive functioning skills. It explains what executive functions are, why they matter, and how deficits can impact a child's daily life and learning. The authors provide actionable strategies, real-life examples, and tools to help children improve organization, planning, impulse control, and other key skills. The focus is on building understanding and fostering positive change at home and in school.",
+  "modules": [
+    {
+      "id": "understanding_executive_function",
+      "title": "Understanding Executive Function",
+      "goal": "Introduce the concept of executive functioning and explain its importance in child development.",
+      "key_points": [
+        "Defines executive functions and their components, such as planning, organization, and self-control.",
+        "Explains how executive functions support academic achievement and everyday life.",
+        "Describes common signs of executive function difficulties in children."
+      ]
+    },
+    {
+      "id": "identifying_ef_challenges",
+      "title": "Identifying Executive Function Challenges",
+      "goal": "Help parents recognize and assess areas where their child struggles with executive functioning.",
+      "key_points": [
+        "Provides checklists and examples to identify specific executive function weaknesses.",
+        "Discusses how challenges may present differently across ages and developmental stages.",
+        "Highlights the emotional and behavioral impact of executive function deficits."
+      ]
+    },
+    {
+      "id": "parental_roles_and_expectations",
+      "title": "Parental Roles and Expectations",
+      "goal": "Clarify how parents can support their children and set realistic expectations.",
+      "key_points": [
+        "Explains the balance between providing support and encouraging independence.",
+        "Discusses how to set achievable goals based on a child's current abilities.",
+        "Addresses the frustrations parents may feel and strategies for maintaining a positive relationship."
+      ]
+    },
+    {
+      "id": "building_daily_routines",
+      "title": "Building Daily Routines and Systems",
+      "goal": "Teach parents how to create structures and routines that aid executive functioning.",
+      "key_points": [
+        "Describes the importance of routines in managing time and responsibilities.",
+        "Offers strategies for organizing materials and spaces at home.",
+        "Provides tips on using visual schedules, reminders, and checklists."
+      ]
+    },
+    {
+      "id": "teaching_skills_and_strategies",
+      "title": "Teaching Skills and Strategies",
+      "goal": "Equip parents with practical tools to teach and reinforce executive function skills.",
+      "key_points": [
+        "Breaks down complex tasks into manageable steps for children.",
+        "Introduces self-monitoring and problem-solving techniques.",
+        "Recommends ways to practice planning, prioritizing, and flexible thinking."
+      ]
+    },
+    {
+      "id": "managing_emotions_and_motivation",
+      "title": "Managing Emotions and Motivation",
+      "goal": "Help parents support children's emotional regulation and motivation related to executive functioning.",
+      "key_points": [
+        "Explores connections between emotions, motivation, and executive function.",
+        "Provides strategies for reducing frustration and building resilience.",
+        "Discusses the use of rewards, praise, and encouragement."
+      ]
+    },
+    {
+      "id": "collaborating_with_schools",
+      "title": "Collaborating with Schools and Professionals",
+      "goal": "Guide parents in working with teachers and professionals to support their child.",
+      "key_points": [
+        "Offers communication tips for effective collaboration with educators.",
+        "Explains how to advocate for accommodations and support in the classroom.",
+        "Describes when and how to seek professional assessments or interventions."
+      ]
+    },
+    {
+      "id": "long_term_support_and_growth",
+      "title": "Long-Term Support and Growth",
+      "goal": "Provide strategies for fostering independence and long-term development of executive functions.",
+      "key_points": [
+        "Discusses how executive function needs change as children grow.",
+        "Encourages gradual transfer of responsibility to the child.",
+        "Highlights the importance of ongoing encouragement and adapting strategies over time."
+      ]
+    }
+  ]
+}

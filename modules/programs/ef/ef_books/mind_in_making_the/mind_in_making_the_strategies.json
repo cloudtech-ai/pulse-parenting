@@ -1,0 +1,177 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Focus and Self-Control",
+    "summary": "Developing the ability to pay attention, remember rules, think flexibly, and exercise self-control.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Focus and self-control are foundational for learning and managing emotions. They help children filter distractions, control impulses, and persist through challenges."
+      },
+      {
+        "section": "Example",
+        "content": "A child resists the urge to interrupt during story time and waits for their turn to speak, showing self-control and attention."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Play games that require taking turns and following rules (e.g., Simon Says, Red Light Green Light).",
+          "Create routines to help children know what to expect.",
+          "Encourage mindfulness activities like deep breathing or focusing on sounds.",
+          "Break tasks into smaller steps to help maintain attention."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Perspective Taking",
+    "summary": "Understanding what others think and feel, and seeing situations from different viewpoints.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Perspective taking builds empathy, cooperation, and effective communication. It helps children navigate social situations and resolve conflicts."
+      },
+      {
+        "section": "Example",
+        "content": "A child notices a friend is sad and asks if they want to play, showing awareness of another\u2019s feelings."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Read stories and discuss how characters might feel or think.",
+          "Ask questions like, 'How do you think your friend felt when that happened?'",
+          "Role-play different scenarios to practice seeing things from another\u2019s perspective.",
+          "Encourage children to listen actively to others."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Communicating",
+    "summary": "Expressing thoughts, feelings, and ideas clearly and listening to others.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Strong communication skills are essential for building relationships, learning, and problem-solving. They help children express needs and understand others."
+      },
+      {
+        "section": "Example",
+        "content": "A child explains why they are upset instead of crying or yelling, using words to communicate their feelings."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage children to use words to express their feelings and needs.",
+          "Model active listening by making eye contact and repeating back what you heard.",
+          "Play games that involve giving and following directions.",
+          "Ask open-ended questions to promote conversation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Making Connections",
+    "summary": "Recognizing patterns, relationships, and how things fit together.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Making connections helps children understand the world, solve problems, and apply knowledge in new situations."
+      },
+      {
+        "section": "Example",
+        "content": "A child notices that the leaves fall from trees in autumn and connects it to changes in weather."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage sorting and categorizing activities (e.g., grouping toys by color or size).",
+          "Ask children to find similarities and differences between objects or ideas.",
+          "Use analogies and metaphors to explain new concepts.",
+          "Connect new experiences to things children already know."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Critical Thinking",
+    "summary": "Analyzing information, making decisions, and solving problems thoughtfully.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Critical thinking enables children to evaluate information, make informed choices, and think creatively."
+      },
+      {
+        "section": "Example",
+        "content": "A child considers different ways to build a tower so it won\u2019t fall over, testing and revising their ideas."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask 'why' and 'how' questions to encourage deeper thinking.",
+          "Present open-ended problems and brainstorm solutions together.",
+          "Encourage children to explain their reasoning.",
+          "Play games that involve strategy and prediction."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Taking on Challenges",
+    "summary": "Approaching difficulties with resilience, persistence, and a positive attitude.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Facing challenges builds confidence, perseverance, and a growth mindset. It helps children learn from mistakes and keep trying."
+      },
+      {
+        "section": "Example",
+        "content": "A child keeps trying to tie their shoes even after several failed attempts, showing persistence."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Praise effort and persistence, not just success.",
+          "Model coping strategies for dealing with frustration.",
+          "Break big challenges into smaller, manageable steps.",
+          "Encourage children to try new things, even if they might fail."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "Self-Directed, Engaged Learning",
+    "summary": "Being motivated to learn, exploring interests, and taking initiative.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Self-directed learners are curious, motivated, and able to pursue knowledge independently. This skill supports lifelong learning."
+      },
+      {
+        "section": "Example",
+        "content": "A child chooses to research dinosaurs on their own and shares what they learn with others."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Offer choices in learning activities to foster autonomy.",
+          "Encourage questions and exploration of interests.",
+          "Provide resources and support for independent projects.",
+          "Celebrate curiosity and initiative."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "id": "smart_but_scattered",
+  "title": "Smart but Scattered",
+  "description": "Smart but Scattered by Peg Dawson and Richard Guare provides parents and educators with practical strategies to help children develop stronger executive skills. The book explains how these skills impact daily functioning and academic success. Through real-world examples and step-by-step action plans, it empowers adults to support children who struggle with organization, planning, and self-control. The authors emphasize a strengths-based approach, focusing on building children's abilities rather than fixing weaknesses.",
+  "modules": [
+    {
+      "id": "introduction_to_executive_skills",
+      "title": "Introduction to Executive Skills",
+      "goal": "Understand the concept of executive skills and their importance in children's development.",
+      "key_points": [
+        "Defines executive skills and explains their role in managing behavior and achieving goals.",
+        "Outlines the twelve core executive skills.",
+        "Describes how executive skills develop over time."
+      ]
+    },
+    {
+      "id": "identifying_executive_skill_weaknesses",
+      "title": "Identifying Executive Skill Weaknesses",
+      "goal": "Learn how to recognize and assess executive skill strengths and weaknesses in children.",
+      "key_points": [
+        "Provides checklists and assessment tools for parents and teachers.",
+        "Discusses common signs of executive skill difficulties.",
+        "Explains how to differentiate between skill deficits and behavioral issues."
+      ]
+    },
+    {
+      "id": "understanding_your_childs_profile",
+      "title": "Understanding Your Child's Profile",
+      "goal": "Create an individualized profile of your child\u2019s executive skill strengths and challenges.",
+      "key_points": [
+        "Guides users in mapping out a child's unique skill profile.",
+        "Encourages focusing on strengths as well as weaknesses.",
+        "Explains how profiles can guide intervention strategies."
+      ]
+    },
+    {
+      "id": "strategies_for_supporting_executive_skills",
+      "title": "Strategies for Supporting Executive Skills",
+      "goal": "Learn practical, evidence-based strategies to strengthen executive skills in children.",
+      "key_points": [
+        "Breaks down skill-building into manageable steps.",
+        "Emphasizes the importance of modeling and guided practice.",
+        "Discusses the use of environmental modifications and routines.",
+        "Provides tools for goal setting and monitoring progress."
+      ]
+    },
+    {
+      "id": "problem_solving_and_troubleshooting",
+      "title": "Problem-Solving and Troubleshooting",
+      "goal": "Develop techniques to address setbacks and adapt strategies when challenges arise.",
+      "key_points": [
+        "Teaches how to analyze why interventions may not be working.",
+        "Offers troubleshooting tips for common obstacles.",
+        "Promotes flexibility and persistence in supporting children."
+      ]
+    },
+    {
+      "id": "working_with_schools_and_professionals",
+      "title": "Working with Schools and Professionals",
+      "goal": "Learn how to collaborate with teachers and specialists to support executive skill development.",
+      "key_points": [
+        "Explains how to communicate concerns effectively with educators.",
+        "Discusses developing school-based support plans.",
+        "Highlights when and how to seek additional professional help."
+      ]
+    }
+  ]
+}

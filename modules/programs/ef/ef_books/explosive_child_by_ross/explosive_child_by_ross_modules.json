@@ -1,0 +1,77 @@
+{
+  "id": "the_explosive_child",
+  "title": "The Explosive Child",
+  "description": "The Explosive Child by Ross W. Greene provides a groundbreaking approach to understanding and helping children who frequently exhibit severe, inflexible, and explosive behavior. The book emphasizes that these children lack critical skills, rather than willfully misbehaving, and advocates for a collaborative, problem-solving approach. Through practical strategies and real-life examples, Greene guides caregivers and professionals in reducing conflict, managing challenging situations, and fostering skill development. The book's focus is on empathy, communication, and proactive planning to create more harmonious relationships between adults and challenging children.",
+  "modules": [
+    {
+      "id": "understanding_explosive_behavior",
+      "title": "Understanding Explosive Behavior",
+      "goal": "Explain the underlying causes of explosive behavior in children.",
+      "key_points": [
+        "Explosive behavior is often due to lagging skills, not intentional defiance.",
+        "Common triggers include difficulty with flexibility, frustration tolerance, and problem-solving.",
+        "Traditional discipline methods often fail because they don't address the root causes."
+      ]
+    },
+    {
+      "id": "rethinking_discipline",
+      "title": "Rethinking Discipline: Why Conventional Methods Fail",
+      "goal": "Identify why traditional punishment and reward systems may not work for explosive children.",
+      "key_points": [
+        "Punishments and rewards don't teach lacking skills or resolve underlying issues.",
+        "Power struggles can escalate explosive episodes.",
+        "Understanding and empathy are more effective than strict control."
+      ]
+    },
+    {
+      "id": "the_cps_model",
+      "title": "The Collaborative & Proactive Solutions (CPS) Model",
+      "goal": "Introduce the CPS approach to managing and preventing explosive behaviors.",
+      "key_points": [
+        "CPS focuses on collaboration between adult and child to solve problems.",
+        "The process involves identifying lagging skills and unsolved problems.",
+        "Empathy and proactive planning are central components."
+      ]
+    },
+    {
+      "id": "three_plans_for_handling_problems",
+      "title": "Three Plans for Handling Problems",
+      "goal": "Describe Greene's three plans (A, B, C) for responding to challenging situations.",
+      "key_points": [
+        "Plan A: Adult imposes will; often leads to conflict.",
+        "Plan B: Collaborative problem-solving; combines adult and child concerns.",
+        "Plan C: Temporarily setting aside certain problems to reduce conflict."
+      ]
+    },
+    {
+      "id": "implementing_plan_b",
+      "title": "Implementing Plan B: Step-by-Step",
+      "goal": "Guide users through the steps of collaborative problem-solving with children.",
+      "key_points": [
+        "Step 1: Empathy \u2013 Gather information from the child about their concerns.",
+        "Step 2: Define Adult Concerns \u2013 Clearly communicate the adult's perspective.",
+        "Step 3: Invitation \u2013 Work together to find mutually satisfactory solutions."
+      ]
+    },
+    {
+      "id": "common_challenges_and_troubleshooting",
+      "title": "Common Challenges and Troubleshooting",
+      "goal": "Prepare caregivers for obstacles and suggest solutions when Plan B is difficult to apply.",
+      "key_points": [
+        "Children may initially resist collaborative efforts due to past experiences.",
+        "Adults may need practice to shift from traditional discipline to CPS.",
+        "Persistence, patience, and flexibility are key to long-term success."
+      ]
+    },
+    {
+      "id": "practical_strategies_and_case_examples",
+      "title": "Practical Strategies and Case Examples",
+      "goal": "Provide concrete examples and tips for applying CPS in real-life scenarios.",
+      "key_points": [
+        "Case studies illustrate how CPS works in diverse families and settings.",
+        "Customizing the approach based on the child's unique needs increases effectiveness.",
+        "Ongoing reflection and adaptation help maintain progress over time."
+      ]
+    }
+  ]
+}

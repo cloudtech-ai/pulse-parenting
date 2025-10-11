@@ -1,0 +1,97 @@
+{
+  "id": "the_7_habits_of_highly_effective_teens",
+  "title": "The 7 Habits of Highly Effective Teens",
+  "description": "This book by Sean Covey provides practical advice and strategies for teenagers to build positive habits and navigate the challenges of adolescence. It adapts the classic '7 Habits' framework to issues relevant to teens, such as self-image, relationships, and goal-setting. With engaging anecdotes and actionable steps, Covey helps readers make responsible decisions, develop self-confidence, and achieve personal success. Each habit is broken down into approachable modules to foster growth and lifelong learning.",
+  "modules": [
+    {
+      "id": "get_in_the_habit",
+      "title": "Get in the Habit",
+      "goal": "Understand the importance of habits and how they shape your life.",
+      "key_points": [
+        "Habits are powerful forces influencing daily actions and long-term outcomes.",
+        "Developing positive habits leads to success, while negative habits can hinder progress.",
+        "Awareness is the first step in changing or building effective habits."
+      ]
+    },
+    {
+      "id": "paradigms_and_principles",
+      "title": "Paradigms and Principles",
+      "goal": "Recognize how your beliefs and viewpoints affect your behavior and relationships.",
+      "key_points": [
+        "Paradigms are mental maps that influence how you see yourself and the world.",
+        "Shifting your paradigm from negative to positive can transform your experiences.",
+        "Principle-centered living provides a stable foundation for making decisions."
+      ]
+    },
+    {
+      "id": "be_proactive",
+      "title": "Habit 1: Be Proactive",
+      "goal": "Learn to take responsibility for your actions and choices.",
+      "key_points": [
+        "Proactive teens control their responses instead of blaming circumstances.",
+        "You can choose your attitude, words, and actions.",
+        "Small proactive choices add up to big positive changes over time."
+      ]
+    },
+    {
+      "id": "begin_with_the_end_in_mind",
+      "title": "Habit 2: Begin with the End in Mind",
+      "goal": "Discover how to set goals and plan for your future.",
+      "key_points": [
+        "Successful teens visualize their goals and make plans to achieve them.",
+        "Writing a personal mission statement helps clarify values and direction.",
+        "Setting priorities guides daily decisions and long-term outcomes."
+      ]
+    },
+    {
+      "id": "put_first_things_first",
+      "title": "Habit 3: Put First Things First",
+      "goal": "Master time management and prioritize what's most important.",
+      "key_points": [
+        "Distinguish between important and urgent tasks to manage time wisely.",
+        "Learn to say no to distractions and yes to your top priorities.",
+        "Balance school, family, friends, and self-care for a healthy life."
+      ]
+    },
+    {
+      "id": "think_win_win",
+      "title": "Habit 4: Think Win-Win",
+      "goal": "Adopt an abundance mindset and seek mutual benefit in relationships.",
+      "key_points": [
+        "Win-win thinking means everyone can succeed, not just one person.",
+        "Compromise and cooperation strengthen friendships and teamwork.",
+        "Self-worth and respect for others are key to win-win solutions."
+      ]
+    },
+    {
+      "id": "seek_first_to_understand_then_to_be_understood",
+      "title": "Habit 5: Seek First to Understand, Then to Be Understood",
+      "goal": "Improve communication by listening empathetically before expressing your views.",
+      "key_points": [
+        "Listening sincerely builds trust and resolves conflicts.",
+        "Understanding others' perspectives helps you respond effectively.",
+        "Clear, respectful communication prevents misunderstandings."
+      ]
+    },
+    {
+      "id": "synergize",
+      "title": "Habit 6: Synergize",
+      "goal": "Value differences and work collaboratively to achieve better results.",
+      "key_points": [
+        "Synergy means combining strengths to create outcomes greater than individual efforts.",
+        "Celebrate diversity and learn from people with different backgrounds.",
+        "Effective teamwork requires open-mindedness and mutual respect."
+      ]
+    },
+    {
+      "id": "sharpen_the_saw",
+      "title": "Habit 7: Sharpen the Saw",
+      "goal": "Maintain personal well-being by regularly renewing your body, mind, heart, and spirit.",
+      "key_points": [
+        "Balance is essential for sustained growth and happiness.",
+        "Take time for self-care, learning, relationships, and inner reflection.",
+        "Regular renewal boosts energy, creativity, and resilience."
+      ]
+    }
+  ]
+}

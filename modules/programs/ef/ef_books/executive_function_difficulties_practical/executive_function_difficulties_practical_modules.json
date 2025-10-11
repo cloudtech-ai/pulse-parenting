@@ -1,0 +1,88 @@
+{
+  "id": "executive_function_difficulties",
+  "title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention",
+  "description": "This book by Jill Fahy provides a comprehensive overview of executive function (EF) difficulties, their impact on learning and daily life, and practical strategies for assessment and intervention. It translates neuroscience research into actionable frameworks for educators, clinicians, and caregivers. The guide emphasizes real-world challenges faced by individuals with EF deficits and offers tools to support their cognitive, emotional, and behavioral regulation. Through case studies and clear explanations, it equips professionals to identify EF challenges and implement effective supports.",
+  "modules": [
+    {
+      "id": "introduction_to_executive_function",
+      "title": "Introduction to Executive Function",
+      "goal": "Understand the foundational concepts of executive function and its significance in daily life.",
+      "key_points": [
+        "Defines executive function (EF) and its core components.",
+        "Describes the importance of EF in cognitive, emotional, and behavioral regulation.",
+        "Explains the developmental trajectory and common signs of EF difficulties."
+      ]
+    },
+    {
+      "id": "neuroanatomy_and_ef",
+      "title": "Neuroanatomy and Executive Function",
+      "goal": "Explore the neurological basis of executive function and its implications for assessment.",
+      "key_points": [
+        "Outlines key brain regions involved in EF, such as the prefrontal cortex.",
+        "Discusses connections between brain networks and EF tasks.",
+        "Presents how neurological injury or development affects EF."
+      ]
+    },
+    {
+      "id": "assessment_of_ef_difficulties",
+      "title": "Assessment of Executive Function Difficulties",
+      "goal": "Learn practical approaches to evaluating executive function challenges.",
+      "key_points": [
+        "Reviews formal and informal assessment tools for EF.",
+        "Highlights the importance of context and real-life observation.",
+        "Describes how to interpret assessment results for intervention planning.",
+        "Addresses the role of self-report and collateral information."
+      ]
+    },
+    {
+      "id": "everyday_impact_of_ef_deficits",
+      "title": "Everyday Impact of EF Deficits",
+      "goal": "Recognize how executive function difficulties affect daily activities and relationships.",
+      "key_points": [
+        "Identifies challenges in organization, planning, and self-regulation.",
+        "Explores EF\u2019s role in academic, social, and vocational settings.",
+        "Provides case examples illustrating the real-world impact of EF deficits."
+      ]
+    },
+    {
+      "id": "intervention_frameworks",
+      "title": "Intervention Frameworks",
+      "goal": "Familiarize with intervention models and their application to EF difficulties.",
+      "key_points": [
+        "Presents evidence-based intervention strategies for EF.",
+        "Explains the use of environmental modifications and external supports.",
+        "Emphasizes individualized, strengths-based intervention planning."
+      ]
+    },
+    {
+      "id": "practical_strategies_and_tools",
+      "title": "Practical Strategies and Tools",
+      "goal": "Gain actionable tools and techniques to support individuals with EF challenges.",
+      "key_points": [
+        "Lists specific strategies for improving organization, initiation, and self-monitoring.",
+        "Describes visual aids, checklists, and technology supports.",
+        "Highlights the importance of routines and external cues."
+      ]
+    },
+    {
+      "id": "working_with_families_and_teams",
+      "title": "Working with Families and Teams",
+      "goal": "Learn approaches to collaborate effectively with families, educators, and other professionals.",
+      "key_points": [
+        "Discusses family-centered practices in EF intervention.",
+        "Covers strategies for team communication and coordinated support.",
+        "Shares guidance on educating stakeholders about EF."
+      ]
+    },
+    {
+      "id": "case_studies_and_applications",
+      "title": "Case Studies and Applications",
+      "goal": "Apply concepts through real-life case studies and intervention examples.",
+      "key_points": [
+        "Presents diverse case studies illustrating EF assessment and intervention.",
+        "Demonstrates problem-solving and decision-making in challenging scenarios.",
+        "Encourages reflection and adaptation of strategies to individual needs."
+      ]
+    }
+  ]
+}

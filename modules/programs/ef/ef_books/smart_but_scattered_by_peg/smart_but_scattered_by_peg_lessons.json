@@ -1,0 +1,554 @@
+{
+  "introduction_to_executive_skills": [
+    {
+      "id": "lesson1_what_are_executive_skills",
+      "title": "What Are Executive Skills?",
+      "goal": "Understand the definition and significance of executive skills in children's lives.",
+      "keyConcept": "Executive skills are a set of mental processes that help us plan, focus attention, remember instructions, and juggle multiple tasks successfully. They are essential for managing behavior, achieving goals, and adapting to new situations. Children rely on these skills to navigate daily routines, schoolwork, and social interactions.",
+      "example": "A child uses executive skills when they remember to pack their backpack for school, resist the urge to interrupt, or follow a multi-step instruction from a parent.",
+      "practiceTip": "Observe your child during a typical day and note one situation where they used (or struggled with) planning, remembering, or self-control.",
+      "reflectionPrompt": "When have you noticed your child using executive skills, even if imperfectly?",
+      "quizQuestion": {
+        "question": "Which of the following best describes executive skills?",
+        "options": [
+          "Physical abilities like running and jumping",
+          "Mental processes for managing behavior and achieving goals",
+          "Artistic talents such as drawing or painting"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_why_executive_skills_matter",
+      "title": "Why Executive Skills Matter",
+      "goal": "Recognize the importance of executive skills for your child's success and well-being.",
+      "keyConcept": "Strong executive skills help children manage their emotions, complete tasks, and solve problems. These skills are linked to academic achievement, positive relationships, and resilience. Supporting their development can make daily life smoother and help your child handle challenges more effectively.",
+      "example": "A child with good executive skills can calm themselves after a disappointment and figure out what to do next, rather than giving up or acting out.",
+      "practiceTip": "Share with your child a time when you used planning or self-control to overcome a challenge, modeling the value of these skills.",
+      "reflectionPrompt": "How might strengthening executive skills help your child in school or at home?",
+      "quizQuestion": {
+        "question": "Which outcome is most closely linked to strong executive skills?",
+        "options": [
+          "Better academic performance",
+          "Increased height",
+          "Improved eyesight"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_twelve_core_executive_skills",
+      "title": "The Twelve Core Executive Skills",
+      "goal": "Become familiar with the twelve executive skills identified in the book.",
+      "keyConcept": "Dawson and Guare outline twelve core executive skills: response inhibition, working memory, emotional control, flexibility, sustained attention, task initiation, planning/prioritization, organization, time management, goal-directed persistence, metacognition, and stress tolerance. Each child has strengths and weaknesses across these skills.",
+      "example": "A child who struggles with organization may frequently lose homework, while another with strong emotional control can stay calm during disagreements.",
+      "practiceTip": "Pick one executive skill from the list and observe how your child demonstrates it (or where they might need support) over the next day.",
+      "reflectionPrompt": "Which executive skill do you think is currently your child\u2019s strongest? Which one might need the most support?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT one of the twelve core executive skills?",
+        "options": [
+          "Time management",
+          "Goal-directed persistence",
+          "Musical ability"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson4_how_executive_skills_develop",
+      "title": "How Executive Skills Develop Over Time",
+      "goal": "Understand that executive skills develop gradually and at different rates for each child.",
+      "keyConcept": "Executive skills begin developing in early childhood and continue into young adulthood. Some skills, like impulse control, emerge early, while others, such as planning and organization, mature later. It's normal for children to have uneven development across these skills.",
+      "example": "A preschooler may struggle to wait their turn (response inhibition), while a teenager may still be learning to manage time effectively.",
+      "practiceTip": "Remind yourself that setbacks are part of growth. When your child struggles with a skill, view it as an opportunity for teaching and support rather than a failure.",
+      "reflectionPrompt": "How does knowing that executive skills develop over time change your expectations for your child?",
+      "quizQuestion": {
+        "question": "At what age do executive skills typically finish developing?",
+        "options": [
+          "Early childhood",
+          "Late teens to early twenties",
+          "By age 10"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_supporting_executive_skill_growth",
+      "title": "Supporting Your Child\u2019s Executive Skill Growth",
+      "goal": "Learn a simple way to support your child's executive skill development.",
+      "keyConcept": "Parents can help children build executive skills by providing structure, modeling strategies, and offering gentle reminders. Encouragement and patience are key, as children need time and practice to strengthen these abilities.",
+      "example": "You might help your child create a checklist for their morning routine, gradually letting them take more responsibility as they improve.",
+      "practiceTip": "Choose one daily routine (like bedtime or homework) and introduce a simple tool (like a visual schedule or timer) to support your child\u2019s independence.",
+      "reflectionPrompt": "What is one small change you could make this week to help your child practice an executive skill?",
+      "quizQuestion": {
+        "question": "Which approach best supports a child's executive skill development?",
+        "options": [
+          "Providing structure and encouragement",
+          "Expecting perfection immediately",
+          "Ignoring their struggles"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "identifying_executive_skill_weaknesses": [
+    {
+      "id": "lesson1_observing_daily_behaviors",
+      "title": "Observing Daily Behaviors for Executive Skills",
+      "goal": "Learn to spot everyday behaviors that may indicate executive skill strengths or weaknesses.",
+      "keyConcept": "Executive skills are mental processes that help us plan, focus attention, remember instructions, and juggle multiple tasks. Children show their executive skills through daily routines, such as getting ready for school, completing homework, or managing emotions. By observing how your child handles these tasks, you can begin to identify areas of strength and weakness.",
+      "example": "You notice your child consistently forgets to pack their lunch or struggles to start homework without reminders. These patterns may point to weaknesses in organization or task initiation.",
+      "practiceTip": "For one week, jot down specific examples of when your child struggles or excels with daily routines. Focus on what they do, not just the outcome.",
+      "reflectionPrompt": "What is one routine where your child seems to need the most help or reminders?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign of executive skill weakness?",
+        "options": [
+          "Consistently forgetting to turn in homework",
+          "Enjoying reading books",
+          "Playing sports with friends"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_using_checklists",
+      "title": "Using Checklists to Assess Skills",
+      "goal": "Understand how to use checklists to systematically assess your child's executive skills.",
+      "keyConcept": "Checklists are practical tools that help parents and teachers objectively evaluate a child's executive skills. They break down complex behaviors into specific, observable actions, making it easier to spot patterns and track progress over time.",
+      "example": "A checklist might include items like 'finishes chores without reminders' or 'can follow multi-step instructions.' By rating these items, you can see where your child excels or struggles.",
+      "practiceTip": "Download or create a simple executive skills checklist. Spend a few minutes each day rating your child\u2019s behaviors to gather a clear picture over a week.",
+      "reflectionPrompt": "Which checklist item surprised you the most about your child\u2019s abilities?",
+      "quizQuestion": {
+        "question": "What is the main benefit of using a checklist to assess executive skills?",
+        "options": [
+          "It provides a structured way to observe specific behaviors",
+          "It guarantees immediate improvement",
+          "It replaces the need for professional help"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_identifying_common_signs",
+      "title": "Identifying Common Signs of Executive Skill Difficulties",
+      "goal": "Recognize typical signs that may indicate executive skill challenges in children.",
+      "keyConcept": "Children with executive skill difficulties may show signs such as trouble starting tasks, losing belongings, difficulty following instructions, or emotional outbursts. Recognizing these signs early can help you provide targeted support and avoid mislabeling the behavior as laziness or defiance.",
+      "example": "A child who frequently loses their backpack or forgets assignments may be struggling with organization, not simply being careless.",
+      "practiceTip": "List three behaviors you\u2019ve noticed that could be linked to executive skill challenges. Consider if these are consistent across different situations.",
+      "reflectionPrompt": "How might understanding these signs change the way you respond to your child\u2019s struggles?",
+      "quizQuestion": {
+        "question": "Which behavior might indicate a problem with executive skills?",
+        "options": [
+          "Forgetting to bring home important papers",
+          "Enjoying group activities",
+          "Eating a favorite snack"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_distinguishing_skills_vs_behavior",
+      "title": "Distinguishing Skill Deficits from Behavioral Issues",
+      "goal": "Learn to tell the difference between executive skill deficits and intentional misbehavior.",
+      "keyConcept": "Not all challenging behaviors are intentional. Sometimes, what looks like defiance or laziness is actually a sign that a child lacks the necessary executive skills. Understanding this distinction helps you respond with support rather than punishment.",
+      "example": "If your child repeatedly fails to complete homework, it may be due to poor planning skills rather than a refusal to do the work.",
+      "practiceTip": "When your child struggles, ask yourself: 'Is this a can\u2019t or a won\u2019t?' Consider what support or skill-building might help.",
+      "reflectionPrompt": "Think of a recent conflict with your child\u2014could it have been related to a skill deficit rather than willful behavior?",
+      "quizQuestion": {
+        "question": "Why is it important to distinguish between skill deficits and behavioral issues?",
+        "options": [
+          "So you can provide the right support instead of unnecessary punishment",
+          "To ignore the problem",
+          "To reward all behaviors"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_tracking_progress",
+      "title": "Tracking Progress and Adjusting Support",
+      "goal": "Learn how to monitor your child\u2019s executive skills and adjust your approach as needed.",
+      "keyConcept": "Executive skills develop over time, and progress may be gradual. By regularly tracking your child\u2019s behaviors and responses to support, you can celebrate improvements and identify areas needing more attention. Adjusting your strategies ensures ongoing growth.",
+      "example": "After using a checklist for a month, you notice your child is now starting homework independently but still struggles with organizing materials. You decide to focus next on organization skills.",
+      "practiceTip": "Set aside time each week to review your notes or checklist. Celebrate small wins and choose one skill to focus on improving next.",
+      "reflectionPrompt": "What is one small improvement you\u2019ve noticed, and how can you build on it?",
+      "quizQuestion": {
+        "question": "What should you do if your child improves in one executive skill area?",
+        "options": [
+          "Celebrate the progress and focus on the next area for growth",
+          "Stop supporting them",
+          "Ignore the improvement"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "understanding_your_childs_profile": [
+    {
+      "id": "lesson1_identifying_executive_skills",
+      "title": "Identifying Executive Skills in Your Child",
+      "goal": "Learn what executive skills are and recognize them in your child's daily life.",
+      "keyConcept": "Executive skills are brain-based abilities that help us manage tasks, emotions, and behavior. These include skills like organization, impulse control, emotional regulation, and planning. Every child has a unique mix of strengths and challenges in these areas, which can change as they grow.",
+      "example": "You notice your child remembers to pack their backpack every morning (strong organization) but often interrupts others when excited (developing impulse control).",
+      "practiceTip": "Observe your child for a day and jot down moments when they show strong executive skills and when they struggle.",
+      "reflectionPrompt": "Which executive skill does your child seem to use most naturally, and which one do they find most challenging?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an executive skill?",
+        "options": [
+          "Impulse control",
+          "Physical strength",
+          "Artistic talent"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_mapping_strengths",
+      "title": "Spotting and Celebrating Strengths",
+      "goal": "Identify and appreciate your child's executive skill strengths.",
+      "keyConcept": "Focusing on strengths helps build your child's confidence and motivation. Recognizing what your child does well allows you to encourage those behaviors and use them as a foundation for growth in other areas.",
+      "example": "Your child is great at remembering routines, like brushing teeth before bed. You praise this consistency, reinforcing their time management skills.",
+      "practiceTip": "Each day, point out one executive skill your child used well and let them know you noticed.",
+      "reflectionPrompt": "How does your child respond when you acknowledge their strengths?",
+      "quizQuestion": {
+        "question": "Why is it important to focus on a child's strengths?",
+        "options": [
+          "It builds confidence and motivation",
+          "It ignores their weaknesses",
+          "It makes them perfect"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_noticing_challenges",
+      "title": "Recognizing Areas for Growth",
+      "goal": "Identify which executive skills are challenging for your child.",
+      "keyConcept": "Every child has areas where they struggle. By noticing these challenges without judgment, you can better support your child's development. Understanding specific difficulties helps you target support and avoid generalizing or labeling your child.",
+      "example": "You see your child often forgets to turn in homework, indicating a challenge with task initiation or organization.",
+      "practiceTip": "Keep a simple log for a week of situations where your child seems to get stuck or frustrated. Look for patterns.",
+      "reflectionPrompt": "What patterns do you notice in the situations where your child struggles?",
+      "quizQuestion": {
+        "question": "What is the benefit of identifying a child's executive skill challenges?",
+        "options": [
+          "It helps target support",
+          "It makes them feel bad",
+          "It solves all problems instantly"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_creating_the_profile",
+      "title": "Building Your Child\u2019s Executive Skill Profile",
+      "goal": "Combine observations to create a simple profile of your child's executive skills.",
+      "keyConcept": "A profile summarizes your child's strengths and challenges in executive skills. This tool helps you and others understand your child better and plan effective support. Profiles should be specific, balanced, and updated as your child grows.",
+      "example": "You write: 'My child is strong in time management and emotional control, but needs support with organization and task initiation.'",
+      "practiceTip": "Draft a short paragraph or list describing your child's top 2-3 strengths and 2-3 areas for growth.",
+      "reflectionPrompt": "How does seeing your child\u2019s profile written out change your perspective on their needs?",
+      "quizQuestion": {
+        "question": "What is a key feature of an effective executive skill profile?",
+        "options": [
+          "It is balanced and specific",
+          "It only lists weaknesses",
+          "It never changes"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_using_the_profile",
+      "title": "Using the Profile to Guide Support",
+      "goal": "Learn how to use your child\u2019s profile to choose helpful strategies.",
+      "keyConcept": "Your child's executive skill profile can guide you in selecting interventions that play to their strengths and address challenges. By matching strategies to your child's unique needs, you can provide more effective and compassionate support.",
+      "example": "Knowing your child is strong in routines but struggles with organization, you create a visual checklist to help them pack their backpack, using their love of routines to build organizational skills.",
+      "practiceTip": "Pick one area of challenge and brainstorm a support strategy that uses one of your child's strengths.",
+      "reflectionPrompt": "How can you use your child\u2019s strengths to help them overcome a challenge?",
+      "quizQuestion": {
+        "question": "How should you use your child's executive skill profile?",
+        "options": [
+          "To guide support strategies",
+          "To compare them to others",
+          "To focus only on weaknesses"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "strategies_for_supporting_executive_skills": [
+    {
+      "id": "micro_lesson_1_breaking_down_tasks",
+      "title": "Break Tasks into Manageable Steps",
+      "goal": "Learn how to help your child tackle big tasks by dividing them into smaller, achievable steps.",
+      "keyConcept": "Children often feel overwhelmed by large or complex tasks. By breaking these tasks into smaller, more manageable steps, you make it easier for your child to start and complete them. This approach builds confidence and reduces frustration, making skill-building more accessible.",
+      "example": "Instead of telling your child to 'clean your room,' guide them to first pick up clothes, then put away toys, and finally make the bed.",
+      "practiceTip": "Choose a daily task your child struggles with. Together, list each step needed to complete it, and check off each step as it's finished.",
+      "reflectionPrompt": "Think of a time your child avoided a big task. How could breaking it into steps have helped?",
+      "quizQuestion": {
+        "question": "What is the main benefit of breaking tasks into smaller steps for children?",
+        "options": [
+          "It makes tasks more fun.",
+          "It helps children feel less overwhelmed and more successful.",
+          "It allows parents to do the task for them."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_2_modeling_skills",
+      "title": "Model and Practice Executive Skills",
+      "goal": "Understand how to effectively model and practice executive skills with your child.",
+      "keyConcept": "Children learn best by observing and practicing alongside adults. When you model skills like planning, organizing, or managing time, you show your child what these behaviors look like. Guided practice gives your child a safe space to try new skills with your support.",
+      "example": "If your child struggles with organizing their backpack, show them how you organize your own bag, then help them do the same with theirs.",
+      "practiceTip": "Pick one executive skill to model today. Narrate your thought process out loud as you do it, then invite your child to try with your guidance.",
+      "reflectionPrompt": "Which executive skill could you model more intentionally for your child this week?",
+      "quizQuestion": {
+        "question": "Why is modeling important when teaching executive skills?",
+        "options": [
+          "Children naturally copy what they see adults do.",
+          "It saves time.",
+          "It makes tasks more difficult."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_3_environmental_modifications",
+      "title": "Modify the Environment for Success",
+      "goal": "Discover how changing the environment can support your child's executive skills.",
+      "keyConcept": "The environment plays a big role in how children use their executive skills. Simple changes\u2014like organizing materials, reducing distractions, or setting up visual reminders\u2014can make it easier for children to focus and follow through on tasks.",
+      "example": "If your child forgets to do homework, placing a checklist on their desk and keeping supplies within reach can help them remember and stay organized.",
+      "practiceTip": "Identify one area where your child struggles (e.g., getting ready for school). Adjust the environment to support them, such as laying out clothes the night before or using a visual schedule.",
+      "reflectionPrompt": "What is one environmental change you could make at home to help your child succeed?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an environmental modification?",
+        "options": [
+          "Telling your child to work harder.",
+          "Setting up a quiet, organized workspace.",
+          "Asking your child to remember everything on their own."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_4_routines_and_consistency",
+      "title": "Establish Routines and Consistency",
+      "goal": "Learn how routines and consistency can strengthen your child's executive skills.",
+      "keyConcept": "Consistent routines help children know what to expect and when. Predictable schedules reduce anxiety and support the development of planning, time management, and self-control. Over time, routines become habits that children can rely on.",
+      "example": "Having a set bedtime routine\u2014such as brushing teeth, reading a story, and turning off the lights at the same time each night\u2014helps children wind down and prepare for sleep.",
+      "practiceTip": "Choose one daily routine to make more consistent this week. Post a simple schedule or checklist where your child can see it.",
+      "reflectionPrompt": "How could a more consistent routine help your child feel more secure and capable?",
+      "quizQuestion": {
+        "question": "What is a key benefit of having consistent routines for children?",
+        "options": [
+          "They make life more boring.",
+          "They help children develop habits and feel secure.",
+          "They reduce the need for any rules."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_5_goal_setting_and_monitoring",
+      "title": "Set Goals and Monitor Progress",
+      "goal": "Understand how to help your child set achievable goals and track their progress.",
+      "keyConcept": "Goal setting teaches children to plan ahead and work toward something meaningful. Monitoring progress\u2014by checking in regularly or using charts\u2014helps children stay motivated and see their improvement. Celebrating small successes builds confidence and resilience.",
+      "example": "If your child wants to read more, set a goal of reading one book per week and use a chart to track each book finished.",
+      "practiceTip": "Work with your child to set a simple, specific goal for the week. Decide together how you\u2019ll track progress and celebrate when the goal is met.",
+      "reflectionPrompt": "What is one small goal your child could set this week, and how will you help them track it?",
+      "quizQuestion": {
+        "question": "Why is it important to monitor progress toward goals?",
+        "options": [
+          "It helps children see their improvement and stay motivated.",
+          "It makes goals harder to reach.",
+          "It is not necessary if the goal is easy."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "problem_solving_and_troubleshooting": [
+    {
+      "id": "psat_lesson1_identify_obstacles",
+      "title": "Spotting Roadblocks",
+      "goal": "Learn to recognize when and why a strategy isn\u2019t working for your child.",
+      "keyConcept": "Sometimes, even well-planned interventions don\u2019t yield the results we expect. The first step in troubleshooting is to notice when progress stalls and to look for patterns or triggers that might be causing setbacks. By identifying specific obstacles, you can better understand what needs to change.",
+      "example": "You notice your child consistently forgets to bring homework home, despite reminders. Instead of assuming they\u2019re not trying, you look for patterns and realize the reminders are coming too late in the day.",
+      "practiceTip": "Keep a simple log for one week, noting when and how setbacks occur. Look for patterns in timing, environment, or mood.",
+      "reflectionPrompt": "What is one recurring obstacle your child faces, and when does it usually happen?",
+      "quizQuestion": {
+        "question": "What is the first step in troubleshooting a strategy that isn\u2019t working?",
+        "options": [
+          "Identify specific obstacles or patterns",
+          "Try a completely new strategy",
+          "Ignore the problem and hope it resolves"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "psat_lesson2_analyze_causes",
+      "title": "Digging Deeper: Analyzing Causes",
+      "goal": "Understand how to analyze the reasons behind setbacks.",
+      "keyConcept": "Once you\u2019ve identified a recurring obstacle, it\u2019s important to consider possible causes. These might include unclear instructions, unrealistic expectations, or emotional factors. Analyzing the root cause helps you choose the most effective solution.",
+      "example": "Your child struggles to start homework independently. Upon reflection, you realize they feel overwhelmed by the amount of work and don\u2019t know where to begin.",
+      "practiceTip": "Ask your child open-ended questions about their experience (e.g., 'What makes this hard for you?'). Listen for clues about what\u2019s really getting in the way.",
+      "reflectionPrompt": "What underlying factors might be contributing to your child\u2019s current challenge?",
+      "quizQuestion": {
+        "question": "Why is it important to analyze the cause of a setback?",
+        "options": [
+          "To assign blame",
+          "To choose the most effective solution",
+          "To ignore the problem"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "psat_lesson3_troubleshooting_tips",
+      "title": "Quick Fixes: Troubleshooting Tips",
+      "goal": "Learn practical troubleshooting strategies for common obstacles.",
+      "keyConcept": "Troubleshooting involves trying small changes to see if they help overcome obstacles. This might mean adjusting the environment, breaking tasks into smaller steps, or providing visual reminders. Small tweaks can make a big difference.",
+      "example": "If your child forgets to pack their backpack, you place a checklist by the door. This visual cue helps them remember each item before leaving.",
+      "practiceTip": "Choose one small change to try this week (e.g., a checklist, timer, or new routine) and observe if it helps your child overcome a specific obstacle.",
+      "reflectionPrompt": "What is one small adjustment you could make to support your child\u2019s success?",
+      "quizQuestion": {
+        "question": "Which of the following is a troubleshooting strategy?",
+        "options": [
+          "Making a small change and observing the result",
+          "Giving up on the goal",
+          "Ignoring the problem"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "psat_lesson4_promote_flexibility",
+      "title": "Staying Flexible",
+      "goal": "Encourage flexibility in your approach to problem-solving.",
+      "keyConcept": "Not every strategy will work the first time. Being flexible means being willing to adjust your approach and try new solutions. Modeling flexibility teaches your child that setbacks are a normal part of learning and growth.",
+      "example": "After several attempts to establish a morning routine fail, you involve your child in brainstorming new ideas, showing that it\u2019s okay to change plans.",
+      "practiceTip": "If a strategy isn\u2019t working after a fair trial, discuss with your child what could be changed. Invite their input and try a new approach together.",
+      "reflectionPrompt": "How do you usually react when a plan doesn\u2019t work? How can you model flexibility for your child?",
+      "quizQuestion": {
+        "question": "What does being flexible in problem-solving mean?",
+        "options": [
+          "Sticking to one plan no matter what",
+          "Trying new approaches when something isn\u2019t working",
+          "Avoiding all challenges"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "psat_lesson5_build_persistence",
+      "title": "Building Persistence",
+      "goal": "Help your child develop persistence when facing challenges.",
+      "keyConcept": "Persistence is the ability to keep trying, even when things are difficult. Encouraging your child to stick with challenges, celebrate small successes, and learn from mistakes builds resilience and confidence.",
+      "example": "Your child struggles with a difficult puzzle. Instead of letting them quit, you praise their effort and suggest taking a short break before trying again.",
+      "practiceTip": "Notice and praise your child\u2019s effort, not just the outcome. Use phrases like, 'I see how hard you\u2019re working on this!'",
+      "reflectionPrompt": "How can you encourage your child to keep trying when they feel frustrated?",
+      "quizQuestion": {
+        "question": "What is an effective way to build persistence in children?",
+        "options": [
+          "Praise their effort and encourage trying again",
+          "Do the task for them",
+          "Ignore their frustration"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "working_with_schools_and_professionals": [
+    {
+      "id": "lesson1_initiating_conversations",
+      "title": "Initiating Conversations with Educators",
+      "goal": "Learn how to start effective communication with your child's teachers.",
+      "keyConcept": "Open and respectful communication with teachers is essential for supporting your child's executive skill development. By approaching educators as partners, you can share your concerns and insights about your child's needs. This sets a positive tone for collaboration and problem-solving.",
+      "example": "You notice your child struggles to remember homework assignments. You email the teacher, expressing appreciation for their efforts and asking if you can discuss strategies to help your child stay organized.",
+      "practiceTip": "Start your conversation with a positive comment about the teacher's work, then clearly state your concern and ask for their perspective.",
+      "reflectionPrompt": "How comfortable do you feel reaching out to your child's teacher, and what might help you feel more confident?",
+      "quizQuestion": {
+        "question": "What is a good first step when communicating concerns to a teacher?",
+        "options": [
+          "Begin with a positive comment and state your concern clearly.",
+          "Demand immediate changes to classroom routines.",
+          "Wait until the problem gets worse before reaching out."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_sharing_observations",
+      "title": "Sharing Observations Effectively",
+      "goal": "Learn how to communicate your child's strengths and challenges to school staff.",
+      "keyConcept": "Providing specific examples of your child's behaviors at home helps educators understand their needs. Sharing both strengths and challenges paints a balanced picture and encourages collaborative problem-solving.",
+      "example": "You tell the school counselor that your child is creative and loves building things, but often forgets to bring materials to class.",
+      "practiceTip": "Prepare 1-2 examples of your child's strengths and 1-2 examples of challenges before meetings with school staff.",
+      "reflectionPrompt": "What are two strengths and two challenges your child shows at home that you could share with their teacher?",
+      "quizQuestion": {
+        "question": "Why is it helpful to share both strengths and challenges with educators?",
+        "options": [
+          "It gives a balanced view and helps find effective solutions.",
+          "It makes the teacher focus only on the problems.",
+          "It is unnecessary; only challenges matter."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_developing_support_plans",
+      "title": "Developing School-Based Support Plans",
+      "goal": "Understand how to work with educators to create practical support strategies.",
+      "keyConcept": "Collaborating with teachers to develop support plans ensures your child's needs are addressed in the classroom. These plans might include accommodations, visual reminders, or regular check-ins to help your child manage tasks and stay organized.",
+      "example": "After meeting with the teacher, you agree to use a daily homework checklist that both the teacher and your child review together.",
+      "practiceTip": "Ask the teacher what strategies have worked for similar students and suggest one small change to try for your child.",
+      "reflectionPrompt": "What is one support or accommodation you think could help your child at school?",
+      "quizQuestion": {
+        "question": "What is a key benefit of developing a support plan with teachers?",
+        "options": [
+          "It provides structure and strategies tailored to your child's needs.",
+          "It guarantees your child will never struggle again.",
+          "It removes all responsibility from the teacher."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_monitoring_and_adjusting",
+      "title": "Monitoring Progress and Adjusting Plans",
+      "goal": "Learn how to track your child's progress and make necessary changes to support plans.",
+      "keyConcept": "Regularly reviewing your child's progress with teachers helps determine if support strategies are effective. Being open to adjusting the plan ensures your child continues to receive the help they need as situations change.",
+      "example": "After a month, you and the teacher notice your child is still missing assignments, so you agree to add a weekly planner review session.",
+      "practiceTip": "Schedule a follow-up meeting or email check-in with the teacher 4-6 weeks after implementing a new support strategy.",
+      "reflectionPrompt": "How will you know if a support plan is working for your child, and what signs will you look for?",
+      "quizQuestion": {
+        "question": "Why is it important to monitor and adjust support plans?",
+        "options": [
+          "Because children's needs and situations can change over time.",
+          "Because once a plan is made, it never needs to change.",
+          "Because teachers should handle everything alone."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_seeking_professional_help",
+      "title": "Knowing When to Seek Additional Professional Help",
+      "goal": "Recognize when to involve specialists beyond the classroom.",
+      "keyConcept": "Sometimes, a child's challenges require support from professionals such as school psychologists, counselors, or outside therapists. Recognizing signs that your child needs more help\u2014like ongoing struggles despite classroom supports\u2014ensures timely intervention.",
+      "example": "Despite several support strategies, your child continues to have significant trouble focusing and managing emotions, so you ask the school about an evaluation by a psychologist.",
+      "practiceTip": "If your child\u2019s difficulties persist after trying several strategies, ask the school about available assessments or referrals to specialists.",
+      "reflectionPrompt": "What signs might indicate your child could benefit from additional professional support?",
+      "quizQuestion": {
+        "question": "When should you consider seeking help from a specialist?",
+        "options": [
+          "When your child continues to struggle despite classroom supports.",
+          "As soon as your child has a minor problem.",
+          "Only if the teacher insists."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

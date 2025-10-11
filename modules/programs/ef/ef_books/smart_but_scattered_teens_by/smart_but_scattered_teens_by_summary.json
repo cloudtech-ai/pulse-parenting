@@ -1,0 +1,64 @@
+{
+  "id": 6,
+  "title": "Smart but Scattered Teens",
+  "description": "A guide for helping teenagers develop executive skills to succeed in school and life, focusing on organization, time management, and emotional regulation.",
+  "videoPreview": "Building Executive Skills in Teens",
+  "image": "https://openclipart.org/image/800px/20765",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Understanding Executive Skills",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Identifying Teen's Strengths and Weaknesses"
+    },
+    {
+      "id": 63,
+      "title": "Creating a Supportive Environment"
+    },
+    {
+      "id": 64,
+      "title": "Setting Goals and Priorities"
+    },
+    {
+      "id": 65,
+      "title": "Developing Time Management Skills"
+    },
+    {
+      "id": 66,
+      "title": "Improving Emotional Regulation"
+    },
+    {
+      "id": 67,
+      "title": "Enhancing Problem-Solving Abilities"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Executive Skills for Teens: An Overview",
+      "id": "B1f-vIeNx-Q"
+    },
+    {
+      "title": "Helping Teens with Time Management",
+      "id": "OMcy0PD1jQc"
+    },
+    {
+      "title": "Emotional Regulation Strategies for Teens",
+      "id": "Vs-MyQgfH3A"
+    },
+    {
+      "title": "Creating a Supportive Environment for Teen Success",
+      "id": "wO5MJytYDg4"
+    },
+    {
+      "title": "Goal Setting and Prioritization for Teens",
+      "id": "i0QfCZjASX8"
+    },
+    {
+      "title": "Smart but Scattered Teens by Richard Guare, Peg Dawson & Colin Guare",
+      "id": "-Us2CZ-BvhU"
+    }
+  ]
+}

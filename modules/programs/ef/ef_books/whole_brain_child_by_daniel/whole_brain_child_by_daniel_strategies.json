@@ -1,0 +1,170 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Connect and Redirect",
+    "summary": "First connect with your child emotionally, then guide their behavior logically.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Children in distress are often dominated by their emotional (right) brain. Connecting emotionally helps them feel understood, making them more receptive to guidance from your logical (left) brain."
+      },
+      {
+        "section": "Example",
+        "content": "When a child is upset about leaving the park, first acknowledge their feelings ('I see you're sad to leave'), then redirect ('Let's think about what fun thing we can do at home')."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pause and empathize before offering solutions.",
+          "Use a calm tone and gentle touch to connect.",
+          "After connecting, offer simple, clear guidance."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Name It to Tame It",
+    "summary": "Help children process big feelings by telling the story and naming emotions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Naming emotions and narrating experiences helps integrate the left and right brain, making overwhelming feelings more manageable."
+      },
+      {
+        "section": "Example",
+        "content": "If a child is scared after a nightmare, help them talk through what happened and label their feelings ('You felt scared because the dream was so real')."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage your child to describe what happened.",
+          "Help them identify and name their feelings.",
+          "Reassure them that it's okay to have big emotions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Engage, Don't Enrage",
+    "summary": "Appeal to the logical brain to avoid triggering emotional outbursts.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When children feel threatened or misunderstood, their emotional (downstairs) brain takes over, leading to meltdowns. Engaging the logical (upstairs) brain helps them think and respond calmly."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of demanding compliance ('Do it now!'), ask for your child's input or offer choices ('Would you like to brush your teeth before or after pajamas?')."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use curiosity and questions instead of commands.",
+          "Offer limited choices to give a sense of control.",
+          "Stay calm and avoid power struggles."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Use It or Lose It",
+    "summary": "Encourage children to practice using their upstairs (thinking) brain.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "The more children use skills like planning, decision-making, and self-control, the stronger these brain pathways become."
+      },
+      {
+        "section": "Example",
+        "content": "Let your child help plan a family outing, make a grocery list, or solve a simple problem together."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask your child to think through solutions to everyday problems.",
+          "Encourage reflection on past experiences.",
+          "Praise efforts to use self-control and make good decisions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Move It or Lose It",
+    "summary": "Use physical movement to help shift emotional states.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Movement can help regulate emotions by changing the body's chemistry and activating different brain areas."
+      },
+      {
+        "section": "Example",
+        "content": "If your child is upset, suggest jumping, dancing, or taking a walk together to help them calm down."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage movement breaks during stressful moments.",
+          "Make physical activity a regular part of your routine.",
+          "Model using movement to manage your own emotions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Let the Clouds of Emotion Roll By",
+    "summary": "Teach children that feelings are temporary and will pass.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding that emotions are like passing clouds helps children avoid getting stuck in negative feelings."
+      },
+      {
+        "section": "Example",
+        "content": "When your child is angry or sad, remind them that these feelings will pass, just like clouds moving across the sky."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use imagery (clouds, waves) to describe emotions.",
+          "Model patience and acceptance of your own feelings.",
+          "Encourage your child to notice and name their changing emotions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "SIFT: Sensations, Images, Feelings, Thoughts",
+    "summary": "Help children become aware of their inner experiences using the SIFT framework.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Awareness of sensations, images, feelings, and thoughts helps children understand themselves and respond more thoughtfully."
+      },
+      {
+        "section": "Example",
+        "content": "Ask your child to describe what their body feels, what pictures pop into their mind, what emotions they're having, and what thoughts are running through their head."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Guide your child through the SIFT process during calm moments.",
+          "Use open-ended questions to explore each area.",
+          "Practice SIFT together regularly to build self-awareness."
+        ]
+      }
+    ]
+  }
+]

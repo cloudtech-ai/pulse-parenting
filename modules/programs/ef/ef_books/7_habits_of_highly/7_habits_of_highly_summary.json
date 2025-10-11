@@ -1,0 +1,77 @@
+{
+  "id": 5,
+  "title": "The 7 Habits of Highly Effective Teens",
+  "description": "A guide for teenagers to improve their personal and interpersonal effectiveness by adopting seven key habits.",
+  "videoPreview": "Introduction to the 7 Habits",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442369818i/783127._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Be Proactive",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Begin with the End in Mind"
+    },
+    {
+      "id": 53,
+      "title": "Put First Things First"
+    },
+    {
+      "id": 54,
+      "title": "Think Win-Win"
+    },
+    {
+      "id": 55,
+      "title": "Seek First to Understand, Then to Be Understood"
+    },
+    {
+      "id": 56,
+      "title": "Synergize"
+    },
+    {
+      "id": 57,
+      "title": "Sharpen the Saw"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Overview of the 7 Habits for Teens",
+      "id": "bBsKoZny0oc"
+    },
+    {
+      "title": "Habit 1: Be Proactive",
+      "id": "tUFXM-Wv2K0"
+    },
+    {
+      "title": "Habit 2: Begin with the End in Mind",
+      "id": "66Zwb5kEqZg"
+    },
+    {
+      "title": "Habit 3: Put First Things First",
+      "id": "feidJBUrfm0"
+    },
+    {
+      "title": "Habit 4: Think Win-Win",
+      "id": "kzd7PAsPNrk"
+    },
+    {
+      "title": "Habit 5: Seek First to Understand, Then to Be Understood",
+      "id": "iBWXh6Zzkqw"
+    },
+    {
+      "title": "Habit 6: Synergize",
+      "id": "-0gHDy1Xnkc"
+    },
+    {
+      "title": "Habit 7: Sharpen the Saw",
+      "id": "dWFDRoWfIEA"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective Teens by Sean Covey",
+      "id": "PwiM_jjT3sA"
+    }
+  ],
+  "bookUrl": "/book/show/783127.The_7_Habits_of_Highly_Effective_Teens"
+}

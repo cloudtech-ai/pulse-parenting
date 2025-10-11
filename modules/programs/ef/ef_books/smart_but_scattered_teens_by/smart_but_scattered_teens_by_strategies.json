@@ -1,0 +1,170 @@
+[
+  {
+    "id": 61,
+    "bookId": 7,
+    "title": "Understanding Executive Skills",
+    "summary": "Learn what executive skills are and why they are important for teens\u2019 success.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Executive skills are the mental processes that help us plan, focus attention, remember instructions, and juggle multiple tasks. Understanding these skills helps teens and parents recognize areas of strength and challenge."
+      },
+      {
+        "section": "Example",
+        "content": "A teen who struggles with organization may forget to turn in homework, while another with strong emotional control can stay calm during stressful situations."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Read about the 11 executive skills described in the book.",
+          "Discuss examples of each skill in daily life.",
+          "Observe and reflect on which skills come naturally and which are more difficult."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 7,
+    "title": "Identifying Teen's Strengths and Weaknesses",
+    "summary": "Assess your teen\u2019s executive skill profile to target support and build on strengths.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Knowing a teen\u2019s strengths and weaknesses allows for tailored strategies that maximize success and minimize frustration."
+      },
+      {
+        "section": "Example",
+        "content": "A teen with strong planning skills but weak time management may benefit from using planners and reminders."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use the executive skills questionnaire from the book.",
+          "Have both parent and teen complete the assessment.",
+          "Compare results and discuss areas for growth and celebration."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 7,
+    "title": "Creating a Supportive Environment",
+    "summary": "Modify the home and school environment to reduce barriers and support executive skill development.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A supportive environment reduces stress and distractions, making it easier for teens to use and strengthen their executive skills."
+      },
+      {
+        "section": "Example",
+        "content": "Setting up a dedicated, clutter-free homework space helps a teen with weak organization stay on task."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Establish routines for daily tasks.",
+          "Minimize distractions in work areas.",
+          "Provide visual reminders and checklists."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 7,
+    "title": "Setting Goals and Priorities",
+    "summary": "Help teens set realistic goals and prioritize tasks to improve focus and motivation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Goal setting and prioritization teach teens to break down big tasks, manage time, and stay motivated."
+      },
+      {
+        "section": "Example",
+        "content": "A teen sets a goal to improve math grades by completing all homework and seeking help when needed."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals.",
+          "Break large goals into smaller steps.",
+          "Review progress regularly and adjust as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 7,
+    "title": "Developing Time Management Skills",
+    "summary": "Teach strategies for planning, scheduling, and managing time effectively.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Time management is essential for balancing school, activities, and responsibilities, reducing stress and last-minute rushes."
+      },
+      {
+        "section": "Example",
+        "content": "A teen uses a planner to map out assignments and extracurriculars, avoiding missed deadlines."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use calendars or digital planners.",
+          "Set reminders for important tasks.",
+          "Encourage estimating how long tasks will take and adjusting plans as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 7,
+    "title": "Improving Emotional Regulation",
+    "summary": "Support teens in recognizing and managing their emotions to handle stress and frustration.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Emotional regulation helps teens cope with setbacks, avoid impulsive reactions, and maintain positive relationships."
+      },
+      {
+        "section": "Example",
+        "content": "A teen practices deep breathing before a big test to calm nerves and focus."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Teach relaxation techniques like deep breathing or mindfulness.",
+          "Model calm responses to stress.",
+          "Encourage talking about feelings and problem-solving."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 7,
+    "title": "Enhancing Problem-Solving Abilities",
+    "summary": "Guide teens in breaking down problems and generating solutions independently.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Strong problem-solving skills empower teens to tackle challenges, make decisions, and build confidence."
+      },
+      {
+        "section": "Example",
+        "content": "A teen who forgets assignments brainstorms ways to remember, like using a checklist or phone reminders."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Teach a step-by-step problem-solving process: define the problem, brainstorm solutions, evaluate options, and try one.",
+          "Encourage reflection on what worked and what didn\u2019t.",
+          "Praise effort and persistence, not just success."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "id": "smart_but_scattered_teens",
+  "title": "Smart but Scattered Teens",
+  "description": "Smart but Scattered Teens provides practical guidance for parents, educators, and teens to develop critical executive skills necessary for success. The book breaks down key cognitive and emotional skills, offering strategies for improving organization, planning, time management, and self-control. Through relatable examples, self-assessments, and actionable steps, it empowers teens to take ownership of their growth. The focus is on building lifelong habits that increase independence and confidence.",
+  "modules": [
+    {
+      "id": "introduction_to_executive_skills",
+      "title": "Introduction to Executive Skills",
+      "goal": "Understand what executive skills are and why they matter for teens.",
+      "key_points": [
+        "Definition and importance of executive skills in daily life.",
+        "Overview of how these skills impact academic and personal success.",
+        "Understanding developmental differences in executive functioning."
+      ]
+    },
+    {
+      "id": "identifying_strengths_and_weaknesses",
+      "title": "Identifying Strengths and Weaknesses",
+      "goal": "Learn to assess personal executive skill strengths and areas for improvement.",
+      "key_points": [
+        "Self-assessment tools for executive skills.",
+        "Recognizing individual patterns in strengths and challenges.",
+        "How to use assessment results to set goals."
+      ]
+    },
+    {
+      "id": "building_organization_and_time_management",
+      "title": "Building Organization and Time Management",
+      "goal": "Develop strategies to improve organization, planning, and time management.",
+      "key_points": [
+        "Practical tools for organizing schoolwork and personal tasks.",
+        "Techniques for effective planning and scheduling.",
+        "Tips for managing deadlines and reducing procrastination."
+      ]
+    },
+    {
+      "id": "improving_attention_and_working_memory",
+      "title": "Improving Attention and Working Memory",
+      "goal": "Enhance focus and memory skills for academic and daily activities.",
+      "key_points": [
+        "Strategies to increase sustained attention and reduce distractions.",
+        "Exercises to strengthen working memory.",
+        "Adapting environments to support concentration."
+      ]
+    },
+    {
+      "id": "self_control_and_emotional_regulation",
+      "title": "Self-Control and Emotional Regulation",
+      "goal": "Learn techniques to manage impulses and regulate emotions.",
+      "key_points": [
+        "Understanding triggers and responses to stress.",
+        "Methods for pausing and thinking before acting.",
+        "Building resilience and coping strategies."
+      ]
+    },
+    {
+      "id": "problem_solving_and_flexibility",
+      "title": "Problem Solving and Flexibility",
+      "goal": "Practice flexible thinking and effective problem-solving strategies.",
+      "key_points": [
+        "Recognizing the value of flexible thinking in everyday situations.",
+        "Step-by-step approaches to problem solving.",
+        "Overcoming obstacles and adapting to change."
+      ]
+    },
+    {
+      "id": "communication_and_advocacy_skills",
+      "title": "Communication and Advocacy Skills",
+      "goal": "Develop skills for effective communication and self-advocacy.",
+      "key_points": [
+        "Expressing needs and asking for help appropriately.",
+        "Active listening and clear communication techniques.",
+        "Building confidence to advocate for oneself at school and home."
+      ]
+    },
+    {
+      "id": "creating_and_following_action_plans",
+      "title": "Creating and Following Action Plans",
+      "goal": "Learn to set goals and create actionable plans for personal growth.",
+      "key_points": [
+        "Setting realistic, measurable goals.",
+        "Breaking down tasks into manageable steps.",
+        "Tracking progress and making adjustments."
+      ]
+    },
+    {
+      "id": "working_with_parents_and_supports",
+      "title": "Working with Parents and Supports",
+      "goal": "Understand how to collaborate with parents, teachers, and other supports.",
+      "key_points": [
+        "Effective ways to communicate with adults.",
+        "Building a support network for success.",
+        "Navigating challenges together and staying motivated."
+      ]
+    },
+    {
+      "id": "maintaining_progress_and_long_term_growth",
+      "title": "Maintaining Progress and Long-Term Growth",
+      "goal": "Build habits to maintain improvements and foster continued growth.",
+      "key_points": [
+        "Strategies for sustaining changes over time.",
+        "Reflecting on successes and setbacks.",
+        "Celebrating achievements and planning next steps."
+      ]
+    }
+  ]
+}

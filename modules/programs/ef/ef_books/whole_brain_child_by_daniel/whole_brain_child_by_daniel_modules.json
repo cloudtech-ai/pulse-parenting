@@ -1,0 +1,87 @@
+{
+  "id": "the_whole_brain_child",
+  "title": "The Whole-Brain Child",
+  "description": "The Whole-Brain Child by Daniel J. Siegel and Tina Payne Bryson explores practical strategies for nurturing a child's developing mind. Drawing on insights from neuroscience, the authors present twelve revolutionary strategies to foster healthy brain development, emotional regulation, and resilience in children. The book emphasizes the importance of integrating different parts of the brain and offers actionable advice for parents and caregivers to help children thrive emotionally and cognitively. Through relatable anecdotes and clear explanations, readers learn how to engage both the logical and emotional aspects of a child's brain.",
+  "modules": [
+    {
+      "id": "understanding_the_whole_brain",
+      "title": "Understanding the Whole Brain",
+      "goal": "Introduce the basic concepts of brain development and integration in children.",
+      "key_points": [
+        "Children's brains are constantly developing and changing.",
+        "Integration of different brain regions is crucial for emotional and cognitive health.",
+        "Parents can facilitate integration by understanding how the brain works."
+      ]
+    },
+    {
+      "id": "connect_and_redirect",
+      "title": "Connect and Redirect",
+      "goal": "Teach the importance of connecting emotionally before guiding behavior.",
+      "key_points": [
+        "Children often react emotionally rather than logically in challenging situations.",
+        "Connecting with a child's feelings helps calm their emotional brain.",
+        "Once calm, children are more receptive to guidance and redirection."
+      ]
+    },
+    {
+      "id": "naming_and_taming_emotions",
+      "title": "Naming and Taming Emotions",
+      "goal": "Show how labeling emotions can help children manage and understand their feelings.",
+      "key_points": [
+        "Encouraging children to tell their story helps them process experiences.",
+        "Naming emotions reduces their intensity and helps children regain control.",
+        "Storytelling fosters left-right brain integration for emotional balance."
+      ]
+    },
+    {
+      "id": "engage_not_enrage",
+      "title": "Engage, Don't Enrage",
+      "goal": "Help parents engage the logical brain during conflicts instead of escalating emotional reactions.",
+      "key_points": [
+        "The 'downstairs brain' is reactive, while the 'upstairs brain' is logical and reflective.",
+        "Discipline strategies should activate a child's upstairs brain.",
+        "Asking questions and encouraging problem-solving promotes thoughtful responses."
+      ]
+    },
+    {
+      "id": "move_it_or_lose_it",
+      "title": "Move It or Lose It",
+      "goal": "Demonstrate how physical movement helps children regulate emotions and reset the brain.",
+      "key_points": [
+        "Physical activity helps shift emotional states and improves mood.",
+        "Movement can be used as a tool to calm down or re-focus.",
+        "Encouraging children to move can break cycles of emotional overwhelm."
+      ]
+    },
+    {
+      "id": "making_memories_work",
+      "title": "Making Memories Work",
+      "goal": "Explore how parents can help children process and integrate memories for emotional health.",
+      "key_points": [
+        "Unprocessed memories can cause emotional distress and behavioral issues.",
+        "Talking through experiences helps children make sense of their memories.",
+        "Parents can guide children in organizing memories for better understanding."
+      ]
+    },
+    {
+      "id": "mindsight_and_self_awareness",
+      "title": "Mindsight and Self-Awareness",
+      "goal": "Introduce the concept of mindsight and its role in developing empathy and self-understanding.",
+      "key_points": [
+        "Mindsight is the ability to perceive one\u2019s own mind and the minds of others.",
+        "Practicing mindsight fosters empathy and social skills.",
+        "Parents can model and teach self-awareness through everyday interactions."
+      ]
+    },
+    {
+      "id": "integration_strategies_for_everyday_life",
+      "title": "Integration Strategies for Everyday Life",
+      "goal": "Provide practical tips for integrating the brain and handling common parenting challenges.",
+      "key_points": [
+        "Daily routines can be used to reinforce integration strategies.",
+        "Open communication and validation help children feel secure.",
+        "Consistency and patience are key to fostering whole-brain development."
+      ]
+    }
+  ]
+}

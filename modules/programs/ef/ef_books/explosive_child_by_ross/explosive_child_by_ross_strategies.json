@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Collaborative Problem Solving",
+    "summary": "Work together with your child to address challenging behaviors by understanding their concerns and finding mutually satisfactory solutions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Collaborative Problem Solving (CPS) shifts the focus from punishment to partnership, helping children feel heard and respected. It builds trust and teaches problem-solving skills."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of imposing a consequence when your child refuses to do homework, you sit together, discuss the difficulty, and brainstorm solutions that work for both of you."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Approach problems as a team, not as adversaries.",
+          "Use calm, non-judgmental language.",
+          "Be patient and allow your child to express their perspective.",
+          "Aim for solutions that address both your concerns and your child's."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Identifying Triggers",
+    "summary": "Recognize the situations, demands, or conditions that tend to precede your child's explosive behaviors.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding triggers helps prevent meltdowns and allows you to proactively address issues before they escalate."
+      },
+      {
+        "section": "Example",
+        "content": "You notice your child often becomes upset when transitioning from playtime to dinner, so you plan for smoother transitions."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep a log of challenging moments to spot patterns.",
+          "Ask your child about what feels hard or upsetting.",
+          "Look for environmental or emotional cues that precede outbursts.",
+          "Share observations with teachers or caregivers for more insight."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Empathy and Listening",
+    "summary": "Listen actively and empathetically to your child's concerns, validating their feelings and experiences.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Empathy builds connection and trust, making it more likely your child will open up and work with you to solve problems."
+      },
+      {
+        "section": "Example",
+        "content": "When your child says, 'It's not fair!' you respond, 'It sounds like you're feeling frustrated. Can you tell me more about what's unfair?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Reflect back what you hear without judgment.",
+          "Avoid interrupting or dismissing your child's feelings.",
+          "Use phrases like, 'I see,' or 'That sounds tough.'",
+          "Be patient\u2014sometimes children need time to express themselves."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Defining the Problem",
+    "summary": "Clearly articulate the specific problem or unsolved issue from both your perspective and your child's.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A clear definition of the problem ensures both parties understand what needs to be addressed, preventing misunderstandings and focusing efforts."
+      },
+      {
+        "section": "Example",
+        "content": "You say, 'I\u2019ve noticed it\u2019s hard for you to stop playing video games when it\u2019s time for bed. I\u2019m concerned about your sleep.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use neutral, non-blaming language.",
+          "State your concerns and invite your child to share theirs.",
+          "Summarize the problem in simple, specific terms.",
+          "Check for understanding before moving forward."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Brainstorming Solutions",
+    "summary": "Work together to generate a list of possible solutions that address both your concerns and your child's.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Brainstorming encourages creativity, cooperation, and ownership of the solution, increasing the likelihood of success."
+      },
+      {
+        "section": "Example",
+        "content": "You and your child list ideas for making bedtime easier, such as setting a timer for games or having a bedtime routine chart."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage all ideas without judgment at first.",
+          "Aim for solutions that are realistic and fair.",
+          "Let your child suggest options, even if they seem unlikely.",
+          "Narrow down the list together to find the best fit."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Implementing Solutions",
+    "summary": "Put the agreed-upon solution into practice and monitor how it works for both you and your child.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Implementation tests whether the solution is practical and effective, and shows your child that their input leads to real change."
+      },
+      {
+        "section": "Example",
+        "content": "You and your child agree to use a timer for video games before bed and check in after a week to see how it\u2019s going."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear expectations for trying the solution.",
+          "Agree on how long to try it before reviewing.",
+          "Be flexible and supportive during the trial period.",
+          "Celebrate small successes and effort."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Reviewing and Adjusting",
+    "summary": "Reflect on how the solution is working and make changes as needed to better address the problem.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Reviewing ensures the solution remains effective and demonstrates that problem-solving is an ongoing, flexible process."
+      },
+      {
+        "section": "Example",
+        "content": "After a week, you and your child discuss whether the timer helped with bedtime and decide to adjust the routine if needed."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular check-ins to discuss progress.",
+          "Ask your child for honest feedback.",
+          "Be open to tweaking or changing the solution.",
+          "Acknowledge effort and improvements, not just outcomes."
+        ]
+      }
+    ]
+  }
+]

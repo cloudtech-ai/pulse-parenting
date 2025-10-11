@@ -1,0 +1,177 @@
+[
+  {
+    "id": 51,
+    "bookId": 7,
+    "title": "Be Proactive",
+    "summary": "Take responsibility for your actions and attitudes instead of blaming others or circumstances.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Being proactive means you control your reactions and choices, which empowers you to shape your own life rather than letting outside forces dictate your path."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of blaming a bad grade on a teacher, you reflect on your study habits and make a plan to improve."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pause before reacting to difficult situations.",
+          "Use proactive language: say 'I can' instead of 'I can't.'",
+          "Focus on what you can control, not what you can't.",
+          "Take initiative to solve problems."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 7,
+    "title": "Begin with the End in Mind",
+    "summary": "Set clear goals and envision your future to guide your daily actions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Having a vision helps you make decisions that align with your values and long-term objectives, preventing you from drifting aimlessly."
+      },
+      {
+        "section": "Example",
+        "content": "You want to become a doctor, so you prioritize science classes and volunteer at a hospital."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Write a personal mission statement.",
+          "Set short-term and long-term goals.",
+          "Visualize your ideal future regularly.",
+          "Check if your daily actions align with your goals."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 7,
+    "title": "Put First Things First",
+    "summary": "Prioritize important tasks over less urgent distractions to manage your time effectively.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Focusing on what matters most helps you achieve your goals and reduces stress from last-minute rushing."
+      },
+      {
+        "section": "Example",
+        "content": "You finish your homework before playing video games, ensuring you meet deadlines and have time to relax."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use a planner to schedule important tasks.",
+          "Identify your most important priorities each day.",
+          "Say no to distractions that don't align with your goals.",
+          "Break big tasks into smaller, manageable steps."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 7,
+    "title": "Think Win-Win",
+    "summary": "Seek solutions that benefit everyone involved, rather than competing or compromising.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Win-win thinking builds trust and strengthens relationships, making it easier to work with others and resolve conflicts."
+      },
+      {
+        "section": "Example",
+        "content": "You and a friend both want to use the computer, so you agree to take turns instead of arguing."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Look for solutions where everyone gains.",
+          "Avoid thinking in terms of winners and losers.",
+          "Celebrate others' successes.",
+          "Communicate openly and honestly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 7,
+    "title": "Seek First to Understand, Then to Be Understood",
+    "summary": "Listen actively to others before expressing your own viewpoint.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding others' perspectives builds empathy and trust, making it easier to resolve disagreements and collaborate."
+      },
+      {
+        "section": "Example",
+        "content": "When a friend is upset, you listen carefully to their feelings before offering advice or sharing your own opinion."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Listen without interrupting.",
+          "Ask clarifying questions.",
+          "Restate what you heard to confirm understanding.",
+          "Hold off on giving advice until the other person feels heard."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 7,
+    "title": "Synergize",
+    "summary": "Work together with others to achieve more than you could alone by valuing differences and combining strengths.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Synergy allows teams to create better solutions by leveraging diverse perspectives and talents."
+      },
+      {
+        "section": "Example",
+        "content": "In a group project, you divide tasks based on each person's strengths, resulting in a higher-quality outcome."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Value differences in others.",
+          "Encourage open collaboration.",
+          "Be willing to compromise and build on others' ideas.",
+          "Look for creative solutions that combine everyone's input."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 7,
+    "title": "Sharpen the Saw",
+    "summary": "Renew yourself regularly in body, mind, heart, and spirit to maintain balance and effectiveness.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Regular self-renewal prevents burnout and keeps you energized, focused, and resilient."
+      },
+      {
+        "section": "Example",
+        "content": "You schedule time each week for exercise, reading, spending time with friends, and reflecting on your goals."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Exercise and eat healthy.",
+          "Read, learn, and challenge your mind.",
+          "Build positive relationships.",
+          "Take time for reflection, meditation, or spiritual practices."
+        ]
+      }
+    ]
+  }
+]

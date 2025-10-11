@@ -1,0 +1,723 @@
+{
+  "understanding_the_whole_brain": [
+    {
+      "id": "lesson1_brain_is_growing",
+      "title": "Children\u2019s Brains Are Always Growing",
+      "goal": "Understand that a child\u2019s brain is constantly developing and changing.",
+      "keyConcept": "A child\u2019s brain is not a finished product\u2014it is always growing and forming new connections. This means that children are constantly learning and adapting, and their behaviors often reflect their stage of brain development. Recognizing this helps parents respond with patience and understanding.",
+      "example": "When your toddler throws a tantrum, it\u2019s not because they want to upset you, but because their brain is still learning how to manage big feelings.",
+      "practiceTip": "Next time your child acts out, remind yourself: 'Their brain is still growing. This is a learning moment.'",
+      "reflectionPrompt": "How does knowing your child\u2019s brain is still developing change the way you view their challenging behaviors?",
+      "quizQuestion": {
+        "question": "Why do children often act out or have emotional outbursts?",
+        "options": [
+          "Because their brains are still developing and learning to manage emotions.",
+          "Because they want to upset their parents."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_brain_integration",
+      "title": "The Importance of Brain Integration",
+      "goal": "Learn why integrating different parts of the brain is crucial for your child\u2019s well-being.",
+      "keyConcept": "The brain has different regions responsible for different tasks, like thinking, feeling, and reacting. Integration means helping these regions work together smoothly. When the brain is integrated, children can better handle emotions, solve problems, and connect with others.",
+      "example": "A child who can talk about their feelings instead of just acting them out is showing good brain integration.",
+      "practiceTip": "Encourage your child to name their feelings: 'You seem sad. Do you want to talk about it?' This helps connect their emotional and thinking brains.",
+      "reflectionPrompt": "Can you recall a time when your child was able to talk about their feelings instead of acting out? What helped them do that?",
+      "quizQuestion": {
+        "question": "What does brain integration help children do?",
+        "options": [
+          "Handle emotions and solve problems better.",
+          "Ignore their feelings."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_left_right_brain",
+      "title": "Connecting the Left and Right Brain",
+      "goal": "Discover how to help your child use both logic and emotion together.",
+      "keyConcept": "The left side of the brain is logical and likes order, while the right side is emotional and creative. Children need help connecting both sides, especially during emotional moments. This balance allows them to make sense of their feelings and respond thoughtfully.",
+      "example": "When a child is upset, first comfort them (right brain), then help them talk through what happened (left brain).",
+      "practiceTip": "When your child is emotional, start by empathizing: 'That was really hard for you.' Once they\u2019re calm, discuss what happened and possible solutions.",
+      "reflectionPrompt": "How can you support your child in using both their feelings and their thinking to solve problems?",
+      "quizQuestion": {
+        "question": "What is a good first step when your child is upset?",
+        "options": [
+          "Comfort them and acknowledge their feelings.",
+          "Immediately ask them to explain what happened."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_upstairs_downstairs_brain",
+      "title": "Understanding the Upstairs and Downstairs Brain",
+      "goal": "Recognize how different brain regions affect your child\u2019s behavior.",
+      "keyConcept": "The 'downstairs brain' controls basic functions and strong emotions, while the 'upstairs brain' handles reasoning and self-control. Young children often react from their downstairs brain because their upstairs brain is still developing. Parents can guide children to use their upstairs brain more often.",
+      "example": "A child who hits when angry is using their downstairs brain. With guidance, they can learn to pause and use words instead.",
+      "practiceTip": "When your child is overwhelmed, help them calm down first, then talk about better choices they can make next time.",
+      "reflectionPrompt": "What are some ways you can help your child move from a reactive state to a more thoughtful one?",
+      "quizQuestion": {
+        "question": "Which part of the brain helps children make thoughtful decisions?",
+        "options": [
+          "Upstairs brain",
+          "Downstairs brain"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_parent_role_integration",
+      "title": "Your Role: Facilitating Brain Integration",
+      "goal": "Learn how you can actively support your child\u2019s brain integration.",
+      "keyConcept": "Parents play a key role in helping children\u2019s brains become more integrated. By responding with empathy, encouraging communication, and modeling calm behavior, you help your child\u2019s brain regions connect and work together. This builds resilience and emotional health.",
+      "example": "When your child is frustrated, you stay calm, listen, and help them find words for their feelings. Over time, they learn to do this themselves.",
+      "practiceTip": "Practice being a 'brain coach'\u2014pause, listen, and guide your child through big emotions instead of reacting with frustration.",
+      "reflectionPrompt": "What is one way you can model calm and connection for your child during a stressful moment?",
+      "quizQuestion": {
+        "question": "How can parents help their child\u2019s brain become more integrated?",
+        "options": [
+          "By responding with empathy and guiding them through emotions.",
+          "By ignoring their feelings."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "connect_and_redirect": [
+    {
+      "id": "lesson1_emotional_brain_first",
+      "title": "Understanding the Emotional Brain",
+      "goal": "Recognize why children react emotionally in challenging situations.",
+      "keyConcept": "Children's brains are still developing, and in stressful moments, their emotional brain (the right brain) often takes over. This means they may react with big feelings rather than logic. Understanding this helps us respond with empathy instead of frustration.",
+      "example": "Your child throws a tantrum when it's time to leave the playground. Instead of reasoning, they cry and refuse to go.",
+      "practiceTip": "Remind yourself that your child's emotional outburst is not defiance, but a sign that their emotional brain is in charge. Pause and take a deep breath before responding.",
+      "reflectionPrompt": "Can you recall a recent time your child reacted emotionally? How did you respond?",
+      "quizQuestion": {
+        "question": "Why do children often react emotionally in tough situations?",
+        "options": [
+          "Because their emotional brain is more active than their logical brain.",
+          "Because they want to upset their parents."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_connect_before_correct",
+      "title": "Connect Before You Correct",
+      "goal": "Learn to connect emotionally with your child before guiding their behavior.",
+      "keyConcept": "When a child is upset, logical explanations or discipline rarely work right away. First, connect with their feelings by acknowledging and validating them. This helps calm their emotional brain and opens the door to guidance.",
+      "example": "Your child is angry about having to turn off the TV. Instead of immediately insisting, you say, 'I see you're really upset because you want to keep watching.'",
+      "practiceTip": "When your child is upset, try reflecting their feelings back to them with words like, 'You seem really sad right now.'",
+      "reflectionPrompt": "How might your child respond differently if you connect with their feelings first?",
+      "quizQuestion": {
+        "question": "What is the first step when your child is upset?",
+        "options": [
+          "Connect with their feelings.",
+          "Explain the rules."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_validating_feelings",
+      "title": "The Power of Validation",
+      "goal": "Understand how validating your child's feelings helps them calm down.",
+      "keyConcept": "Validation means letting your child know their feelings are real and understandable, even if you don't agree with their behavior. This simple act can help soothe their emotional brain and make them feel seen and heard.",
+      "example": "Your child is frustrated about homework. You say, 'I get that this is hard and it\u2019s making you upset.'",
+      "practiceTip": "Use phrases like, 'It's okay to feel upset,' or 'I understand this is hard for you.'",
+      "reflectionPrompt": "How do you feel when someone validates your emotions? How might your child feel?",
+      "quizQuestion": {
+        "question": "What does validating a child's feelings do?",
+        "options": [
+          "Helps them calm down and feel understood.",
+          "Encourages them to misbehave."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_redirect_with_guidance",
+      "title": "Redirect After Connection",
+      "goal": "Learn how to guide your child's behavior once they are calm.",
+      "keyConcept": "After connecting and validating, your child is more open to guidance. Now is the time to gently redirect them toward better choices or solutions, using calm and clear instructions.",
+      "example": "Once your child has calmed down about leaving the playground, you say, 'Let\u2019s say goodbye to the swings and pick a song to listen to in the car.'",
+      "practiceTip": "Wait until your child is calm, then offer simple choices or solutions to move forward.",
+      "reflectionPrompt": "What are some ways you can redirect your child after connecting with them?",
+      "quizQuestion": {
+        "question": "When is the best time to guide your child's behavior?",
+        "options": [
+          "After they are calm and feel understood.",
+          "While they are still upset."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_practice_the_sequence",
+      "title": "Practice: Connect and Redirect in Action",
+      "goal": "Apply the connect and redirect strategy in real-life situations.",
+      "keyConcept": "Putting it all together: when your child is upset, first connect by acknowledging their feelings, validate those feelings, and only then redirect with guidance. Practicing this sequence builds trust and resilience.",
+      "example": "Your child is upset about bedtime. You say, 'I know you wish you could stay up and play. It\u2019s hard to stop when you\u2019re having fun. Let\u2019s pick a book to read together before bed.'",
+      "practiceTip": "Next time your child is upset, try the full sequence: connect, validate, and then redirect.",
+      "reflectionPrompt": "How might using this approach change your daily interactions with your child?",
+      "quizQuestion": {
+        "question": "What are the three steps in the connect and redirect strategy?",
+        "options": [
+          "Connect, validate, redirect.",
+          "Ignore, punish, redirect."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "naming_and_taming_emotions": [
+    {
+      "id": "lesson1_invite_storytelling",
+      "title": "Invite Your Child to Tell Their Story",
+      "goal": "Learn how to encourage your child to share their experiences as a first step in processing emotions.",
+      "keyConcept": "When children are upset, inviting them to tell their story helps them make sense of what happened. This process allows them to organize their thoughts and feelings, making the experience less overwhelming. Storytelling is a gentle way to help children begin to process difficult emotions.",
+      "example": "After a tough day at school, your child seems withdrawn. You say, 'Would you like to tell me what happened today?' This invitation gives them space to share at their own pace.",
+      "practiceTip": "Use open-ended questions like, 'Can you tell me what made you feel that way?' or 'What happened next?' Avoid interrupting or correcting their story.",
+      "reflectionPrompt": "How do you usually respond when your child is upset? Could inviting them to share their story help?",
+      "quizQuestion": {
+        "question": "What is a good way to encourage your child to process their emotions?",
+        "options": [
+          "Invite them to tell their story",
+          "Tell them to forget about it",
+          "Ignore their feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_name_the_feeling",
+      "title": "Help Your Child Name the Feeling",
+      "goal": "Understand how labeling emotions can reduce their intensity and help children regain control.",
+      "keyConcept": "Naming emotions helps children recognize and manage what they are feeling. When a child can say, 'I feel angry' or 'I feel sad,' it makes the emotion less overwhelming and more manageable. This simple act of labeling brings clarity and calm.",
+      "example": "Your child is frustrated after losing a game. You say, 'It looks like you\u2019re feeling disappointed. Is that right?' This helps them identify and accept their emotion.",
+      "practiceTip": "Gently offer emotion words to your child, like 'angry,' 'sad,' or 'excited,' and ask if any fit how they feel. Let them correct or add their own words.",
+      "reflectionPrompt": "How comfortable are you with naming your own emotions? How might this influence your child?",
+      "quizQuestion": {
+        "question": "What is one benefit of helping a child name their emotion?",
+        "options": [
+          "It makes the emotion stronger",
+          "It helps them regain control",
+          "It encourages them to ignore their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_validate_and_accept",
+      "title": "Validate and Accept Their Feelings",
+      "goal": "Learn how to show acceptance of your child's emotions to foster trust and emotional safety.",
+      "keyConcept": "Children need to know that all feelings are okay, even if certain behaviors are not. Validating their emotions\u2014by acknowledging and accepting what they feel\u2014helps them feel understood and supported. This builds trust and emotional resilience.",
+      "example": "Your child is angry about having to leave the playground. You say, 'I see you\u2019re really upset about leaving. That makes sense; you were having fun.'",
+      "practiceTip": "Use phrases like, 'It\u2019s okay to feel that way,' or 'I understand why you feel this.' Avoid minimizing or dismissing their emotions.",
+      "reflectionPrompt": "Think of a time when your feelings were dismissed as a child. How did it make you feel?",
+      "quizQuestion": {
+        "question": "What does validating a child's feelings mean?",
+        "options": [
+          "Telling them to stop feeling that way",
+          "Acknowledging and accepting their emotions",
+          "Ignoring their emotions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_integrate_story_and_feeling",
+      "title": "Connect the Story and the Feeling",
+      "goal": "Discover how linking the event and the emotion helps your child make sense of their experience.",
+      "keyConcept": "Helping your child connect what happened (the story) with how they feel (the emotion) supports whole-brain integration. This process allows them to understand why they feel a certain way and learn from the experience. It encourages emotional growth and problem-solving.",
+      "example": "After your child describes being left out at recess, you say, 'So when your friends played without you, you felt lonely and hurt.'",
+      "practiceTip": "Summarize your child\u2019s story and emotion together: 'When __ happened, you felt __.' This helps them see the connection.",
+      "reflectionPrompt": "How might connecting events and feelings help your child handle future challenges?",
+      "quizQuestion": {
+        "question": "Why is it helpful to link the story and the feeling?",
+        "options": [
+          "It confuses the child",
+          "It helps them understand and learn from the experience",
+          "It makes them forget the event"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_model_emotion_naming",
+      "title": "Model Naming Your Own Emotions",
+      "goal": "Learn how modeling emotion-naming can teach your child healthy emotional habits.",
+      "keyConcept": "Children learn by watching adults. When you name your own emotions out loud, you show your child that it\u2019s normal and healthy to talk about feelings. This encourages them to do the same and builds emotional vocabulary for the whole family.",
+      "example": "You say, 'I\u2019m feeling a little stressed because I have a lot to do today, but I know it will get better.'",
+      "practiceTip": "Share your feelings in simple terms during everyday moments. For example, 'I feel happy when we read together,' or 'I\u2019m a bit frustrated right now, but I\u2019ll take a deep breath.'",
+      "reflectionPrompt": "How often do you talk about your feelings in front of your child? What might change if you did this more?",
+      "quizQuestion": {
+        "question": "What is one benefit of modeling emotion-naming for your child?",
+        "options": [
+          "It teaches them to hide their feelings",
+          "It helps them learn to talk about emotions",
+          "It makes them more confused"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "engage_not_enrage": [
+    {
+      "id": "engage_not_enrage_1",
+      "title": "Understanding the Upstairs and Downstairs Brain",
+      "goal": "Recognize the difference between a child's reactive and logical brain areas.",
+      "keyConcept": "The 'downstairs brain' is responsible for instinctive, emotional reactions like anger or fear, while the 'upstairs brain' handles reasoning, problem-solving, and self-control. During conflicts, children often operate from their downstairs brain, making it hard for them to think logically. Understanding this helps you respond more effectively to your child's emotional outbursts.",
+      "example": "When your child screams after being told 'no,' they're reacting from their downstairs brain, not trying to be difficult.",
+      "practiceTip": "Next time your child has a meltdown, remind yourself: 'This is their downstairs brain talking.' Pause before responding.",
+      "reflectionPrompt": "How might recognizing the difference between the upstairs and downstairs brain change the way you respond to your child's big emotions?",
+      "quizQuestion": {
+        "question": "Which part of the brain is responsible for logical thinking and problem-solving?",
+        "options": [
+          "Downstairs brain",
+          "Upstairs brain"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "engage_not_enrage_2",
+      "title": "Pause Before Reacting",
+      "goal": "Learn to pause and regulate your own emotions before responding to your child.",
+      "keyConcept": "When your child is upset, your own emotions can escalate quickly. Taking a brief pause allows you to engage your upstairs brain, so you can respond thoughtfully instead of reacting emotionally. This models self-control for your child and sets the stage for a calmer interaction.",
+      "example": "Your child throws a toy in frustration. Instead of yelling immediately, you take a deep breath and count to five before speaking.",
+      "practiceTip": "Practice pausing for a few seconds before responding to your child's challenging behavior. Use deep breaths or count silently.",
+      "reflectionPrompt": "What strategies help you stay calm when your child is upset?",
+      "quizQuestion": {
+        "question": "What is the benefit of pausing before responding to your child\u2019s outburst?",
+        "options": [
+          "It helps you react emotionally",
+          "It allows you to respond thoughtfully"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "engage_not_enrage_3",
+      "title": "Engage the Logical Brain with Questions",
+      "goal": "Use questions to activate your child's upstairs brain during conflicts.",
+      "keyConcept": "Asking simple, open-ended questions encourages your child to think and reflect, shifting them from a reactive state to a more thoughtful one. This helps them practice problem-solving and self-regulation, even in emotionally charged moments.",
+      "example": "Instead of saying, 'Stop yelling,' you ask, 'What can we do to solve this problem together?'",
+      "practiceTip": "Try asking your child, 'What do you think we should do next?' or 'How are you feeling right now?' during a conflict.",
+      "reflectionPrompt": "How might asking questions change the way your child responds during a disagreement?",
+      "quizQuestion": {
+        "question": "What is a good way to engage your child\u2019s logical brain during a conflict?",
+        "options": [
+          "Give orders",
+          "Ask open-ended questions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "engage_not_enrage_4",
+      "title": "Encourage Problem-Solving Together",
+      "goal": "Help your child practice solving problems instead of just following orders.",
+      "keyConcept": "When you involve your child in finding solutions, you empower them to use their upstairs brain. This builds confidence and resilience, and teaches them to handle challenges constructively.",
+      "example": "Your child refuses to clean up toys. Instead of insisting, you say, 'Let\u2019s figure out a way to make cleanup more fun. Any ideas?'",
+      "practiceTip": "Invite your child to brainstorm solutions when conflicts arise. Use phrases like, 'What could we try?' or 'Let\u2019s think of some options.'",
+      "reflectionPrompt": "How can involving your child in problem-solving help them develop important life skills?",
+      "quizQuestion": {
+        "question": "What is the benefit of involving your child in problem-solving?",
+        "options": [
+          "They become more reactive",
+          "They build confidence and resilience"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "engage_not_enrage_5",
+      "title": "Practice Calm Communication",
+      "goal": "Use calm, respectful language to de-escalate conflicts.",
+      "keyConcept": "The way you communicate during a conflict can either escalate or calm the situation. Speaking in a calm, gentle tone helps your child feel safe and understood, making it easier for them to access their upstairs brain and cooperate.",
+      "example": "Instead of raising your voice, you kneel down to your child\u2019s level and say, 'I see you\u2019re upset. Let\u2019s talk about it.'",
+      "practiceTip": "When you feel tension rising, lower your voice and use gentle words. Try saying, 'I\u2019m here to help you,' instead of giving commands.",
+      "reflectionPrompt": "How does your tone of voice affect your child\u2019s response during a disagreement?",
+      "quizQuestion": {
+        "question": "What effect does calm communication have during a conflict?",
+        "options": [
+          "It escalates the situation",
+          "It helps de-escalate and calm your child"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "move_it_or_lose_it": [
+    {
+      "id": "lesson1_why_movement_matters",
+      "title": "Why Movement Matters for Emotions",
+      "goal": "Understand how physical activity can influence a child's emotional state.",
+      "keyConcept": "Physical movement isn't just good for the body\u2014it also helps the brain process emotions. When children move, their brains release chemicals that can improve mood and help them feel calmer. This connection means that encouraging movement can be a powerful tool for emotional regulation.",
+      "example": "After a tough day at school, a child feels frustrated and on the verge of tears. Instead of sitting and talking, they go for a short walk with a parent, and their mood noticeably improves.",
+      "practiceTip": "Next time your child seems upset, suggest a quick physical activity like jumping jacks, a walk, or dancing together.",
+      "reflectionPrompt": "Can you recall a time when moving your body helped you feel better emotionally?",
+      "quizQuestion": {
+        "question": "How does physical movement help children regulate emotions?",
+        "options": [
+          "It distracts them from their feelings.",
+          "It helps the brain release chemicals that improve mood.",
+          "It makes them forget their problems."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_identifying_emotional_overwhelm",
+      "title": "Spotting Emotional Overwhelm",
+      "goal": "Learn to recognize signs that a child may need a movement break.",
+      "keyConcept": "Children often show emotional overwhelm through behaviors like crying, yelling, or shutting down. These are signals that their brains are overloaded and need a reset. Recognizing these signs early allows you to intervene with a movement break before emotions escalate.",
+      "example": "A child starts to whine and refuses to do homework. Instead of insisting, the parent notices the signs and suggests a quick game of catch outside.",
+      "practiceTip": "Watch for early signs of frustration or withdrawal, and offer a movement break before things get too intense.",
+      "reflectionPrompt": "What are some signs your child shows when they are starting to feel overwhelmed?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign a child might need a movement break?",
+        "options": [
+          "They are quietly focused.",
+          "They start to cry or yell.",
+          "They are laughing and playing."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_movement_as_a_reset_tool",
+      "title": "Using Movement to Reset",
+      "goal": "Discover simple ways to use movement to help children reset emotionally.",
+      "keyConcept": "Movement can serve as a 'reset button' for the brain. Short bursts of physical activity\u2014like stretching, running in place, or dancing\u2014can help children shift out of an emotional rut and return to a calmer state.",
+      "example": "During a heated sibling argument, a parent suggests everyone take a 'wiggle break' and shake out their arms and legs. The tension eases, and the children are able to talk more calmly afterward.",
+      "practiceTip": "Create a list of fun, quick movement activities you can suggest when emotions run high.",
+      "reflectionPrompt": "What movement activities could you try with your child the next time they need to reset?",
+      "quizQuestion": {
+        "question": "What is the main benefit of using movement as a reset tool?",
+        "options": [
+          "It distracts children from their problems.",
+          "It helps shift their emotional state and calm their brain.",
+          "It makes them tired so they stop arguing."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_encouraging_movement_in_daily_routine",
+      "title": "Encouraging Movement in Daily Routine",
+      "goal": "Learn practical ways to build movement breaks into everyday life.",
+      "keyConcept": "Regular movement doesn't have to be a big event. Integrating small bursts of activity throughout the day helps children manage stress and stay emotionally balanced. Making movement a normal part of your routine sets the stage for healthy emotional habits.",
+      "example": "A family does a two-minute dance party before dinner each night, helping everyone shake off the day's stress.",
+      "practiceTip": "Schedule short movement breaks after school, before homework, or whenever your child seems restless.",
+      "reflectionPrompt": "How can you add more movement opportunities into your family's daily schedule?",
+      "quizQuestion": {
+        "question": "When is a good time to encourage a movement break?",
+        "options": [
+          "Only when a child is upset.",
+          "At regular times throughout the day.",
+          "Only before bedtime."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_modeling_movement_for_emotional_health",
+      "title": "Modeling Movement for Emotional Health",
+      "goal": "Understand the importance of modeling movement as a coping strategy.",
+      "keyConcept": "Children learn by watching adults. When you use movement to manage your own emotions, you show your child that it's a healthy and effective coping tool. This not only helps you but also encourages your child to do the same.",
+      "example": "A parent feels stressed after work and announces, 'I'm going to take a quick walk to clear my head.' The child sees this and later asks to join.",
+      "practiceTip": "Talk openly about how movement helps you feel better, and invite your child to join you in physical activities.",
+      "reflectionPrompt": "How can you model healthy movement habits for your child?",
+      "quizQuestion": {
+        "question": "Why is it important for parents to model movement as a coping tool?",
+        "options": [
+          "Children are more likely to copy what they see.",
+          "It makes parents feel important.",
+          "It keeps children busy."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "making_memories_work": [
+    {
+      "id": "lesson1_understanding_memories",
+      "title": "Understanding the Power of Memories",
+      "goal": "Recognize how unprocessed memories can affect a child's emotions and behavior.",
+      "keyConcept": "Children often experience events that they don't fully understand or process. When these memories are left unaddressed, they can cause emotional distress or lead to challenging behaviors. By understanding the impact of unprocessed memories, parents can better support their child's emotional well-being.",
+      "example": "A child who was frightened by a loud thunderstorm may become anxious every time it rains, even if they don't remember the original event clearly.",
+      "practiceTip": "Pay attention to moments when your child seems upset or acts out after a specific event. Consider whether an unprocessed memory might be influencing their behavior.",
+      "reflectionPrompt": "Can you recall a time when your child\u2019s behavior seemed linked to a past experience?",
+      "quizQuestion": {
+        "question": "What can unprocessed memories lead to in children?",
+        "options": [
+          "Emotional distress and behavioral issues",
+          "Better memory skills",
+          "Increased happiness"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_talking_through_experiences",
+      "title": "Talking Through Experiences",
+      "goal": "Learn how to help children process memories by discussing their experiences.",
+      "keyConcept": "Talking about experiences helps children make sense of what happened and how they felt. This process allows them to organize their memories and reduces confusion or fear. Open conversations provide a safe space for children to express themselves and begin healing.",
+      "example": "After a difficult day at school, a parent invites their child to share what happened and how it made them feel, helping the child process the event.",
+      "practiceTip": "Ask your child open-ended questions like, 'Can you tell me what happened today?' or 'How did that make you feel?'",
+      "reflectionPrompt": "How comfortable do you feel talking with your child about their daily experiences?",
+      "quizQuestion": {
+        "question": "What is a benefit of talking through experiences with your child?",
+        "options": [
+          "It helps them forget the event",
+          "It helps them make sense of their memories",
+          "It makes them more confused"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_validating_emotions",
+      "title": "Validating Your Child\u2019s Emotions",
+      "goal": "Understand the importance of acknowledging and validating your child's feelings during memory processing.",
+      "keyConcept": "Children need to know their feelings are real and acceptable. When parents validate emotions, children feel understood and are more likely to share openly. This validation is a key step in helping them process and integrate memories.",
+      "example": "When a child says, 'I was scared when the dog barked,' the parent responds, 'That must have been really scary for you.'",
+      "practiceTip": "Use phrases like, 'I can see why you felt that way,' or 'It\u2019s okay to feel upset about that.'",
+      "reflectionPrompt": "How do you usually respond when your child expresses strong emotions?",
+      "quizQuestion": {
+        "question": "Why is it important to validate your child's emotions?",
+        "options": [
+          "It encourages them to hide their feelings",
+          "It helps them feel understood and safe",
+          "It makes them forget their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_helping_organize_memories",
+      "title": "Helping Children Organize Memories",
+      "goal": "Learn strategies to guide children in making sense of their memories.",
+      "keyConcept": "Children often need help putting the pieces of their experiences together. By guiding them to retell events in order, parents help children organize their memories, which leads to better understanding and less confusion.",
+      "example": "A parent helps their child recount a playground argument step by step, clarifying what happened first, next, and last.",
+      "practiceTip": "Encourage your child to tell the story of an event from beginning to end, asking gentle questions to fill in details.",
+      "reflectionPrompt": "How might helping your child organize their memories change the way they feel about past events?",
+      "quizQuestion": {
+        "question": "What is a good way to help a child organize their memories?",
+        "options": [
+          "Ask them to retell the event in order",
+          "Ignore the event",
+          "Tell them to forget about it"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_creating_safe_spaces",
+      "title": "Creating Safe Spaces for Sharing",
+      "goal": "Discover how to foster an environment where children feel comfortable sharing memories.",
+      "keyConcept": "Children are more likely to process and share memories when they feel safe and not judged. Creating a supportive environment encourages openness and trust, which are essential for emotional health.",
+      "example": "A parent sets aside quiet time each evening for their child to talk about anything on their mind, without interruptions or criticism.",
+      "practiceTip": "Establish a regular routine where your child knows they can talk to you about their day or any worries.",
+      "reflectionPrompt": "What can you do to make your child feel safer sharing their thoughts and memories with you?",
+      "quizQuestion": {
+        "question": "What helps children feel comfortable sharing their memories?",
+        "options": [
+          "A supportive, non-judgmental environment",
+          "Being rushed to talk",
+          "Ignoring their stories"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "mindsight_and_self_awareness": [
+    {
+      "id": "mindsight_intro",
+      "title": "Understanding Mindsight",
+      "goal": "Learn what mindsight is and why it matters for your child\u2019s development.",
+      "keyConcept": "Mindsight is the ability to recognize and understand your own thoughts, feelings, and intentions, as well as those of others. It helps children become more aware of their internal world and better relate to people around them. Developing mindsight lays the foundation for empathy, self-regulation, and healthy relationships.",
+      "example": "When a child feels upset after losing a game, mindsight helps them notice their disappointment and understand that others might feel the same way in similar situations.",
+      "practiceTip": "Start using simple language to talk about feelings and thoughts with your child, such as, 'I see you\u2019re feeling sad because you lost. That\u2019s okay. Everyone feels that way sometimes.'",
+      "reflectionPrompt": "How often do you talk about your own or your child\u2019s feelings during daily routines?",
+      "quizQuestion": {
+        "question": "What is mindsight?",
+        "options": [
+          "The ability to see things far away",
+          "The ability to understand your own and others\u2019 thoughts and feelings",
+          "A type of memory skill"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "modeling_self_awareness",
+      "title": "Modeling Self-Awareness",
+      "goal": "Discover how your own self-awareness can teach your child to understand themselves.",
+      "keyConcept": "Children learn by observing their parents. When you openly acknowledge your own emotions and thoughts, you show your child that it\u2019s normal and healthy to be aware of what\u2019s happening inside. This modeling helps your child develop their own self-awareness.",
+      "example": "If you say, 'I\u2019m feeling frustrated because I can\u2019t find my keys,' your child sees that adults also have feelings and can talk about them calmly.",
+      "practiceTip": "Narrate your feelings out loud in simple terms during daily activities, such as, 'I\u2019m happy because we\u2019re spending time together.'",
+      "reflectionPrompt": "What is one feeling you can name out loud to your child today?",
+      "quizQuestion": {
+        "question": "Why is it helpful for parents to talk about their own feelings?",
+        "options": [
+          "It teaches children to ignore emotions",
+          "It models healthy self-awareness",
+          "It confuses children"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "naming_feelings",
+      "title": "Naming Feelings Together",
+      "goal": "Help your child identify and label their emotions.",
+      "keyConcept": "When children can name their feelings, they are better able to manage them. Labeling emotions gives children the language to express what\u2019s happening inside, which reduces confusion and helps them feel understood.",
+      "example": "After a disagreement with a friend, you might say, 'It looks like you\u2019re feeling angry and hurt. Is that right?'",
+      "practiceTip": "During emotional moments, pause and help your child name what they might be feeling. Use phrases like, 'Are you feeling sad, mad, or something else?'",
+      "reflectionPrompt": "How comfortable do you feel helping your child name their emotions?",
+      "quizQuestion": {
+        "question": "What is one benefit of helping children name their feelings?",
+        "options": [
+          "They become more confused",
+          "They can better manage their emotions",
+          "They ignore their feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "perspective_taking",
+      "title": "Practicing Perspective-Taking",
+      "goal": "Encourage your child to consider other people\u2019s thoughts and feelings.",
+      "keyConcept": "Perspective-taking is the ability to imagine what someone else might be thinking or feeling. This skill is crucial for empathy and healthy social interactions. By practicing perspective-taking, children learn to relate to others and build stronger relationships.",
+      "example": "If your child grabs a toy from a sibling, you might ask, 'How do you think your brother felt when you took the toy?'",
+      "practiceTip": "Ask your child questions about how others might feel in different situations, such as, 'How do you think your friend felt when you shared your snack?'",
+      "reflectionPrompt": "When was the last time you helped your child think about someone else\u2019s feelings?",
+      "quizQuestion": {
+        "question": "What does perspective-taking help children develop?",
+        "options": [
+          "Empathy and social skills",
+          "Better eyesight",
+          "Math skills"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "everyday_mindsight",
+      "title": "Using Mindsight in Everyday Life",
+      "goal": "Integrate mindsight practices into daily routines with your child.",
+      "keyConcept": "Mindsight isn\u2019t just for big emotional moments\u2014it can be woven into everyday life. Regularly checking in about feelings, thoughts, and intentions helps children build self-awareness and empathy over time.",
+      "example": "At bedtime, you might ask, 'What was something that made you happy today? Was there anything that made you feel upset?'",
+      "practiceTip": "Create a daily habit of sharing one feeling or thought with each other, such as during meals or before bed.",
+      "reflectionPrompt": "What is one daily routine where you could add a quick feelings check-in with your child?",
+      "quizQuestion": {
+        "question": "How can you help your child develop mindsight every day?",
+        "options": [
+          "By ignoring their feelings",
+          "By regularly talking about thoughts and emotions",
+          "By only focusing on schoolwork"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "integration_strategies_for_everyday_life": [
+    {
+      "id": "integration_micro_lesson_1",
+      "title": "Using Routines to Build Brain Integration",
+      "goal": "Learn how to use daily routines to support your child's whole-brain development.",
+      "keyConcept": "Consistent routines provide children with a sense of security and predictability, which helps their brains integrate new experiences. By intentionally weaving small integration strategies\u2014like naming emotions or practicing deep breaths\u2014into everyday activities, you can help your child develop resilience and emotional balance.",
+      "example": "During the bedtime routine, a parent asks their child to share one good thing and one challenging thing from the day, helping the child process emotions and experiences.",
+      "practiceTip": "Pick one daily routine (like mealtime or bedtime) and add a simple integration activity, such as asking your child how they felt during the day or practicing a calming breath together.",
+      "reflectionPrompt": "Which part of your daily routine could you use to introduce a simple integration strategy?",
+      "quizQuestion": {
+        "question": "Why are routines helpful for brain integration?",
+        "options": [
+          "They make life more predictable and allow for repeated practice of integration strategies.",
+          "They prevent children from expressing emotions.",
+          "They eliminate all parenting challenges."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "integration_micro_lesson_2",
+      "title": "The Power of Open Communication",
+      "goal": "Understand how open communication fosters security and brain integration in children.",
+      "keyConcept": "When children feel heard and understood, their brains are more likely to integrate emotional and logical responses. Open communication means listening without judgment, validating feelings, and encouraging children to express themselves, which builds trust and emotional intelligence.",
+      "example": "A child comes home upset after a disagreement with a friend. The parent listens attentively, acknowledges the child's feelings, and asks open-ended questions to help the child process the event.",
+      "practiceTip": "The next time your child shares something, focus on listening without interrupting. Respond with phrases like, 'That sounds really tough. I'm here for you.'",
+      "reflectionPrompt": "How do you usually respond when your child shares difficult emotions? What could you do differently to show you are truly listening?",
+      "quizQuestion": {
+        "question": "What is a key benefit of open communication with your child?",
+        "options": [
+          "It helps children feel secure and supports brain integration.",
+          "It makes children dependent on their parents.",
+          "It prevents children from making mistakes."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "integration_micro_lesson_3",
+      "title": "Validating Your Child\u2019s Feelings",
+      "goal": "Learn how to validate your child's emotions to support their mental health.",
+      "keyConcept": "Validation means acknowledging your child's feelings without immediately trying to fix or dismiss them. This helps children feel understood and teaches them that all emotions are acceptable, which is crucial for emotional regulation and resilience.",
+      "example": "When a child is frustrated about losing a game, the parent says, 'I can see you're really disappointed. It's okay to feel that way.'",
+      "practiceTip": "When your child expresses a strong emotion, try reflecting back what you hear: 'You seem really angry right now. That makes sense because...'",
+      "reflectionPrompt": "How comfortable are you with sitting with your child's difficult emotions without trying to solve them right away?",
+      "quizQuestion": {
+        "question": "What does validating your child's feelings involve?",
+        "options": [
+          "Acknowledging their emotions without judgment.",
+          "Telling them to stop feeling that way.",
+          "Ignoring their feelings until they calm down."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "integration_micro_lesson_4",
+      "title": "Consistency and Patience in Parenting",
+      "goal": "Recognize the importance of being consistent and patient to foster whole-brain development.",
+      "keyConcept": "Children learn best through repeated, consistent experiences. Being patient and consistent\u2014even when progress seems slow\u2014helps your child internalize integration strategies and builds trust in your relationship.",
+      "example": "A parent consistently uses the same calming technique with their child during meltdowns, even if it takes several tries before the child starts to use it independently.",
+      "practiceTip": "Choose one integration strategy and commit to using it consistently for a week, even if you don\u2019t see immediate results.",
+      "reflectionPrompt": "When have you felt discouraged by slow progress in your child's behavior? How might patience and consistency help?",
+      "quizQuestion": {
+        "question": "Why are consistency and patience important in parenting?",
+        "options": [
+          "They help children learn and trust integration strategies over time.",
+          "They guarantee immediate results.",
+          "They make parenting effortless."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "integration_micro_lesson_5",
+      "title": "Making Integration Strategies Part of Everyday Life",
+      "goal": "Discover simple ways to weave integration strategies into daily interactions.",
+      "keyConcept": "Integration doesn\u2019t require special activities; it can happen in small, everyday moments. By being intentional\u2014like naming emotions, connecting through touch, or sharing stories\u2014you help your child\u2019s brain connect different regions and build resilience.",
+      "example": "While driving together, a parent asks their child to describe how their body feels when they\u2019re excited or nervous, helping the child link physical sensations to emotions.",
+      "practiceTip": "Look for 'in-between' moments (like car rides or waiting in line) to ask your child about their feelings or share a story from your own day.",
+      "reflectionPrompt": "What small moments during your day could become opportunities for connection and integration?",
+      "quizQuestion": {
+        "question": "How can integration strategies be incorporated into daily life?",
+        "options": [
+          "By using small, everyday moments for connection and emotional awareness.",
+          "Only during scheduled therapy sessions.",
+          "By ignoring emotions until problems arise."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

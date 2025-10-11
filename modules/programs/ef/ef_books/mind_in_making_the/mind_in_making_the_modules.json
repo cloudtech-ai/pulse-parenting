@@ -1,0 +1,97 @@
+{
+  "id": "mind_in_the_making",
+  "title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs",
+  "description": "This book by Ellen Galinsky explores the seven essential life skills that children need to thrive in school and beyond. Drawing from decades of child development research, Galinsky provides practical strategies for parents and educators to nurture these crucial abilities. The book offers insights into fostering children's curiosity, self-control, communication, and critical thinking, among other skills. Each skill is broken down with real-life examples and actionable tips to help children succeed in a complex world.",
+  "modules": [
+    {
+      "id": "introduction_to_life_skills",
+      "title": "Introduction to the Seven Essential Life Skills",
+      "goal": "To introduce the concept of essential life skills and their importance in child development.",
+      "key_points": [
+        "Defines what life skills are and why they matter for children's long-term success.",
+        "Outlines the seven core skills identified by Galinsky.",
+        "Discusses how these skills support learning, relationships, and well-being."
+      ]
+    },
+    {
+      "id": "focus_and_self_control",
+      "title": "Focus and Self-Control",
+      "goal": "To understand the importance of attention, self-regulation, and managing distractions.",
+      "key_points": [
+        "Explains how children can learn to focus their attention and resist impulses.",
+        "Describes strategies for building routines and minimizing distractions.",
+        "Links self-control to academic achievement and social success."
+      ]
+    },
+    {
+      "id": "perspective_taking",
+      "title": "Perspective Taking",
+      "goal": "To explore empathy and the ability to understand others' thoughts and feelings.",
+      "key_points": [
+        "Highlights why perspective taking is essential for communication and relationships.",
+        "Offers methods for helping children see situations from different viewpoints.",
+        "Connects perspective taking to conflict resolution and cooperation."
+      ]
+    },
+    {
+      "id": "communication",
+      "title": "Communication",
+      "goal": "To develop effective verbal and nonverbal communication skills.",
+      "key_points": [
+        "Stresses the value of clear and respectful communication.",
+        "Provides activities to enhance listening and expressive abilities.",
+        "Emphasizes the role of communication in learning and social interaction."
+      ]
+    },
+    {
+      "id": "making_connections",
+      "title": "Making Connections",
+      "goal": "To foster the ability to connect ideas, experiences, and concepts creatively.",
+      "key_points": [
+        "Explains the importance of seeing patterns and relationships between ideas.",
+        "Encourages curiosity and exploration in learning.",
+        "Shares techniques for helping children make meaningful links in their thinking."
+      ]
+    },
+    {
+      "id": "critical_thinking",
+      "title": "Critical Thinking",
+      "goal": "To cultivate skills for analyzing, evaluating, and solving problems.",
+      "key_points": [
+        "Defines critical thinking and its role in decision making.",
+        "Suggests ways to encourage questioning and independent thought.",
+        "Illustrates how critical thinking applies to everyday challenges."
+      ]
+    },
+    {
+      "id": "taking_on_challenges",
+      "title": "Taking on Challenges",
+      "goal": "To promote resilience, perseverance, and a growth mindset in children.",
+      "key_points": [
+        "Discusses why facing challenges is vital for learning and confidence.",
+        "Provides strategies to help children embrace effort and overcome setbacks.",
+        "Connects persistence to long-term achievement and emotional health."
+      ]
+    },
+    {
+      "id": "self_directed_engaged_learning",
+      "title": "Self-Directed, Engaged Learning",
+      "goal": "To inspire motivation, curiosity, and a lifelong love of learning.",
+      "key_points": [
+        "Describes the benefits of self-motivation and independent exploration.",
+        "Offers ideas for nurturing children's initiative and engagement.",
+        "Highlights the importance of adapting to new information and experiences."
+      ]
+    },
+    {
+      "id": "practical_applications",
+      "title": "Practical Applications for Parents and Educators",
+      "goal": "To provide actionable strategies to implement the seven essential life skills at home and in school.",
+      "key_points": [
+        "Summarizes key takeaways from each skill.",
+        "Includes tips, activities, and routines to reinforce skills daily.",
+        "Motivates adults to model and support skill development in children."
+      ]
+    }
+  ]
+}

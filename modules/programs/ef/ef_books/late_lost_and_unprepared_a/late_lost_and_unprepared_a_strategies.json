@@ -1,0 +1,184 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Creating Routines",
+    "summary": "Establish predictable patterns for daily activities to support executive functioning.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Consistent routines reduce anxiety, increase independence, and help children anticipate what comes next, making transitions smoother."
+      },
+      {
+        "section": "Example",
+        "content": "A morning routine that includes waking up, brushing teeth, getting dressed, and eating breakfast in the same order each day helps a child start school days calmly."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Start with one routine (e.g., bedtime) before adding others.",
+          "Use simple, clear steps and practice them together.",
+          "Post the routine somewhere visible.",
+          "Give reminders and praise for following the routine.",
+          "Be flexible and adjust as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Visual Schedules",
+    "summary": "Use visual aids to outline daily tasks and transitions, making expectations concrete.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Visual schedules help children understand and remember what to do, reducing confusion and increasing independence."
+      },
+      {
+        "section": "Example",
+        "content": "A chart with pictures showing 'homework,' 'snack,' and 'playtime' helps a child move through after-school activities without constant reminders."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use pictures, icons, or written words based on your child\u2019s age.",
+          "Review the schedule together each morning.",
+          "Allow the child to check off completed tasks.",
+          "Update the schedule as routines change.",
+          "Keep it accessible and easy to read."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Time Management Tools",
+    "summary": "Introduce tools and strategies to help children estimate, track, and manage time effectively.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Children with executive functioning challenges often struggle to sense the passage of time, leading to lateness and incomplete tasks."
+      },
+      {
+        "section": "Example",
+        "content": "Using a visual timer during homework helps a child see how much time is left and stay on task."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use timers, alarms, or countdown clocks for tasks.",
+          "Break tasks into smaller timed segments.",
+          "Practice estimating how long activities will take.",
+          "Review completed tasks to improve future time estimates.",
+          "Encourage use of planners or calendars."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Organizational Systems",
+    "summary": "Set up systems to keep materials, spaces, and information orderly and accessible.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Organization reduces lost items, forgotten assignments, and stress, making it easier for children to focus on learning and tasks."
+      },
+      {
+        "section": "Example",
+        "content": "A color-coded folder system for school subjects helps a child quickly find homework and handouts."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Designate specific places for backpacks, shoes, and supplies.",
+          "Use bins, labels, and folders to sort items.",
+          "Schedule regular clean-up times.",
+          "Teach your child to return items to their place after use.",
+          "Simplify systems to match your child\u2019s developmental level."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Emotional Regulation Techniques",
+    "summary": "Teach strategies to help children recognize, express, and manage their emotions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Strong emotions can interfere with thinking, planning, and following through on tasks. Regulation skills support better behavior and learning."
+      },
+      {
+        "section": "Example",
+        "content": "A child uses deep breathing to calm down after becoming frustrated with a difficult homework problem."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model calm responses to stress.",
+          "Practice deep breathing, counting, or using a calm-down space.",
+          "Label and validate your child\u2019s feelings.",
+          "Teach problem-solving steps for emotional situations.",
+          "Praise efforts to use regulation strategies."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Goal Setting and Planning",
+    "summary": "Guide children in setting achievable goals and breaking them into manageable steps.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Goal setting builds motivation and teaches children how to plan, prioritize, and track progress."
+      },
+      {
+        "section": "Example",
+        "content": "A child sets a goal to finish a book report by Friday and creates a plan to read a chapter each night."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Help your child choose specific, realistic goals.",
+          "Break goals into small, actionable steps.",
+          "Use checklists or charts to track progress.",
+          "Celebrate milestones along the way.",
+          "Review and adjust goals as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Self-Monitoring Strategies",
+    "summary": "Teach children to observe and reflect on their own behavior, work, and progress.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Self-monitoring builds independence and helps children catch mistakes, stay on task, and improve over time."
+      },
+      {
+        "section": "Example",
+        "content": "A child uses a checklist to review homework for errors before turning it in."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model thinking aloud about your own work and choices.",
+          "Use checklists or self-rating scales.",
+          "Prompt your child to pause and review their work.",
+          "Encourage reflection on what went well and what could improve.",
+          "Provide feedback and praise for self-monitoring efforts."
+        ]
+      }
+    ]
+  }
+]

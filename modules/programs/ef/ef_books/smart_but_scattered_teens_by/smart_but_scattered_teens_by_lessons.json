@@ -1,0 +1,917 @@
+{
+  "introduction_to_executive_skills": [
+    {
+      "id": "lesson1_defining_executive_skills",
+      "title": "What Are Executive Skills?",
+      "goal": "Learn the definition and basic components of executive skills.",
+      "keyConcept": "Executive skills are a set of mental processes that help us plan, organize, remember things, prioritize, pay attention, and get started on tasks. These skills are crucial for managing daily life and achieving goals, especially for teens as they gain more independence. Understanding what these skills are is the first step in supporting your child's growth.",
+      "example": "A teen uses executive skills when they remember to bring their homework to school, plan out a project, or resist the urge to check their phone during study time.",
+      "practiceTip": "Start a conversation with your teen about what helps them remember important tasks or stay organized. Use simple language and examples from their daily life.",
+      "reflectionPrompt": "Which executive skill do you notice your child using most often? Which one seems most challenging for them?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an executive skill?",
+        "options": [
+          "Remembering to do homework",
+          "Running fast",
+          "Drawing a picture"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_importance_in_daily_life",
+      "title": "Why Executive Skills Matter",
+      "goal": "Understand the impact of executive skills on daily life and success.",
+      "keyConcept": "Strong executive skills help teens manage their time, set goals, and handle responsibilities both at school and at home. When these skills are weak, teens may struggle with organization, completing assignments, or managing emotions. Supporting these skills can lead to better academic performance and healthier relationships.",
+      "example": "A teen who struggles with planning might forget about a big project until the last minute, leading to stress and lower grades.",
+      "practiceTip": "Notice and praise your teen when they successfully use an executive skill, such as planning ahead or staying focused on a task.",
+      "reflectionPrompt": "How have you seen executive skills (or the lack of them) affect your child's day-to-day experiences?",
+      "quizQuestion": {
+        "question": "What is one benefit of strong executive skills?",
+        "options": [
+          "Better time management",
+          "Increased height",
+          "Improved eyesight"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_developmental_differences",
+      "title": "Executive Skills Develop Over Time",
+      "goal": "Recognize that executive skills develop at different rates in teens.",
+      "keyConcept": "Executive skills are linked to brain development and mature gradually throughout childhood and adolescence. Some teens may excel in certain skills while still developing others. It's normal for these abilities to strengthen at different times, and patience is key.",
+      "example": "A 14-year-old might be great at remembering appointments but still struggle to control impulses or manage frustration.",
+      "practiceTip": "Avoid comparing your teen to others. Instead, focus on their individual progress and celebrate small improvements.",
+      "reflectionPrompt": "Which executive skill do you think your child is currently developing? How can you support their growth?",
+      "quizQuestion": {
+        "question": "True or False: All teens develop executive skills at the same pace.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_identifying_strengths_and_challenges",
+      "title": "Spotting Strengths and Challenges",
+      "goal": "Learn how to identify your teen\u2019s executive skill strengths and areas for growth.",
+      "keyConcept": "Every teen has unique executive skill strengths and challenges. By observing your child\u2019s behavior and asking about their experiences, you can start to identify which skills come naturally and which ones need more support. This awareness helps you target your guidance effectively.",
+      "example": "You notice your teen is very good at organizing their backpack but often forgets to turn in assignments on time.",
+      "practiceTip": "Keep a simple log for a week, noting times when your teen shows strong executive skills and times when they struggle.",
+      "reflectionPrompt": "What patterns do you notice in your teen\u2019s executive skills? How might these patterns affect their daily life?",
+      "quizQuestion": {
+        "question": "What is a good first step to supporting your teen\u2019s executive skills?",
+        "options": [
+          "Identify their strengths and challenges",
+          "Buy new school supplies",
+          "Sign them up for more activities"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_supporting_growth",
+      "title": "Supporting Executive Skill Growth",
+      "goal": "Discover practical ways to help your teen strengthen executive skills.",
+      "keyConcept": "Parents can play a key role in helping teens build executive skills by providing structure, encouragement, and opportunities for practice. Simple routines, clear expectations, and positive feedback can make a big difference as teens learn and grow.",
+      "example": "Setting up a family calendar and reviewing it together each week helps your teen practice planning and organization.",
+      "practiceTip": "Choose one executive skill to focus on this week. Work with your teen to set a small, achievable goal related to that skill.",
+      "reflectionPrompt": "What is one routine or strategy you could introduce at home to support your teen\u2019s executive skill development?",
+      "quizQuestion": {
+        "question": "Which of the following helps teens build executive skills?",
+        "options": [
+          "Providing structure and routines",
+          "Letting them figure everything out alone",
+          "Ignoring their struggles"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "identifying_strengths_and_weaknesses": [
+    {
+      "id": "lesson1_self_assessment_introduction",
+      "title": "Understanding Executive Skills Self-Assessment",
+      "goal": "Learn what executive skills are and why self-assessment matters.",
+      "keyConcept": "Executive skills are mental abilities that help us manage tasks, organize, plan, and control impulses. Self-assessment is the first step in understanding which skills are strengths and which need improvement. By honestly evaluating these skills, you can better support your teen\u2019s growth and resilience.",
+      "example": "A parent notices their teen struggles with time management but excels at creative problem-solving. Using a self-assessment tool helps the parent see these patterns clearly.",
+      "practiceTip": "Set aside 10 minutes to review a list of executive skills (like organization, emotional control, or task initiation) and rate yourself and your teen on each one.",
+      "reflectionPrompt": "Which executive skill do you feel most confident about in yourself or your teen? Why?",
+      "quizQuestion": {
+        "question": "What is the main purpose of a self-assessment for executive skills?",
+        "options": [
+          "To identify strengths and areas for improvement",
+          "To compare your teen to others",
+          "To assign blame for challenges"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_recognizing_patterns",
+      "title": "Spotting Strengths and Challenges",
+      "goal": "Identify patterns in executive skill strengths and weaknesses.",
+      "keyConcept": "Everyone has a unique profile of executive skills\u2014some come naturally, while others are more difficult. Recognizing these patterns helps you understand your teen\u2019s behavior and tailor your support. Patterns often emerge when you look at repeated successes or struggles in daily life.",
+      "example": "A teen consistently forgets homework but always remembers soccer practice. This suggests strengths in motivation for activities they enjoy and weaknesses in organization for school tasks.",
+      "practiceTip": "Keep a simple log for one week, noting when your teen succeeds or struggles with tasks like chores, homework, or social commitments.",
+      "reflectionPrompt": "What is one recurring challenge your teen faces, and what might it reveal about their executive skills?",
+      "quizQuestion": {
+        "question": "Why is it helpful to look for patterns in your teen\u2019s behavior?",
+        "options": [
+          "To predict their future career",
+          "To understand their executive skill strengths and weaknesses",
+          "To compare them to siblings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_using_assessment_results",
+      "title": "Turning Assessment into Action",
+      "goal": "Learn how to use assessment results to set meaningful goals.",
+      "keyConcept": "Assessment results are most useful when they lead to action. By identifying one or two skills to focus on, you can set realistic goals for improvement. This targeted approach prevents overwhelm and increases the chances of success.",
+      "example": "After noticing her teen struggles with planning, a parent helps set a goal to use a daily planner for school assignments.",
+      "practiceTip": "Choose one executive skill that needs improvement and brainstorm a small, specific goal to work on together with your teen.",
+      "reflectionPrompt": "What is one small change you could make this week to support your teen\u2019s executive skill development?",
+      "quizQuestion": {
+        "question": "What is the best way to use self-assessment results?",
+        "options": [
+          "Set one or two focused goals for improvement",
+          "Try to fix everything at once",
+          "Ignore the results"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_celebrating_strengths",
+      "title": "Building on Strengths",
+      "goal": "Discover how to leverage strengths to boost confidence and resilience.",
+      "keyConcept": "Focusing on strengths helps your teen feel capable and motivated. When you acknowledge and build on what they do well, it creates a positive foundation for tackling challenges. Strengths can also be used to compensate for weaker skills.",
+      "example": "A teen who is great at technology uses reminder apps to help with forgetfulness, turning a strength into a support tool.",
+      "practiceTip": "Praise your teen for using a strength, and discuss ways they can use it to help with a challenge area.",
+      "reflectionPrompt": "How can your teen\u2019s strengths help them overcome a current challenge?",
+      "quizQuestion": {
+        "question": "Why is it important to focus on strengths as well as weaknesses?",
+        "options": [
+          "It boosts confidence and motivation",
+          "It ignores real problems",
+          "It makes challenges disappear instantly"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_adjusting_support",
+      "title": "Adapting Support Based on Needs",
+      "goal": "Learn to adjust your support strategies to fit your teen\u2019s unique executive skill profile.",
+      "keyConcept": "Every teen is different, so support should be tailored to their specific strengths and weaknesses. Adjusting your approach\u2014whether it\u2019s providing reminders, breaking tasks into steps, or giving more independence\u2014can help your teen grow and feel understood.",
+      "example": "A parent notices their teen is independent with chores but needs reminders for homework, so they gradually reduce reminders for chores while maintaining support for schoolwork.",
+      "practiceTip": "Talk with your teen about what kind of help feels most useful to them, and be willing to adjust your approach as they grow.",
+      "reflectionPrompt": "What is one way you could change your support to better match your teen\u2019s needs?",
+      "quizQuestion": {
+        "question": "How should you decide what kind of support to give your teen?",
+        "options": [
+          "Base it on their unique strengths and weaknesses",
+          "Use the same approach for every child",
+          "Let them figure it out alone"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "building_organization_and_time_management": [
+    {
+      "id": "lesson1_clear_spaces_clear_minds",
+      "title": "Clear Spaces, Clear Minds",
+      "goal": "Learn how to create an organized physical environment for better focus.",
+      "keyConcept": "A cluttered space can make it harder for teens to focus and manage their responsibilities. By setting up a dedicated, tidy area for schoolwork and personal tasks, teens can reduce distractions and feel more in control. Organization starts with the environment\u2014when everything has a place, it's easier to find what you need and stay on track.",
+      "example": "A teen keeps losing homework assignments because their backpack and desk are messy. After organizing their desk and using folders for each subject, they find it easier to keep track of their work.",
+      "practiceTip": "Set aside 10 minutes with your teen to organize their study area. Use bins, folders, or trays to sort papers and supplies. Make it a weekly habit to tidy up together.",
+      "reflectionPrompt": "How does your current workspace make you feel? What one change could make it more organized?",
+      "quizQuestion": {
+        "question": "Why is it important to have an organized study space?",
+        "options": [
+          "It helps reduce distractions and makes it easier to find things.",
+          "It looks nice for visitors.",
+          "It saves money."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_breaking_tasks_down",
+      "title": "Breaking Tasks Down",
+      "goal": "Discover how to make big tasks manageable by dividing them into smaller steps.",
+      "keyConcept": "Large assignments or chores can feel overwhelming and lead to procrastination. Teaching teens to break big tasks into smaller, specific steps makes them less intimidating and easier to start. This strategy builds confidence and helps teens see progress as they complete each step.",
+      "example": "Instead of 'write a research paper,' a teen lists steps: choose a topic, find sources, make an outline, write a draft, and edit. Tackling one step at a time feels doable.",
+      "practiceTip": "When your teen faces a big task, sit down together and list out the smaller steps needed to complete it. Check off each step as it's finished.",
+      "reflectionPrompt": "Think of a recent big task. How could breaking it into steps have helped you?",
+      "quizQuestion": {
+        "question": "What is the benefit of breaking a big task into smaller steps?",
+        "options": [
+          "It makes the task seem less overwhelming.",
+          "It takes more time.",
+          "It makes the task harder."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_using_calendars_and_planners",
+      "title": "Using Calendars and Planners",
+      "goal": "Learn how to use calendars and planners to keep track of assignments and activities.",
+      "keyConcept": "Calendars and planners help teens visualize their commitments and manage their time effectively. Writing down deadlines, appointments, and activities prevents last-minute surprises and supports planning ahead. Consistently using a planner builds responsibility and reduces stress.",
+      "example": "A teen writes all their homework due dates and soccer practices in a planner. They check it each morning to know what\u2019s coming up.",
+      "practiceTip": "Help your teen choose a planner or digital calendar. Set a daily routine to review and update it together, especially at the start or end of each day.",
+      "reflectionPrompt": "How could using a planner or calendar help you feel more in control of your time?",
+      "quizQuestion": {
+        "question": "What is one advantage of using a planner?",
+        "options": [
+          "It helps you remember important dates and deadlines.",
+          "It makes you busier.",
+          "It replaces the need to do homework."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_prioritizing_tasks",
+      "title": "Prioritizing What Matters Most",
+      "goal": "Understand how to decide which tasks to do first based on importance and deadlines.",
+      "keyConcept": "Not all tasks are equally urgent or important. Teaching teens to prioritize helps them focus on what needs to be done first, reducing stress and last-minute rushes. Using simple systems like numbering tasks or using 'must do, should do, could do' lists can make prioritizing easier.",
+      "example": "A teen has math homework due tomorrow and a science project due next week. They decide to finish the math homework first because of the closer deadline.",
+      "practiceTip": "At the start of each day, help your teen list their tasks and mark which ones are most urgent or important. Encourage them to tackle those first.",
+      "reflectionPrompt": "How do you usually decide what to work on first? What could help you make better choices?",
+      "quizQuestion": {
+        "question": "Why is it helpful to prioritize tasks?",
+        "options": [
+          "It helps you focus on what\u2019s most important and avoid last-minute stress.",
+          "It makes tasks take longer.",
+          "It means you can skip tasks."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_beating_procrastination",
+      "title": "Beating Procrastination",
+      "goal": "Learn simple strategies to start tasks and avoid putting things off.",
+      "keyConcept": "Procrastination is common, especially when tasks feel boring or overwhelming. Simple tricks like setting a timer for 10 minutes, starting with the easiest part, or rewarding yourself after finishing can help teens get started. The hardest part is often just beginning\u2014once you start, it gets easier.",
+      "example": "A teen dreads studying for a test, so they set a timer for 10 minutes and promise themselves a break afterward. Once they start, they find it easier to keep going.",
+      "practiceTip": "Encourage your teen to use the 'just start for 10 minutes' rule when they feel stuck. Celebrate small wins to build momentum.",
+      "reflectionPrompt": "What usually stops you from starting a task? How could you make it easier to begin?",
+      "quizQuestion": {
+        "question": "What is one way to overcome procrastination?",
+        "options": [
+          "Start with a small step or set a short timer.",
+          "Wait until you feel like it.",
+          "Ignore the task completely."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "improving_attention_and_working_memory": [
+    {
+      "id": "lesson1_minimize_distractions",
+      "title": "Minimize Distractions for Better Focus",
+      "goal": "Learn how to create an environment that supports sustained attention.",
+      "keyConcept": "Distractions can make it difficult for teens to focus on tasks, especially when they are already struggling with attention. By identifying and reducing common distractions in the environment\u2014like noise, clutter, or digital devices\u2014you can help your teen maintain focus for longer periods. Small changes in the study or homework area can make a big difference.",
+      "example": "A parent notices their teen is distracted by their phone during homework. Together, they agree to put the phone in another room until homework is finished.",
+      "practiceTip": "Before your teen starts a task, do a quick 'distraction check' together: remove unnecessary items from the workspace, silence notifications, and agree on a set time for focused work.",
+      "reflectionPrompt": "What is one distraction you can remove from your teen\u2019s environment to help them focus better?",
+      "quizQuestion": {
+        "question": "Which of the following is an effective way to minimize distractions?",
+        "options": [
+          "Allowing background TV while working",
+          "Clearing the workspace of unrelated items",
+          "Keeping the phone nearby for quick checks"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_chunking_tasks",
+      "title": "Chunking Tasks to Improve Attention",
+      "goal": "Understand how breaking tasks into smaller steps can help maintain focus.",
+      "keyConcept": "Large or complex tasks can feel overwhelming and lead to loss of focus. By breaking tasks into smaller, manageable chunks, teens can concentrate on one part at a time, making it easier to stay engaged and complete the work.",
+      "example": "Instead of asking your teen to 'finish your science project,' help them break it down: gather materials, write the introduction, create the poster, and review the work.",
+      "practiceTip": "Work with your teen to list the steps needed for a big assignment. Encourage them to check off each step as they complete it.",
+      "reflectionPrompt": "How could you help your teen break down a current task or assignment into smaller steps?",
+      "quizQuestion": {
+        "question": "What is the main benefit of chunking tasks?",
+        "options": [
+          "It makes tasks more confusing",
+          "It helps maintain focus and reduces overwhelm",
+          "It takes more time to finish"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_memory_games",
+      "title": "Strengthen Working Memory with Simple Games",
+      "goal": "Learn easy exercises to boost your teen\u2019s working memory.",
+      "keyConcept": "Working memory is the ability to hold and use information in your mind for short periods. Simple games and exercises, like repeating sequences or playing memory card games, can help strengthen this skill in a fun, low-pressure way.",
+      "example": "Play a game where you say a sequence of numbers or words, and your teen repeats them back in order. Gradually increase the length of the sequence as they improve.",
+      "practiceTip": "Try a daily 5-minute memory game with your teen, such as 'Simon Says' or recalling a short grocery list together.",
+      "reflectionPrompt": "What memory game could you introduce to your daily routine to help your teen practice working memory?",
+      "quizQuestion": {
+        "question": "Which activity best supports working memory development?",
+        "options": [
+          "Playing a memory card game",
+          "Watching TV",
+          "Listening to music while multitasking"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_visual_reminders",
+      "title": "Use Visual Reminders to Support Memory",
+      "goal": "Discover how visual cues can help teens remember tasks and information.",
+      "keyConcept": "Visual reminders, such as sticky notes, checklists, or calendars, provide external support for working memory. They help teens keep track of what needs to be done and reduce the mental load of remembering everything.",
+      "example": "A teen uses a whiteboard in their room to list homework assignments and deadlines, checking off each item as it\u2019s completed.",
+      "practiceTip": "Set up a visible calendar or checklist in your teen\u2019s study area. Encourage them to update it daily with tasks and deadlines.",
+      "reflectionPrompt": "What kind of visual reminder would be most helpful for your teen to remember important tasks?",
+      "quizQuestion": {
+        "question": "What is a benefit of using visual reminders?",
+        "options": [
+          "They add clutter to the workspace",
+          "They help teens remember tasks without relying only on memory",
+          "They make tasks harder to complete"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_mindful_breaks",
+      "title": "Incorporate Mindful Breaks to Recharge Attention",
+      "goal": "Learn how short, intentional breaks can improve focus and productivity.",
+      "keyConcept": "Attention naturally fades over time, especially during long tasks. Taking brief, mindful breaks\u2014such as stretching, deep breathing, or a quick walk\u2014can help reset attention and make it easier to return to work with renewed focus.",
+      "example": "After 25 minutes of studying, a teen takes a 5-minute break to stretch and get a drink of water before returning to their homework.",
+      "practiceTip": "Encourage your teen to use a timer to work in focused intervals (like 25 minutes), followed by a short, screen-free break.",
+      "reflectionPrompt": "How could you help your teen build regular, mindful breaks into their study routine?",
+      "quizQuestion": {
+        "question": "What is the purpose of taking mindful breaks during work?",
+        "options": [
+          "To avoid doing any work",
+          "To recharge attention and improve focus",
+          "To check social media"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "self_control_and_emotional_regulation": [
+    {
+      "id": "lesson1_identify_triggers",
+      "title": "Spotting Emotional Triggers",
+      "goal": "Learn to recognize what situations or feelings trigger strong emotions or impulsive reactions.",
+      "keyConcept": "Understanding your child's emotional triggers is the first step toward helping them manage their reactions. Triggers can be specific situations, words, people, or even physical states like hunger or tiredness. By identifying these, you can help your child anticipate and prepare for challenging moments.",
+      "example": "Your teen often gets frustrated and snaps when asked to stop playing video games for dinner. The transition from a fun activity to a responsibility is a trigger.",
+      "practiceTip": "Keep a simple log for a week, noting when your child seems upset or impulsive. Look for patterns in what happens right before these moments.",
+      "reflectionPrompt": "What are two situations that consistently lead to strong emotional reactions for your child?",
+      "quizQuestion": {
+        "question": "What is an emotional trigger?",
+        "options": [
+          "A situation or feeling that leads to a strong emotional response",
+          "A reward for good behavior",
+          "A type of physical exercise"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_pause_and_breathe",
+      "title": "The Power of Pausing",
+      "goal": "Practice pausing before reacting to strong emotions or impulses.",
+      "keyConcept": "Teaching your child to pause\u2014even for a few seconds\u2014before reacting can prevent impulsive actions and allow time for better choices. Pausing helps the brain shift from automatic reactions to thoughtful responses.",
+      "example": "When your teen feels angry after a disagreement, you encourage them to take three deep breaths before saying anything.",
+      "practiceTip": "Model pausing by saying, 'I need a moment to think,' when you feel upset. Encourage your child to count to five or take deep breaths before responding in emotional situations.",
+      "reflectionPrompt": "How might a short pause change the outcome of a recent emotional moment with your child?",
+      "quizQuestion": {
+        "question": "What is a simple way to help your child pause before reacting?",
+        "options": [
+          "Encourage them to take deep breaths",
+          "Ignore their feelings",
+          "React immediately"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_labeling_emotions",
+      "title": "Naming the Feeling",
+      "goal": "Help your child identify and name their emotions to gain better control over them.",
+      "keyConcept": "When children can accurately label their emotions, it becomes easier for them to manage those feelings. Naming emotions reduces their intensity and gives your child a sense of control.",
+      "example": "Your teen says, 'I'm just mad!' You help them clarify: 'Are you feeling frustrated because your plans changed, or is it disappointment?'",
+      "practiceTip": "Use an emotion chart or simple words to help your child describe what they're feeling. Practice saying, 'It sounds like you're feeling... Is that right?'",
+      "reflectionPrompt": "How comfortable is your child with naming their emotions? What words do they use most often?",
+      "quizQuestion": {
+        "question": "Why is labeling emotions helpful?",
+        "options": [
+          "It helps children ignore their feelings",
+          "It makes emotions easier to manage",
+          "It encourages impulsive reactions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_coping_strategies",
+      "title": "Building Coping Skills",
+      "goal": "Introduce and practice simple coping strategies for handling stress and strong emotions.",
+      "keyConcept": "Coping strategies are tools your child can use to calm down and handle stress. These can include deep breathing, taking a walk, listening to music, or talking to someone they trust. Practicing these skills regularly makes them more effective during tough moments.",
+      "example": "After a stressful day at school, your teen listens to their favorite playlist to relax before starting homework.",
+      "practiceTip": "Brainstorm a list of 3-5 coping strategies with your child. Encourage them to try one the next time they feel overwhelmed.",
+      "reflectionPrompt": "Which coping strategy does your child find most helpful? How can you support them in using it?",
+      "quizQuestion": {
+        "question": "Which of the following is a healthy coping strategy?",
+        "options": [
+          "Yelling at someone",
+          "Taking deep breaths",
+          "Ignoring the problem"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_reflect_and_learn",
+      "title": "Learning from Emotional Moments",
+      "goal": "Guide your child to reflect on emotional experiences and learn from them.",
+      "keyConcept": "After a strong emotional reaction, reflecting on what happened helps your child understand their triggers and what strategies worked or didn\u2019t. This builds resilience and prepares them for future challenges.",
+      "example": "After an argument, you and your teen talk about what led up to it, how they felt, and what they might do differently next time.",
+      "practiceTip": "After a difficult moment, ask your child, 'What do you think happened? What could we try next time?' Keep the tone supportive, not critical.",
+      "reflectionPrompt": "How can you create a safe space for your child to talk about their feelings and reactions after a tough moment?",
+      "quizQuestion": {
+        "question": "What is the benefit of reflecting on emotional experiences?",
+        "options": [
+          "It helps avoid future problems",
+          "It makes children feel worse",
+          "It encourages ignoring emotions"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "problem_solving_and_flexibility": [
+    {
+      "id": "flexible_thinking_intro",
+      "title": "Why Flexible Thinking Matters",
+      "goal": "Understand the importance of flexible thinking in daily life.",
+      "keyConcept": "Flexible thinking means being open to new ideas, adjusting your approach when things change, and not getting stuck in one way of doing things. It helps teens handle unexpected challenges and find creative solutions. Developing this skill can reduce frustration and increase resilience.",
+      "example": "Your teen planned to go to the movies with friends, but the movie is sold out. Instead of getting upset, they suggest going for ice cream together instead.",
+      "practiceTip": "The next time plans change unexpectedly, pause and brainstorm at least two alternative options with your teen before reacting.",
+      "reflectionPrompt": "When was the last time you or your teen had to change plans? How did you both handle it?",
+      "quizQuestion": {
+        "question": "What is flexible thinking?",
+        "options": [
+          "Sticking to your original plan no matter what",
+          "Being open to new ideas and adjusting when things change",
+          "Avoiding making any plans at all"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "define_the_problem",
+      "title": "Step 1: Define the Problem Clearly",
+      "goal": "Learn how to identify and clearly state the problem before trying to solve it.",
+      "keyConcept": "Effective problem solving starts with understanding exactly what the problem is. Teens often jump to solutions without fully grasping the issue, which can lead to frustration or ineffective fixes. Taking time to define the problem helps ensure the solution addresses the real challenge.",
+      "example": "Your teen says, 'I can't do my homework.' After asking questions, you discover the real issue is not understanding the assignment instructions.",
+      "practiceTip": "When your teen is upset, ask them to describe the problem in one sentence. Help them focus on facts, not feelings.",
+      "reflectionPrompt": "How can you help your teen clarify what the real problem is before jumping to solutions?",
+      "quizQuestion": {
+        "question": "Why is it important to define the problem before solving it?",
+        "options": [
+          "It saves time by skipping unnecessary steps",
+          "It ensures you are solving the right issue",
+          "It makes the problem go away automatically"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "brainstorm_solutions",
+      "title": "Step 2: Brainstorm Possible Solutions",
+      "goal": "Encourage creative thinking by generating multiple solutions to a problem.",
+      "keyConcept": "Once the problem is clear, encourage your teen to come up with several possible ways to solve it. This step helps them see that there is often more than one way to handle a challenge and builds confidence in their ability to adapt.",
+      "example": "If your teen forgot their lunch, possible solutions could include borrowing money, asking a friend to share, or talking to a teacher.",
+      "practiceTip": "Challenge your teen to list at least three possible solutions to a problem before choosing one.",
+      "reflectionPrompt": "What are some creative solutions you or your teen have tried in the past when faced with a problem?",
+      "quizQuestion": {
+        "question": "What is the benefit of brainstorming multiple solutions?",
+        "options": [
+          "It helps find the best option and encourages flexible thinking",
+          "It wastes time",
+          "It makes the problem harder"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "evaluate_and_choose",
+      "title": "Step 3: Evaluate and Choose the Best Solution",
+      "goal": "Help your teen weigh the pros and cons of each solution and select the most effective one.",
+      "keyConcept": "Not all solutions are equally effective. Teach your teen to consider the possible outcomes, advantages, and disadvantages of each option. This helps them make thoughtful decisions and learn from the process.",
+      "example": "Your teen considers skipping lunch, borrowing money, or asking a teacher for help. Together, you discuss which option is safest and most practical.",
+      "practiceTip": "Guide your teen to list the pros and cons of each solution before making a choice.",
+      "reflectionPrompt": "How can weighing the pros and cons help your teen make better decisions?",
+      "quizQuestion": {
+        "question": "What should you do before choosing a solution?",
+        "options": [
+          "Pick the first idea that comes to mind",
+          "Consider the pros and cons of each option",
+          "Ignore all options and hope the problem goes away"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "adapt_and_learn",
+      "title": "Adapting and Learning from Outcomes",
+      "goal": "Encourage your teen to adapt if things don\u2019t go as planned and learn from the experience.",
+      "keyConcept": "Sometimes, even well-thought-out solutions don\u2019t work as expected. It\u2019s important to help your teen reflect on what happened, adapt their approach, and see setbacks as learning opportunities. This builds resilience and confidence in handling future challenges.",
+      "example": "Your teen tries borrowing money for lunch, but no one has extra. They then ask a teacher, who helps them get a meal. Later, you discuss what worked and what could be done differently next time.",
+      "practiceTip": "After a problem-solving attempt, ask your teen what they learned and how they might handle a similar situation in the future.",
+      "reflectionPrompt": "How can you help your teen see mistakes or setbacks as chances to grow?",
+      "quizQuestion": {
+        "question": "What is a healthy way to respond if a solution doesn\u2019t work?",
+        "options": [
+          "Give up and stop trying",
+          "Reflect, adapt, and try a new approach",
+          "Blame others for the problem"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "communication_and_advocacy_skills": [
+    {
+      "id": "microlesson_1_identifying_needs",
+      "title": "Identifying and Naming Your Needs",
+      "goal": "Learn to recognize and clearly state personal needs.",
+      "keyConcept": "Understanding what you need is the first step in effective communication. Teens often feel frustrated or misunderstood because they haven't identified what they truly need\u2014whether it's help with homework, more time to finish a task, or a break to recharge. Being able to name your needs helps others understand and support you.",
+      "example": "A teen feels overwhelmed by a group project but isn't sure why. After thinking it through, they realize they need clearer instructions and more time to complete their part.",
+      "practiceTip": "Pause when you feel upset or stuck and ask yourself: 'What do I need right now?' Write it down in a sentence, such as, 'I need help understanding this assignment.'",
+      "reflectionPrompt": "When was the last time you felt frustrated? What need might have been unmet in that situation?",
+      "quizQuestion": {
+        "question": "What is the first step in effective communication about your needs?",
+        "options": [
+          "Identifying and naming your needs",
+          "Waiting for someone to notice",
+          "Ignoring your feelings"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "microlesson_2_asking_for_help",
+      "title": "How to Ask for Help Effectively",
+      "goal": "Practice expressing needs and asking for help in a respectful way.",
+      "keyConcept": "Asking for help is a strength, not a weakness. The key is to be specific and respectful when making your request. This increases the chances of getting the support you need and builds trust with others.",
+      "example": "Instead of saying, 'I can't do this,' a teen says, 'Could you help me get started on this math problem? I'm not sure where to begin.'",
+      "practiceTip": "Use a simple script: 'I need help with ___. Could you please ___?' Practice saying this out loud or writing it down.",
+      "reflectionPrompt": "What makes it hard for you to ask for help? How could you make it easier next time?",
+      "quizQuestion": {
+        "question": "Which is a good way to ask for help?",
+        "options": [
+          "'I need help with my essay. Could you read it and give me feedback?'",
+          "'This is too hard. I give up.'"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "microlesson_3_active_listening",
+      "title": "Active Listening Skills",
+      "goal": "Develop the ability to listen attentively and respond thoughtfully.",
+      "keyConcept": "Active listening means giving your full attention to the speaker, showing you understand, and responding appropriately. This builds stronger relationships and helps avoid misunderstandings. It involves making eye contact, nodding, and summarizing what you heard.",
+      "example": "When a parent explains a new rule, the teen listens without interrupting, then says, 'So you want me to finish my homework before using my phone. Is that right?'",
+      "practiceTip": "Next time someone talks to you, focus on listening without planning your response. Repeat back what you heard to check your understanding.",
+      "reflectionPrompt": "How does it feel when someone really listens to you? How can you show others you are listening?",
+      "quizQuestion": {
+        "question": "What is one way to show you are actively listening?",
+        "options": [
+          "Interrupt with your own story",
+          "Make eye contact and summarize what you heard"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_4_clear_communication",
+      "title": "Communicating Clearly and Respectfully",
+      "goal": "Learn to express thoughts and feelings in a way others can understand.",
+      "keyConcept": "Clear communication means stating your thoughts and feelings directly, using 'I' statements, and being respectful. This reduces confusion and helps others respond to your needs. Avoid blaming or vague language.",
+      "example": "Instead of saying, 'You never listen to me,' a teen says, 'I feel ignored when I talk and you look at your phone. Can we talk without distractions?'",
+      "practiceTip": "Use 'I feel ___ when ___ because ___. Can we ___?' to express yourself clearly.",
+      "reflectionPrompt": "Think of a recent disagreement. How could you have communicated your feelings more clearly?",
+      "quizQuestion": {
+        "question": "Which is an example of a clear and respectful statement?",
+        "options": [
+          "'You always ignore me!'",
+          "'I feel upset when you don't respond because I want to be heard. Can we talk?'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_5_self_advocacy",
+      "title": "Building Self-Advocacy Confidence",
+      "goal": "Gain confidence to speak up for yourself at school and home.",
+      "keyConcept": "Self-advocacy means standing up for your needs and rights in a positive way. It involves knowing what you need, communicating it clearly, and persisting respectfully if you don\u2019t get what you need right away. Practicing self-advocacy builds confidence and resilience.",
+      "example": "A teen who struggles with test anxiety asks their teacher for extra time or a quiet space to take exams.",
+      "practiceTip": "Identify one small situation this week where you can practice speaking up for yourself. Plan what you\u2019ll say and how you\u2019ll say it.",
+      "reflectionPrompt": "What is one area where you wish you could advocate for yourself more? What\u2019s one step you could take?",
+      "quizQuestion": {
+        "question": "What is self-advocacy?",
+        "options": [
+          "Demanding your way no matter what",
+          "Standing up for your needs in a positive, respectful way"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "creating_and_following_action_plans": [
+    {
+      "id": "lesson1_define_clear_goals",
+      "title": "Define Clear and Realistic Goals",
+      "goal": "Learn how to set specific, achievable goals for your teen.",
+      "keyConcept": "Setting clear and realistic goals helps teens understand what they are working toward and increases their motivation. Goals should be specific, measurable, and attainable within a reasonable timeframe. This clarity prevents overwhelm and builds confidence as progress is made.",
+      "example": "Instead of saying, 'Do better in school,' help your teen set a goal like, 'Raise my math grade from a C to a B by the end of the semester.'",
+      "practiceTip": "Sit down with your teen and ask, 'What is one thing you want to improve or achieve in the next month?' Guide them to make the goal specific and realistic.",
+      "reflectionPrompt": "What is one area where your teen could benefit from a more specific goal?",
+      "quizQuestion": {
+        "question": "Which of the following is a clear and realistic goal?",
+        "options": [
+          "Get better at everything",
+          "Finish all homework on time for the next two weeks",
+          "Be perfect in every subject"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_break_down_tasks",
+      "title": "Break Down Goals into Manageable Steps",
+      "goal": "Understand how to divide big goals into smaller, actionable tasks.",
+      "keyConcept": "Large goals can feel overwhelming, but breaking them into smaller steps makes them more manageable and less intimidating. Each step should be simple and achievable, helping your teen build momentum and experience success along the way.",
+      "example": "If the goal is to improve a math grade, steps might include: review notes daily, complete all homework, ask the teacher one question each week, and practice with a friend before tests.",
+      "practiceTip": "Work with your teen to list 3\u20135 small steps needed to reach their goal. Write them down and check off each one as it\u2019s completed.",
+      "reflectionPrompt": "What is one big goal your teen has, and how could you help them break it into smaller steps?",
+      "quizQuestion": {
+        "question": "Why is it helpful to break goals into smaller steps?",
+        "options": [
+          "It makes the goal seem less overwhelming",
+          "It makes the goal harder to achieve",
+          "It wastes time"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_establish_routines",
+      "title": "Establish Simple Routines for Progress",
+      "goal": "Learn how routines help maintain steady progress toward goals.",
+      "keyConcept": "Consistent routines make it easier for teens to work toward their goals without having to make decisions each time. Routines turn positive actions into habits, reducing stress and increasing the likelihood of success.",
+      "example": "A teen who wants to improve their grades might set a routine to study for 20 minutes after dinner every weekday.",
+      "practiceTip": "Help your teen choose a regular time and place for working on their goal. Encourage them to stick to this routine for at least two weeks.",
+      "reflectionPrompt": "What daily or weekly routine could help your teen make progress toward their goal?",
+      "quizQuestion": {
+        "question": "What is one benefit of having a routine?",
+        "options": [
+          "It helps build habits and makes progress easier",
+          "It makes things more confusing",
+          "It wastes time"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_track_and_adjust",
+      "title": "Track Progress and Make Adjustments",
+      "goal": "Discover how to monitor progress and adapt plans as needed.",
+      "keyConcept": "Tracking progress helps teens see how far they\u2019ve come and identify what\u2019s working or not. If something isn\u2019t going as planned, making small adjustments can keep them on track and prevent frustration.",
+      "example": "If your teen notices they\u2019re still struggling with math homework, they might decide to spend extra time on practice problems or ask for help from a tutor.",
+      "practiceTip": "Set aside time each week to review your teen\u2019s progress together. Ask, 'What went well? What could we change to make things easier next week?'",
+      "reflectionPrompt": "How can you support your teen in tracking their progress and making changes when needed?",
+      "quizQuestion": {
+        "question": "What should you do if your teen\u2019s plan isn\u2019t working?",
+        "options": [
+          "Give up on the goal",
+          "Make small adjustments to the plan",
+          "Ignore the problem"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_celebrate_successes",
+      "title": "Celebrate Small Successes",
+      "goal": "Recognize the importance of celebrating progress to build motivation.",
+      "keyConcept": "Acknowledging and celebrating small achievements helps teens feel proud and motivated to keep going. Positive reinforcement builds self-esteem and makes the process of reaching goals more enjoyable.",
+      "example": "When your teen completes all their homework for a week, celebrate with a favorite treat or a special activity together.",
+      "practiceTip": "Notice and praise your teen\u2019s efforts and improvements, no matter how small. Say, 'I\u2019m proud of how you stuck to your plan this week!'",
+      "reflectionPrompt": "How do you usually celebrate your teen\u2019s efforts, and what new ways could you try?",
+      "quizQuestion": {
+        "question": "Why is it important to celebrate small successes?",
+        "options": [
+          "It helps build motivation and confidence",
+          "It distracts from the goal",
+          "It makes the goal harder"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "working_with_parents_and_supports": [
+    {
+      "id": "lesson1_active_listening",
+      "title": "Mastering Active Listening with Adults",
+      "goal": "Learn how to use active listening to improve communication with parents and teachers.",
+      "keyConcept": "Active listening means giving your full attention to the speaker, showing that you understand, and responding thoughtfully. This helps build trust and makes adults more willing to support you. It involves making eye contact, nodding, and summarizing what you heard before sharing your own thoughts.",
+      "example": "When your parent is explaining a new rule at home, you listen without interrupting, then say, 'So you want me to finish my homework before watching TV, right?'",
+      "practiceTip": "Next time an adult talks to you about something important, try repeating back what you heard in your own words before responding.",
+      "reflectionPrompt": "How does it feel when someone really listens to you? How can you offer that same respect to adults?",
+      "quizQuestion": {
+        "question": "What is a key part of active listening?",
+        "options": [
+          "Interrupting to share your opinion",
+          "Summarizing what you heard before responding",
+          "Looking away while the other person talks"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_clear_requests",
+      "title": "Making Clear Requests for Support",
+      "goal": "Understand how to ask adults for help in a way that gets results.",
+      "keyConcept": "Being clear and specific when you ask for help makes it easier for adults to understand what you need. Vague requests can be confusing, but a direct and polite approach increases the chance you'll get the support you want.",
+      "example": "Instead of saying, 'I need help,' you say, 'Can you help me organize my study schedule for this week?'",
+      "practiceTip": "Before asking for help, take a moment to think about exactly what you need. Use a sentence like, 'Can you help me with...?'",
+      "reflectionPrompt": "When was a time you asked for help and it went well? What made your request effective?",
+      "quizQuestion": {
+        "question": "Which is the most effective way to ask for help?",
+        "options": [
+          "Can you help me with my math homework tonight?",
+          "I need help.",
+          "Why don't you ever help me?"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_building_network",
+      "title": "Building Your Support Network",
+      "goal": "Identify and connect with people who can support your growth.",
+      "keyConcept": "A support network includes parents, teachers, coaches, and friends who encourage and help you. Knowing who you can turn to for different types of support makes it easier to handle challenges and reach your goals.",
+      "example": "You ask your science teacher for extra help with a project, talk to your coach about time management, and share your feelings with a close friend.",
+      "practiceTip": "Make a list of 3-5 people you trust and what kind of support they can offer. Reach out to one of them this week.",
+      "reflectionPrompt": "Who in your life do you feel comfortable asking for help? How can you strengthen those connections?",
+      "quizQuestion": {
+        "question": "What is a benefit of having a support network?",
+        "options": [
+          "You have people to turn to when you face challenges",
+          "You never have to do anything on your own",
+          "You can avoid talking to adults"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_problem_solving",
+      "title": "Navigating Challenges Together",
+      "goal": "Learn how to work with adults to solve problems and overcome obstacles.",
+      "keyConcept": "When you face a challenge, involving adults can help you find solutions you might not think of alone. By brainstorming together and sharing ideas, you can create a plan that works for everyone.",
+      "example": "You\u2019re struggling to keep up with homework, so you and your parent sit down to make a weekly schedule that includes study time and breaks.",
+      "practiceTip": "Next time you have a problem, invite an adult to help you brainstorm solutions. Use phrases like, 'Can we figure this out together?'",
+      "reflectionPrompt": "How can working with adults make tough situations easier to handle?",
+      "quizQuestion": {
+        "question": "What is a good first step when facing a challenge?",
+        "options": [
+          "Try to solve it all by yourself",
+          "Ask an adult to help you brainstorm solutions",
+          "Ignore the problem"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_staying_motivated",
+      "title": "Staying Motivated with Support",
+      "goal": "Discover ways to keep yourself and others motivated during tough times.",
+      "keyConcept": "Motivation can go up and down, especially when things get hard. Encouragement from adults and peers can help you stay on track. Celebrating small successes and reminding each other of your goals makes it easier to keep going.",
+      "example": "After a tough week, your teacher praises your effort, and your parent suggests a fun reward for sticking to your study plan.",
+      "practiceTip": "Share your goals with someone you trust and ask them to check in with you. Celebrate small wins together.",
+      "reflectionPrompt": "What helps you stay motivated when you feel like giving up?",
+      "quizQuestion": {
+        "question": "What is one way to stay motivated?",
+        "options": [
+          "Keep your goals to yourself",
+          "Celebrate small successes with others",
+          "Wait for motivation to come back on its own"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "maintaining_progress_and_long_term_growth": [
+    {
+      "id": "lesson_1_identify_successes",
+      "title": "Spotting and Celebrating Successes",
+      "goal": "Learn to recognize and celebrate your teen\u2019s achievements, big or small.",
+      "keyConcept": "Acknowledging progress, no matter how minor, reinforces positive behavior and motivates continued effort. Celebrating successes helps teens feel valued and builds their confidence. It also strengthens your relationship and encourages them to keep trying, even when things get tough.",
+      "example": "Your teen remembers to complete their homework without being reminded. You notice and say, 'I saw you finished your homework on your own today\u2014great job!'",
+      "practiceTip": "Each day, point out one thing your teen did well and express your appreciation, even if it\u2019s something small.",
+      "reflectionPrompt": "How did your teen respond the last time you acknowledged their effort or achievement?",
+      "quizQuestion": {
+        "question": "Why is it important to celebrate small successes with your teen?",
+        "options": [
+          "It helps build their confidence and motivation.",
+          "It makes them dependent on praise.",
+          "It has no real effect."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_reflect_on_setbacks",
+      "title": "Learning from Setbacks",
+      "goal": "Understand how to help your teen reflect on setbacks in a constructive way.",
+      "keyConcept": "Setbacks are a normal part of growth. When handled positively, they become valuable learning opportunities. Helping your teen reflect on what didn\u2019t work and why encourages problem-solving and resilience, rather than discouragement.",
+      "example": "Your teen forgets to bring their gym clothes to school. Instead of scolding, you ask, 'What could help you remember next time?'",
+      "practiceTip": "When a setback happens, guide your teen to identify what went wrong and brainstorm one change they could try next time.",
+      "reflectionPrompt": "Think of a recent setback your teen experienced. How could you help them reflect on it constructively?",
+      "quizQuestion": {
+        "question": "What is a helpful response when your teen experiences a setback?",
+        "options": [
+          "Punish them immediately.",
+          "Help them reflect and problem-solve.",
+          "Ignore the situation."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_building_habits",
+      "title": "Building Lasting Habits",
+      "goal": "Discover how to help your teen turn positive changes into lasting habits.",
+      "keyConcept": "Consistency is key to making new behaviors stick. Encouraging your teen to practice new skills regularly, and helping them set up reminders or routines, increases the chance that these behaviors will become automatic over time.",
+      "example": "Your teen wants to keep their room tidy. Together, you set a daily reminder to spend five minutes tidying up before dinner.",
+      "practiceTip": "Work with your teen to choose one small habit to focus on this week and decide together how they\u2019ll remember to do it each day.",
+      "reflectionPrompt": "What is one habit your teen could start building this week? How can you support them?",
+      "quizQuestion": {
+        "question": "What helps new habits become automatic?",
+        "options": [
+          "Practicing them regularly.",
+          "Changing them every day.",
+          "Ignoring them."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_planning_next_steps",
+      "title": "Planning for Continued Growth",
+      "goal": "Learn how to set realistic next steps with your teen to keep them moving forward.",
+      "keyConcept": "Growth is ongoing, and setting new, achievable goals keeps your teen engaged and motivated. Involving your teen in planning their next steps helps them take ownership of their progress and builds their decision-making skills.",
+      "example": "After your teen successfully manages their homework routine, you ask, 'What\u2019s one new skill you\u2019d like to work on next?'",
+      "practiceTip": "At the end of each week, sit down with your teen to review what went well and choose one new goal for the coming week.",
+      "reflectionPrompt": "How can you involve your teen in setting their own goals for growth?",
+      "quizQuestion": {
+        "question": "Why is it important to involve your teen in planning their next steps?",
+        "options": [
+          "It helps them take ownership and builds decision-making skills.",
+          "It makes them dependent on you.",
+          "It slows down their progress."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_staying_motivated",
+      "title": "Staying Motivated Over Time",
+      "goal": "Explore ways to help your teen stay motivated for long-term growth.",
+      "keyConcept": "Motivation can fade over time, especially when progress feels slow. Regular encouragement, celebrating milestones, and reminding your teen of their successes can help them stay focused and positive about their growth journey.",
+      "example": "Your teen feels discouraged about a long-term project. You remind them of how much they\u2019ve already accomplished and celebrate a recent milestone together.",
+      "practiceTip": "Create a visual progress tracker (like a chart or checklist) with your teen to help them see how far they\u2019ve come.",
+      "reflectionPrompt": "What motivates your teen most\u2014praise, rewards, seeing progress, or something else?",
+      "quizQuestion": {
+        "question": "What is one way to help your teen stay motivated over time?",
+        "options": [
+          "Ignore their progress.",
+          "Celebrate milestones and remind them of successes.",
+          "Only focus on what they haven\u2019t done."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 6,
+  "title": "The Explosive Child",
+  "description": "A guide for understanding and helping easily frustrated, chronically inflexible children. It introduces a collaborative problem-solving approach to address challenging behaviors.",
+  "videoPreview": "Understanding Explosive Behavior",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441747078i/127641._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Collaborative Problem Solving",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Identifying Triggers"
+    },
+    {
+      "id": 63,
+      "title": "Empathy and Listening"
+    },
+    {
+      "id": 64,
+      "title": "Defining the Problem"
+    },
+    {
+      "id": 65,
+      "title": "Brainstorming Solutions"
+    },
+    {
+      "id": 66,
+      "title": "Implementing Solutions"
+    },
+    {
+      "id": 67,
+      "title": "Reviewing and Adjusting"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Explosive Child \u2013 Overview of Key Concepts",
+      "id": "zyagkQJXDHI"
+    },
+    {
+      "title": "Collaborative Problem Solving in Action",
+      "id": "mSr2sdAjOLE"
+    },
+    {
+      "title": "Understanding Triggers and Meltdowns",
+      "id": "WCTI6u5XH6I"
+    },
+    {
+      "title": "Empathy and Effective Listening Techniques",
+      "id": "lO1gpzakbik"
+    },
+    {
+      "title": "Defining Problems and Finding Solutions",
+      "id": "2rJRVv-NOaA"
+    },
+    {
+      "title": "Implementing and Reviewing Solutions",
+      "id": "Emofxpam0PY"
+    },
+    {
+      "title": "The Explosive Child by Ross W. Greene",
+      "id": "shoghBxhFZg"
+    }
+  ],
+  "bookUrl": "/book/show/127641.The_Explosive_Child"
+}

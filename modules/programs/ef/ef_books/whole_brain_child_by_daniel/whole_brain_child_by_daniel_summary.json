@@ -1,0 +1,73 @@
+{
+  "id": 6,
+  "title": "The Whole-Brain Child",
+  "description": "Strategies to nurture a child's developing mind, integrating the left and right brain, and fostering emotional and intellectual growth.",
+  "videoPreview": "Integrating the Brain for Better Parenting",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462907327i/29923916._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Connect and Redirect",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Name It to Tame It"
+    },
+    {
+      "id": 63,
+      "title": "Engage, Don't Enrage"
+    },
+    {
+      "id": 64,
+      "title": "Use It or Lose It"
+    },
+    {
+      "id": 65,
+      "title": "Move It or Lose It"
+    },
+    {
+      "id": 66,
+      "title": "Let the Clouds of Emotion Roll By"
+    },
+    {
+      "id": 67,
+      "title": "SIFT: Sensations, Images, Feelings, Thoughts"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Whole-Brain Child: Connect and Redirect",
+      "id": "QmaaPpDetlI"
+    },
+    {
+      "title": "The Whole-Brain Child: Name It to Tame It",
+      "id": "9SSI6k2IRLc"
+    },
+    {
+      "title": "The Whole-Brain Child: Engage, Don't Enrage",
+      "id": "wdCEN9D2TZ8"
+    },
+    {
+      "title": "The Whole-Brain Child: Use It or Lose It",
+      "id": "RcTxHZNLrZQ"
+    },
+    {
+      "title": "The Whole-Brain Child: Move It or Lose It",
+      "id": "CIPqxkdhfl4"
+    },
+    {
+      "title": "The Whole-Brain Child: Let the Clouds of Emotion Roll By",
+      "id": "Ydfn7-GNmkI"
+    },
+    {
+      "title": "The Whole-Brain Child: SIFT",
+      "id": "5bPzVaxSlQ4"
+    },
+    {
+      "title": "The Whole-Brain Child by Daniel J. Siegel & Tina Payne Bryson",
+      "id": "Jbg8RFuYQRs"
+    }
+  ],
+  "bookUrl": "/book/show/29923916-summary-of-the-whole-brain-child"
+}

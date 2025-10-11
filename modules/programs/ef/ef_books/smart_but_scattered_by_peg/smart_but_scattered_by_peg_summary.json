@@ -1,0 +1,69 @@
+{
+  "id": 6,
+  "title": "Smart but Scattered",
+  "description": "A guide to help children develop executive skills, manage their time, and improve their organizational abilities. It provides strategies for parents to support their children's development in these areas.",
+  "videoPreview": "Boosting Executive Skills in Kids",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/nophoto/book/111x148._SY475__.png",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Identifying Executive Skill Strengths and Weaknesses",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Creating Routines and Structures"
+    },
+    {
+      "id": 63,
+      "title": "Setting Goals and Providing Incentives"
+    },
+    {
+      "id": 64,
+      "title": "Teaching Problem-Solving Skills"
+    },
+    {
+      "id": 65,
+      "title": "Using Visual Aids and Checklists"
+    },
+    {
+      "id": 66,
+      "title": "Managing Time Effectively"
+    },
+    {
+      "id": 67,
+      "title": "Building Emotional Control and Flexibility"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Understanding Executive Skills in Children",
+      "id": "efCq_vHUMqs"
+    },
+    {
+      "title": "Strategies for Improving Organization in Kids",
+      "id": "ajFiv-AfnpY"
+    },
+    {
+      "title": "Helping Children with Time Management",
+      "id": "KBH4c55NnIY"
+    },
+    {
+      "title": "Teaching Kids Problem-Solving Skills",
+      "id": "vkF7sHjI7_A"
+    },
+    {
+      "title": "Using Visual Aids to Support Learning",
+      "id": "URnX79hYnds"
+    },
+    {
+      "title": "Building Emotional Control in Children",
+      "id": "Vs-MyQgfH3A"
+    },
+    {
+      "title": "Smart but Scattered by Peg Dawson & Richard Guare",
+      "id": "51Opo7MWWAI"
+    }
+  ],
+  "bookUrl": "/book/show/231388232-smart-but-scattered"
+}

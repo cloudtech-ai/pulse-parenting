@@ -1,0 +1,68 @@
+{
+  "id": 5,
+  "title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention",
+  "description": "Comprehensive strategies for assessing and intervening in executive function difficulties, focusing on practical tools and techniques for educators and clinicians.",
+  "videoPreview": "Understanding Executive Functions",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Assessment of Executive Functions",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Intervention Planning"
+    },
+    {
+      "id": 53,
+      "title": "Skill Development Techniques"
+    },
+    {
+      "id": 54,
+      "title": "Environmental Modifications"
+    },
+    {
+      "id": 55,
+      "title": "Collaborative Approaches"
+    },
+    {
+      "id": 56,
+      "title": "Progress Monitoring"
+    },
+    {
+      "id": 57,
+      "title": "Family and School Involvement"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Executive Function: Assessment Techniques",
+      "id": "N6ZaHkpR3eE"
+    },
+    {
+      "title": "Intervention Strategies for Executive Function",
+      "id": "ilsmb36BpGc"
+    },
+    {
+      "title": "Developing Executive Function Skills",
+      "id": "efCq_vHUMqs"
+    },
+    {
+      "title": "Modifying Environments for Success",
+      "id": "uT7UFIPC3Qg"
+    },
+    {
+      "title": "Collaborative Approaches in EF Intervention",
+      "id": "PXAqy1vhne8"
+    },
+    {
+      "title": "Monitoring Progress in Executive Function",
+      "id": "kSGczZcPmmI"
+    },
+    {
+      "title": "Involving Families and Schools in EF Support",
+      "id": "LyWgBjYIZjE"
+    }
+  ]
+}

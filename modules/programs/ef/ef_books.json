@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "id": 1201,
+      "title": "Smart but Scattered",
+      "author": "Peg Dawson & Richard Guare",
+      "summary": "Explains executive function skills in children and provides practical strategies to improve organization, time management, and emotional control.",
+      "generative_title": "Smart but Scattered by Peg Dawson & Richard Guare",
+      "studyPlan": {
+        "module_path": "ef_books/smart_but_scattered_by_peg/smart_but_scattered_by_peg_modules.json",
+        "lesson_path": "ef_books/smart_but_scattered_by_peg/smart_but_scattered_by_peg_lessons.json"
+      },
+      "info": "ef_books/smart_but_scattered_by_peg/smart_but_scattered_by_peg_summary.json",
+      "strategies": "ef_books/smart_but_scattered_by_peg/smart_but_scattered_by_peg_strategies.json"
+    },
+    {
+      "id": 1202,
+      "title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention",
+      "author": "Jill Fahy",
+      "summary": "Provides a detailed look at how executive functions are assessed and how parents and educators can support children with specific EF deficits.",
+      "generative_title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention by Jill Fahy",
+      "studyPlan": {
+        "module_path": "ef_books/executive_function_difficulties_practical/executive_function_difficulties_practical_modules.json",
+        "lesson_path": "ef_books/executive_function_difficulties_practical/executive_function_difficulties_practical_lessons.json"
+      },
+      "info": "ef_books/executive_function_difficulties_practical/executive_function_difficulties_practical_summary.json",
+      "strategies": "ef_books/executive_function_difficulties_practical/executive_function_difficulties_practical_strategies.json"
+    },
+    {
+      "id": 1203,
+      "title": "The Whole-Brain Child",
+      "author": "Daniel J. Siegel & Tina Payne Bryson",
+      "summary": "Combines neuroscience and parenting advice to help children build emotional balance and resilience \u2014 key elements of executive function.",
+      "generative_title": "The Whole-Brain Child by Daniel J. Siegel & Tina Payne Bryson",
+      "info": "ef_books/whole_brain_child_by_daniel/whole_brain_child_by_daniel_summary.json",
+      "strategies": "ef_books/whole_brain_child_by_daniel/whole_brain_child_by_daniel_strategies.json",
+      "studyPlan": {
+        "module_path": "ef_books/whole_brain_child_by_daniel/whole_brain_child_by_daniel_modules.json",
+        "lesson_path": "ef_books/whole_brain_child_by_daniel/whole_brain_child_by_daniel_lessons.json"
+      }
+    },
+    {
+      "id": 1204,
+      "title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs",
+      "author": "Ellen Galinsky",
+      "summary": "Highlights seven essential life skills, grounded in executive function research, and provides hands-on activities for parents and teachers.",
+      "generative_title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs by Ellen Galinsky",
+      "info": "ef_books/mind_in_making_the/mind_in_making_the_summary.json",
+      "strategies": "ef_books/mind_in_making_the/mind_in_making_the_strategies.json",
+      "studyPlan": {
+        "module_path": "ef_books/mind_in_making_the/mind_in_making_the_modules.json",
+        "lesson_path": "ef_books/mind_in_making_the/mind_in_making_the_lessons.json"
+      }
+    },
+    {
+      "id": 1205,
+      "title": "Late, Lost, and Unprepared: A Parents' Guide to Helping Children with Executive Functioning",
+      "author": "Joyce Cooper-Kahn & Laurie Dietzel",
+      "summary": "Offers actionable, parent-friendly strategies to support kids who face challenges with planning, flexibility, and follow-through.",
+      "generative_title": "Late, Lost, and Unprepared: A Parents' Guide to Helping Children with Executive Functioning by Joyce Cooper-Kahn & Laurie Dietzel",
+      "info": "ef_books/late_lost_and_unprepared_a/late_lost_and_unprepared_a_summary.json",
+      "strategies": "ef_books/late_lost_and_unprepared_a/late_lost_and_unprepared_a_strategies.json",
+      "studyPlan": {
+        "module_path": "ef_books/late_lost_and_unprepared_a/late_lost_and_unprepared_a_modules.json",
+        "lesson_path": "ef_books/late_lost_and_unprepared_a/late_lost_and_unprepared_a_lessons.json"
+      }
+    },
+    {
+      "id": 1206,
+      "title": "The Explosive Child",
+      "author": "Ross W. Greene",
+      "summary": "Teaches the Collaborative & Proactive Solutions approach to help children manage frustration, improve flexibility, and strengthen problem-solving.",
+      "generative_title": "The Explosive Child by Ross W. Greene",
+      "info": "ef_books/explosive_child_by_ross/explosive_child_by_ross_summary.json",
+      "strategies": "ef_books/explosive_child_by_ross/explosive_child_by_ross_strategies.json",
+      "studyPlan": {
+        "module_path": "ef_books/explosive_child_by_ross/explosive_child_by_ross_modules.json",
+        "lesson_path": "ef_books/explosive_child_by_ross/explosive_child_by_ross_lessons.json"
+      }
+    },
+    {
+      "id": 1207,
+      "title": "Smart but Scattered Teens",
+      "author": "Richard Guare, Peg Dawson & Colin Guare",
+      "summary": "A continuation of 'Smart but Scattered' focusing on helping teens strengthen organization, time management, and goal-setting skills.",
+      "generative_title": "Smart but Scattered Teens by Richard Guare, Peg Dawson & Colin Guare",
+      "info": "ef_books/smart_but_scattered_teens_by/smart_but_scattered_teens_by_summary.json",
+      "strategies": "ef_books/smart_but_scattered_teens_by/smart_but_scattered_teens_by_strategies.json",
+      "studyPlan": {
+        "module_path": "ef_books/smart_but_scattered_teens_by/smart_but_scattered_teens_by_modules.json",
+        "lesson_path": "ef_books/smart_but_scattered_teens_by/smart_but_scattered_teens_by_lessons.json"
+      }
+    },
+    {
+      "id": 1208,
+      "title": "The 7 Habits of Highly Effective Teens",
+      "author": "Sean Covey",
+      "summary": "Presents a framework for teens to develop independence, responsibility, and effective habits aligned with executive functioning.",
+      "generative_title": "The 7 Habits of Highly Effective Teens by Sean Covey",
+      "info": "ef_books/7_habits_of_highly/7_habits_of_highly_summary.json",
+      "strategies": "ef_books/7_habits_of_highly/7_habits_of_highly_strategies.json",
+      "studyPlan": {
+        "module_path": "ef_books/7_habits_of_highly/7_habits_of_highly_modules.json",
+        "lesson_path": "ef_books/7_habits_of_highly/7_habits_of_highly_lessons.json"
+      }
+    }
+  ]
+}

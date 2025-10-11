@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs",
+  "description": "A guide to nurturing essential life skills in children, focusing on fostering executive functions and promoting lifelong learning.",
+  "videoPreview": "The Seven Essential Life Skills",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347710633i/7895178._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Focus and Self-Control",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Perspective Taking"
+    },
+    {
+      "id": 13,
+      "title": "Communicating"
+    },
+    {
+      "id": 14,
+      "title": "Making Connections"
+    },
+    {
+      "id": 15,
+      "title": "Critical Thinking"
+    },
+    {
+      "id": 16,
+      "title": "Taking on Challenges"
+    },
+    {
+      "id": 17,
+      "title": "Self-Directed, Engaged Learning"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Focus and Self-Control in Children",
+      "id": "0AFRnZEkqq4"
+    },
+    {
+      "title": "Teaching Perspective Taking",
+      "id": "9s9kgTHPWsA"
+    },
+    {
+      "title": "Effective Communication Skills for Kids",
+      "id": "eOeMCtV34C8"
+    },
+    {
+      "title": "Making Connections: Building a Network of Knowledge",
+      "id": "BqIgQ6g-OyM"
+    },
+    {
+      "title": "Fostering Critical Thinking in Children",
+      "id": "wCUzmaBmUao"
+    },
+    {
+      "title": "Encouraging Children to Take on Challenges",
+      "id": "yQDBMxpFmag"
+    },
+    {
+      "title": "Promoting Self-Directed, Engaged Learning",
+      "id": "i5LrOTFd4Mo"
+    },
+    {
+      "title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs by Ellen Galinsky",
+      "id": "oYgvRU1YpOM"
+    }
+  ],
+  "bookUrl": "/book/show/7895178-mind-in-the-making"
+}
