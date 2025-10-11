@@ -1,0 +1,100 @@
+{
+  "12": [
+    {
+      "id": "understanding_executive_functions",
+      "title": "Understanding Executive Functions",
+      "goal": "Learn what executive functions are, how they develop, and why they are critical for children's success in school and life.",
+      "keyConcepts": [
+        "Definition and components of executive function",
+        "Brain development and self-regulation",
+        "Identifying strengths and weaknesses"
+      ],
+      "books": [
+        {
+          "id": 1201,
+          "title": "Smart but Scattered",
+          "author": "Peg Dawson & Richard Guare",
+          "summary": "Explains executive function skills in children and provides practical strategies to improve organization, time management, and emotional control."
+        },
+        {
+          "id": 1202,
+          "title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention",
+          "author": "Jill Fahy",
+          "summary": "Provides a detailed look at how executive functions are assessed and how parents and educators can support children with specific EF deficits."
+        }
+      ]
+    },
+    {
+      "id": "building_foundational_skills",
+      "title": "Building Foundational Executive Function Skills",
+      "goal": "Equip parents with tools to help young children develop emotional regulation, working memory, and cognitive flexibility.",
+      "keyConcepts": [
+        "Emotion regulation and mindfulness",
+        "Neuroscience of child development",
+        "Parent-child communication strategies"
+      ],
+      "books": [
+        {
+          "id": 1203,
+          "title": "The Whole-Brain Child",
+          "author": "Daniel J. Siegel & Tina Payne Bryson",
+          "summary": "Combines neuroscience and parenting advice to help children build emotional balance and resilience — key elements of executive function."
+        },
+        {
+          "id": 1204,
+          "title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs",
+          "author": "Ellen Galinsky",
+          "summary": "Highlights seven essential life skills, grounded in executive function research, and provides hands-on activities for parents and teachers."
+        }
+      ]
+    },
+    {
+      "id": "supporting_struggling_learners",
+      "title": "Supporting Children with Executive Function Challenges",
+      "goal": "Learn strategies to help children who struggle with organization, attention, or emotional control.",
+      "keyConcepts": [
+        "Coaching vs. controlling approaches",
+        "Environmental supports and scaffolding",
+        "Positive reinforcement and structure"
+      ],
+      "books": [
+        {
+          "id": 1205,
+          "title": "Late, Lost, and Unprepared: A Parents' Guide to Helping Children with Executive Functioning",
+          "author": "Joyce Cooper-Kahn & Laurie Dietzel",
+          "summary": "Offers actionable, parent-friendly strategies to support kids who face challenges with planning, flexibility, and follow-through."
+        },
+        {
+          "id": 1206,
+          "title": "The Explosive Child",
+          "author": "Ross W. Greene",
+          "summary": "Teaches the Collaborative & Proactive Solutions approach to help children manage frustration, improve flexibility, and strengthen problem-solving."
+        }
+      ]
+    },
+    {
+      "id": "nurturing_independence_and_growth",
+      "title": "Nurturing Independence and Growth",
+      "goal": "Guide older children and teens toward self-management, resilience, and goal-directed behavior using executive function principles.",
+      "keyConcepts": [
+        "Self-motivation and ownership",
+        "Goal setting and long-term planning",
+        "Developing resilience and adaptability"
+      ],
+      "books": [
+        {
+          "id": 1207,
+          "title": "Smart but Scattered Teens",
+          "author": "Richard Guare, Peg Dawson & Colin Guare",
+          "summary": "A continuation of 'Smart but Scattered' focusing on helping teens strengthen organization, time management, and goal-setting skills."
+        },
+        {
+          "id": 1208,
+          "title": "The 7 Habits of Highly Effective Teens",
+          "author": "Sean Covey",
+          "summary": "Presents a framework for teens to develop independence, responsibility, and effective habits aligned with executive functioning."
+        }
+      ]
+    }
+  ]
+}
