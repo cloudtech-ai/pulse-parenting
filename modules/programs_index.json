@@ -1,2 +1,11 @@
 [
+    {
+        "id": 12,
+        "name": "Executive Functioning Program",
+        "description": "A comprehensive program designed to guide parents to help children through the development of executive functioning skills.",
+        "file": "programs/ef_program.json",
+        "summary": "A collection of resources and strategies for improving executive functioning.",
+        "last_updated_utc": "2025-10-08T05:14:38Z",
+        "bookCollectionId": "012-EFBooks"
+    }
 ]

@@ -26,5 +26,12 @@
     "file": "parenting_books.json",
     "summary": "A collection of books on Parenting for Teens with Stress, Anxiety, and Depression.",
     "last_updated_utc": "2025-07-09T13:14:38Z"
+  },
+  {
+    "id": "012-EFBooks",
+    "name": "Executive Functioning",
+    "file": "programs/ef/ef_books.json",
+    "summary": "A collection of books on Executive Functioning.",
+    "last_updated_utc": "2025-07-09T13:14:38Z"
   }
 ]
