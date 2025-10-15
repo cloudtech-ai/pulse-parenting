@@ -1,0 +1,1017 @@
+<!-- Begin: Marketing Pulse Parenting Books -->
+<div class="mpp-collection">
+<style>
+/* --- Minimal WordPress-friendly styles (scoped with mpp- prefix) --- */
+.mpp-collection { margin: 1rem 0; }
+
+/* Table of Contents */
+.mpp-toc { padding: 1rem; background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 1rem; }
+.mpp-toc h2 { margin: 0 0 .5rem; font-size: 1.25rem; }
+.mpp-toc-list { list-style: decimal; margin: 0; padding-left: 1.25rem; }
+.mpp-toc-item { margin: .5rem 0; }
+.mpp-toc-title { display: block; font-weight: 600; text-decoration: none; }
+.mpp-toc-title:hover { text-decoration: underline; }
+.mpp-toc-desc {
+  display: block;
+  font-size: .95rem;
+  color: #4b5563;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+/* Book blocks */
+.mpp-book { padding: 1.5rem 0; border-top: 1px solid #e5e7eb; }
+.mpp-book:first-of-type { border-top: none; }
+.mpp-book-header { text-align: center; margin-bottom: 1rem; }
+.mpp-book-title { margin: 0.25rem 0 0.75rem; font-size: 1.75rem; }
+.mpp-book-image img {
+  max-width: 240px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  margin: 0 auto;
+  display: block;
+}
+.mpp-desc { margin: 0.5rem auto 1rem; max-width: 700px; color: #374151; text-align: center; }
+
+/* Key strategies */
+.mpp-key-strategies ul { padding-left: 1.25rem; }
+.mpp-key-strategies li { margin: .25rem 0; }
+.mpp-key-strategies li.mpp-focused { font-weight: 600; }
+
+/* Collapsible (details/summary) for Videos */
+.mpp-accordion {
+  margin-top: 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.mpp-accordion > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: .75rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  background: #f9fafb;
+  font-weight: 600;
+}
+.mpp-accordion > summary::-webkit-details-marker { display: none; }
+.mpp-acc-title { flex: 0 0 auto; }
+.mpp-acc-count { color: #6b7280; font-weight: 500; }
+.mpp-acc-caret {
+  margin-left: auto;
+  width: 0; height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 7px solid #374151; /* caret */
+  transition: transform .2s ease;
+}
+.mpp-accordion[open] .mpp-acc-caret { transform: rotate(180deg); }
+
+.mpp-videos { padding: .75rem 1rem 1rem; }
+.mpp-video-grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* smaller => more per row */
+}
+
+/* Video card */
+.mpp-video-embed {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  border-radius: 6px;
+  overflow: hidden;
+}
+.mpp-video-embed iframe {
+  position: absolute; top: 0; left: 0;
+  width: 100%; height: 100%;
+}
+.mpp-video-title {
+  font-size: 0.9rem;
+  margin: 0.3rem 0 0;
+  color: #374151;
+  text-align: center;
+}
+</style>
+<nav class="mpp-toc" aria-label="Table of Contents">
+  <h2>Table of Contents</h2>
+  <ol class="mpp-toc-list">
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#the-teenage-brain-by-frances-e-jensen">The Teenage Brain by Frances E. Jensen</a><span class="mpp-toc-desc">Exploration of the adolescent brain&#x27;s development, highlighting its strengths and vulnerabilities, and offering insights for parents and educators.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#helping-your-anxious-teen-by-sheila-achar-josephs">Helping Your Anxious Teen by Sheila Achar Josephs</a><span class="mpp-toc-desc">A guide for parents to help their teenagers manage anxiety through practical strategies and support.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#parenting-a-child-who-has-intense-emotions-by-pat-harvey-and-jeanine-penzo">Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo</a><span class="mpp-toc-desc">A guide for parents to help their children manage intense emotions using practical strategies and skills.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#how-to-talk-so-teens-will-listen-listen-so-teens-will-talk-by-adele-faber-elaine-mazlish">How to Talk So Teens Will Listen &amp; Listen So Teens Will Talk by Adele Faber &amp; Elaine Mazlish</a><span class="mpp-toc-desc">A guide for parents to improve communication with their teenage children, fostering mutual respect and understanding.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#the-dbt-skills-workbook-for-parents-of-teens-by-amanda-l-smith">The DBT Skills Workbook for Parents of Teens by Amanda L. Smith</a><span class="mpp-toc-desc">Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#the-mindful-teen-by-dzung-x-vo">The Mindful Teen by Dzung X. Vo</a><span class="mpp-toc-desc">A guide for teenagers to develop mindfulness skills to handle stress and emotions effectively, promoting mental well-being and resilience.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#raising-a-moody-child-by-mary-a-fristad-jill-s-goldberg-arnold">Raising a Moody Child by Mary A. Fristad &amp; Jill S. Goldberg Arnold</a><span class="mpp-toc-desc">A guide for parents to help their children manage mood disorders, with strategies for understanding and addressing emotional challenges.</span>
+  <li class="mpp-toc-item"><a class="mpp-toc-title" href="#brainstorm-by-daniel-j-siegel">Brainstorm by Daniel J. Siegel</a><span class="mpp-toc-desc">Explores the adolescent brain and provides insights into the changes and challenges during this developmental period, emphasizing the importance of understanding and nurturing the adolescent mind.</span>
+  </ol>
+</nav>
+<section class="mpp-book" id="the-teenage-brain-by-frances-e-jensen">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">The Teenage Brain by Frances E. Jensen</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/30764" alt="The Teenage Brain by Frances E. Jensen cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>Exploration of the adolescent brain&#x27;s development, highlighting its strengths and vulnerabilities, and offering insights for parents and educators.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Understanding Brain Development</li>
+        <li>Communication Strategies</li>
+        <li>Risk Management</li>
+        <li>Promoting Healthy Habits</li>
+        <li>Supporting Emotional Growth</li>
+        <li>Educational Approaches</li>
+        <li>Building Resilience</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for The Teenage Brain by Frances E. Jensen">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(5)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/bSIe7VGKaqA"
+      title="The Teenage Brain: A Guide for Parents"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">The Teenage Brain: A Guide for Parents</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/dISmdb5zfiQ"
+      title="Adolescent Brain Development Explained"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Adolescent Brain Development Explained</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/yPIuPHilAlE"
+      title="Communicating with Teens Effectively"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Communicating with Teens Effectively</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/kvk4sqNPa4M"
+      title="Managing Risks in Teenage Years"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Managing Risks in Teenage Years</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/XgQX0mbrvt4"
+      title="Supporting Emotional Growth in Adolescents"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Supporting Emotional Growth in Adolescents</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="helping-your-anxious-teen-by-sheila-achar-josephs">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">Helping Your Anxious Teen by Sheila Achar Josephs</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://example.com/image/anxious-teen.jpg" alt="Helping Your Anxious Teen by Sheila Achar Josephs cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>A guide for parents to help their teenagers manage anxiety through practical strategies and support.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Communication Techniques</li>
+        <li>Cognitive Behavioral Strategies</li>
+        <li>Mindfulness Practices</li>
+        <li>Building Resilience</li>
+        <li>Setting Boundaries</li>
+        <li>Encouraging Healthy Habits</li>
+        <li>Seeking Professional Help</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for Helping Your Anxious Teen by Sheila Achar Josephs">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(3)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/5sCZYWSJ2J0"
+      title="Understanding Teen Anxiety"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Understanding Teen Anxiety</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/yPIuPHilAlE"
+      title="Effective Communication with Teens"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Effective Communication with Teens</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/4zQFLj28g0Q"
+      title="CBT Techniques for Teens"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">CBT Techniques for Teens</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="parenting-a-child-who-has-intense-emotions-by-pat-harvey-and-jeanine-penzo">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/20764" alt="Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>A guide for parents to help their children manage intense emotions using practical strategies and skills.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Validation Techniques</li>
+        <li>Emotion Regulation Skills</li>
+        <li>Mindfulness Practices</li>
+        <li>Problem-Solving Strategies</li>
+        <li>Effective Communication</li>
+        <li>Setting Boundaries</li>
+        <li>Self-Care for Parents</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(8)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/HngC6R4AjzA"
+      title="Understanding Your Child&#x27;s Emotional Needs"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Understanding Your Child&#x27;s Emotional Needs</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/puoddnGTAJk"
+      title="Techniques for Calming Intense Emotions"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Techniques for Calming Intense Emotions</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/cIXQOb4klUw"
+      title="Mindfulness for Children"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Mindfulness for Children</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/pyI-a9BS-cU"
+      title="Effective Communication with Your Child"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Effective Communication with Your Child</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/_FpM9ZgkYk4"
+      title="Problem-Solving with Your Child"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Problem-Solving with Your Child</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/5uIANt2_A8A"
+      title="Self-Care Tips for Parents"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Self-Care Tips for Parents</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/2SI6C2Obzgc"
+      title="Setting Healthy Boundaries"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Setting Healthy Boundaries</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/u_795UX9VJ8"
+      title="Validation Techniques for Parents"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Validation Techniques for Parents</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="how-to-talk-so-teens-will-listen-listen-so-teens-will-talk-by-adele-faber-elaine-mazlish">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">How to Talk So Teens Will Listen &amp; Listen So Teens Will Talk by Adele Faber &amp; Elaine Mazlish</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/30764" alt="How to Talk So Teens Will Listen &amp; Listen So Teens Will Talk by Adele Faber &amp; Elaine Mazlish cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>A guide for parents to improve communication with their teenage children, fostering mutual respect and understanding.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Acknowledge Feelings</li>
+        <li>Engage Cooperation</li>
+        <li>Alternatives to Punishment</li>
+        <li>Encourage Autonomy</li>
+        <li>Praise and Self-Esteem</li>
+        <li>Freeing Teens from Playing Roles</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for How to Talk So Teens Will Listen &amp; Listen So Teens Will Talk by Adele Faber &amp; Elaine Mazlish">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(5)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/SYcg2cJUUds"
+      title="How to Talk So Teens Will Listen"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">How to Talk So Teens Will Listen</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/-uEBVIGoC9Y"
+      title="Listening Skills for Parents"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Listening Skills for Parents</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/4Ikd-7vCvHw"
+      title="Encouraging Teen Cooperation"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Encouraging Teen Cooperation</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/UDY3KmktMTc"
+      title="Alternatives to Punishment"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Alternatives to Punishment</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/_tzcE_35jxk"
+      title="Building Teen Self-Esteem"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Building Teen Self-Esteem</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="the-dbt-skills-workbook-for-parents-of-teens-by-amanda-l-smith">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">The DBT Skills Workbook for Parents of Teens by Amanda L. Smith</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/20764" alt="The DBT Skills Workbook for Parents of Teens by Amanda L. Smith cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>TIPP (Rapid Body Reset)</li>
+        <li>Self‑Soothe with the Five Senses</li>
+        <li>ACCEPTS Distraction Skills</li>
+        <li>IMPROVE the Moment</li>
+        <li>Pros &amp; Cons Before Acting</li>
+        <li>STOP Skill for Immediate Grounding</li>
+        <li>Radical Acceptance &amp; Turning the Mind</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for The DBT Skills Workbook for Parents of Teens by Amanda L. Smith">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(8)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/HngC6R4AjzA"
+      title="DBT – Distress Tolerance – Quick Overview of All Skills"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT – Distress Tolerance – Quick Overview of All Skills</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/puoddnGTAJk"
+      title="How to Deal with Negative Emotions – Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">How to Deal with Negative Emotions – Distress Tolerance</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/cIXQOb4klUw"
+      title="DBT Skills: TIPP for Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT Skills: TIPP for Distress Tolerance</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/pyI-a9BS-cU"
+      title="DBT Skills: ACCEPTS for Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT Skills: ACCEPTS for Distress Tolerance</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/_FpM9ZgkYk4"
+      title="DBT Skills: Improve for Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT Skills: Improve for Distress Tolerance</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/5uIANt2_A8A"
+      title="DBT Skills: Self-Soothe for Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT Skills: Self-Soothe for Distress Tolerance</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/2SI6C2Obzgc"
+      title="DBT Skills: Pros and Cons for Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT Skills: Pros and Cons for Distress Tolerance</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/u_795UX9VJ8"
+      title="DBT Skills: Radical Acceptance for Distress Tolerance"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">DBT Skills: Radical Acceptance for Distress Tolerance</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="the-mindful-teen-by-dzung-x-vo">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">The Mindful Teen by Dzung X. Vo</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/20764" alt="The Mindful Teen by Dzung X. Vo cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>A guide for teenagers to develop mindfulness skills to handle stress and emotions effectively, promoting mental well-being and resilience.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Mindful Breathing</li>
+        <li>Body Scan Meditation</li>
+        <li>Mindful Walking</li>
+        <li>Loving-Kindness Meditation</li>
+        <li>Mindful Listening</li>
+        <li>Mindful Eating</li>
+        <li>Gratitude Practice</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for The Mindful Teen by Dzung X. Vo">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(8)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/HngC6R4AjzA"
+      title="Mindfulness for Teens – Quick Overview of All Skills"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Mindfulness for Teens – Quick Overview of All Skills</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/puoddnGTAJk"
+      title="How to Deal with Stress – Mindfulness Techniques"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">How to Deal with Stress – Mindfulness Techniques</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/cIXQOb4klUw"
+      title="Mindful Breathing for Stress Reduction"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Mindful Breathing for Stress Reduction</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/pyI-a9BS-cU"
+      title="Body Scan Meditation for Relaxation"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Body Scan Meditation for Relaxation</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/_FpM9ZgkYk4"
+      title="Mindful Walking for Awareness"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Mindful Walking for Awareness</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/5uIANt2_A8A"
+      title="Loving-Kindness Meditation for Compassion"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Loving-Kindness Meditation for Compassion</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/2SI6C2Obzgc"
+      title="Mindful Listening for Better Communication"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Mindful Listening for Better Communication</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/u_795UX9VJ8"
+      title="Gratitude Practice for Positivity"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Gratitude Practice for Positivity</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="raising-a-moody-child-by-mary-a-fristad-jill-s-goldberg-arnold">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">Raising a Moody Child by Mary A. Fristad &amp; Jill S. Goldberg Arnold</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/30764" alt="Raising a Moody Child by Mary A. Fristad &amp; Jill S. Goldberg Arnold cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>A guide for parents to help their children manage mood disorders, with strategies for understanding and addressing emotional challenges.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Identifying Mood Symptoms</li>
+        <li>Building Emotional Resilience</li>
+        <li>Effective Communication Techniques</li>
+        <li>Creating a Supportive Environment</li>
+        <li>Collaborating with Professionals</li>
+        <li>Implementing Routine and Structure</li>
+        <li>Coping Strategies for Parents</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for Raising a Moody Child by Mary A. Fristad &amp; Jill S. Goldberg Arnold">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(6)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/-38ii8UBXB0"
+      title="Understanding Childhood Mood Disorders"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Understanding Childhood Mood Disorders</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/zeu9X88g8DE"
+      title="Building Resilience in Children"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Building Resilience in Children</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/mEqaNDwaKfk"
+      title="Effective Communication with Your Child"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Effective Communication with Your Child</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/iCXtGfNz0Yc"
+      title="Creating a Supportive Home Environment"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Creating a Supportive Home Environment</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/_F3lgztx2-I"
+      title="Establishing Routines for Stability"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Establishing Routines for Stability</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/EszLfK8lI-g"
+      title="Self-Care for Parents of Moody Children"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Self-Care for Parents of Moody Children</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="mpp-book" id="brainstorm-by-daniel-j-siegel">
+  <header class="mpp-book-header">
+    <h2 class="mpp-book-title">Brainstorm by Daniel J. Siegel</h2>
+    
+  <div class="mpp-book-image">
+    <img src="https://openclipart.org/image/800px/20764" alt="Brainstorm by Daniel J. Siegel cover" loading="lazy" />
+  </div>
+  </header>
+  <p class='mpp-desc'>Explores the adolescent brain and provides insights into the changes and challenges during this developmental period, emphasizing the importance of understanding and nurturing the adolescent mind.</p>
+  <div class="mpp-book-content">
+    <div class="mpp-key-strategies">
+      <h3>Key Strategies</h3>
+      <ul>
+        <li class='mpp-focused'>Embracing Emotional Spark</li>
+        <li>Social Engagement</li>
+        <li>Novelty Seeking</li>
+        <li>Creative Exploration</li>
+      </ul>
+    </div>
+
+    <details class="mpp-accordion" aria-label="Videos for Brainstorm by Daniel J. Siegel">
+      <summary>
+        <span class="mpp-acc-title">Videos</span>
+        <span class="mpp-acc-count">(8)</span>
+        <span class="mpp-acc-caret" aria-hidden="true"></span>
+      </summary>
+      <div class="mpp-videos">
+        <div class="mpp-video-grid">
+          <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/HngC6R4AjzA"
+      title="The Adolescent Brain: A Work in Progress"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">The Adolescent Brain: A Work in Progress</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/puoddnGTAJk"
+      title="Understanding Teen Behavior"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Understanding Teen Behavior</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/cIXQOb4klUw"
+      title="The Power and Purpose of the Teenage Brain"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">The Power and Purpose of the Teenage Brain</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/pyI-a9BS-cU"
+      title="Navigating Adolescence with Insight"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Navigating Adolescence with Insight</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/_FpM9ZgkYk4"
+      title="Parenting Teens: Strategies for Connection"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Parenting Teens: Strategies for Connection</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/5uIANt2_A8A"
+      title="Adolescent Brain Development Explained"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Adolescent Brain Development Explained</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/2SI6C2Obzgc"
+      title="Harnessing the Power of the Teenage Brain"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">Harnessing the Power of the Teenage Brain</p>
+</div>
+        <div class="mpp-video">
+  <div class="mpp-video-embed">
+    <iframe
+      src="https://www.youtube.com/embed/u_795UX9VJ8"
+      title="The Science of the Teenage Brain"
+      loading="lazy"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  <p class="mpp-video-title">The Science of the Teenage Brain</p>
+</div>
+        </div>
+      </div>
+    </details>
+  </div>
+</section>
+</div>
+<!-- End: Marketing Pulse Parenting Books -->
