@@ -1,6 +1,7 @@
 {
   "blogs": [
     {
+       "blog_id": 1,
       "blog_slug": "building-parent-teen-connection-anxiety-depression",
       "blog_title": "Building Parent-Teen Connection: Anxiety, Depression, and the Power of Showing Up",
       "blog_url": "https://pulseparenting.com/building-parent-teen-connection-anxiety-depression/",

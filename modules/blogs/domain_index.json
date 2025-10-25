@@ -1,5 +1,7 @@
 {
     "pulseparenting.com": {
+        "domain_id": 1,
+        "domain_name": "Pulse Parenting",
         "blog_index": "pulseparenting.com/blogs_index.json"
     }
 }
