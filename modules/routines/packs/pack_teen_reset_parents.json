@@ -1,0 +1,82 @@
+{
+  "id": "pack_teen_reset_parents",
+  "title": "Teen Reset Pack",
+  "description": "For parents supporting teens experiencing low energy, sadness, or withdrawal. These micro-routines encourage structure, connection, and gentle activation.",
+  "routines": [
+    {
+      "id": "tnp_morning_light",
+      "title": "Share the Morning Light",
+      "description": "Start the day together by opening the curtains or stepping outside for 2 minutes.",
+      "context": "Morning",
+      "durationMin": 2,
+      "parentRole": "model",
+      "parentGoal": "Help reset circadian rhythm and create gentle activation.",
+      "childOutcome": "Improved alertness and shared connection.",
+      "steps": [
+        "Invite your teen to open the curtains or step outside with you.",
+        "Say something simple like, 'Let\u2019s get some light together.'",
+        "Notice one thing in nature aloud ('the sky looks clear today')."
+      ]
+    },
+    {
+      "id": "tnp_micro_move",
+      "title": "Tiny Move Together",
+      "description": "Suggest a 3-minute shared movement break.",
+      "context": "Anytime",
+      "durationMin": 3,
+      "parentRole": "join",
+      "parentGoal": "Support physical activation and lower emotional inertia.",
+      "childOutcome": "Increased energy and dopamine boost through movement.",
+      "steps": [
+        "Say, 'Let\u2019s do three minutes of something active together.'",
+        "Offer options: stretch, walk around the block, or dance to a song.",
+        "Keep it playful\u2014no performance or pressure."
+      ]
+    },
+    {
+      "id": "tnp_check_in",
+      "title": "Soft Check-In",
+      "description": "A low-pressure moment to connect with your teen through a brief text or comment.",
+      "context": "Afternoon",
+      "durationMin": 2,
+      "parentRole": "guide",
+      "parentGoal": "Maintain gentle connection even when talking feels hard.",
+      "childOutcome": "Feels noticed without being interrogated.",
+      "steps": [
+        "Send a short message like, 'Thinking of you\u2014want a snack?'",
+        "Or make a light comment in person, not a question ('That sunset\u2019s wild tonight.').",
+        "Leave space; no need for a reply."
+      ]
+    },
+    {
+      "id": "tnp_evening_walk",
+      "title": "Five-Minute Evening Walk",
+      "description": "Invite your teen for a no-talking walk around the block or house.",
+      "context": "Evening",
+      "durationMin": 5,
+      "parentRole": "join",
+      "parentGoal": "Provide sensory calm and subtle presence.",
+      "childOutcome": "Lower stress hormones; emotional regulation through rhythm and movement.",
+      "steps": [
+        "Say, 'I need a little air, want to come?'",
+        "Walk quietly side by side.",
+        "Keep your phone away; silence is okay."
+      ]
+    },
+    {
+      "id": "tnp_compassion_note",
+      "title": "Model Self-Kindness",
+      "description": "Show your teen how you write or say one kind thing to yourself.",
+      "context": "Morning",
+      "durationMin": 2,
+      "parentRole": "model",
+      "parentGoal": "Model self-compassion as a coping skill.",
+      "childOutcome": "Internalizes self-kindness and reduced self-criticism.",
+      "steps": [
+        "Write a short note to yourself on a sticky note ('I\u2019m doing my best today.').",
+        "Place it on the mirror where your teen can see.",
+        "If they notice, invite them to write one too."
+      ]
+    }
+  ]
+}

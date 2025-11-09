@@ -1,0 +1,41 @@
+[
+  {
+    "id": "pack_teen_reset_parents",
+    "title": "Teen Reset Pack",
+    "summary": "Simple, relationship-based routines to support teens (13\u201318) managing low mood or motivation.",
+    "tags": [
+      "teen",
+      "depression",
+      "connection",
+      "age:13-18"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
+    "detailUrl": "packs/pack_teen_reset_parents.json"
+  },
+  {
+    "id": "pack_tween_emotions_parents",
+    "title": "Big Emotions Pack",
+    "summary": "Guided routines to help tweens (10\u201312) recognize, name, and regulate big emotions.",
+    "tags": [
+      "tween",
+      "emotions",
+      "self-regulation",
+      "age:10-12"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    "detailUrl": "packs/pack_tween_emotions_parents.json"
+  },
+  {
+    "id": "pack_focus_flow_parents",
+    "title": "Focus and Flow Pack",
+    "summary": "Play-based, structured mini-routines for children (6\u20139) showing mild ADHD symptoms.",
+    "tags": [
+      "adhd",
+      "focus",
+      "play",
+      "age:6-9"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "detailUrl": "packs/pack_focus_flow_parents.json"
+  }
+]

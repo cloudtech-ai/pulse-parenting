@@ -1,0 +1,82 @@
+{
+  "id": "pack_tween_emotions_parents",
+  "title": "Big Emotions Pack",
+  "description": "For parents of tweens learning to navigate big feelings. These tools support co-regulation and emotional literacy.",
+  "routines": [
+    {
+      "id": "twp_feeling_scale",
+      "title": "The Feeling Thermometer",
+      "description": "Help your tween rate how strong their feelings are (1\u20135) before reacting.",
+      "context": "Anytime",
+      "durationMin": 3,
+      "parentRole": "guide",
+      "parentGoal": "Coach emotional awareness and prevent escalation.",
+      "childOutcome": "Recognizes feelings before acting; uses shared language for regulation.",
+      "steps": [
+        "Say, 'Let\u2019s rate the feeling\u20141 is calm, 5 is boiling.'",
+        "Model your own: 'I\u2019m at a 3, so I\u2019m taking a breath.'",
+        "Suggest a matching tool: belly breaths, water, or space."
+      ]
+    },
+    {
+      "id": "twp_name_it",
+      "title": "Name It to Tame It",
+      "description": "Guide your tween to put their feeling into words.",
+      "context": "After Conflict",
+      "durationMin": 2,
+      "parentRole": "guide",
+      "parentGoal": "Help label emotions to engage the thinking brain.",
+      "childOutcome": "Develops emotional vocabulary and self-awareness.",
+      "steps": [
+        "Say, 'You seem upset. Can we name what that feels like?'",
+        "Reflect back their answer without judgment.",
+        "End with a validating phrase like, 'That makes sense.'"
+      ]
+    },
+    {
+      "id": "twp_shake_reset",
+      "title": "Shake Reset",
+      "description": "Shake out tension together to discharge energy safely.",
+      "context": "Transition",
+      "durationMin": 2,
+      "parentRole": "join",
+      "parentGoal": "Co-regulate through movement; reduce physiological arousal.",
+      "childOutcome": "Releases tension and resets energy levels.",
+      "steps": [
+        "Say, 'Let\u2019s shake it out for 10 seconds!'",
+        "Shake arms, legs, whole body, then freeze for 5 seconds.",
+        "Laugh if it feels silly\u2014humor releases stress."
+      ]
+    },
+    {
+      "id": "twp_cooldown",
+      "title": "Cool-Down Corner",
+      "description": "Set up a sensory-friendly space for decompression.",
+      "context": "Home",
+      "durationMin": 3,
+      "parentRole": "guide",
+      "parentGoal": "Teach your tween to notice and use sensory strategies for regulation.",
+      "childOutcome": "Practices calming independently over time.",
+      "steps": [
+        "Choose a cozy spot with soft textures and calm colors.",
+        "Place a fidget, a soft toy, and something to smell (e.g., citrus peel).",
+        "Say, 'This is a place to calm, not a punishment.'"
+      ]
+    },
+    {
+      "id": "twp_gratitude",
+      "title": "Three Good Things",
+      "description": "Share three good or okay things before bedtime.",
+      "context": "Evening",
+      "durationMin": 3,
+      "parentRole": "model",
+      "parentGoal": "Model reframing and positive recall before sleep.",
+      "childOutcome": "Improved sleep onset and positive mood association with bedtime.",
+      "steps": [
+        "Say, 'Let\u2019s each name three good or okay things from today.'",
+        "Keep them small: a snack, a song, a funny meme.",
+        "Respond with warmth, not praise."
+      ]
+    }
+  ]
+}

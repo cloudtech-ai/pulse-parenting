@@ -1,0 +1,82 @@
+{
+  "id": "pack_focus_flow_parents",
+  "title": "Focus and Flow Pack",
+  "description": "For parents supporting kids 6\u20139 who find focus and transitions challenging. These routines blend structure and play to build executive function skills.",
+  "routines": [
+    {
+      "id": "chp_start_chart",
+      "title": "Three-Step Start Chart",
+      "description": "Create a visual start routine for tasks like homework or chores.",
+      "context": "After School",
+      "durationMin": 3,
+      "parentRole": "guide",
+      "parentGoal": "Provide predictable structure to lower task resistance.",
+      "childOutcome": "Improved initiation and confidence starting tasks.",
+      "steps": [
+        "Draw three simple icons: timer, task, sticker.",
+        "Point to each as you go: 'Timer on, do one piece, sticker done.'",
+        "Celebrate with a high-five or smile."
+      ]
+    },
+    {
+      "id": "chp_move_sandwich",
+      "title": "Movement Sandwich",
+      "description": "Use short bursts of movement before and after focus time.",
+      "context": "Homework",
+      "durationMin": 15,
+      "parentRole": "guide",
+      "parentGoal": "Support attention through rhythmic movement and breaks.",
+      "childOutcome": "Better sustained attention and self-regulation.",
+      "steps": [
+        "Say, 'We\u2019ll do 3 minutes of movement, then 10 minutes of focus, then 2 minutes of movement.'",
+        "Pick movements: jump rope, dance, crawl races.",
+        "End with praise for effort, not outcome."
+      ]
+    },
+    {
+      "id": "chp_body_fuel",
+      "title": "Body Fuel Break",
+      "description": "Offer a water and protein snack before focus time.",
+      "context": "After School",
+      "durationMin": 5,
+      "parentRole": "observe",
+      "parentGoal": "Ensure physiological needs are met to support attention.",
+      "childOutcome": "Steadier energy and fewer meltdowns.",
+      "steps": [
+        "Offer choices: 'Water or milk? Cheese stick or nuts?'",
+        "Avoid sugar-heavy snacks before focus time.",
+        "Share a quick 'cheers' moment before starting."
+      ]
+    },
+    {
+      "id": "chp_visual_timer",
+      "title": "See the Time",
+      "description": "Use a visual or analog timer for short focus bursts.",
+      "context": "Homework",
+      "durationMin": 1,
+      "parentRole": "guide",
+      "parentGoal": "Make time tangible to support executive function.",
+      "childOutcome": "Learns pacing and self-monitoring.",
+      "steps": [
+        "Set timer for 10 minutes and show the child the countdown.",
+        "Say, 'Let\u2019s see how far we get before it dings.'",
+        "Celebrate with a small win when time\u2019s up."
+      ]
+    },
+    {
+      "id": "chp_bedtime_flow",
+      "title": "Bedtime Rock & Read",
+      "description": "End the day with gentle rocking or swaying while reading together.",
+      "context": "Bedtime",
+      "durationMin": 5,
+      "parentRole": "join",
+      "parentGoal": "Ease the transition to sleep and model calm routines.",
+      "childOutcome": "Improved sleep onset and emotional security.",
+      "steps": [
+        "Dim the lights and choose a short, calm story.",
+        "Hold or sway gently while reading.",
+        "End with quiet goodnight words."
+      ]
+    }
+  ]
+}
