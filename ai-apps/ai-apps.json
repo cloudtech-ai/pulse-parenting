@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "key": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "website": "chatgpt.com"
+    },
+    {
+      "key": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai/new",
+      "website": "claude.ai"
+    },
+    {
+      "key": "gemini",
+      "name": "Gemini",
+      "url": "https://gemini.google.com/app",
+      "website": "gemini.google.com"
+    }
+  ]
+}
