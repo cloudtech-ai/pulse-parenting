@@ -1,0 +1,87 @@
+{
+  "id": "pack_for_you_parents",
+  "title": "For You Pack",
+  "description": "Tiny routines for the parent alone. A steadier parent makes everything else in the week easier, so these take two or three minutes and need nothing but you.",
+  "routines": [
+    {
+      "id": "slf_pause_before_pickup",
+      "title": "Reset Before Pickup",
+      "description": "Two quiet minutes before you see your child, so you arrive calm rather than rushed.",
+      "context": "Transition",
+      "durationMin": 2,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Arrive at the next part of the day settled instead of carrying the last one in.",
+      "childOutcome": "Meets a calmer parent, which makes the first minutes together go more smoothly.",
+      "steps": [
+        "Before you get out of the car or open the door, put your phone face down.",
+        "Take three slow breaths, longer out than in.",
+        "Name one thing you're looking forward to with your child today."
+      ]
+    },
+    {
+      "id": "slf_name_it",
+      "title": "Name What You Feel",
+      "description": "When you notice tension rising, put one word to it before you respond.",
+      "context": "Anytime",
+      "durationMin": 1,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Create a short gap between feeling and reacting.",
+      "childOutcome": "Gets a response instead of a reaction, and sees what it looks like to pause.",
+      "steps": [
+        "Notice the signal: tight shoulders, a raised voice, a fast heartbeat.",
+        "Say one word to yourself: 'frustrated', 'worried', 'tired'.",
+        "Breathe out slowly once, then decide what to say."
+      ]
+    },
+    {
+      "id": "slf_one_good_moment",
+      "title": "One Good Moment",
+      "description": "At the end of the day, write down one moment with your child that went well.",
+      "context": "Evening",
+      "durationMin": 2,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Balance a hard day by noticing what worked, however small.",
+      "childOutcome": "A parent who notices good moments tends to notice more of them the next day.",
+      "steps": [
+        "Before bed, think back over the day with your child.",
+        "Write one sentence about a moment that went well, even a small one.",
+        "Add what you did that helped, if anything comes to mind."
+      ]
+    },
+    {
+      "id": "slf_repair_with_yourself",
+      "title": "Be Kind After a Hard Moment",
+      "description": "After a moment you're not proud of, speak to yourself the way you'd speak to a friend.",
+      "context": "After Conflict",
+      "durationMin": 2,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Recover from a hard moment without piling on blame, so you can repair.",
+      "childOutcome": "A parent who isn't stuck in guilt can come back and reconnect sooner.",
+      "steps": [
+        "Step away for a moment if you can.",
+        "Say to yourself: 'That was hard. I'm learning too.'",
+        "Pick one small thing you'll do to reconnect when you're ready."
+      ]
+    },
+    {
+      "id": "slf_lighten_the_load",
+      "title": "Drop One Thing",
+      "description": "Once a week, choose one thing you'll let go of so the week has more room.",
+      "context": "Weekend",
+      "durationMin": 3,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Keep the week realistic by deciding ahead what doesn't need doing.",
+      "childOutcome": "A less stretched parent has more patience for the moments that matter.",
+      "steps": [
+        "Look at the week ahead and list what's on your plate.",
+        "Pick one thing to skip, simplify, or hand to someone else.",
+        "Tell your partner or write it down so it actually happens."
+      ]
+    }
+  ]
+}

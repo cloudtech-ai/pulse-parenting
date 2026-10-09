@@ -37,5 +37,29 @@
     ],
     "coverImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
     "detailUrl": "packs/pack_focus_flow_parents.json"
+  },
+  {
+    "id": "pack_for_you_parents",
+    "title": "For You Pack",
+    "summary": "Two-minute routines for the parent alone, to stay steady through the week.",
+    "tags": [
+      "self-care",
+      "calm",
+      "parent",
+      "for:self"
+    ],
+    "detailUrl": "packs/pack_for_you_parents.json"
+  },
+  {
+    "id": "pack_family_rhythm_parents",
+    "title": "Family Rhythm Pack",
+    "summary": "Short routines for the whole family, for calmer mornings and a few shared moments, at any age.",
+    "tags": [
+      "family",
+      "routine",
+      "connection",
+      "for:family"
+    ],
+    "detailUrl": "packs/pack_family_rhythm_parents.json"
   }
 ]

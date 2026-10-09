@@ -1,0 +1,87 @@
+{
+  "id": "pack_family_rhythm_parents",
+  "title": "Family Rhythm Pack",
+  "description": "Short routines for the whole family together. They add a little predictability and a few shared moments to the week, for any age.",
+  "routines": [
+    {
+      "id": "fam_lay_out_tomorrow",
+      "title": "Lay Out Tomorrow",
+      "description": "Five minutes in the evening to set out bags, clothes and anything needed for the morning.",
+      "context": "Evening",
+      "durationMin": 5,
+      "parentRole": "guide",
+      "for": "family",
+      "parentGoal": "Move decisions out of the morning rush.",
+      "childOutcome": "Calmer mornings with fewer last-minute searches and arguments.",
+      "steps": [
+        "Pick a regular time after dinner and say, 'Let's get tomorrow ready.'",
+        "Everyone sets out their own bag, clothes and anything they'll need.",
+        "Do yours at the same time, then check off together: 'Bags, clothes, done.'"
+      ]
+    },
+    {
+      "id": "fam_high_low",
+      "title": "High and Low at Dinner",
+      "description": "Everyone shares one high and one low from their day.",
+      "context": "Evening",
+      "durationMin": 5,
+      "parentRole": "model",
+      "for": "family",
+      "parentGoal": "Create a regular, low-pressure moment where feelings are shared and heard.",
+      "childOutcome": "Gets practice naming feelings and hears that hard moments are normal.",
+      "steps": [
+        "At dinner, go first: share your high and your low in a sentence each.",
+        "Go around the table; anyone can pass.",
+        "Just listen and say 'thanks for sharing', without fixing or advice."
+      ]
+    },
+    {
+      "id": "fam_weekly_look_ahead",
+      "title": "Look at the Week Together",
+      "description": "A short weekend check-in on what's coming up for everyone.",
+      "context": "Weekend",
+      "durationMin": 5,
+      "parentRole": "guide",
+      "for": "family",
+      "parentGoal": "Make the week predictable so changes aren't a surprise.",
+      "childOutcome": "Knows what's coming, which makes transitions and busy days easier.",
+      "steps": [
+        "Sit together for five minutes on the weekend.",
+        "Go through the days: school, activities, anything different from usual.",
+        "Ask each person: 'Is there anything you're looking forward to or worried about?'"
+      ]
+    },
+    {
+      "id": "fam_ten_minute_tidy",
+      "title": "Ten-Minute Reset",
+      "description": "Everyone tidies together for one song or a short timer, then stops.",
+      "context": "Home",
+      "durationMin": 10,
+      "parentRole": "join",
+      "for": "family",
+      "parentGoal": "Share household tasks in a way that feels light and finite.",
+      "childOutcome": "Helps out without a battle because it's short, shared and has a clear end.",
+      "steps": [
+        "Put on a song or set a ten-minute timer.",
+        "Everyone picks one area or one kind of thing to put away.",
+        "Stop when the music stops, even if it's not finished, and notice what got done."
+      ]
+    },
+    {
+      "id": "fam_screen_free_moment",
+      "title": "Screens Down Together",
+      "description": "A short, regular moment when everyone puts their screens away at the same time, parents included.",
+      "context": "Evening",
+      "durationMin": 15,
+      "parentRole": "model",
+      "for": "family",
+      "parentGoal": "Make screen limits shared rather than a rule only for the children.",
+      "childOutcome": "Accepts the break more easily when the adults do it too, and gets unhurried time together.",
+      "steps": [
+        "Agree on a regular time and a place where devices go.",
+        "Put yours there first and say, 'Phones are having a rest.'",
+        "Do something simple together: a card game, a walk, or just talking."
+      ]
+    }
+  ]
+}
