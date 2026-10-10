@@ -1,7 +1,7 @@
 {
   "id": "pack_grown_children_parents",
   "title": "Staying Connected with Grown Children",
-  "description": "For parents of young adults and adult children. The relationship changes from guiding to supporting: these routines keep you close while respecting that they run their own lives.",
+  "description": "For parents of young adults and adult children. The relationship changes from guiding to supporting: these routines keep you close while respecting that they run their own lives, including when they're going through a hard time.",
   "routines": [
     {
       "id": "gc_regular_catch_up",
@@ -76,6 +76,98 @@
         "Decide beforehand what you're comfortable offering.",
         "Say it simply: \"I can help with this, but not with that.\"",
         "Stay kind and brief; you don't need to justify it at length."
+      ]
+    },
+    {
+      "id": "gc_notice_gently",
+      "title": "Say What You've Noticed, Gently",
+      "description": "When something seems off, share one specific thing you've noticed and invite them to talk, without labels or alarm.",
+      "context": "Anytime",
+      "durationMin": 5,
+      "parentRole": "guide",
+      "parentGoal": "Open a conversation about how they're doing without making them defensive.",
+      "childOutcome": "Feels noticed and cared about, and knows they can talk when ready.",
+      "steps": [
+        "Pick a calm moment, ideally side by side (a walk, a drive).",
+        "Name one specific thing: \"You've seemed really tired lately.\" Avoid labels like \"depressed\".",
+        "Ask an open question: \"How are things, really?\" If they don't want to talk, say \"I'm here when you do\" and leave it."
+      ]
+    },
+    {
+      "id": "gc_side_by_side",
+      "title": "Side-by-Side Time",
+      "description": "Do something ordinary together, such as cooking, a walk or an errand. Talking is often easier when it isn't the point.",
+      "context": "Anytime",
+      "durationMin": 20,
+      "parentRole": "join",
+      "parentGoal": "Stay connected when face-to-face talks feel like too much.",
+      "childOutcome": "Has easy company, and a chance to talk without pressure.",
+      "steps": [
+        "Suggest something low-key you both don't mind doing.",
+        "Let silence be fine; don't steer toward how they're feeling.",
+        "If they bring something up, listen first and ask what would help."
+      ]
+    },
+    {
+      "id": "gc_practical_help",
+      "title": "Offer One Practical Thing",
+      "description": "Ask what would make this week a little easier, and do one concrete thing they say yes to.",
+      "context": "Anytime",
+      "durationMin": 10,
+      "parentRole": "guide",
+      "parentGoal": "Help in a way that lightens their load without taking over.",
+      "childOutcome": "Gets real support while staying in charge of their life.",
+      "steps": [
+        "Ask: \"Is there one thing I could take off your plate this week?\"",
+        "Offer examples if they're stuck: a meal, a ride, help with a form or a call.",
+        "Do just that one thing, and check later if it helped."
+      ]
+    },
+    {
+      "id": "gc_encourage_help",
+      "title": "Encourage Support, Respect Their Choice",
+      "description": "If they're struggling, encourage them to talk to a doctor or counselor, and offer to help them find one, while accepting it's their decision.",
+      "context": "Anytime",
+      "durationMin": 10,
+      "parentRole": "guide",
+      "parentGoal": "Make professional help feel normal and easy to reach.",
+      "childOutcome": "Knows help is available and that you'll back them up, without feeling pushed.",
+      "steps": [
+        "Say why you're raising it: \"I care about you, and you've been carrying a lot.\"",
+        "Offer practical help: finding someone, booking, or a ride. Many schools and workplaces offer free counseling.",
+        "If they say no, accept it for now, and come back to it gently another time."
+      ]
+    },
+    {
+      "id": "gc_know_your_plan",
+      "title": "Know the Warning Signs and Your Plan",
+      "description": "For you: learn the signs that someone may be in danger, and keep the numbers for getting help right away close at hand.",
+      "context": "Anytime",
+      "durationMin": 10,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Be ready to act quickly and calmly if things get serious.",
+      "childOutcome": "Has a parent who knows what to do if they're ever at risk.",
+      "steps": [
+        "Learn the warning signs: talk of hopelessness or being a burden, giving things away, withdrawing from everyone, or talking about hurting themselves.",
+        "Save your local emergency number and a crisis line in your phone (in the US, call or text 988).",
+        "If you're worried about their safety, ask directly and get help right away; don't wait."
+      ]
+    },
+    {
+      "id": "gc_look_after_yourself",
+      "title": "Look After Yourself Too",
+      "description": "For you: supporting a struggling adult child is hard. Take a few minutes for yourself, and find support of your own.",
+      "context": "Anytime",
+      "durationMin": 10,
+      "parentRole": "self",
+      "for": "self",
+      "parentGoal": "Stay steady enough to support them over the long run.",
+      "childOutcome": "Has a parent who stays calm and available, rather than worn out.",
+      "steps": [
+        "Do one small thing that refills you today: a walk, a call with a friend, rest.",
+        "Talk to someone you trust about how you're doing, not just about them.",
+        "Consider a support group or counselor for parents; you don't have to carry this alone."
       ]
     }
   ]
