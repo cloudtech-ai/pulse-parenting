@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Open Pulse Parenting</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 520px; margin: 48px auto; padding: 0 20px; line-height: 1.6; color: #333; text-align: center; }
+    h1 { color: #2c3e50; font-size: 24px; }
+    .open { display: inline-block; margin: 20px 0 8px; padding: 14px 28px; border-radius: 999px; background: #2F6F66; color: #fff; font-weight: bold; font-size: 17px; text-decoration: none; }
+    .muted { color: #6b7280; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <!--
+    Links like /pulse-parenting/open/?to=plan open the Pulse Parenting app directly on iPhone (universal links,
+    verified at https://cloudtech-ai.github.io/.well-known/apple-app-site-association). This page appears only when
+    that doesn't happen (some in-app browsers, Android, or Pulse isn't installed): its button opens the app's URL scheme.
+    Places (the "to" values) are listed in the app's src/features/appLinks/appLinks.ts.
+  -->
+  <h1>Open <span id="place">Pulse Parenting</span></h1>
+  <a class="open" id="open" href="pulseparenting://open">Open Pulse</a>
+  <p class="muted">If nothing happens, Pulse Parenting may not be installed on this phone yet.</p>
+  <script>
+    var PLACES = {
+      "home": "the Pulse tab", "daily-practice": "Daily Practice", "weekly-summary": "Weekly Summary", "settings": "Settings",
+      "learn": "the Learn tab", "plan": "the Plan tab", "discover": "Discover Routines", "library": "Your Library",
+      "weekly-focus": "Weekly Focus", "build-routines": "Build routines", "review": "the Review tab",
+      "review-with-ai": "the weekly review"
+    };
+    var match = /[?&]to=([a-z-]+)/i.exec(location.search);
+    var to = match && match[1].toLowerCase();
+    if (to && PLACES[to]) {
+      document.getElementById("open").href = "pulseparenting://open?to=" + to;
+      document.getElementById("place").textContent = PLACES[to] + " in Pulse";
+    }
+  </script>
+</body>
+</html>
