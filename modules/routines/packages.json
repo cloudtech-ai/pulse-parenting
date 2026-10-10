@@ -61,5 +61,18 @@
       "for:family"
     ],
     "detailUrl": "packs/pack_family_rhythm_parents.json"
+  },
+  {
+    "id": "pack_grown_children_parents",
+    "title": "Staying Connected with Grown Children",
+    "summary": "Routines for parents of young adults and adult children: staying close while they run their own lives.",
+    "tags": [
+      "young adult",
+      "connection",
+      "independence",
+      "age:19-25",
+      "age:26+"
+    ],
+    "detailUrl": "packs/pack_grown_children_parents.json"
   }
 ]

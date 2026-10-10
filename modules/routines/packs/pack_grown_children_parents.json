@@ -1,0 +1,82 @@
+{
+  "id": "pack_grown_children_parents",
+  "title": "Staying Connected with Grown Children",
+  "description": "For parents of young adults and adult children. The relationship changes from guiding to supporting: these routines keep you close while respecting that they run their own lives.",
+  "routines": [
+    {
+      "id": "gc_regular_catch_up",
+      "title": "A Regular Catch-Up",
+      "description": "A standing call, walk or meal at a time that suits them, so staying in touch doesn't depend on a problem.",
+      "context": "Weekend",
+      "durationMin": 15,
+      "parentRole": "join",
+      "parentGoal": "Keep a steady, low-pressure line of connection.",
+      "childOutcome": "Knows you're there without feeling checked on.",
+      "steps": [
+        "Agree together on a time and a way that suits them: a call, a walk, a meal.",
+        "Start with their news and listen more than you talk.",
+        "Keep it short and light; end before it feels like an obligation."
+      ]
+    },
+    {
+      "id": "gc_ask_their_advice",
+      "title": "Ask for Their Advice",
+      "description": "Ask their opinion on something they know about, the way you would with any adult you respect.",
+      "context": "Anytime",
+      "durationMin": 5,
+      "parentRole": "model",
+      "parentGoal": "Show that you see them as a capable adult.",
+      "childOutcome": "Feels respected and trusted, which makes them more open in return.",
+      "steps": [
+        "Pick something they know well: a skill, a topic, a decision you're weighing.",
+        "Ask a real question and take the answer seriously.",
+        "Say what you found useful about it."
+      ]
+    },
+    {
+      "id": "gc_listen_before_helping",
+      "title": "Listen Before Helping",
+      "description": "When they bring you a problem, ask what kind of support they want before offering any.",
+      "context": "Anytime",
+      "durationMin": 5,
+      "parentRole": "guide",
+      "parentGoal": "Support without taking over.",
+      "childOutcome": "Keeps ownership of their decisions and comes back to you more often.",
+      "steps": [
+        "Ask: \"Do you want ideas, or just someone to listen?\"",
+        "Do what they ask, even if you have a good idea.",
+        "If you do give advice, offer it once and let it go."
+      ]
+    },
+    {
+      "id": "gc_repair_after_conflict",
+      "title": "Reach Out After a Disagreement",
+      "description": "After a tense conversation, send a short, warm message that keeps the door open without reopening the argument.",
+      "context": "After Conflict",
+      "durationMin": 3,
+      "parentRole": "model",
+      "parentGoal": "Repair the relationship without needing to win the point.",
+      "childOutcome": "Learns that disagreements don't threaten the relationship.",
+      "steps": [
+        "Wait until you're calm, then write a short message.",
+        "Say something like: \"I didn't like how that went. I love you, and I'm here when you want to talk.\"",
+        "Don't restate your argument or ask for a reply."
+      ]
+    },
+    {
+      "id": "gc_kind_limits",
+      "title": "Name Your Limits Kindly",
+      "description": "Say clearly and calmly what you can and can't do (money, time, help at home) instead of giving in or arguing.",
+      "context": "Anytime",
+      "durationMin": 5,
+      "parentRole": "guide",
+      "parentGoal": "Hold your own boundaries while staying warm.",
+      "childOutcome": "Knows where they stand, which builds their independence.",
+      "steps": [
+        "Decide beforehand what you're comfortable offering.",
+        "Say it simply: \"I can help with this, but not with that.\"",
+        "Stay kind and brief; you don't need to justify it at length."
+      ]
+    }
+  ]
+}
