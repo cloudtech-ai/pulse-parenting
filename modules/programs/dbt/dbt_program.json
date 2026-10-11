@@ -1,0 +1,95 @@
+{
+  "2": [
+    {
+      "id": 204,
+      "title": "DBT Mindfulness",
+      "goal": "Skills for being present in the moment, observing thoughts and feelings without judgment, and increasing awareness of your own mind. Learn how to practice mindfulness in daily life.",
+      "keyConcepts": [
+        "Wise Mind: integrating emotion mind and reasonable mind",
+        "Observe, Describe, Participate: core mindfulness skills",
+        "Nonjudgmental awareness of the present moment"
+      ],
+      "books": [
+        {
+          "id": 12,
+          "title": "DBT Mindfulness",
+          "author": "Marsha Linehan",
+          "summary": "A comprehensive guide to DBT mindfulness skills, including practical exercises and real-life applications."
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "DBT Emotion Regulation",
+      "goal": "Skills for understanding and managing intense emotions, reducing emotional vulnerability, and increasing positive emotional experiences. Learn how to identify and change unhelpful emotional patterns.",
+      "keyConcepts": [
+        "Identifying and labeling emotions accurately",
+        "Reducing emotional vulnerability through ABC PLEASE skills",
+        "Opposite action to change emotional responses"
+      ],
+      "books": [
+        {
+          "id": 4,
+          "title": "DBT Emotion Regulation",
+          "author": "Marsha Linehan",
+          "summary": "A comprehensive guide to DBT emotion regulation skills, including practical exercises and real-life applications."
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "title": "DBT Distress Tolerance",
+      "goal": "Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.",
+      "keyConcepts": [
+        "Distraction and self-soothing techniques",
+        "Improving the moment (IMPROVE skills)",
+        "Radical acceptance of reality to reduce suffering"
+      ],
+      "books": [
+        {
+          "id": 5,
+          "title": "DBT Distress Tolerance",
+          "author": "Marsha Linehan",
+          "summary": "A comprehensive guide to DBT distress tolerance skills, including practical exercises and real-life applications."
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "DBT Interpersonal Effectiveness",
+      "goal": "Skills for balancing priorities, maintaining relationships, and asserting your needs while preserving self-respect. Learn how to ask for what you want, say no, and keep relationships healthy without sacrificing your own values.",
+      "keyConcepts": [
+        "DEAR MAN for assertiveness",
+        "GIVE for relationship effectiveness",
+        "FAST for maintaining self-respect"
+      ],
+      "books": [
+        {
+          "id": 11,
+          "title": "DBT Interpersonal Effectiveness",
+          "description": "Skills for balancing priorities, maintaining relationships, and asserting your needs while preserving self-respect. Learn how to ask for what you want, say no, and keep relationships healthy without sacrificing your own values.",
+          "author": "Marsha Linehan",
+          "summary": "A comprehensive guide to DBT interpersonal effectiveness skills, including practical exercises and real-life applications."
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "title": "DBT Walking the Middle Path",
+      "goal": "Skills for finding balance between extremes, reducing conflict, and improving relationships. Learn how to create a life worth living by integrating DBT skills into daily life.",
+      "keyConcepts": [
+        "Dialectical thinking: both/and rather than either/or",
+        "Validation of self and others",
+        "Behavioral principles like reinforcement and shaping"
+      ],
+      "books": [
+        {
+          "id": 13,
+          "title": "DBT Walking the Middle Path",
+          "author": "Marsha Linehan",
+          "summary": "A comprehensive guide to DBT walking the middle path skills, including practical exercises and real-life applications."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "3": [
+    {
+      "id": 301,
+      "title": "CBT - Cognitive Restructuring",
+      "goal": "Techniques for identifying and challenging negative thought patterns to alter emotional responses and behaviors. Focuses on examining evidence, reattributing blame, and considering alternative perspectives.",
+      "keyConcepts": [
+        "Identifying Cognitive Distortions: recognizing patterns like all-or-nothing thinking, catastrophizing, and overgeneralization",
+        "Examine the evidence for and against your thoughts to develop a more balanced perspective.",
+        "Substitute distorted thoughts with healthier, more realistic alternatives that support well-being."
+      ],
+      "books": [
+        {
+          "id": 21,
+          "title": "CBT - Cognitive Restructuring (Challenging Thoughts)",
+          "author": "",
+          "summary": "A practical guide to cognitive restructuring techniques, including exercises and real-life applications."
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "title": "Parenting a Child with Emotional or Behavioral Disorder",
+      "goal": "To equip parents, teachers, and counselors with practical tools and understanding to effectively support and nurture children with emotional or behavioral disorders in home and school settings.",
+      "keyConcepts": [
+        "Consistent Structure and Routines: Creating a predictable environment helps children feel secure and reduces anxiety.",
+        "Collaborative Support Systems: Involving parents, teachers, and mental health professionals to create a network of support.",
+        "Positive Behavior Reinforcement: Encouraging desired behaviors through praise and rewards, rather than focusing solely on negative behaviors."
+      ],
+      "books": [
+        {
+          "id": 22,
+          "title": "Parenting a Child with Emotional or Behavioral Disorder",
+          "author": "Mary M. Wood",
+          "summary": "This book provides practical strategies and compassionate guidance to help caregivers and educators support children with emotional or behavioral disorders through consistent structure, collaboration, and positive reinforcement."
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "title": "CBT Workbook for Teens: Exercises to Help You Deal with Anxiety, Stress, and Worry",
+      "goal": "To help teenagers understand and apply Cognitive Behavioral Therapy techniques to manage anxiety, stress, and negative thinking patterns in daily life.",
+      "keyConcepts": [
+        "Recognizing Negative Thought Patterns",
+        "Practicing Mindfulness and Relaxation",
+        "Developing Healthier Coping Strategies"
+      ],
+      "books": [
+        {
+          "id": 23,
+          "author": "Lisa M. Schab, LCSW",
+          "title": "CBT Workbook for Teens: Exercises to Help You Deal with Anxiety, Stress, and Worry",
+          "summary": "A practical guide to CBT techniques for teens, including exercises and real-life applications."
+        }
+      ]
+    }
+  ]
+}

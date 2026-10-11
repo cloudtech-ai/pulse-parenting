@@ -1,0 +1,124 @@
+{
+  "1": [
+    {
+      "id": 101,
+      "title": "Understanding Teen Depression",
+      "goal": "Help parents recognize signs of depression, understand the teen brain, and differentiate depression from typical teen behavior.",
+      "keyConcepts": [
+        "The adolescent brain is still developing—especially areas related to emotion regulation and impulse control.",
+        "Depression in teens can appear as irritability, withdrawal, or academic decline—not just sadness.",
+        "Anxiety and depression are often linked in teens."
+      ],
+      "books": [
+        {
+          "id": 42,
+          "title": "The Teenage Brain",
+          "author": "Frances E. Jensen",
+          "summary": "Neuroscience of adolescence; hormonal & brain-based factors behind behavior."
+        },
+        {
+          "id": 43,
+          "title": "Helping Your Anxious Teen",
+          "author": "Sheila Achar Josephs",
+          "summary": "How anxiety fuels depressive symptoms and how parents can respond helpfully."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Building Connection and Emotional Safety",
+      "goal": "Strengthen parent-child communication and establish a home environment where teens feel safe to express themselves.",
+      "keyConcepts": [
+        "Emotional validation builds trust.",
+        "Teens need connection, not correction, when they're struggling.",
+        "Parents should aim to listen to understand, not just respond."
+      ],
+      "books": [
+        {
+          "id": 32,
+          "title": "Parenting a Teen Who Has Intense Emotions",
+          "author": "Pat Harvey & Britt Rathbone",
+          "summary": "Use DBT-based strategies to reduce emotional outbursts and conflict."
+        },
+        {
+          "id": 44,
+          "title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk",
+          "author": "Adele Faber & Elaine Mazlish",
+          "summary": "Teaches reflective listening, respectful boundaries, and problem-solving."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Equipping Parents with Therapeutic Tools",
+      "goal": "Introduce parents to therapeutic methods (DBT, CBT, mindfulness) they can use to support their teen's emotional regulation.",
+      "keyConcepts": [
+        "DBT emphasizes validation and skill-building (e.g., distress tolerance, emotion regulation).",
+        "CBT focuses on reframing negative thought patterns.",
+        "Parents can model and reinforce these techniques at home."
+      ],
+      "books": [
+        {
+          "id": 1,
+          "title": "The Whole-Brain Child",
+          "author": "Daniel J. Siegel & Tina Payne Bryson",
+          "summary": "12 practical strategies to integrate emotional and rational brain development."
+        },
+        {
+          "id": 45,
+          "title": "The DBT Skills Workbook for Parents of Teens",
+          "author": "Amanda L. Smith",
+          "summary": "Teaches DBT tools like “Wise Mind” and “DEAR MAN” for effective parenting."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Supporting Recovery and Resilience",
+      "goal": "Help teens develop skills to recover from depressive episodes and grow emotional resilience.",
+      "keyConcepts": [
+        "Mindfulness enhances emotional awareness and reduces reactivity.",
+        "Recovery isn’t linear—setbacks are part of the process.",
+        "Parental support is a critical protective factor."
+      ],
+      "books": [
+        {
+          "id": 46,
+          "title": "The Mindful Teen",
+          "author": "Dzung X. Vo",
+          "summary": "Mindfulness tools for teens that parents can model and support."
+        },
+        {
+          "id": 23,
+          "title": "Cognitive Behavioral Therapy for Teens",
+          "author": "Michelle G. Craske",
+          "summary": "Workbook-style CBT strategies that help teens challenge unhelpful thoughts."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Long-Term Growth and Prevention",
+      "goal": "Promote long-term mental wellness and prepare for life beyond the depressive episode.",
+      "keyConcepts": [
+        "Mood disorders require long-term strategies, not just crisis interventions.",
+        "Adolescence is a time of transformation—supporting strengths is just as critical as managing symptoms.",
+        "Parents can become growth partners, not just caretakers."
+      ],
+      "books": [
+        {
+          "id": 47,
+          "title": "Raising a Moody Child",
+          "author": "Mary A. Fristad & Jill S. Goldberg Arnold",
+          "summary": "Build routines, reinforce strengths, and prepare for relapse prevention."
+        },
+        {
+          "id": 48,
+          "title": "Brainstorm",
+          "author": "Daniel J. Siegel",
+          "summary": "Reframes adolescence as a unique, powerful life stage full of opportunity."
+        }
+      ]
+    }
+  ]
+}

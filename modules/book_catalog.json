@@ -1,0 +1,603 @@
+{
+ "format": "pulse.bookCatalog",
+ "generatedAt": "2026-10-11T00:18:01Z",
+ "note": "Books Pulse has lessons for, and programs (curated paths through books) it can download. Use the ids as they are.",
+ "books": [
+  {
+   "id": 1,
+   "title": "The Whole-Brain Child",
+   "about": "12 practical strategies to integrate emotional and rational brain development.",
+   "skills": [],
+   "collections": [],
+   "author": "Daniel J. Siegel & Tina Payne Bryson"
+  },
+  {
+   "id": 4,
+   "title": "DBT Emotion Regulation",
+   "about": "A comprehensive guide to DBT emotion regulation skills, including practical exercises and real-life applications.",
+   "skills": [],
+   "collections": [],
+   "author": "Marsha Linehan"
+  },
+  {
+   "id": 5,
+   "title": "DBT Stress Tolerance",
+   "about": "Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.",
+   "skills": [
+    "TIPP (Rapid Body Reset)",
+    "Self‑Soothe with the Five Senses",
+    "ACCEPTS Distraction Skills",
+    "IMPROVE the Moment",
+    "Pros & Cons Before Acting",
+    "STOP Skill for Immediate Grounding",
+    "Radical Acceptance & Turning the Mind"
+   ],
+   "collections": [
+    "DBT"
+   ],
+   "author": "Marsha Linehan"
+  },
+  {
+   "id": 11,
+   "title": "DBT Interpersonal Effectiveness workbook for Teens",
+   "about": "Skills for balancing priorities, maintaining relationships, and asserting your needs while preserving self-respect. Learn how to ask for what you want, say no, and keep relationships healthy without sacrificing your own values.",
+   "skills": [
+    "DEAR MAN: Assert Your Needs",
+    "GIVE: Keep Relationships Positive",
+    "FAST: Maintain Self-Respect",
+    "Balancing Priorities and Demands",
+    "Saying No Effectively"
+   ],
+   "collections": [
+    "DBT"
+   ],
+   "author": "Marsha Linehan"
+  },
+  {
+   "id": 12,
+   "title": "DBT Mindfulness",
+   "about": "Core mindfulness skills to help you stay present, focused, and aware: observing, describing, and participating in the moment with a non-judgmental stance.",
+   "skills": [
+    "Observe",
+    "Describe",
+    "Participate",
+    "Non-Judgmental Stance",
+    "One-Mindfully",
+    "Effectiveness"
+   ],
+   "collections": [
+    "DBT"
+   ],
+   "author": "Marsha Linehan"
+  },
+  {
+   "id": 13,
+   "title": "DBT - Walking the Middle Path",
+   "about": "Balancing acceptance and change, this module focuses on finding a middle ground in thinking and behavior. It emphasizes dialectical thinking, validation, and behavior change strategies.",
+   "skills": [
+    "Dialectical Thinking",
+    "Validation Techniques",
+    "Behavioral Chain Analysis",
+    "Opposite Action",
+    "Mindfulness of Current Thoughts"
+   ],
+   "collections": [
+    "DBT"
+   ],
+   "author": "Marsha Linehan"
+  },
+  {
+   "id": 21,
+   "title": "CBT - Cognitive Restructuring (Challenging Thoughts)",
+   "about": "Techniques for identifying and challenging negative thought patterns to alter emotional responses and behaviors. Focuses on examining evidence, reattributing blame, and considering alternative perspectives.",
+   "skills": [
+    "Identifying Cognitive Distortions",
+    "Examining the Evidence",
+    "Reattribution",
+    "Decatastrophizing",
+    "Cognitive Reframing",
+    "Behavioral Experiments",
+    "Thought Records"
+   ],
+   "collections": [
+    "CBT"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Parenting a Child with Emotional or Behavioral Disorder",
+   "about": "Strategies for managing and supporting children with emotional or behavioral challenges, focusing on understanding, communication, and effective interventions.",
+   "skills": [
+    "Building Emotional Awareness",
+    "Effective Communication Techniques",
+    "Consistent Routines and Boundaries",
+    "Positive Reinforcement",
+    "Collaborative Problem Solving",
+    "Self-Care for Parents",
+    "Seeking Professional Support"
+   ],
+   "collections": [
+    "CBT"
+   ],
+   "author": "Mary M. Wood"
+  },
+  {
+   "id": 23,
+   "title": "The CBT Workbook for Teens",
+   "about": "A guide for teenagers to manage stress, anxiety, and depression using Cognitive Behavioral Therapy techniques. It includes exercises and strategies to help teens understand and change their thought patterns and behaviors.",
+   "skills": [
+    "Identifying Negative Thought Patterns",
+    "Challenging Cognitive Distortions",
+    "Developing Healthy Coping Mechanisms",
+    "Mindfulness and Relaxation Techniques",
+    "Setting and Achieving Goals",
+    "Building Self-Esteem and Confidence",
+    "Problem-Solving Skills"
+   ],
+   "collections": [
+    "CBT"
+   ],
+   "author": "Lisa M. Schab, LCSW"
+  },
+  {
+   "id": 31,
+   "title": "Neurodivergent - Understanding Neurodiversity",
+   "about": "Exploring the concept of neurodiversity, which recognizes and respects the variety of human brains and minds, and the unique ways they function.",
+   "skills": [
+    "Understanding Different Neurotypes",
+    "Promoting Inclusivity and Acceptance",
+    "Supporting Neurodivergent Individuals",
+    "Challenging Stereotypes and Misconceptions",
+    "Advocating for Accommodations",
+    "Celebrating Neurodiverse Strengths",
+    "Building Neurodiverse Communities"
+   ],
+   "collections": [
+    "Neurodivergent"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Parenting a Child Who Has Intense Emotions by Pat Harvey and Jeanine Penzo",
+   "about": "A guide for parents to help their children manage intense emotions using practical strategies and skills.",
+   "skills": [
+    "Validation Techniques",
+    "Emotion Regulation Skills",
+    "Mindfulness Practices",
+    "Problem-Solving Strategies",
+    "Effective Communication",
+    "Setting Boundaries",
+    "Self-Care for Parents"
+   ],
+   "collections": [
+    "Neurodivergent",
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Pat Harvey & Britt Rathbone"
+  },
+  {
+   "id": 42,
+   "title": "The Teenage Brain",
+   "about": "Exploration of the adolescent brain's development, highlighting its strengths and vulnerabilities, and offering insights for parents and educators.",
+   "skills": [
+    "Understanding Brain Development",
+    "Communication Strategies",
+    "Risk Management",
+    "Promoting Healthy Habits",
+    "Supporting Emotional Growth",
+    "Educational Approaches",
+    "Building Resilience"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Frances E. Jensen"
+  },
+  {
+   "id": 43,
+   "title": "Helping Your Anxious Teen",
+   "about": "A guide for parents to help their teenagers manage anxiety through practical strategies and support.",
+   "skills": [
+    "Communication Techniques",
+    "Cognitive Behavioral Strategies",
+    "Mindfulness Practices",
+    "Building Resilience",
+    "Setting Boundaries",
+    "Encouraging Healthy Habits",
+    "Seeking Professional Help"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Sheila Achar Josephs"
+  },
+  {
+   "id": 44,
+   "title": "How to Talk So Teens Will Listen & Listen So Teens Will Talk",
+   "about": "A guide for parents to improve communication with their teenage children, fostering mutual respect and understanding.",
+   "skills": [
+    "Acknowledge Feelings",
+    "Engage Cooperation",
+    "Alternatives to Punishment",
+    "Encourage Autonomy",
+    "Praise and Self-Esteem",
+    "Freeing Teens from Playing Roles"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Adele Faber & Elaine Mazlish"
+  },
+  {
+   "id": 45,
+   "title": "The DBT Skills Workbook for Parents of Teens",
+   "about": "Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.",
+   "skills": [
+    "TIPP (Rapid Body Reset)",
+    "Self‑Soothe with the Five Senses",
+    "ACCEPTS Distraction Skills",
+    "IMPROVE the Moment",
+    "Pros & Cons Before Acting",
+    "STOP Skill for Immediate Grounding",
+    "Radical Acceptance & Turning the Mind"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Amanda L. Smith"
+  },
+  {
+   "id": 46,
+   "title": "The Mindful Teen",
+   "about": "A guide for teenagers to develop mindfulness skills to handle stress and emotions effectively, promoting mental well-being and resilience.",
+   "skills": [
+    "Mindful Breathing",
+    "Body Scan Meditation",
+    "Mindful Walking",
+    "Loving-Kindness Meditation",
+    "Mindful Listening",
+    "Mindful Eating",
+    "Gratitude Practice"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Dzung X. Vo"
+  },
+  {
+   "id": 47,
+   "title": "Raising a Moody Child",
+   "about": "A guide for parents to help their children manage mood disorders, with strategies for understanding and addressing emotional challenges.",
+   "skills": [
+    "Identifying Mood Symptoms",
+    "Building Emotional Resilience",
+    "Effective Communication Techniques",
+    "Creating a Supportive Environment",
+    "Collaborating with Professionals",
+    "Implementing Routine and Structure",
+    "Coping Strategies for Parents"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Mary A. Fristad & Jill S. Goldberg Arnold"
+  },
+  {
+   "id": 48,
+   "title": "Brainstorm",
+   "about": "Explores the adolescent brain and provides insights into the changes and challenges during this developmental period, emphasizing the importance of understanding and nurturing the adolescent mind.",
+   "skills": [
+    "Embracing Emotional Spark",
+    "Social Engagement",
+    "Novelty Seeking",
+    "Creative Exploration"
+   ],
+   "collections": [
+    "Teen Stress, Anxiety, and Depression"
+   ],
+   "author": "Daniel J. Siegel"
+  },
+  {
+   "id": 1201,
+   "title": "Smart but Scattered",
+   "about": "A guide to help children develop executive skills, manage their time, and improve their organizational abilities. It provides strategies for parents to support their children's development in these areas.",
+   "skills": [
+    "Identifying Executive Skill Strengths and Weaknesses",
+    "Creating Routines and Structures",
+    "Setting Goals and Providing Incentives",
+    "Teaching Problem-Solving Skills",
+    "Using Visual Aids and Checklists",
+    "Managing Time Effectively",
+    "Building Emotional Control and Flexibility"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Peg Dawson & Richard Guare"
+  },
+  {
+   "id": 1202,
+   "title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention",
+   "about": "Comprehensive strategies for assessing and intervening in executive function difficulties, focusing on practical tools and techniques for educators and clinicians.",
+   "skills": [
+    "Assessment of Executive Functions",
+    "Intervention Planning",
+    "Skill Development Techniques",
+    "Environmental Modifications",
+    "Collaborative Approaches",
+    "Progress Monitoring",
+    "Family and School Involvement"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Jill Fahy"
+  },
+  {
+   "id": 1203,
+   "title": "The Whole-Brain Child",
+   "about": "Strategies to nurture a child's developing mind, integrating the left and right brain, and fostering emotional and intellectual growth.",
+   "skills": [
+    "Connect and Redirect",
+    "Name It to Tame It",
+    "Engage, Don't Enrage",
+    "Use It or Lose It",
+    "Move It or Lose It",
+    "Let the Clouds of Emotion Roll By",
+    "SIFT: Sensations, Images, Feelings, Thoughts"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Daniel J. Siegel & Tina Payne Bryson"
+  },
+  {
+   "id": 1204,
+   "title": "Mind in the Making: The Seven Essential Life Skills Every Child Needs",
+   "about": "A guide to nurturing essential life skills in children, focusing on fostering executive functions and promoting lifelong learning.",
+   "skills": [
+    "Focus and Self-Control",
+    "Perspective Taking",
+    "Communicating",
+    "Making Connections",
+    "Critical Thinking",
+    "Taking on Challenges",
+    "Self-Directed, Engaged Learning"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Ellen Galinsky"
+  },
+  {
+   "id": 1205,
+   "title": "Late, Lost, and Unprepared: A Parents' Guide to Helping Children with Executive Functioning",
+   "about": "A guide for parents to help children develop executive functioning skills, including planning, organization, time management, and emotional regulation.",
+   "skills": [
+    "Creating Routines",
+    "Visual Schedules",
+    "Time Management Tools",
+    "Organizational Systems",
+    "Emotional Regulation Techniques",
+    "Goal Setting and Planning",
+    "Self-Monitoring Strategies"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Joyce Cooper-Kahn & Laurie Dietzel"
+  },
+  {
+   "id": 1206,
+   "title": "The Explosive Child",
+   "about": "A guide for understanding and helping easily frustrated, chronically inflexible children. It introduces a collaborative problem-solving approach to address challenging behaviors.",
+   "skills": [
+    "Collaborative Problem Solving",
+    "Identifying Triggers",
+    "Empathy and Listening",
+    "Defining the Problem",
+    "Brainstorming Solutions",
+    "Implementing Solutions",
+    "Reviewing and Adjusting"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Ross W. Greene"
+  },
+  {
+   "id": 1207,
+   "title": "Smart but Scattered Teens",
+   "about": "A guide for helping teenagers develop executive skills to succeed in school and life, focusing on organization, time management, and emotional regulation.",
+   "skills": [
+    "Understanding Executive Skills",
+    "Identifying Teen's Strengths and Weaknesses",
+    "Creating a Supportive Environment",
+    "Setting Goals and Priorities",
+    "Developing Time Management Skills",
+    "Improving Emotional Regulation",
+    "Enhancing Problem-Solving Abilities"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Richard Guare, Peg Dawson & Colin Guare"
+  },
+  {
+   "id": 1208,
+   "title": "The 7 Habits of Highly Effective Teens",
+   "about": "A guide for teenagers to improve their personal and interpersonal effectiveness by adopting seven key habits.",
+   "skills": [
+    "Be Proactive",
+    "Begin with the End in Mind",
+    "Put First Things First",
+    "Think Win-Win",
+    "Seek First to Understand, Then to Be Understood",
+    "Synergize",
+    "Sharpen the Saw"
+   ],
+   "collections": [
+    "Executive Functioning"
+   ],
+   "author": "Sean Covey"
+  }
+ ],
+ "programs": [
+  {
+   "id": 1,
+   "name": "Teen Stress, Anxiety, and Depression",
+   "description": "Helping Parents Support Teens with Anxiety and Depression",
+   "steps": [
+    {
+     "title": "Understanding Teen Depression",
+     "goal": "Help parents recognize signs of depression, understand the teen brain, and differentiate depression from typical teen behavior.",
+     "books": [
+      42,
+      43
+     ]
+    },
+    {
+     "title": "Building Connection and Emotional Safety",
+     "goal": "Strengthen parent-child communication and establish a home environment where teens feel safe to express themselves.",
+     "books": [
+      32,
+      44
+     ]
+    },
+    {
+     "title": "Equipping Parents with Therapeutic Tools",
+     "goal": "Introduce parents to therapeutic methods (DBT, CBT, mindfulness) they can use to support their teen's emotional regulation.",
+     "books": [
+      1,
+      45
+     ]
+    },
+    {
+     "title": "Supporting Recovery and Resilience",
+     "goal": "Help teens develop skills to recover from depressive episodes and grow emotional resilience.",
+     "books": [
+      46,
+      23
+     ]
+    },
+    {
+     "title": "Long-Term Growth and Prevention",
+     "goal": "Promote long-term mental wellness and prepare for life beyond the depressive episode.",
+     "books": [
+      47,
+      48
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Dialectical Behavior Therapy (DBT)",
+   "description": "Helping Parents Support Teens using DBT Skills",
+   "steps": [
+    {
+     "title": "DBT Mindfulness",
+     "goal": "Skills for being present in the moment, observing thoughts and feelings without judgment, and increasing awareness of your own mind. Learn how to practice mindfulness in daily life.",
+     "books": [
+      12
+     ]
+    },
+    {
+     "title": "DBT Emotion Regulation",
+     "goal": "Skills for understanding and managing intense emotions, reducing emotional vulnerability, and increasing positive emotional experiences. Learn how to identify and change unhelpful emotional patterns.",
+     "books": [
+      4
+     ]
+    },
+    {
+     "title": "DBT Distress Tolerance",
+     "goal": "Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.",
+     "books": [
+      5
+     ]
+    },
+    {
+     "title": "DBT Interpersonal Effectiveness",
+     "goal": "Skills for balancing priorities, maintaining relationships, and asserting your needs while preserving self-respect. Learn how to ask for what you want, say no, and keep relationships healthy without…",
+     "books": [
+      11
+     ]
+    },
+    {
+     "title": "DBT Walking the Middle Path",
+     "goal": "Skills for finding balance between extremes, reducing conflict, and improving relationships. Learn how to create a life worth living by integrating DBT skills into daily life.",
+     "books": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Cognitive Behavioral Therapy (CBT)",
+   "description": "Helping Parents Support Teens using CBT Skills",
+   "steps": [
+    {
+     "title": "CBT - Cognitive Restructuring",
+     "goal": "Techniques for identifying and challenging negative thought patterns to alter emotional responses and behaviors. Focuses on examining evidence, reattributing blame, and considering alternative perspe…",
+     "books": [
+      21
+     ]
+    },
+    {
+     "title": "Parenting a Child with Emotional or Behavioral Disorder",
+     "goal": "To equip parents, teachers, and counselors with practical tools and understanding to effectively support and nurture children with emotional or behavioral disorders in home and school settings.",
+     "books": [
+      22
+     ]
+    },
+    {
+     "title": "CBT Workbook for Teens: Exercises to Help You Deal with Anxiety, Stress, and Worry",
+     "goal": "To help teenagers understand and apply Cognitive Behavioral Therapy techniques to manage anxiety, stress, and negative thinking patterns in daily life.",
+     "books": [
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Executive Functioning Program",
+   "description": "A comprehensive program designed to guide parents to help children through the development of executive functioning skills.",
+   "steps": [
+    {
+     "title": "Understanding Executive Functions",
+     "goal": "Learn what executive functions are, how they develop, and why they are critical for children's success in school and life.",
+     "books": [
+      1201,
+      1202
+     ]
+    },
+    {
+     "title": "Building Foundational Executive Function Skills",
+     "goal": "Equip parents with tools to help young children develop emotional regulation, working memory, and cognitive flexibility.",
+     "books": [
+      1203,
+      1204
+     ]
+    },
+    {
+     "title": "Supporting Children with Executive Function Challenges",
+     "goal": "Learn strategies to help children who struggle with organization, attention, or emotional control.",
+     "books": [
+      1205,
+      1206
+     ]
+    },
+    {
+     "title": "Nurturing Independence and Growth",
+     "goal": "Guide older children and teens toward self-management, resilience, and goal-directed behavior using executive function principles.",
+     "books": [
+      1207,
+      1208
+     ]
+    }
+   ]
+  }
+ ]
+}

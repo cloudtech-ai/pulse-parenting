@@ -1,5 +1,32 @@
 [
     {
+        "id": 1,
+        "name": "Teen Stress, Anxiety, and Depression",
+        "description": "Helping Parents Support Teens with Anxiety and Depression",
+        "file": "programs/teen_stress/teen_stress_program.json",
+        "summary": "Helping Parents Support Teens with Anxiety and Depression",
+        "last_updated_utc": "2026-10-10T00:00:00Z",
+        "bookCollectionId": "004-ParentingBooks"
+    },
+    {
+        "id": 2,
+        "name": "Dialectical Behavior Therapy (DBT)",
+        "description": "Helping Parents Support Teens using DBT Skills",
+        "file": "programs/dbt/dbt_program.json",
+        "summary": "Helping Parents Support Teens using DBT Skills",
+        "last_updated_utc": "2026-10-10T00:00:00Z",
+        "bookCollectionId": "001-DBT"
+    },
+    {
+        "id": 3,
+        "name": "Cognitive Behavioral Therapy (CBT)",
+        "description": "Helping Parents Support Teens using CBT Skills",
+        "file": "programs/cbt/cbt_program.json",
+        "summary": "Helping Parents Support Teens using CBT Skills",
+        "last_updated_utc": "2026-10-10T00:00:00Z",
+        "bookCollectionId": "002-CBT"
+    },
+    {
         "id": 12,
         "name": "Executive Functioning Program",
         "description": "A comprehensive program designed to guide parents to help children through the development of executive functioning skills.",
