@@ -1,6 +1,6 @@
 {
  "format": "pulse.bookCatalog",
- "generatedAt": "2026-10-11T00:18:01Z",
+ "generatedAt": "2026-10-11T01:19:21Z",
  "note": "Books Pulse has lessons for, and programs (curated paths through books) it can download. Use the ids as they are.",
  "books": [
   {
@@ -173,7 +173,7 @@
     "Neurodivergent",
     "Teen Stress, Anxiety, and Depression"
    ],
-   "author": "Pat Harvey & Britt Rathbone"
+   "author": "Pat Harvey & Jeanine A. Penzo"
   },
   {
    "id": 42,
@@ -231,7 +231,7 @@
   {
    "id": 45,
    "title": "The DBT Skills Workbook for Parents of Teens",
-   "about": "Skills for surviving emotional crises without making things worse: rapid body‑calming techniques, short‑term distractions, and radical acceptance tools that let pain pass safely.",
+   "about": "This workbook provides parents of teenagers with practical Dialectical Behavior Therapy (DBT) skills to support their own emotional well-being and foster healthier relationships with their teens.",
    "skills": [
     "TIPP (Rapid Body Reset)",
     "Self‑Soothe with the Five Senses",
@@ -244,7 +244,7 @@
    "collections": [
     "Teen Stress, Anxiety, and Depression"
    ],
-   "author": "Amanda L. Smith"
+   "author": "Joss Reed"
   },
   {
    "id": 46,
@@ -317,7 +317,7 @@
   },
   {
    "id": 1202,
-   "title": "Executive Function Difficulties: A Practical Guide to Assessment and Intervention",
+   "title": "Assessment and Intervention for Executive Function Difficulties",
    "about": "Comprehensive strategies for assessing and intervening in executive function difficulties, focusing on practical tools and techniques for educators and clinicians.",
    "skills": [
     "Assessment of Executive Functions",
@@ -331,7 +331,7 @@
    "collections": [
     "Executive Functioning"
    ],
-   "author": "Jill Fahy"
+   "author": "George McCloskey, Lisa A. Perkins & Bob Van Divner"
   },
   {
    "id": 1203,
