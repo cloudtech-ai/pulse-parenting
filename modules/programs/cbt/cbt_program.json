@@ -53,6 +53,24 @@
           "summary": "A practical guide to CBT techniques for teens, including exercises and real-life applications."
         }
       ]
+    },
+    {
+      "id": 304,
+      "title": "Judgment Containment",
+      "goal": "To help parents and caregivers support a teen whose difficulty with a task turns into harsh self-judgment, responding with understanding and choice while staying aware of the expectations their own words and presence may communicate.",
+      "keyConcepts": [
+        "Separate the event from the verdict: a specific difficulty does not establish a conclusion about your teen's character or future.",
+        "Notice and gently check shifts from one event to everything, from now to forever, or from difficulty to identity.",
+        "Examine your own assumptions, comparisons, tone, and presence, and offer a small choice of support."
+      ],
+      "books": [
+        {
+          "id": 24,
+          "title": "Judgment Containment",
+          "author": "Pulse Parenting",
+          "summary": "A practical manual for parents and caregivers on supporting a teen through painful self-judgment with understanding, choice, and awareness of the expectations their words and unspoken responses may communicate."
+        }
+      ]
     }
   ]
 }
