@@ -29,6 +29,16 @@
         "module_path": "cbt_books/cbt_workbook_for_teens/cbt_workbook_for_teens_modules.json",
         "lesson_path": "cbt_books/cbt_workbook_for_teens/cbt_workbook_for_teens_lessons.json"
       }
+    },
+    {
+      "id": 24,
+      "title": "Judgment Containment",
+      "info": "cbt_books/judgment_containment/judgment_containment_summary.json",
+      "strategies": "cbt_books/judgment_containment/judgment_containment_strategies.json",
+      "studyPlan": {
+        "module_path": "cbt_books/judgment_containment/judgment_containment_modules.json",
+        "lesson_path": "cbt_books/judgment_containment/judgment_containment_lessons.json"
+      }
     }
   ],
   "recommendedVideos": [

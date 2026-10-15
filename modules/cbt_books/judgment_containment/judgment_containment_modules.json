@@ -1,0 +1,97 @@
+{
+  "id": "judgment_containment",
+  "title": "Judgment Containment: Supporting Someone When Task Difficulty Becomes an Attack on Identity",
+  "description": "This course adapts the Judgment Containment practical manual for parents and caregivers supporting a teen through painful self-judgment. It explores how a specific difficulty can expand into conclusions about character or the future, and how you can respond with understanding and choice. It also examines the expectations your teen may hear through comparisons, repeated attention, tone, and body language. You will learn to recognize shifts, examine your own assumptions, adjust support to the moment, and prepare and review together.",
+  "modules": [
+    {
+      "id": "jc_difficulty_and_identity",
+      "title": "When Difficulty Becomes a Judgment About the Self",
+      "goal": "Understand how a specific difficulty can expand into a judgment about your teen's identity or future.",
+      "key_points": [
+        "A missed task gives you information about a situation without establishing a verdict about your teen's character.",
+        "ADHD may contribute to difficulty starting, shifting attention, or managing emotion while leaving much about an individual experience to understand.",
+        "Your teen's experience may differ from the manual's sequence, so use the framework as a possibility to explore together."
+      ]
+    },
+    {
+      "id": "jc_notice_the_shift",
+      "title": "Notice the Shift Early",
+      "goal": "Recognize and gently check when your teen's language moves from a specific difficulty toward broader self-judgment.",
+      "key_points": [
+        "Listen for shifts from one event to everything, from the present to forever, or from difficulty to character.",
+        "Learn your teen's familiar signs and expressions while leaving room for uncertainty about what they mean.",
+        "Check your interpretation tentatively and accept your teen's correction without turning recognition into monitoring."
+      ]
+    },
+    {
+      "id": "jc_receive_the_experience",
+      "title": "Help Your Teen Feel Understood",
+      "goal": "Practice acknowledging your teen's experience before offering an explanation, reassurance, or solution.",
+      "key_points": [
+        "You can acknowledge pain while leaving a harsh conclusion about identity open.",
+        "Brief reflections, one question at a time, and room for silence help keep the conversation manageable.",
+        "Respect your teen's privacy and repair when your response feels dismissive, diagnostic, or overly analytical."
+      ]
+    },
+    {
+      "id": "jc_hidden_parental_judgments",
+      "title": "The Judgments Your Teen May Hear",
+      "goal": "Examine the expectations your teen may hear in your interpretations, comparisons, praise, and everyday attention.",
+      "key_points": [
+        "Separate what you observed from assumptions about your teen's effort, caring, or motivation.",
+        "Comments about other children and family roles may communicate standards your teen feels expected to meet.",
+        "Ask how your messages land and support a repair through changes in what you notice, discuss, and make room for."
+      ]
+    },
+    {
+      "id": "jc_nonverbal_presence",
+      "title": "What Your Presence Communicates",
+      "goal": "Notice how your urgency, tone, expression, pace, and physical presence may shape your teen's experience of support.",
+      "key_points": [
+        "Your own fear or frustration can enter an interaction through your voice and movements before you notice.",
+        "Your teen's preferences about silence, distance, eye contact, and touch should help guide your presence.",
+        "Treat nonverbal meaning as something to check and make a concrete adjustment when your presence adds pressure."
+      ]
+    },
+    {
+      "id": "jc_pause_and_offer_choice",
+      "title": "Keep the Conclusion Open and Restore Choice",
+      "goal": "Apply a temporary pause in harsh self-judgments while offering your teen a small choice of support.",
+      "key_points": [
+        "Invite your teen to leave conclusions about their identity or future undecided without requiring immediate optimism.",
+        "Offer a few usable support options and allow your teen to decline wording or help that feels intrusive.",
+        "Keep care and connection available while asking permission before returning to the original difficulty."
+      ]
+    },
+    {
+      "id": "jc_match_support_to_capacity",
+      "title": "Match Support to the Moment",
+      "goal": "Adjust your words, questions, and practical help to what your teen can use as their capacity changes.",
+      "key_points": [
+        "Collaborative problem-solving can be useful when your teen wants it and has room to think.",
+        "As overwhelm or fear of another painful episode grows, reduce demands and use familiar, agreed support.",
+        "When safety concerns arise, prioritize appropriate support and established treatment or safety arrangements over the task or analysis."
+      ]
+    },
+    {
+      "id": "jc_prepare_together",
+      "title": "Prepare Together During Calmer Moments",
+      "goal": "Build a flexible support agreement with your teen that respects their preferences and clarifies when other support is needed.",
+      "key_points": [
+        "Agree on the purpose of support and choose early signals or shared cues your teen finds acceptable.",
+        "Record usable support options, responses to avoid, and room for privacy and changing preferences.",
+        "Clarify support roles and safety arrangements with appropriate professionals, including what needs establishing if no plan exists."
+      ]
+    },
+    {
+      "id": "jc_recover_and_learn",
+      "title": "Recover, Repair, and Learn Together",
+      "goal": "Review a difficult episode after recovery and choose one useful adjustment while sustaining connection and other supports.",
+      "key_points": [
+        "Wait until your teen has recovered enough and agrees before reviewing the sequence without assigning fault.",
+        "Notice what helped, acknowledge your own contribution, and arrange a separate practical conversation about remaining responsibilities when needed.",
+        "Recognize earlier signals and easier repair as progress while keeping other supports involved and attending to your own capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "jc_difficulty_and_identity": [
+    {
+      "id": "jc_event_is_information",
+      "title": "What an Unfinished Task Can Tell You",
+      "goal": "Learn to distinguish information about a difficulty from a verdict about your teen.",
+      "keyConcept": "A missed assignment tells you that something did not happen as intended. It leaves questions about what became difficult, what support was available, and what needs attention. Keeping those questions open helps you respond without making character the explanation.",
+      "example": "Your teen has not submitted an essay, and you notice yourself thinking they do not care. You describe the unfinished assignment and ask whether they want help understanding where it got stuck.",
+      "parentTip": "'The essay is still unfinished; would it help to look at where things became difficult?'",
+      "reflectionPrompt": "What explanation do you tend to add when a task is unfinished?",
+      "quizQuestion": {
+        "question": "What does a missed assignment establish on its own?",
+        "options": [
+          "That your teen needs stronger motivation to care.",
+          "That the assignment was not completed as intended.",
+          "That the assignment was beyond your teen's ability."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_from_difficulty_to_identity",
+      "title": "When 'I Couldn't' Becomes 'I Am'",
+      "goal": "Recognize the transition from difficulty doing something to a judgment about the self.",
+      "keyConcept": "Your teen may move from describing an event to using it as a definition of who they are. The feeling can be real while the broader conclusion remains open. Naming that transition gently can help you understand what now needs support.",
+      "example": "Your teen says, \"I couldn't start, so I must be lazy.\" You acknowledge the frustration and check whether being stuck has started to feel like a statement about them.",
+      "parentTip": "'It sounds as though being stuck has become a judgment about you; have I understood?'",
+      "reflectionPrompt": "What phrases suggest your teen is turning a difficulty into an identity?",
+      "quizQuestion": {
+        "question": "Which statement most clearly moves from an event to an identity judgment?",
+        "options": [
+          "'I have been trying to get started all afternoon.'",
+          "'This assignment feels harder than I expected.'",
+          "'I couldn't start, which proves I'm a lazy person.'"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_future_becomes_a_verdict",
+      "title": "When Today Seems to Decide the Future",
+      "goal": "Understand how present difficulty can expand into a prediction about your teen's whole future.",
+      "keyConcept": "A painful experience can become a forecast that similar difficulties will continue indefinitely. Your teen may then feel that one unfinished task says something about their entire future. You can acknowledge the fear while inviting them to leave that forecast undecided.",
+      "example": "After missing a deadline, your teen says, \"I'll never manage life on my own.\" You recognize that the conversation now carries fear about their future and pause discussion of the assignment.",
+      "parentTip": "'Could we leave what this means about your future open while today feels so painful?'",
+      "reflectionPrompt": "When do you feel pulled to reassure your teen with promises about the future?",
+      "quizQuestion": {
+        "question": "Your teen says a missed deadline proves they will never manage adulthood; what is the most fitting response?",
+        "options": [
+          "Invite them to leave that future conclusion open for now.",
+          "Explain how many successful adults also miss deadlines.",
+          "Show how finishing another task could rebuild confidence."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_adhd_as_one_contributor",
+      "title": "Understand Conditions Without Defining Your Teen",
+      "goal": "Explore ADHD as one possible contributor while staying curious about your teen's experience.",
+      "keyConcept": "The manual describes difficulties with starting, directing attention, and managing emotion as possible contributors to an episode involving ADHD. A diagnosis alone does not explain the meaning your teen gives an event. Stay interested in their circumstances, history, and own account of what happened.",
+      "example": "Your teen becomes upset over an assignment with unclear instructions. You avoid settling on \"That's your ADHD\" and ask what part of this particular assignment felt difficult.",
+      "parentTip": "'What was it about this assignment that made getting started difficult for you?'",
+      "reflectionPrompt": "When does an explanation help you understand your teen, and when might it close your curiosity?",
+      "quizQuestion": {
+        "question": "How should you use an ADHD explanation within this framework?",
+        "options": [
+          "Use it to settle why the teen became upset about the task.",
+          "Set it aside until the teen can complete the task independently.",
+          "Use it as a possible contributor while checking this teen's experience."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_use_the_map_flexibly",
+      "title": "Use the Framework With Curiosity",
+      "goal": "Apply the manual's pattern as a possibility your teen can help you understand.",
+      "keyConcept": "The manual describes one possible sequence from task difficulty toward increasingly painful judgment. Your teen may skip parts, describe a different sequence, or reject your interpretation. The framework is useful when it helps you listen more closely and remains open to correction.",
+      "example": "You think your teen is judging themselves, but they explain that they are angry about confusing instructions. You accept that correction and ask whether they want you to listen.",
+      "parentTip": "'I may have read that wrong; what feels most important about this to you?'",
+      "reflectionPrompt": "How can you notice when a useful framework is starting to replace your teen's account?",
+      "quizQuestion": {
+        "question": "Your teen disagrees with the pattern you named; what should guide your next move?",
+        "options": [
+          "Accept the correction and learn more about their experience.",
+          "Explain the framework again using a more familiar example.",
+          "Wait until they calm down before repeating your interpretation."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "jc_notice_the_shift": [
+    {
+      "id": "jc_specific_becomes_global",
+      "title": "Listen When 'This' Becomes 'Everything'",
+      "goal": "Recognize language that expands one difficulty across your teen's whole life.",
+      "keyConcept": "Words such as \"everything\" or \"nothing\" may signal that one event has taken on a much wider meaning. Their significance depends on what your teen means in context. Listen for the expansion without correcting every strong expression.",
+      "example": "Your teen says, \"I always ruin everything,\" after an awkward group meeting. You check whether the meeting is now coloring how they see other parts of their life.",
+      "parentTip": "'Does what happened in the meeting feel as though it says something about everything right now?'",
+      "reflectionPrompt": "What broad words appear in your teen's own language during difficult moments?",
+      "quizQuestion": {
+        "question": "What is most useful about hearing 'I ruin everything' after one difficult meeting?",
+        "options": [
+          "It tells you which generalization to challenge first.",
+          "It offers a possible shift in meaning to check together.",
+          "It establishes that the teen has entered a fixed stage."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_present_becomes_permanent",
+      "title": "Listen When 'Now' Becomes 'Forever'",
+      "goal": "Notice when a painful present becomes an unchanging prediction.",
+      "keyConcept": "A phrase such as \"This will never change\" can carry a sense that the future has already been decided. Listing reasons to be hopeful may move the conversation into debate. First check the meaning and acknowledge how trapped your teen feels.",
+      "example": "After struggling to study, your teen says, \"Nothing will ever get easier.\" You recognize the sense of permanence and leave room for them to explain.",
+      "parentTip": "'It sounds as though this feels permanent right now; is that close to what you mean?'",
+      "reflectionPrompt": "How do you usually respond when your teen describes a problem as permanent?",
+      "quizQuestion": {
+        "question": "Which phrase most clearly shifts from the present toward permanence?",
+        "options": [
+          "'Nothing will ever get easier for me.'",
+          "'I need a break before I can think about this.'",
+          "'The instructions still don't make sense to me.'"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_perfectionism_and_shame",
+      "title": "Notice When Imperfection Becomes Character",
+      "goal": "Recognize how an imperfect result may become a moral judgment about your teen.",
+      "keyConcept": "Your teen may treat an incomplete or imperfect result as evidence that they are careless, selfish, or defective. This is a shift from evaluating the work to evaluating the person. Listen for that shift before offering ways to improve the result.",
+      "example": "Your teen spots mistakes in a presentation and says, \"I'm such a failure.\" You acknowledge the disappointment and notice that the judgment has moved beyond the slides.",
+      "parentTip": "'Those mistakes are upsetting, and it sounds as though they now feel like a judgment about you.'",
+      "reflectionPrompt": "What standards might make an imperfect result feel personally defining in your family?",
+      "quizQuestion": {
+        "question": "What distinguishes a character judgment from an evaluation of work?",
+        "options": [
+          "It identifies which part of the work needs improvement.",
+          "It treats the result as a definition of the person.",
+          "It describes disappointment about how the work turned out."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_learn_personal_signals",
+      "title": "Learn Your Teen's Familiar Signals",
+      "goal": "Discover early signs through shared observation rather than assumptions.",
+      "keyConcept": "Your teen's changes in tone, pace, withdrawal, or repeated phrases may offer useful clues. A clue leaves uncertainty about its meaning, and the same behavior can mean different things on different days. Learn patterns together during calmer moments without making everyday life feel watched.",
+      "example": "During a calm conversation, your teen explains that repeated checking sometimes means they are becoming stuck. You ask whether there is a helpful way to respond when they want support.",
+      "parentTip": "'When you notice that familiar stuck feeling, what would you like me to notice or do?'",
+      "reflectionPrompt": "What might make noticing feel supportive rather than like surveillance to your teen?",
+      "quizQuestion": {
+        "question": "How can a familiar behavior best serve as an early signal?",
+        "options": [
+          "As evidence that the same emotional sequence has started.",
+          "As a reason to ask repeated questions until its meaning is clear.",
+          "As a clue to check using the agreement you made together."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_check_without_insisting",
+      "title": "Check Your Interpretation Once",
+      "goal": "Practice naming a possible shift while letting your teen disagree.",
+      "keyConcept": "A tentative observation offers your teen a chance to describe their experience. Repeating it after they disagree can turn support into analysis they did not request. Let their response change what you do next.",
+      "example": "You ask whether a setback feels like a judgment about your teen, and they say, \"No, I'm just angry.\" You accept that answer and stop pursuing your explanation.",
+      "parentTip": "'Thanks for correcting me; would you like me to listen to what made you angry?'",
+      "reflectionPrompt": "What makes it difficult for you to let go of an interpretation that feels accurate?",
+      "quizQuestion": {
+        "question": "Your teen rejects your interpretation; what best preserves collaboration?",
+        "options": [
+          "Repeat it with gentler wording so they can reconsider.",
+          "Accept their account and adjust the support you offer.",
+          "Ask them to explain why your interpretation cannot apply."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "jc_receive_the_experience": [
+    {
+      "id": "jc_validate_without_endorsing",
+      "title": "Acknowledge Pain Without Endorsing a Verdict",
+      "goal": "Learn to validate your teen's experience while leaving self-condemnation open.",
+      "keyConcept": "You can recognize how painful an event feels without agreeing that it proves something terrible about your teen. Focus first on the experience they are describing. This gives their pain room without requiring either of you to settle a judgment about their worth.",
+      "example": "Your teen says, \"I let the group down; I'm useless.\" You reflect how painful the disappointment feels before considering what happened with the group.",
+      "parentTip": "'It sounds painful to feel you let them down; I'm here to listen.'",
+      "reflectionPrompt": "What could you acknowledge in your teen's pain without agreeing with their self-judgment?",
+      "quizQuestion": {
+        "question": "Which response validates the experience without endorsing the verdict?",
+        "options": [
+          "'You really did let them down, so I understand the verdict.'",
+          "'You're useful to lots of people, so that conclusion is wrong.'",
+          "'Feeling you let them down sounds painful; I'm listening.'"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_listen_before_fixing",
+      "title": "Leave Room Before the Solution",
+      "goal": "Practice receiving your teen's experience before suggesting a practical next step.",
+      "keyConcept": "When you can see a solution, it is easy to move toward it before understanding the experience. Your teen may need acknowledgment or company before practical help becomes usable. A pause allows you to find out what kind of support they want.",
+      "example": "Your teen describes hours of trying to start an essay. You acknowledge how draining that sounds and wait instead of immediately suggesting an outline.",
+      "parentTip": "'That sounds exhausting; would you like listening or help thinking it through?'",
+      "reflectionPrompt": "What problem do you find hardest to hear about without immediately trying to solve it?",
+      "quizQuestion": {
+        "question": "You see a workable solution while your teen is describing their distress; what should come first?",
+        "options": [
+          "Acknowledge the experience and check what support they want.",
+          "Explain the solution briefly before offering to listen.",
+          "Ask them to choose a plan before the conversation continues."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_describe_without_diagnosing",
+      "title": "Describe What Is Happening Gently",
+      "goal": "Use tentative descriptions that leave room for your teen's own account.",
+      "keyConcept": "A diagnostic explanation may be intended to reduce blame but can still feel as though it explains your teen away. Describing a process keeps attention on the situation you are trying to understand. Even a process description needs to remain tentative.",
+      "example": "You begin to say, \"This is just your ADHD,\" then stop. You acknowledge that you were explaining too quickly and invite your teen's account.",
+      "parentTip": "'I jumped to an explanation; what is this moment like for you?'",
+      "reflectionPrompt": "What labels or explanations do you reach for when you are worried?",
+      "quizQuestion": {
+        "question": "Which wording best leaves room for your teen's experience?",
+        "options": [
+          "'Your diagnosis explains why you are reacting this way.'",
+          "'You need to recognize your symptoms before we can help.'",
+          "'This seems difficult to start; what has it been like for you?'"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_one_question_and_privacy",
+      "title": "Ask Less and Allow Privacy",
+      "goal": "Practice offering support without requiring your teen to explain everything.",
+      "keyConcept": "Several questions in quick succession can feel like an examination during overload. Ask one useful question and allow time, including silence. Your teen may want support while keeping parts of the experience private.",
+      "example": "Your teen says they do not want to explain the school day. You stop asking for details and offer quiet company without tying it to disclosure.",
+      "parentTip": "'You don't have to explain it all; would quiet company help?'",
+      "reflectionPrompt": "How can you make support available when your teen does not want to tell the whole story?",
+      "quizQuestion": {
+        "question": "Your teen declines to explain an ordinary difficult day with no safety concern evident; what fits this lesson?",
+        "options": [
+          "Offer quiet support without requiring the explanation.",
+          "Ask for enough details to decide whether company is justified.",
+          "Explain that sharing details is necessary for you to be helpful."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_repair_a_missed_response",
+      "title": "Repair When Your Words Miss",
+      "goal": "Practice acknowledging a response that felt dismissive without defending your intention.",
+      "keyConcept": "Your intention and your teen's experience of a response may differ. A brief repair can acknowledge that gap and change the interaction. Your teen does not need to reassure you or accept the repair immediately.",
+      "example": "You say, \"It's only one assignment,\" and your teen feels dismissed. You acknowledge that you minimized how much it hurt and stop explaining why you meant well.",
+      "parentTip": "'I made that sound smaller than it feels to you; I'd like to listen more carefully.'",
+      "reflectionPrompt": "What would help you acknowledge a misstep without asking your teen to comfort you?",
+      "quizQuestion": {
+        "question": "What makes a repair useful after you minimize your teen's distress?",
+        "options": [
+          "Asking them to confirm that they know you care.",
+          "Acknowledging the impact and changing your response.",
+          "Explaining your good intention until they understand it."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "jc_hidden_parental_judgments": [
+    {
+      "id": "jc_observation_and_parent_story",
+      "title": "Separate What You See From Your Story",
+      "goal": "Examine the interpretation you add to your teen's behavior before responding.",
+      "keyConcept": "An observation and an interpretation can arrive almost together. Seeing an unopened assignment may quickly become \"They don't care\" in your mind, shaping the way you approach your teen. Naming the observation separately leaves room to learn what you do not yet know.",
+      "example": "You see your teen using their phone beside unfinished work and assume they are avoiding responsibility. Before speaking, you remind yourself that you know the work is unfinished but have not yet asked what is happening.",
+      "parentTip": "'I see the work is still unfinished; what has getting started been like?'",
+      "reflectionPrompt": "What story do you most often add to behavior that worries you?",
+      "quizQuestion": {
+        "question": "Which statement separates observation from interpretation?",
+        "options": [
+          "'The work is unfinished, and I don't yet know what got in the way.'",
+          "'The work is untouched, so my teen has chosen not to care.'",
+          "'My teen is avoiding work because it feels too demanding.'"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_comparisons_without_direct_comparison",
+      "title": "Hear the Standard in Comments About Others",
+      "goal": "Recognize expectations your teen may hear in stories about other children.",
+      "keyConcept": "Talking admiringly about another child's achievement may carry an implied standard for your teen, even without an explicit comparison. What they hear depends on the wider pattern and their experience. Ask about that meaning rather than assuming either harmlessness or harm.",
+      "example": "You often mention a friend's daughter who won a scholarship. You realize your teen may hear those stories as a measure of what would make you proud and ask how the comments have felt.",
+      "parentTip": "'I've talked about that scholarship several times; how has hearing it felt to you?'",
+      "reflectionPrompt": "What might your teen hear in the way you discuss other children's lives?",
+      "quizQuestion": {
+        "question": "Why might a comment about someone else's child deserve reflection?",
+        "options": [
+          "Admiration for another child necessarily expresses disappointment in your own.",
+          "Your teen may hear an implied standard within the broader pattern.",
+          "Third-person comments carry meaning only when a comparison is explicit."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_attention_reveals_priorities",
+      "title": "Notice What Gets Your Attention",
+      "goal": "Explore the message carried by the subjects you repeatedly notice and discuss.",
+      "keyConcept": "Praise can express warmth and interest, while the overall pattern of attention also communicates priorities. If achievement receives most of your detailed curiosity, your teen may wonder whether other parts of life matter as much to you. Notice the pattern and invite their perspective without making every conversation a test of your parenting.",
+      "example": "You ask many questions about grades but rarely follow up on your teen's interest in drawing. At a relaxed moment, you ask about a sketch they wanted to show you and listen without turning it into a future career discussion.",
+      "parentTip": "'I'd like to hear about what you've been enjoying lately, if you'd like to share.'",
+      "reflectionPrompt": "What parts of your teen's experience receive your sustained interest beyond achievement?",
+      "quizQuestion": {
+        "question": "What is the most useful response to noticing that most conversations center on grades?",
+        "options": [
+          "Promise that grades will no longer matter in the family.",
+          "Add more praise when the teen earns a good grade.",
+          "Broaden your sustained interest and check how the pattern feels."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_family_roles_leave_room",
+      "title": "Leave Room Beyond Family Labels",
+      "goal": "Recognize how familiar family roles may shape what your teen feels able to show.",
+      "keyConcept": "Labels such as \"the independent one\" or \"the smart one\" can seem affectionate while narrowing the role your teen feels expected to occupy. They may experience asking for help or making mistakes as a threat to that role. Check how the label lands and describe particular experiences more flexibly.",
+      "example": "Your teen has often been called \"the one who never needs help\" and hesitates to discuss a difficult course. You acknowledge the label and make room for them to need support.",
+      "parentTip": "'I've often called you independent; what has that made it easy or hard to tell me?'",
+      "reflectionPrompt": "What family label might make a particular kind of struggle harder for your teen to reveal?",
+      "quizQuestion": {
+        "question": "Your teen finds 'the independent one' burdensome; what best responds to that feedback?",
+        "options": [
+          "Explain that the label was meant as a compliment.",
+          "Acknowledge the pressure and make room for asking for help.",
+          "Replace it immediately with another positive identity label."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_revise_the_unspoken_standard",
+      "title": "Repair an Unspoken Expectation",
+      "goal": "Apply your teen's feedback through a concrete change in a recurring response.",
+      "keyConcept": "Acknowledging an unintended message opens a conversation, while everyday follow-through gives the acknowledgment substance. Your teen may need time before they trust a changed pattern or want to discuss it. Focus on an adjustment you can make without requiring them to approve your repair.",
+      "example": "Your teen says repeated college comparisons make every conversation feel evaluative. You acknowledge that pressure and stop bringing those comparisons into casual conversations, without asking them to confirm you are now supportive.",
+      "parentTip": "'I hear that those comparisons add pressure; I'll change how I bring up college.'",
+      "reflectionPrompt": "What recurring response could you change after hearing your teen's perspective?",
+      "quizQuestion": {
+        "question": "What gives a repair of an unspoken expectation practical substance?",
+        "options": [
+          "A detailed explanation of why your intentions were supportive.",
+          "An immediate agreement that the relationship now feels better.",
+          "A concrete change in the recurring pattern the teen described."
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "jc_nonverbal_presence": [
+    {
+      "id": "jc_notice_your_urgency",
+      "title": "Notice the Urgency You Bring",
+      "goal": "Recognize your own pressure to make the situation improve before you respond.",
+      "keyConcept": "Fear, frustration, and time pressure can enter your voice and movements before you notice. That urgency may make even supportive words feel like a demand for rapid improvement. A brief pause gives you room to choose a more usable response without requiring perfect calm.",
+      "example": "You are worried about a deadline and feel yourself preparing a rapid list of suggestions. You pause, lower the pace, and ask what kind of support your teen wants.",
+      "parentTip": "'I'm feeling rushed, and I want to slow down so I can hear you.'",
+      "reflectionPrompt": "What signs tell you that your own urgency is entering the interaction?",
+      "quizQuestion": {
+        "question": "What is the purpose of noticing your urgency?",
+        "options": [
+          "To gain room to adjust how you respond.",
+          "To make sure your teen never sees you feeling worried.",
+          "To decide how quickly your teen must resolve the problem."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_voice_and_waiting",
+      "title": "Let Your Voice Leave Room",
+      "goal": "Practice reducing pressure through your volume, pace, and pauses.",
+      "keyConcept": "The words you choose arrive with a tone and a pace. \"Take your time\" can still feel hurried when followed immediately by another question. Leave enough space to discover whether your teen wants to answer, stay quiet, or ask for something else.",
+      "example": "You say, \"No rush,\" but immediately repeat your question more loudly. You notice the mismatch, stop repeating yourself, and allow a quiet pause.",
+      "parentTip": "'I asked that quickly; you can take a moment before answering.'",
+      "reflectionPrompt": "What happens to your voice and waiting time when you are anxious?",
+      "quizQuestion": {
+        "question": "Which action best supports the message 'Take your time'?",
+        "options": [
+          "Explain the question more fully during the pause.",
+          "Repeat the question in case the teen missed its importance.",
+          "Allow silence without immediately adding another demand."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_face_and_body_as_possible_signals",
+      "title": "Notice Your Face and Movements",
+      "goal": "Consider possible messages in your expression and movements without assuming a fixed meaning.",
+      "keyConcept": "A sigh, a tense expression, or repeated clock-checking may communicate pressure in a particular interaction. No gesture has one meaning that you can simply assign to everyone. Notice your behavior and ask how it landed when doing so would be useful.",
+      "example": "While your teen speaks, you keep checking the clock and they stop talking. You put the clock out of view and acknowledge the impression you may have given.",
+      "parentTip": "'I kept checking the time; I wonder whether that made you feel hurried.'",
+      "reflectionPrompt": "What might your movements communicate when your words are intended to reassure?",
+      "quizQuestion": {
+        "question": "What should guide your interpretation of a nonverbal signal?",
+        "options": [
+          "The context and the teen's account of how it felt.",
+          "The meaning that gesture usually has for you personally.",
+          "A fixed rule about what that expression always communicates."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_distance_and_permission",
+      "title": "Make Your Presence a Choice",
+      "goal": "Adapt proximity, eye contact, and touch to your teen's preferences.",
+      "keyConcept": "Sitting nearby, looking directly at someone, or offering a hug can feel different to different teens and at different moments. Ask rather than assuming what feels comforting. During ordinary distress, room to choose your presence can preserve a sense of control; safety concerns require appropriate support.",
+      "example": "Your teen pulls back when you move in for a hug. You stop and offer a choice of sitting nearby or giving more room.",
+      "parentTip": "'Would you like a hug, quiet company, or a little more space?'",
+      "reflectionPrompt": "What preferences about closeness have you learned from your teen?",
+      "quizQuestion": {
+        "question": "Your teen declines a hug during ordinary distress; what fits this skill?",
+        "options": [
+          "Offer the hug again to demonstrate continued affection.",
+          "Respect the preference and offer another form of presence.",
+          "Ask them to explain the refusal before changing your approach."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_repair_words_and_presence",
+      "title": "Repair When Words and Presence Disagree",
+      "goal": "Acknowledge an unintended signal and make an observable adjustment.",
+      "keyConcept": "When words and presence carry different messages, explaining your intention may leave the pressure unchanged. A useful repair names what you noticed and adjusts it. Your teen can decide whether the change helps without taking responsibility for your feelings.",
+      "example": "You say there is no hurry while standing over your teen with your hand on the door. You acknowledge that your stance looks rushed, move back, and ask whether they want company.",
+      "parentTip": "'I said there was no rush, but I looked ready to leave; I'll give this more room.'",
+      "reflectionPrompt": "What physical adjustment could make your supportive words more credible?",
+      "quizQuestion": {
+        "question": "Which repair best addresses a mismatch between reassurance and a rushed presence?",
+        "options": [
+          "Acknowledge the mismatch and change the behavior carrying pressure.",
+          "Explain that your teen misunderstood your body language.",
+          "Repeat the reassuring words until your teen accepts the intention."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "jc_pause_and_offer_choice": [
+    {
+      "id": "jc_suspend_without_debate",
+      "title": "Leave the Verdict Undecided",
+      "goal": "Learn to invite a pause without asking your teen to defeat a painful belief.",
+      "keyConcept": "When your teen is convinced they are a failure, counterarguments may create a debate about worth. The manual offers a smaller move: leave the judgment undecided for now. This is an invitation that your teen can accept, reject, or help you reword.",
+      "example": "Your teen says, \"I'm a failure,\" and rejects examples of past success. You stop presenting evidence and ask whether that conclusion can remain open for the moment.",
+      "parentTip": "'Could we leave the judgment about who you are undecided for now?'",
+      "reflectionPrompt": "What makes it difficult for you to leave a harsh conclusion open without arguing?",
+      "quizQuestion": {
+        "question": "What does suspending a verdict ask your teen to do?",
+        "options": [
+          "Prove that their negative conclusion is mistaken.",
+          "Leave the conclusion unsettled for the moment.",
+          "Adopt a positive view of themselves before continuing."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_future_without_promises",
+      "title": "Keep the Future Open",
+      "goal": "Practice responding to fear about the future without promising a particular outcome.",
+      "keyConcept": "Your teen may feel that today's difficulty has already settled what their future will be. You do not have to supply a confident positive prediction to keep that conclusion open. Acknowledge the uncertainty and stay with the present experience.",
+      "example": "Your teen says, \"I'll never cope with college,\" after a difficult week. You acknowledge the fear and avoid promising that college will be easy.",
+      "parentTip": "'This week feels frightening; we don't have to decide your whole future from here.'",
+      "reflectionPrompt": "What reassuring promises do you feel tempted to make when your teen fears the future?",
+      "quizQuestion": {
+        "question": "Which response keeps the future open without promising an outcome?",
+        "options": [
+          "'College will work out once you learn a reliable routine.'",
+          "'You have succeeded before, so there is no reason to worry.'",
+          "'We can leave that prediction undecided while this week hurts.'"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_small_support_menu",
+      "title": "Offer a Small Menu of Support",
+      "goal": "Apply a brief choice that gives your teen a say in what happens next.",
+      "keyConcept": "A long list of support options can become another demand to process. Offer two or three realistic choices based on what your teen has found useful. The options need to be available without making one of them the only acceptable answer.",
+      "example": "Your teen is upset after a project setback and you are unsure how to help. You offer listening, quiet company, or practical help, then wait for their preference.",
+      "parentTip": "'Would listening, quiet company, or help with the situation be most useful?'",
+      "reflectionPrompt": "Which two or three forms of support could you offer without steering toward a preferred answer?",
+      "quizQuestion": {
+        "question": "What makes a small support menu collaborative?",
+        "options": [
+          "Presenting practical help as the responsible choice.",
+          "Offering a few real choices and accepting the teen's preference.",
+          "Listing every available option so nothing is left out."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_accept_a_declined_offer",
+      "title": "Let Your Teen Decline Your Approach",
+      "goal": "Practice changing course when a phrase or support option feels intrusive.",
+      "keyConcept": "Rejecting an offer can give you information about timing, wording, or the kind of support your teen wants. It does not require you to treat the approach as a test of their willingness to be helped. Stop the unhelpful move and use agreed alternatives where appropriate.",
+      "example": "Your teen says, \"Stop analyzing me,\" when you name a pattern. You stop explaining and offer quiet presence instead of asking them to justify the objection.",
+      "parentTip": "'I'll stop analyzing; would quiet company or a little space be better?'",
+      "reflectionPrompt": "What do you tend to feel when your teen declines the help you offered?",
+      "quizQuestion": {
+        "question": "Your teen rejects your wording during ordinary distress; what is the most useful next step?",
+        "options": [
+          "Ask them to agree to the approach before discussing alternatives.",
+          "Explain that the wording comes from an established framework.",
+          "Stop that approach and offer a less intrusive option."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_connection_without_task_completion",
+      "title": "Keep Connection Available During a Pause",
+      "goal": "Separate immediate emotional support from the decision about returning to a task.",
+      "keyConcept": "Your teen should not have to finish a task to regain warmth or connection. Pausing task discussion can make room for support while leaving practical decisions for a separate, agreed conversation. The task may later need adjustment, help, delay, or another workable response.",
+      "example": "Your teen wants to stop talking about an essay for the evening. You keep ordinary connection available and agree to discuss what remains needed at a more useful time.",
+      "parentTip": "'We can pause the essay conversation and still spend some time together.'",
+      "reflectionPrompt": "How might your teen experience your warmth when a task remains unfinished?",
+      "quizQuestion": {
+        "question": "Which arrangement keeps support independent of immediate performance?",
+        "options": [
+          "Offer connection now and agree separately on when to revisit the task.",
+          "Restore ordinary warmth after the teen completes a small step.",
+          "Require a task plan before allowing the conversation to pause."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "jc_match_support_to_capacity": [
+    {
+      "id": "jc_help_with_task_friction",
+      "title": "Offer Help While Thinking Together Is Possible",
+      "goal": "Apply practical support with permission while your teen can still collaborate.",
+      "keyConcept": "When your teen wants help and can think with you, a clearer first step or quiet company may make the situation more workable. Start by finding the friction they describe rather than adding a longer set of instructions. Practical support remains an offer, with room to change or pause the task.",
+      "example": "Your teen says the project has too many possible starting points and asks for help. You agree together on one visible first step instead of mapping the entire project at once.",
+      "parentTip": "'Would it help to find the first step together, or would company be more useful?'",
+      "reflectionPrompt": "What kind of practical help has your teen actually found usable?",
+      "quizQuestion": {
+        "question": "When is breaking a task into steps most appropriate here?",
+        "options": [
+          "After you have identified the plan you think will work.",
+          "Whenever a task remains unfinished despite a clear deadline.",
+          "When your teen wants practical help and can collaborate."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_respond_to_self_attack",
+      "title": "Shift From Task Advice to the Painful Judgment",
+      "goal": "Recognize when self-attack has become the central issue in the conversation.",
+      "keyConcept": "Task advice may miss what hurts when your teen has moved into condemning themselves. First acknowledge that pain and check the wider meaning the event has acquired. Practical help can return later if your teen wants it.",
+      "example": "You suggest an outline, but your teen replies, \"You don't get it; I'm just a failure.\" You stop adding steps and acknowledge that the essay now feels like a judgment about them.",
+      "parentTip": "'It sounds as though this is about how you see yourself now; have I understood?'",
+      "reflectionPrompt": "How can you notice when your useful task advice has stopped addressing what hurts?",
+      "quizQuestion": {
+        "question": "Your teen responds to task advice with harsh self-condemnation; what should you attend to next?",
+        "options": [
+          "The pain and possible shift toward an identity judgment.",
+          "The next task step, stated more simply and clearly.",
+          "The evidence that your teen has completed harder tasks before."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_reduce_demands_in_overwhelm",
+      "title": "Use Fewer Words During Overwhelm",
+      "goal": "Adjust your response when questions and explanations are no longer usable.",
+      "keyConcept": "During overwhelm, a conversation that requires reflection may become another demand. Shorter language, less stimulation, and familiar support can be more usable. Revisit analysis later when your teen has room for it.",
+      "example": "Your teen covers their face and says they cannot answer more questions. You stop discussing the assignment, speak briefly, and use the quiet support they previously requested.",
+      "parentTip": "'I'll stop the questions; I'm here with you.'",
+      "reflectionPrompt": "What demand could you remove when your teen no longer has room to think with you?",
+      "quizQuestion": {
+        "question": "What best matches a moment when your teen cannot use further questions?",
+        "options": [
+          "Ask the same questions more gently until they can respond.",
+          "Reduce questions and use familiar, agreed support.",
+          "Explain why answering now could help resolve the difficulty."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_fear_of_the_previous_state",
+      "title": "Recognize Fear of the Pain Returning",
+      "goal": "Understand how memories of an earlier episode can add fear to present distress.",
+      "keyConcept": "Your teen may be distressed by what is happening now and frightened that it will become as painful as before. Recognizing both layers can make their experience easier to understand. Use familiar support and known turning points without promising how the episode will unfold.",
+      "example": "Your teen says, \"I can't go through that feeling again.\" You acknowledge the fear of recurrence and ask about the next usable step in the support plan.",
+      "parentTip": "'Part of this may be fear of how bad it felt before; is that what you're feeling?'",
+      "reflectionPrompt": "What previous experience might your teen be remembering during a difficult moment?",
+      "quizQuestion": {
+        "question": "What additional layer might 'I can't go through that feeling again' express?",
+        "options": [
+          "Fear of earlier pain returning alongside present distress.",
+          "A decision that previous support can no longer help.",
+          "Evidence that this episode will follow the same sequence."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_safety_takes_priority",
+      "title": "Know When Safety Support Comes First",
+      "goal": "Recognize when to ask directly about safety and involve appropriate help.",
+      "keyConcept": "Language about wanting to die or disappear needs clarification about safety rather than an assumption about its meaning. Ask directly about suicide and listen without judgment. Follow the existing safety plan and connect with appropriate professional or crisis support; if there is immediate danger, stay with your teen and seek local emergency help without waiting for a plan to be created.",
+      "example": "Your teen says, \"I want to disappear,\" and you are concerned about their safety. You stop discussing homework, ask directly about suicide, and act on the concern using appropriate support.",
+      "parentTip": "'Are you thinking about suicide?'",
+      "reflectionPrompt": "What arrangements would help you respond directly and obtain support when safety is a concern?",
+      "quizQuestion": {
+        "question": "Your teen's words raise concern about suicide; what takes priority?",
+        "options": [
+          "Use quiet company and revisit the meaning after the distress passes.",
+          "Ask directly about suicide and connect with appropriate safety support.",
+          "Continue separating the task from identity until they feel reassured."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "jc_prepare_together": [
+    {
+      "id": "jc_agree_on_support_purpose",
+      "title": "Agree on What Support Is For",
+      "goal": "Build a shared purpose that keeps support from becoming thought-policing or productivity pressure.",
+      "keyConcept": "A support agreement works best when your teen can influence what it is for. The manual's purpose is to notice painful expansion of judgment while preserving connection and choice. Make room to ask what your teen wants support to protect or make easier.",
+      "example": "During a calm moment, you ask whether your teen would like to discuss difficult homework evenings. You explain that the conversation is about making support more usable and ask what they would want from it.",
+      "parentTip": "'Would you like to work out what kind of support feels useful when things get painful?'",
+      "reflectionPrompt": "What would your teen want a support agreement to make easier?",
+      "quizQuestion": {
+        "question": "What should guide the purpose of a shared support agreement?",
+        "options": [
+          "A parent's reliable way to identify the teen's distorted thoughts.",
+          "A plan that ensures the teen returns to work more quickly.",
+          "A purpose the teen helps shape around usable support."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_choose_a_shared_cue",
+      "title": "Choose a Cue Your Teen Accepts",
+      "goal": "Develop brief shared wording that your teen can approve, revise, or decline.",
+      "keyConcept": "A shared cue can make a familiar pattern easier to mention without a long explanation. It is useful only if your teen finds it acceptable and its timing is appropriate. A phrase that feels patronizing can be changed or left out entirely.",
+      "example": "You suggest \"task or identity?\" and your teen says it sounds clinical. You ask whether they prefer another phrase or no named cue.",
+      "parentTip": "'Would a short check-in phrase help, or would you rather I leave that out?'",
+      "reflectionPrompt": "What wording would sound natural to your teen rather than imposed by you?",
+      "quizQuestion": {
+        "question": "Your teen dislikes the cue you propose; what preserves collaboration?",
+        "options": [
+          "Keep the cue but explain it more thoroughly beforehand.",
+          "Invite another phrase or agree to leave the cue out.",
+          "Use the cue only when you are certain the pattern applies."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_build_a_usable_menu",
+      "title": "Build a Menu Around Real Preferences",
+      "goal": "Identify a few forms of support your teen finds helpful and available.",
+      "keyConcept": "A support menu can include listening, quiet company, practical help, reduced stimulation, or other familiar supports. Ask which options your teen actually wants rather than filling the list with everything that seems sensible to you. Include responses they would like you to avoid.",
+      "example": "Your teen says movement sometimes helps but task advice often feels intrusive at first. Together you record a short menu and leave room for them to choose differently on another day.",
+      "parentTip": "'Which kinds of support would you like available, and what should I avoid?'",
+      "reflectionPrompt": "Which option would you be surprised to learn your teen does not find helpful?",
+      "quizQuestion": {
+        "question": "What makes a support menu usable?",
+        "options": [
+          "Ranking options by how quickly they restore productivity.",
+          "Including every support option you can think of.",
+          "Building it around the teen's preferences and real availability."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "jc_clarify_support_and_safety_roles",
+      "title": "Clarify When Other Support Is Needed",
+      "goal": "Prepare clear support roles and appropriate safety arrangements before they are needed.",
+      "keyConcept": "A conversational framework cannot replace individualized treatment or safety planning. Work with appropriate professionals to clarify concerns, who to contact, and what actions to take; if no plan exists, seek help establishing one. Immediate safety concerns still require timely help rather than waiting for that preparation.",
+      "example": "You and your teen realize you have not agreed who to contact when ordinary support is insufficient. During a calm period, you seek professional guidance and write down the arrangements together where appropriate.",
+      "parentTip": "'Let's get help clarifying who we contact and what we do when more support is needed.'",
+      "reflectionPrompt": "What part of your family's support arrangements remains unclear?",
+      "quizQuestion": {
+        "question": "Your family has no established safety plan; what is the appropriate preparation?",
+        "options": [
+          "Seek professional guidance to clarify support roles and safety arrangements.",
+          "Use the lesson sequence as a temporary clinical plan.",
+          "Wait for a serious episode to show which contacts are needed."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_keep_the_map_revisable",
+      "title": "Keep the Agreement Flexible",
+      "goal": "Revise support arrangements as your teen's preferences and circumstances change.",
+      "keyConcept": "An agreement made during a calm period is a starting point rather than permanent permission for every intervention. Your teen may need different words, more privacy, or another form of support as circumstances change. Revisit the arrangement without making them defend a changed preference, while keeping safety responsibilities clear.",
+      "example": "A phrase that helped last month now irritates your teen. You accept the feedback and agree on a different check-in instead of pointing to the old agreement.",
+      "parentTip": "'That wording isn't helping now; what would you like us to change?'",
+      "reflectionPrompt": "How can your teen signal that an earlier agreement needs revising?",
+      "quizQuestion": {
+        "question": "What should happen when an agreed support stops feeling useful?",
+        "options": [
+          "Ask the teen to honor the earlier agreement before changing it.",
+          "Keep using it until the next formal review date.",
+          "Revisit it together and update what is workable now."
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "jc_recover_and_learn": [
+    {
+      "id": "jc_recovery_before_review",
+      "title": "Allow Recovery Before Reviewing",
+      "goal": "Recognize that falling intensity does not automatically mean your teen is ready to analyze.",
+      "keyConcept": "After an episode, your teen may still feel tired, embarrassed, or exposed. Immediate review can become another demand even when the difficult conversation has ended. Restore ordinary connection and allow recovery before asking whether a review would be useful.",
+      "example": "Your teen becomes quieter after a painful evening and asks to watch something together. You accept the ordinary connection and leave the review for another time.",
+      "parentTip": "'We don't have to analyze this now; we can look at it later if it would help.'",
+      "reflectionPrompt": "What tells you that you are ready to review before your teen is?",
+      "quizQuestion": {
+        "question": "What does a decrease in intensity establish about readiness to review?",
+        "options": [
+          "Your teen may still need recovery before analysis.",
+          "Your teen can now explain what caused the episode.",
+          "Your teen is ready to make a prevention plan."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_review_sequence_without_fault",
+      "title": "Describe the Sequence Without a Trial",
+      "goal": "Practice reviewing what happened with room for your own contribution.",
+      "keyConcept": "A brief review can identify where the difficulty began, when its meaning shifted, and what increased or reduced pressure. Describing the sequence makes room for evidence without asking who is the difficult person. Include your own responses and let your teen correct the account.",
+      "example": "Later, with agreement, you review an evening that became painful. Your teen says your repeated reminders added pressure, and you include that in the sequence instead of defending the reminders.",
+      "parentTip": "'What happened in the sequence, including anything I did that made it harder?'",
+      "reflectionPrompt": "What part of your own response might be important to include in a shared review?",
+      "quizQuestion": {
+        "question": "Which review question best supports learning without assigning character?",
+        "options": [
+          "'Why did you let the same thing happen again?'",
+          "'What happened first, and what added pressure after that?'",
+          "'Which of us should have stopped the episode sooner?'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_find_helpful_turning_points",
+      "title": "Notice What Helped Even Slightly",
+      "goal": "Identify small interruptions and choose one adjustment for a future moment.",
+      "keyConcept": "An episode may contain useful turning points even when it was still difficult overall. A pause, fewer questions, or a change of company might have helped a little. Choose one observation to test together next time rather than constructing a demanding improvement program.",
+      "example": "Your teen says the conversation became easier once you stopped offering solutions. You agree to ask earlier whether they want listening or practical help.",
+      "parentTip": "'What helped even slightly, and is there one thing we could try earlier next time?'",
+      "reflectionPrompt": "What small helpful moment might be easy to overlook because the episode was hard?",
+      "quizQuestion": {
+        "question": "What is a useful outcome from noticing one helpful turning point?",
+        "options": [
+          "Agree on one manageable adjustment to try together.",
+          "Build a complete prevention routine before ending the review.",
+          "Treat that response as the correct intervention for future episodes."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "jc_return_to_real_responsibilities",
+      "title": "Return to the Practical Difficulty Together",
+      "goal": "Address remaining responsibilities in a separate conversation that preserves connection.",
+      "keyConcept": "Pausing a harsh verdict does not resolve every practical consequence of an unfinished task. At a more useful time, agree on a conversation about what remains needed and what support or adjustment is workable. Keep accountability specific to actions and arrangements while care remains available.",
+      "example": "The next day, your teen agrees to discuss an overdue essay. You look together at what is still required and whether help, a changed approach, or communication with the teacher is needed.",
+      "parentTip": "'Would now be useful for looking at what the essay still needs and where you want support?'",
+      "reflectionPrompt": "How can you discuss a real responsibility without making it a test of character?",
+      "quizQuestion": {
+        "question": "How should you return to an unfinished responsibility after distress?",
+        "options": [
+          "Leave the responsibility alone to avoid any further discomfort.",
+          "Agree on a practical conversation about needs, actions, and support.",
+          "Require a positive self-view before discussing the practical issue."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "jc_progress_and_sustainable_support",
+      "title": "Recognize Progress and Share the Support",
+      "goal": "Evaluate progress realistically while protecting a sustainable network of care.",
+      "keyConcept": "Progress may include an earlier signal, a shorter self-attack, or an easier repair even when episodes recur. Keep other appropriate supports involved and share observations with respect for your teen's consent and safety needs. Attending to your own capacity helps keep the relationship from depending on constant availability.",
+      "example": "Another difficult evening occurs, but your teen asks for company sooner and later names what helped. You recognize those changes and continue using the wider support arrangement rather than treating recurrence as failure.",
+      "parentTip": "'You let me know earlier this time; what would you like us to keep doing?'",
+      "reflectionPrompt": "What would meaningful progress look like for both your teen and your capacity to support them?",
+      "quizQuestion": {
+        "question": "Which observation can represent progress even when episodes continue?",
+        "options": [
+          "The parent can remain available at every moment of distress.",
+          "The teen no longer needs help from people outside the family.",
+          "The teen signals earlier and connection is easier to restore."
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ]
+}

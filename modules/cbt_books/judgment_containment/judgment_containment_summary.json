@@ -1,0 +1,43 @@
+{
+  "id": 6,
+  "title": "Judgment Containment",
+  "description": "Help your teen through self-judgment with understanding, choice, and awareness of the expectations your words and unspoken responses may communicate.",
+  "videoPreview": "When difficulty becomes self-judgment",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 60,
+      "title": "Separate the event from the verdict",
+      "focused": true
+    },
+    {
+      "id": 61,
+      "title": "Notice and check the shift"
+    },
+    {
+      "id": 62,
+      "title": "Receive before redirecting"
+    },
+    {
+      "id": 63,
+      "title": "Notice what your responses communicate"
+    },
+    {
+      "id": 64,
+      "title": "Pause the verdict and offer choice"
+    },
+    {
+      "id": 65,
+      "title": "Match support to available capacity"
+    },
+    {
+      "id": 66,
+      "title": "Build a shared support map"
+    },
+    {
+      "id": 67,
+      "title": "Review gently and adjust together"
+    }
+  ],
+  "videos": []
+}
