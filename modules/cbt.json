@@ -43,11 +43,11 @@
     {
       "id": 25,
       "title": "Positive Trajectory Building",
-      "info": "cbt_books/postive_trajectory_building/positive_trajectory_building_summary.json",
-      "strategies": "cbt_books/postive_trajectory_building/positive_trajectory_building_strategies.json",
+      "info": "cbt_books/positive_trajectory_building/positive_trajectory_building_summary.json",
+      "strategies": "cbt_books/positive_trajectory_building/positive_trajectory_building_strategies.json",
       "studyPlan": {
-        "module_path": "cbt_books/postive_trajectory_building/positive_trajectory_building_modules.json",
-        "lesson_path": "cbt_books/postive_trajectory_building/positive_trajectory_building_lessons.json"
+        "module_path": "cbt_books/positive_trajectory_building/positive_trajectory_building_modules.json",
+        "lesson_path": "cbt_books/positive_trajectory_building/positive_trajectory_building_lessons.json"
       }
     }
   ],
