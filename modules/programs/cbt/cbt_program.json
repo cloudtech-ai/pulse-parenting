@@ -71,6 +71,24 @@
           "summary": "A practical manual for parents and caregivers on supporting a teen through painful self-judgment with understanding, choice, and awareness of the expectations their words and unspoken responses may communicate."
         }
       ]
+    },
+    {
+      "id": 305,
+      "title": "Positive Trajectory Building",
+      "goal": "To help parents and caregivers create small, chosen experiences that let a teen approach difficulty, ask for support, adapt, pause, return, and build self-trust.",
+      "keyConcepts": [
+        "Recognize agency beyond completion: noticing, choosing support, adapting, pausing, returning, and repairing all count.",
+        "Make recognition specific, proportionate, and chosen rather than evaluative or pressuring.",
+        "Use MEET (meaning, environment, entry, terms) to design one workable encounter with an agreed ending."
+      ],
+      "books": [
+        {
+          "id": 25,
+          "title": "Positive Trajectory Building",
+          "author": "Pulse Parenting",
+          "summary": "A practical manual for parents and caregivers on creating small, chosen experiences of agency, competence, connection, and recovery for a teen facing task friction and recurring self-judgment."
+        }
+      ]
     }
   ]
 }

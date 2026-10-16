@@ -1,0 +1,77 @@
+{
+  "id": "positive_trajectory_building",
+  "title": "Positive Trajectory Building: Creating Experiences of Agency, Competence, Connection, and Recovery",
+  "description": "This course adapts the Positive Trajectory Building parent manual for families supporting a teen through task friction and recurring self-judgment. It shows how small, chosen encounters can create experiences of agency, competence, connection, and recovery. Its approach combines the manual's MEET planning tool with specific recognition, reliable stopping rules, and support shaped by your teen's preferences. You will learn to design workable experiences, notice your own pressure, learn from unfinished attempts, and transfer direction while keeping support available.",
+  "modules": [
+    {
+      "id": "ptb_agency_beyond_completion",
+      "title": "Build Agency Beyond Completion",
+      "goal": "Understand how small acts of choice and adaptation can create a different experience of difficulty.",
+      "key_points": [
+        "Agency includes noticing, choosing support, approaching, adapting, pausing, returning, and repairing.",
+        "Completion can count while other useful actions retain their value.",
+        "Warmth and care remain available through disappointment, refusal, and unfinished work."
+      ]
+    },
+    {
+      "id": "ptb_recognition_and_reinforcement",
+      "title": "Make Recognition Useful and Welcome",
+      "goal": "Learn to recognize useful actions in ways your teen experiences as specific, proportionate, and chosen.",
+      "key_points": [
+        "A reinforcing consequence makes a useful action more likely to recur.",
+        "Accurate recognition and collaborative rewards can differ from evaluative praise or pressure.",
+        "Ask what acknowledgment your teen welcomes and honor the agreement without extra conditions."
+      ]
+    },
+    {
+      "id": "ptb_meet_a_workable_encounter",
+      "title": "Design a Workable Encounter With MEET",
+      "goal": "Apply meaning, environment, entry, and terms to plan one credible experience together.",
+      "key_points": [
+        "A meaningful or accepted purpose leaves room for choice within real requirements.",
+        "Reduce avoidable friction and define a small, visible entry.",
+        "Agree on support, enough, stopping, and what follows before beginning."
+      ]
+    },
+    {
+      "id": "ptb_protect_the_encounter",
+      "title": "Protect Choice Before, During, and After",
+      "goal": "Use reliable agreements and the minimum support that remains useful while noticing your own urge to control.",
+      "key_points": [
+        "Ask permission and choose one process target before the encounter.",
+        "Offer an adjustment without monitoring every move or taking over.",
+        "Honor the ending and notice when relief from compliance reinforces your own pressure."
+      ]
+    },
+    {
+      "id": "ptb_variety_of_positive_experiences",
+      "title": "Build a Broad Library of Experiences",
+      "goal": "Discover ways to cultivate agency through imperfect action, help, return, connection, contribution, and joy.",
+      "key_points": [
+        "A small start or rough version can be a worthwhile experience.",
+        "Help-seeking, deliberate pausing, returning, and repair are useful capacities to practice.",
+        "Interest, contribution, and enjoyment deserve space alongside schoolwork and chores."
+      ]
+    },
+    {
+      "id": "ptb_unfinished_attempts_and_recovery",
+      "title": "Learn From Unfinished Attempts",
+      "goal": "Respond to unfinished work by preserving useful agency, addressing reality, and redesigning at a workable time.",
+      "key_points": [
+        "Name practical reality without turning the outcome into a verdict about your teen.",
+        "Keep recognition for useful actions and change one condition later.",
+        "Leave proactive practice when overload, escalating self-judgment, or safety concerns require another form of support."
+      ]
+    },
+    {
+      "id": "ptb_review_autonomy_and_sustainable_support",
+      "title": "Practice, Review, and Transfer Direction",
+      "goal": "Build a light learning cycle that adapts support to your teen's preferences, development, and changing needs.",
+      "key_points": [
+        "Rehearse lightly and try one narrow target across a few encounters.",
+        "Review helpful conditions and pressure without turning family life into a scorecard.",
+        "Transfer choice, cueing, and planning collaboratively while keeping wanted support and appropriate care available."
+      ]
+    }
+  ]
+}

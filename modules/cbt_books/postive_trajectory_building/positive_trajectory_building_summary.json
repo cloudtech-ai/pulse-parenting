@@ -1,0 +1,43 @@
+{
+  "id": 7,
+  "title": "Positive Trajectory Building",
+  "description": "Create small, chosen experiences that help your teen approach difficulty, ask for support, adapt, pause, return, and build self-trust.",
+  "videoPreview": "Small experiences that build agency",
+  "image": "",
+  "keyStrategies": [
+    {
+      "id": 70,
+      "title": "Recognize agency beyond completion",
+      "focused": true
+    },
+    {
+      "id": 71,
+      "title": "Make recognition specific and chosen"
+    },
+    {
+      "id": 72,
+      "title": "Design a winnable MEET encounter"
+    },
+    {
+      "id": 73,
+      "title": "Keep the agreed ending"
+    },
+    {
+      "id": 74,
+      "title": "Adjust without taking over"
+    },
+    {
+      "id": 75,
+      "title": "Build a variety of positive experiences"
+    },
+    {
+      "id": 76,
+      "title": "Learn from an unfinished attempt"
+    },
+    {
+      "id": 77,
+      "title": "Review and fade support collaboratively"
+    }
+  ],
+  "videos": []
+}

@@ -39,6 +39,16 @@
         "module_path": "cbt_books/judgment_containment/judgment_containment_modules.json",
         "lesson_path": "cbt_books/judgment_containment/judgment_containment_lessons.json"
       }
+    },
+    {
+      "id": 25,
+      "title": "Positive Trajectory Building",
+      "info": "cbt_books/postive_trajectory_building/positive_trajectory_building_summary.json",
+      "strategies": "cbt_books/postive_trajectory_building/positive_trajectory_building_strategies.json",
+      "studyPlan": {
+        "module_path": "cbt_books/postive_trajectory_building/positive_trajectory_building_modules.json",
+        "lesson_path": "cbt_books/postive_trajectory_building/positive_trajectory_building_lessons.json"
+      }
     }
   ],
   "recommendedVideos": [

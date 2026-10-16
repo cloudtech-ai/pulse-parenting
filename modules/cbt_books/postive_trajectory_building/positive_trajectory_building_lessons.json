@@ -1,0 +1,646 @@
+{
+  "ptb_agency_beyond_completion": [
+    {
+      "id": "ptb_create_a_different_next_step",
+      "title": "Create a Different Next Step",
+      "goal": "Understand the kind of experience positive trajectory building aims to create.",
+      "keyConcept": "The manual proposes small encounters in which difficulty can lead to choice, support, or adjustment. Repeating a workable experience gives your teen something concrete to draw on later. This approach leaves room for friction and does not promise a particular emotional outcome.",
+      "example": "Your teen finds a project difficult and agrees to open the instructions with you nearby. The project remains unfinished, but they have experienced making contact while support and stopping were available.",
+      "parentTip": "'Would you like to design one small, workable encounter together?'",
+      "reflectionPrompt": "What experience would you like your teen to have when something becomes difficult?",
+      "quizQuestion": {
+        "question": "What is the central aim of positive trajectory building?",
+        "options": [
+          "Ensure difficult tasks are completed before distress grows.",
+          "Create repeatable experiences of agency within difficulty.",
+          "Replace discouraging thoughts with positive statements."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_find_agency_in_small_moves",
+      "title": "Recognize More Than the Finished Task",
+      "goal": "Recognize useful actions that can occur before a task is complete.",
+      "keyConcept": "Completion is one possible achievement, while noticing friction, asking for help, adapting, or returning can also matter. These actions help preserve a usable next move. Recognize what actually occurred without inventing success or minimizing unfinished work.",
+      "example": "Your teen has not completed a worksheet but asked for clarification before becoming overwhelmed. You acknowledge the question they asked and leave the remaining work as a separate practical issue.",
+      "parentTip": "'You noticed the confusing part and asked about it while you still had room to choose.'",
+      "reflectionPrompt": "Which useful actions are easy for you to overlook when the task remains unfinished?",
+      "quizQuestion": {
+        "question": "Which observation identifies agency without requiring completion?",
+        "options": [
+          "The teen stayed at the desk for the required time.",
+          "The parent kept reminders going until the work moved.",
+          "The teen asked for clarification before overload."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_support_as_self_direction",
+      "title": "Treat Chosen Support as Agency",
+      "goal": "Discover how asking for support can be an act of self-direction.",
+      "keyConcept": "Agency includes having a say in how help is used. Your teen may direct an encounter by choosing company, clarification, a pause, or privacy. Appropriate support can remain useful while your teen takes more ownership.",
+      "example": "Your teen asks you to sit quietly while they begin an email. You let them write and decide when your presence is no longer useful.",
+      "parentTip": "'Would you like company, help with one question, or privacy?'",
+      "reflectionPrompt": "When do you mistake needing support for lacking agency?",
+      "quizQuestion": {
+        "question": "A teen asks for quiet company and directs the task themselves; what does this illustrate?",
+        "options": [
+          "Self-directed use of support can be agency.",
+          "Independence should become the next immediate requirement.",
+          "The parent's presence is doing the useful work for them."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_relationship_stays_available",
+      "title": "Keep the Relationship Unconditional",
+      "goal": "Separate recognition and rewards from access to care and connection.",
+      "keyConcept": "Acknowledgment or an agreed pleasant activity can add something to a useful action. Warmth, protection, basic needs, and access to help must remain available regardless of performance. This distinction keeps the relationship from becoming part of the performance agreement.",
+      "example": "Your teen declines the practice encounter and still wants company over dinner. You keep that connection available without making the conversation a negotiation about work.",
+      "parentTip": "'You can decline this plan and still have my care and company.'",
+      "reflectionPrompt": "What might make your teen wonder whether connection depends on productive behavior?",
+      "quizQuestion": {
+        "question": "Which should remain independent of whether the practice target is met?",
+        "options": [
+          "Every optional reward negotiated for a specific action.",
+          "The practical discussion of what work remains.",
+          "Care, belonging, and access to help."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_positive_without_forced_positivity",
+      "title": "Allow a Difficult Feeling",
+      "goal": "Learn to make room for disappointment and refusal within a positive trajectory.",
+      "keyConcept": "A positive trajectory does not require your teen to feel cheerful or grateful. Pain, fatigue, and disappointment can coexist with a chosen pause or adjustment. Stay with the real experience instead of asking your teen to demonstrate that the approach worked.",
+      "example": "Your teen tries a first step and remains frustrated. You acknowledge that it was still hard without asking them to appreciate the progress or continue.",
+      "parentTip": "'That was still frustrating; would you like to stop here as agreed?'",
+      "reflectionPrompt": "What response do you hope to receive when you offer support?",
+      "quizQuestion": {
+        "question": "Your teen takes a useful step but remains upset; what follows from this lesson?",
+        "options": [
+          "The useful action and the difficult feeling can both be real.",
+          "The action counts only if their mood subsequently improves.",
+          "They need to name a positive takeaway before ending."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "ptb_recognition_and_reinforcement": [
+    {
+      "id": "ptb_what_counts_as_reinforcing",
+      "title": "Check What Actually Reinforces",
+      "goal": "Understand reinforcement through its effect rather than the parent's intention.",
+      "keyConcept": "The manual defines reinforcement as a consequence that makes an action more likely to happen again. A reward you intend as motivating may feel uncomfortable or controlling to your teen. Ask what is welcome and learn from later experience instead of assuming the response helped.",
+      "example": "You enthusiastically celebrate a small start, and your teen asks you not to make a fuss. You accept the feedback and discuss a quieter response during a calmer moment.",
+      "parentTip": "'What kind of response would actually feel supportive to you?'",
+      "reflectionPrompt": "What have you offered as a reward without checking whether your teen wanted it?",
+      "quizQuestion": {
+        "question": "What makes a consequence reinforcing in the manual's sense?",
+        "options": [
+          "The parent intends it to feel encouraging.",
+          "It makes the useful action more likely to recur.",
+          "The reward is substantial enough to seem valuable."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_describe_the_process",
+      "title": "Describe the Action Accurately",
+      "goal": "Practice naming a useful action without grading your teen's identity.",
+      "keyConcept": "Accurate recognition describes something your teen did and, where clear, its effect. Global praise such as 'finally responsible' can add evaluation or comparison. Keep the acknowledgment specific enough that your teen can recognize the action for themselves.",
+      "example": "Your teen moves to a quieter room when noise makes work difficult. You acknowledge the adjustment without calling them a better or more responsible person.",
+      "parentTip": "'You changed the setting when the noise was making this harder.'",
+      "reflectionPrompt": "What identity labels tend to enter your praise?",
+      "quizQuestion": {
+        "question": "Which response offers accurate process recognition?",
+        "options": [
+          "'You asked for a quieter space when the noise became distracting.'",
+          "'You're finally acting like a responsible student.'",
+          "'You're smarter than you think when you really try.'"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_ask_how_praise_lands",
+      "title": "Find a Welcome Form of Recognition",
+      "goal": "Adapt acknowledgment to what your teen experiences as comfortable.",
+      "keyConcept": "Praise may feel like attention your teen did not want or an expectation to perform again. They may prefer a brief description, a shared activity, privacy, or no verbal response. Ask about the form without requiring them to accept your preferred version.",
+      "example": "Your teen says public praise embarrasses them. You agree to keep acknowledgment private and ask whether a quiet comment is welcome.",
+      "parentTip": "'Would you prefer a quiet acknowledgment, something pleasant together, or no comment?'",
+      "reflectionPrompt": "What signs suggest that your enthusiasm may feel like scrutiny?",
+      "quizQuestion": {
+        "question": "Your teen dislikes enthusiastic praise; what is the most fitting adjustment?",
+        "options": [
+          "Continue praising so they learn to receive encouragement.",
+          "Ask what acknowledgment, including none, would be welcome.",
+          "Make the praise more detailed so its accuracy is clear."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_timing_and_proportion",
+      "title": "Keep Recognition Close and Ordinary",
+      "goal": "Apply recognition soon after a useful action without enlarging its emotional weight.",
+      "keyConcept": "Recognition works best in the manual when it is connected closely to the useful act and proportionate to it. An ordinary response can make the action noticeable without turning it into a family event. Pay attention to whether your teen finds even a brief comment welcome.",
+      "example": "Your teen asks for clarification before starting a task. Soon afterward, you acknowledge that specific request quietly rather than recounting it to others later.",
+      "parentTip": "'You asked about the unclear part before trying to push through it.'",
+      "reflectionPrompt": "How might your response change if it were warm but more ordinary?",
+      "quizQuestion": {
+        "question": "What best fits immediate, proportionate recognition?",
+        "options": [
+          "A larger celebration later to show how significant the change is.",
+          "A detailed explanation of how this proves future improvement.",
+          "A brief, welcome acknowledgment close to the useful action."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_rewards_as_agreements",
+      "title": "Use Rewards as Shared Agreements",
+      "goal": "Distinguish a chosen consequence from pressure to override refusal.",
+      "keyConcept": "A collaborative reward is agreed around a specific action and experienced as welcome. Using a reward to push past refusal can change the encounter into pressure. Keep the agreement clear and avoid making recognition depend on later completion of the larger task.",
+      "example": "Your teen agrees to a short entry followed by a break they chose. You honor that break when the entry ends, even though most of the project remains.",
+      "parentTip": "'We agreed on that first step and then a break; let's keep the agreement.'",
+      "reflectionPrompt": "When might a reward become a way of managing your own urgency?",
+      "quizQuestion": {
+        "question": "Which arrangement best fits a collaborative reward?",
+        "options": [
+          "A larger reward is offered mid-refusal to secure compliance.",
+          "A chosen pleasant ending follows the previously agreed action.",
+          "The agreed reward is delayed until the whole task is finished."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "ptb_meet_a_workable_encounter": [
+    {
+      "id": "ptb_meaning_within_requirements",
+      "title": "Find Meaning and Real Choice",
+      "goal": "Explore a purpose your teen values or accepts while preserving choice within requirements.",
+      "keyConcept": "MEET begins with meaning: why this encounter is worth approaching or needs attention. An externally required task may still leave choices about method, timing, support, or scope. Start with your teen's account rather than assigning a purpose they are expected to share.",
+      "example": "An assignment is required, and your teen does not find it interesting. You acknowledge that reality and ask which available method and support would make beginning more acceptable.",
+      "parentTip": "'Given that this needs attention, which parts would you like a say in?'",
+      "reflectionPrompt": "What choices remain available in a task that cannot simply be declined?",
+      "quizQuestion": {
+        "question": "How can you preserve choice around an externally required task?",
+        "options": [
+          "Insist the teen find the task personally meaningful first.",
+          "Describe one preferred method as the only responsible option.",
+          "Offer real choices about available methods, timing, or support."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_environment_before_more_effort",
+      "title": "Reduce One Source of Friction",
+      "goal": "Identify an environmental condition that makes the first move heavier.",
+      "keyConcept": "The environment can add friction through noise, missing materials, ambiguity, transitions, or too many choices. Changing one condition gives you something concrete to learn from. Ask which condition matters to your teen before redesigning everything.",
+      "example": "Your teen wants to begin but cannot find the instructions among several messages. With permission, you help locate the relevant information and leave the task itself in their hands.",
+      "parentTip": "'What is making the first move heavy in this setting?'",
+      "reflectionPrompt": "What environmental friction might you currently interpret as unwillingness?",
+      "quizQuestion": {
+        "question": "Which response addresses environmental friction?",
+        "options": [
+          "Help locate missing instructions when the teen wants that help.",
+          "Explain again why starting promptly is important.",
+          "Add a longer sequence of directions to prevent confusion."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_smallest_honest_entry",
+      "title": "Define a Credible First Contact",
+      "goal": "Choose a small visible action that your teen accepts as genuine contact with the task.",
+      "keyConcept": "An entry is the first observable contact with the task, rather than a disguised demand for completion. It should feel credible on a difficult day and meaningful enough to your teen. Define it together instead of deciding what ought to be easy.",
+      "example": "Your teen says writing an introduction feels too large. Together you choose opening the document and listing one question as today's entry, with room to stop as agreed.",
+      "parentTip": "'What would count as a small, honest contact with this today?'",
+      "reflectionPrompt": "What first step might seem small to you but still feel too large to your teen?",
+      "quizQuestion": {
+        "question": "What makes an entry a useful part of MEET?",
+        "options": [
+          "It guarantees that momentum will carry the teen through the task.",
+          "It is the smallest action the parent considers easy enough.",
+          "It is visible, credible, and agreed rather than disguised completion."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_terms_make_stopping_real",
+      "title": "Agree on Enough Before Beginning",
+      "goal": "Set clear support, duration, stopping, and afterward terms together.",
+      "keyConcept": "Terms make the encounter predictable by establishing what support is available and what counts as enough. A stopping rule needs to be real when the stopping point arrives. A pleasant ending should occur without an extra demand being attached afterward.",
+      "example": "Before starting, you and your teen agree on quiet company, one small entry, and a chosen break. You also agree that rising strain can be a reason to adjust or stop.",
+      "parentTip": "'What will count as enough, and how can we stop cleanly?'",
+      "reflectionPrompt": "How often have you changed the terms after an attempt began?",
+      "quizQuestion": {
+        "question": "Which set of agreements completes the terms part of MEET?",
+        "options": [
+          "Support, duration, stopping rule, and what happens afterward.",
+          "A completion deadline and a reward for finishing everything.",
+          "The parent's preferred method and a plan to keep momentum."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_calibrate_the_challenge",
+      "title": "Find a Winnable Stretch",
+      "goal": "Adjust challenge so the encounter requires effort while remaining workable.",
+      "keyConcept": "A challenge can feel meaningless when it is too small or rapidly overwhelming when it is too large. The manual proposes a winnable stretch in which adjustment remains available. Treat your teen's response as information and avoid raising difficulty simply because one attempt went well.",
+      "example": "Your teen finds the proposed entry patronizing but still wants support. You ask what would feel like a meaningful stretch and revise one feature together.",
+      "parentTip": "'Would a different version feel more worthwhile and still workable?'",
+      "reflectionPrompt": "What tells you that a challenge fits your teen rather than your expectation?",
+      "quizQuestion": {
+        "question": "One attempt goes well; what is the most fitting next step?",
+        "options": [
+          "Increase the challenge immediately to build on momentum.",
+          "Keep learning from a workable level before increasing difficulty.",
+          "Remove the support to see whether the success was genuine."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "ptb_protect_the_encounter": [
+    {
+      "id": "ptb_permission_and_one_target",
+      "title": "Ask Permission and Choose One Target",
+      "goal": "Prepare an encounter with your teen's consent and one useful process to notice.",
+      "keyConcept": "Before turning a task into a practice experience, ask whether your involvement is wanted. Choosing one process target makes the encounter less likely to become a collection of performance demands. Your teen can help select both the target and your role.",
+      "example": "You want to practice help-seeking during homework, but your teen says planning together feels like pressure today. You accept that feedback and leave the invitation open for a calmer time.",
+      "parentTip": "'Would planning this together help today, or would my involvement add pressure?'",
+      "reflectionPrompt": "What might change if your teen could decline the practice encounter itself?",
+      "quizQuestion": {
+        "question": "What is a useful first step before a proactive encounter?",
+        "options": [
+          "Ask permission and agree on one process target.",
+          "Explain the full practice system so the teen understands its value.",
+          "Choose several outcomes to make the attempt worthwhile."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_minimum_workable_support",
+      "title": "Use the Least Support That Works",
+      "goal": "Adjust your involvement so it stays useful without taking ownership away.",
+      "keyConcept": "More support is not automatically more helpful. Your teen may need quiet company or one clarification while keeping direction of the task. Check whether your presence is useful instead of narrating each success or watching every move.",
+      "example": "Your teen asks you to sit nearby while they organize materials. You stay available without arranging the materials yourself or commenting on each step.",
+      "parentTip": "'Would you like me quietly available, or is there one practical question you want help with?'",
+      "reflectionPrompt": "What do you tend to add after your teen has already told you what help they want?",
+      "quizQuestion": {
+        "question": "Your teen requests quiet company; which response fits that agreement?",
+        "options": [
+          "Narrate progress to keep their motivation steady.",
+          "Stay quietly available and let the teen direct the task.",
+          "Organize the next steps while they handle the first one."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_one_adjustment_under_strain",
+      "title": "Offer One Adjustment When Strain Rises",
+      "goal": "Respond to difficulty by revising the encounter rather than increasing pressure.",
+      "keyConcept": "When strain grows, the encounter may need to become smaller, clearer, quieter, later, or shared differently. Offer one adjustment rather than delivering a new set of instructions. A deliberate stop is available when continuing is no longer workable.",
+      "example": "Your teen says the instructions still feel too confusing. You ask whether finding one clarification together would help and accept their preference to pause instead.",
+      "parentTip": "'Would making this clearer help, or is stopping more useful now?'",
+      "reflectionPrompt": "Which adjustment could you offer before you become tempted to push harder?",
+      "quizQuestion": {
+        "question": "Strain increases during an agreed attempt; what is the most fitting response?",
+        "options": [
+          "Add a reward to make continued effort more attractive.",
+          "Explain why the original plan should still be manageable.",
+          "Offer one workable adjustment with room to stop."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_the_ending_is_an_ending",
+      "title": "Let the Ending Remain an Ending",
+      "goal": "Honor the stopping agreement even when the attempt goes well.",
+      "keyConcept": "A clean ending protects the reliability of the agreement. Adding 'now do the rest' can make a small invitation feel like the start of an expanding demand. Let the agreed stopping point and pleasant ending occur before discussing future work separately.",
+      "example": "Your teen completes the two-minute entry and looks relieved. You resist adding another paragraph and let the agreed break begin.",
+      "parentTip": "'That's the entry we agreed on; let's keep the ending we planned.'",
+      "reflectionPrompt": "What makes it tempting to add more work after a successful beginning?",
+      "quizQuestion": {
+        "question": "Your teen meets the agreed entry and still has energy; what preserves the agreement?",
+        "options": [
+          "Extend the attempt slightly so the new momentum is not wasted.",
+          "Honor the ending and leave further work for a separate agreement.",
+          "Keep the break available only after one additional small step."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_notice_the_parent_loop",
+      "title": "Notice What Your Own Relief Reinforces",
+      "goal": "Recognize how immediate progress can train you to repeat pressure or taking over.",
+      "keyConcept": "The manual asks parents to notice what their own responses are learning. Taking over can produce movement and relief that make taking over more likely next time. Pause when your urgency grows, and recognize your own useful actions such as saying less or keeping the stopping agreement.",
+      "example": "You feel reassured when repeated instructions produce a little progress and notice yourself talking faster. You stop adding instructions and return to the support role you agreed on.",
+      "parentTip": "'I'm adding pressure because I'm worried; I'll step back to what we agreed.'",
+      "reflectionPrompt": "What short-term result makes you more likely to take over again?",
+      "quizQuestion": {
+        "question": "Why might a parent repeat an approach that later adds pressure?",
+        "options": [
+          "A teen's resistance always shows that more structure is needed.",
+          "Any approach that moves the task forward is agency-supportive.",
+          "Immediate movement can bring relief that reinforces the parent's approach."
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "ptb_variety_of_positive_experiences": [
+    {
+      "id": "ptb_rough_first_versions",
+      "title": "Make Room for an Imperfect Beginning",
+      "goal": "Create a chosen encounter with a rough or incomplete first version.",
+      "keyConcept": "A first version can become heavy when it seems required to prove competence immediately. A chosen rough version gives your teen a way to approach without making the whole result the test. Agree on a meaningful entry and keep the permission for imperfection real.",
+      "example": "Your teen wants every sentence to be right before writing. With their agreement, the entry becomes a few rough notes that no one else needs to see.",
+      "parentTip": "'Would an unfinished version just for you make a useful beginning?'",
+      "reflectionPrompt": "What might show your teen that imperfection is genuinely allowed?",
+      "quizQuestion": {
+        "question": "What makes a rough first version a useful experience?",
+        "options": [
+          "It allows contact without requiring an immediately polished result.",
+          "It lets the parent correct the work before the teen sees mistakes.",
+          "It counts only if the rough version becomes finished work the same day."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_help_before_overload",
+      "title": "Practice Asking While Choice Is Available",
+      "goal": "Recognize early help-seeking as a useful action in its own right.",
+      "keyConcept": "Asking for clarification or company before overload can preserve options. It can also give your teen an experience of support they helped direct. Recognize the act without suggesting that needing help reduces the value of their effort.",
+      "example": "Your teen notices they cannot find the required information and asks for one clarification. You respond to that request without taking charge of the whole assignment.",
+      "parentTip": "'You asked while there were still choices available; what help would you like?'",
+      "reflectionPrompt": "How do you respond when your teen asks early rather than after a problem grows?",
+      "quizQuestion": {
+        "question": "What should you recognize when a teen asks for early clarification?",
+        "options": [
+          "They have shown that they cannot plan the task independently.",
+          "They can now be expected to complete the task without further adjustment.",
+          "They noticed a need and directed a form of support."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_pause_and_return",
+      "title": "Give Pausing and Returning Their Own Value",
+      "goal": "Practice a deliberate pause and a possible return without treating interruption as a final verdict.",
+      "keyConcept": "A planned pause can be a decision that protects the possibility of return. Returning later is another useful action to recognize when it occurs. Keep both specific to what happened rather than using them to demand uninterrupted consistency.",
+      "example": "Your teen stops at the agreed signal and later chooses to reopen the document. You acknowledge the return without adding 'Why can't you do this every time?'",
+      "parentTip": "'You came back after the interruption; that is worth noticing.'",
+      "reflectionPrompt": "What do your usual comments communicate about interruption?",
+      "quizQuestion": {
+        "question": "A teen returns after an agreed pause; what fits this approach?",
+        "options": [
+          "Acknowledge the return without turning it into a consistency demand.",
+          "Ask why they could not avoid the interruption altogether.",
+          "Use the return to justify removing pauses from the next plan."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_recovery_and_repair",
+      "title": "Recognize Recovery and Repair",
+      "goal": "Notice ways your teen regains connection after frustration without turning recovery into a performance test.",
+      "keyConcept": "Positive experiences include disappointment that is followed by adjustment or repaired connection. Your teen may still feel upset while making a useful move. Keep the recognition accurate and avoid rewarding emotional disclosure or making care depend on calming down.",
+      "example": "After frustration over a task, your teen asks to sit together and try a different kind of support later. You welcome the connection without requiring an apology or a positive mood first.",
+      "parentTip": "'We can reconnect while this still feels disappointing.'",
+      "reflectionPrompt": "What useful move might you miss because your teen is still upset?",
+      "quizQuestion": {
+        "question": "Which is a useful recovery experience to recognize?",
+        "options": [
+          "The teen reassures the parent that there will be no further distress.",
+          "The teen asks for connection while disappointment is still present.",
+          "The teen demonstrates a positive mood before receiving support."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_contribution_interest_and_joy",
+      "title": "Protect Contribution, Interest, and Joy",
+      "goal": "Broaden positive experiences beyond required work and productive outcomes.",
+      "keyConcept": "The manual includes genuine contribution, curiosity, pleasure, and relationship in its library of experiences. If every supported activity serves schoolwork or chores, the wider purpose of agency can disappear. Let an interest matter without requiring it to earn another outcome, and keep belonging unconditional.",
+      "example": "Your teen enjoys preparing music for a family gathering. You recognize the real contribution and leave room to enjoy choosing the music without turning it into a lesson about productivity.",
+      "parentTip": "'The music you chose added something real to our evening; I enjoyed sharing it with you.'",
+      "reflectionPrompt": "What activity matters to your teen without needing to improve another outcome?",
+      "quizQuestion": {
+        "question": "Why include interest and contribution alongside task practice?",
+        "options": [
+          "They offer meaningful experiences beyond schoolwork or compliance.",
+          "They provide rewards that can always be withheld until work is complete.",
+          "They make it easier to turn every interest into a future achievement."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "ptb_unfinished_attempts_and_recovery": [
+    {
+      "id": "ptb_name_reality_without_identity",
+      "title": "Name What Is Still Unfinished",
+      "goal": "Acknowledge practical reality without making the outcome a judgment about your teen.",
+      "keyConcept": "An unfinished task may still have consequences that need attention. You can name that reality while keeping the meaning at the level of this task and its conditions. Neither forced reassurance nor a character verdict helps you understand what to do next.",
+      "example": "Your teen has not submitted a project after the agreed entry. You acknowledge that submission still needs attention without saying the attempt proves they are unreliable.",
+      "parentTip": "'The project is still unfinished; we can address that without making it a verdict about you.'",
+      "reflectionPrompt": "What practical fact do you need to name without adding a character judgment?",
+      "quizQuestion": {
+        "question": "How should you acknowledge an unfinished task?",
+        "options": [
+          "Avoid mentioning it so the teen can experience success.",
+          "Name the practical reality while keeping identity judgments open.",
+          "Treat the outcome as evidence that the teen needs a stronger consequence."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_keep_recognition_for_actual_agency",
+      "title": "Keep the Useful Action Visible",
+      "goal": "Preserve recognition for the agency that actually occurred before the stopping point.",
+      "keyConcept": "A larger unfinished task does not erase an earlier act of noticing, help-seeking, or adaptation. Recognition needs to stay attached to that actual action rather than being withdrawn afterward. Honor any agreed consequence when its agreed target was met.",
+      "example": "Your teen completes the agreed small entry and then cannot do more. You keep the chosen break and acknowledge the entry instead of moving the reward to the end of the entire project.",
+      "parentTip": "'You met the entry we agreed on; the remaining task doesn't erase that.'",
+      "reflectionPrompt": "When might disappointment about the larger outcome change how you describe an earlier useful action?",
+      "quizQuestion": {
+        "question": "The agreed entry was completed but the larger task was not; what follows?",
+        "options": [
+          "Withhold the consequence until the larger outcome is achieved.",
+          "Replace process recognition with encouragement to keep going.",
+          "Preserve recognition and the agreed consequence for the entry."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_redesign_one_condition",
+      "title": "Redesign One Condition Later",
+      "goal": "Use an unfinished encounter to choose one practical adjustment together.",
+      "keyConcept": "An attempt can reveal something about ambiguity, timing, environment, challenge, or support. Changing one condition makes the next encounter easier to learn from than replacing the whole system at once. Wait until your teen has room for the discussion and wants your involvement.",
+      "example": "Later, your teen says the entry was workable but the room was too noisy. Together you keep the entry and choose a quieter setting for another attempt.",
+      "parentTip": "'What is one condition we could change next time?'",
+      "reflectionPrompt": "What condition could you change before deciding your teen needs more effort?",
+      "quizQuestion": {
+        "question": "What is a useful redesign after an unfinished attempt?",
+        "options": [
+          "Introduce a new reward system and schedule immediately.",
+          "Change one relevant condition with the teen's involvement.",
+          "Repeat the same conditions to establish whether effort was the issue."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_wait_before_learning_together",
+      "title": "Let the Attempt End Before Reviewing",
+      "goal": "Choose a calmer, agreed time to learn without adding another demand to the ending.",
+      "keyConcept": "The ending can lose its reliability if every attempt immediately turns into an analysis session. Let your teen have the agreed break or pleasant activity. A short later review can identify a helpful condition if your teen wants to reflect.",
+      "example": "After a small attempt, you want to ask several questions about how it went. You honor the planned break and later ask whether a brief review would be useful.",
+      "parentTip": "'Let's keep the ending we agreed on; we can reflect later if that would help.'",
+      "reflectionPrompt": "What might your teen experience if each attempt is followed by immediate analysis?",
+      "quizQuestion": {
+        "question": "What best protects a clean ending when you want to review?",
+        "options": [
+          "Ask the review questions quickly before the agreed break.",
+          "Make the pleasant ending depend on naming a useful takeaway.",
+          "Honor the ending and invite reflection later at a useful time."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_switch_out_of_practice_mode",
+      "title": "Know When to Leave Practice Mode",
+      "goal": "Recognize when planning and reinforcement should give way to containment or appropriate care.",
+      "keyConcept": "Proactive practice depends on enough room for choice and collaboration. Stop the practice when support increases overload, escalating self-judgment makes planning unusable, or your teen asks you to stop. Follow established safety arrangements when needed and seek appropriate care for serious concerns rather than treating them as a motivation problem.",
+      "example": "Your teen begins attacking their character and says your suggestions are making things worse. You stop the exercise, acknowledge the pain, and shift to the agreed form of support.",
+      "parentTip": "'I'll stop the practice; let's use the support that fits what is happening now.'",
+      "reflectionPrompt": "What signal would tell you to stop pursuing the planned agency target?",
+      "quizQuestion": {
+        "question": "Your teen is increasingly overwhelmed and asks you to stop the practice; what takes priority?",
+        "options": [
+          "Stop the exercise and use appropriate containment or agreed support.",
+          "Offer a more attractive reward for finishing the entry.",
+          "Continue with a smaller version so the encounter ends in success."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "ptb_review_autonomy_and_sustainable_support": [
+    {
+      "id": "ptb_rehearse_without_testing",
+      "title": "Rehearse Lightly Before Difficulty",
+      "goal": "Practice a cue, support choice, or clean stop in a low-pressure setting.",
+      "keyConcept": "A brief rehearsal can make an agreement more familiar before the difficult moment. Keep it optional and light enough that it does not become another performance test. Stop or revise if it feels embarrassing, evaluative, or emotionally loaded.",
+      "example": "During a relaxed moment, your teen agrees to try choosing between quiet company and a later check-in. You practice once and stop without scoring the response.",
+      "parentTip": "'Would you like to try the support choice once, or leave the rehearsal out?'",
+      "reflectionPrompt": "What would make a rehearsal feel like an invitation rather than a test?",
+      "quizQuestion": {
+        "question": "What keeps a rehearsal aligned with the manual?",
+        "options": [
+          "Repeat it until the teen consistently gives the expected answer.",
+          "Use it to check whether the teen understands the whole framework.",
+          "Make it optional, brief, and open to revision."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_try_a_modest_two_week_cycle",
+      "title": "Try One Narrow Target Over Two Weeks",
+      "goal": "Apply a modest cycle that allows time to learn from a few encounters.",
+      "keyConcept": "The manual proposes choosing one recurring situation and one agency target across a two-week cycle. Try a few low-pressure encounters, notice conditions, and adjust one feature for the second week. The cycle is a learning structure rather than a requirement for daily performance.",
+      "example": "You agree to notice early requests for clarification during one recurring task. After a few attempts, your teen suggests keeping the target but changing the timing in the second week.",
+      "parentTip": "'Shall we keep one target for a little while and change just one condition as we learn?'",
+      "reflectionPrompt": "What narrow target would be useful enough to practice without turning every day into a test?",
+      "quizQuestion": {
+        "question": "What best fits the two-week practice cycle?",
+        "options": [
+          "Try one target across a few encounters and adjust one condition.",
+          "Add a new target after every successful attempt.",
+          "Require a daily score so changes can be compared precisely."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_conditions_not_scores",
+      "title": "Record Conditions Without Scoring the Person",
+      "goal": "Learn from helpful conditions while respecting privacy and preferences about records.",
+      "keyConcept": "A record can describe what helped, what added pressure, and what remained unclear. Counting is useful only if your teen finds it useful, and records should not become secret monitoring or emotional scorekeeping. Agree on what is recorded and who owns or sees it.",
+      "example": "Your teen prefers one private note about the setting instead of a shared chart of attempts. You respect that preference and avoid adding scores for mood or disclosure.",
+      "parentTip": "'Would a brief note help, and what would you want it to include?'",
+      "reflectionPrompt": "What information would help you support your teen without making them feel tracked?",
+      "quizQuestion": {
+        "question": "Which record best fits the manual's guidance?",
+        "options": [
+          "A private parent chart rating the teen's emotional control.",
+          "A mutually acceptable note about conditions that helped or added pressure.",
+          "A shared completion score used to compare attempts across the week."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_match_involvement_to_autonomy",
+      "title": "Let Involvement Fit Age and Autonomy",
+      "goal": "Adapt your role to your teen's development, preferences, and ownership.",
+      "keyConcept": "The manual gives younger children more concrete structure while emphasizing collaboration and privacy for adolescents. With a young adult, involvement should be invited, revisable, and easy to decline. Ask what role is wanted over time rather than treating one agreement as permanent permission.",
+      "example": "Your young adult wants to choose their own task and keep the record private but welcomes company when asked. You agree to that limited role without requesting ongoing progress reports.",
+      "parentTip": "'Which parts would you like me involved in, and which would you like to own privately?'",
+      "reflectionPrompt": "What role have you continued to play without checking whether it is still wanted?",
+      "quizQuestion": {
+        "question": "What best fits support for a young adult in this framework?",
+        "options": [
+          "An invited, revisable role with task and record ownership respected.",
+          "Parent control of records until independent performance is consistent.",
+          "A fixed support arrangement based on what worked during adolescence."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_fade_without_forced_independence",
+      "title": "Transfer Direction While Keeping Support Available",
+      "goal": "Fade useful functions collaboratively as your teen finds them available to take on.",
+      "keyConcept": "Fading transfers choice, cueing, planning, recognition, or review as those functions become more available. It does not require removing support on a schedule or proving independence everywhere. Let natural satisfaction and self-recognition carry more where helpful while keeping wanted support available.",
+      "example": "Your teen wants to choose their own entry but still values quiet company. You transfer that planning choice and retain the company instead of removing both at once.",
+      "parentTip": "'What would you like to direct yourself now, and what support should stay available?'",
+      "reflectionPrompt": "What might your teen choose to own while still using support?",
+      "quizQuestion": {
+        "question": "What does thoughtful fading mean here?",
+        "options": [
+          "Remove support after a fixed number of successful attempts.",
+          "Transfer functions collaboratively while retaining support that remains useful.",
+          "Wait until the teen can manage every part without any help."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}
