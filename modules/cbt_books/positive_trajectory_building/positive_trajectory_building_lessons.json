@@ -2,90 +2,90 @@
   "ptb_agency_beyond_completion": [
     {
       "id": "ptb_create_a_different_next_step",
-      "title": "Create a Different Next Step",
-      "goal": "Understand the kind of experience positive trajectory building aims to create.",
-      "keyConcept": "The manual proposes small encounters in which difficulty can lead to choice, support, or adjustment. Repeating a workable experience gives your teen something concrete to draw on later. This approach leaves room for friction and does not promise a particular emotional outcome.",
-      "example": "Your teen finds a project difficult and agrees to open the instructions with you nearby. The project remains unfinished, but they have experienced making contact while support and stopping were available.",
-      "parentTip": "'Would you like to design one small, workable encounter together?'",
-      "reflectionPrompt": "What experience would you like your teen to have when something becomes difficult?",
+      "title": "Understand the Idea of a Trajectory",
+      "goal": "Understand a trajectory as a connected sequence of experiences, meanings, and next responses.",
+      "keyConcept": "A trajectory is the direction an experience takes as one response leads into another. An unclear assignment might lead to getting stuck, shame, a judgment of being incapable, and fear of the next assignment. A different sequence might include noticing the confusion, asking for clarification, and finding a usable first step. Positive trajectory building means helping create repeated experiences in which difficulty can lead toward choice, support, adaptation, and growing self-trust.",
+      "example": "Your teen sees an unfamiliar assignment and says, \"I don't even know where to start.\" With their agreement, you help locate one unclear instruction, leaving them with a question they can ask rather than a verdict about their ability.",
+      "parentTip": "'What might help this difficult moment lead to one usable next move?'",
+      "reflectionPrompt": "What sequence tends to unfold after your teen first encounters difficulty?",
       "quizQuestion": {
-        "question": "What is the central aim of positive trajectory building?",
+        "question": "What does the word 'trajectory' describe in this framework?",
         "options": [
-          "Ensure difficult tasks are completed before distress grows.",
-          "Create repeatable experiences of agency within difficulty.",
-          "Replace discouraging thoughts with positive statements."
+          "The level of motivation your teen has before beginning.",
+          "The connected sequence of what happens, what it means, and what follows.",
+          "The amount of work your teen completes during a practice session."
         ],
         "correctAnswer": 1
       }
     },
     {
       "id": "ptb_find_agency_in_small_moves",
-      "title": "Recognize More Than the Finished Task",
-      "goal": "Recognize useful actions that can occur before a task is complete.",
-      "keyConcept": "Completion is one possible achievement, while noticing friction, asking for help, adapting, or returning can also matter. These actions help preserve a usable next move. Recognize what actually occurred without inventing success or minimizing unfinished work.",
-      "example": "Your teen has not completed a worksheet but asked for clarification before becoming overwhelmed. You acknowledge the question they asked and leave the remaining work as a separate practical issue.",
-      "parentTip": "'You noticed the confusing part and asked about it while you still had room to choose.'",
-      "reflectionPrompt": "Which useful actions are easy for you to overlook when the task remains unfinished?",
+      "title": "See the Positive Trajectory Take Shape",
+      "goal": "Recognize how small acts of agency connect into a different experience of difficulty.",
+      "keyConcept": "The manual describes a sequence you can help make possible: a chosen or accepted challenge, a manageable entry, supported effort, adjustment or recovery, recognition of agency, and greater willingness to approach again. A manageable entry gives your teen a credible way to begin with adjustment and stopping available. Recognition helps a real action register, such as asking for help, changing the approach, or returning after a pause. Each experience can end differently, and the useful action can still count when the larger task remains unfinished.",
+      "example": "Your teen chooses to list one question about an essay with you quietly nearby, then pauses at the agreed point. You honor the ending and acknowledge the clarification they sought, giving that small act value even though the essay is incomplete.",
+      "parentTip": "'You found a way to approach the confusing part and choose what help you needed.'",
+      "reflectionPrompt": "Where in that sequence could one small change make the encounter more workable for your teen?",
       "quizQuestion": {
-        "question": "Which observation identifies agency without requiring completion?",
+        "question": "Which sequence best illustrates a positive trajectory?",
         "options": [
-          "The teen stayed at the desk for the required time.",
-          "The parent kept reminders going until the work moved.",
-          "The teen asked for clarification before overload."
+          "A clear instruction, sustained reminders, completed work, and praise for compliance.",
+          "A difficult feeling, reassurance, a demand to think positively, and another attempt.",
+          "An accepted challenge, a workable entry, chosen support, adjustment, and recognized agency."
         ],
         "correctAnswer": 2
       }
     },
     {
       "id": "ptb_support_as_self_direction",
-      "title": "Treat Chosen Support as Agency",
-      "goal": "Discover how asking for support can be an act of self-direction.",
-      "keyConcept": "Agency includes having a say in how help is used. Your teen may direct an encounter by choosing company, clarification, a pause, or privacy. Appropriate support can remain useful while your teen takes more ownership.",
-      "example": "Your teen asks you to sit quietly while they begin an email. You let them write and decide when your presence is no longer useful.",
-      "parentTip": "'Would you like company, help with one question, or privacy?'",
-      "reflectionPrompt": "When do you mistake needing support for lacking agency?",
+      "title": "Understand Agency and Chosen Support",
+      "goal": "Learn what agency means when your teen encounters difficulty with support available.",
+      "keyConcept": "Agency means having a meaningful part in how you respond to a situation: noticing a need, choosing a next move, or influencing the help you receive. Your teen can exercise agency by asking for company, choosing a smaller entry, changing the conditions, or deciding to pause. A task may be externally required while still leaving real choices about method, timing, or support. Chosen support can be part of self-direction, so completing everything alone is only one possible form of progress.",
+      "example": "An assignment is required, but your teen chooses their own first step and asks you to stay nearby without giving advice. You respect that role and let them decide when they want clarification.",
+      "parentTip": "'Which parts would you like to direct yourself, and what support would you like available?'",
+      "reflectionPrompt": "What meaningful choices remain available when your teen faces a task that must be addressed?",
       "quizQuestion": {
-        "question": "A teen asks for quiet company and directs the task themselves; what does this illustrate?",
+        "question": "What is the clearest sign of agency in this framework?",
         "options": [
-          "Self-directed use of support can be agency.",
-          "Independence should become the next immediate requirement.",
-          "The parent's presence is doing the useful work for them."
+          "Your teen helps direct a workable response, including any support they choose.",
+          "Your teen accepts the parent's method without needing further negotiation.",
+          "Your teen finishes the task without using another person's help."
         ],
         "correctAnswer": 0
       }
     },
     {
       "id": "ptb_relationship_stays_available",
-      "title": "Keep the Relationship Unconditional",
-      "goal": "Separate recognition and rewards from access to care and connection.",
-      "keyConcept": "Acknowledgment or an agreed pleasant activity can add something to a useful action. Warmth, protection, basic needs, and access to help must remain available regardless of performance. This distinction keeps the relationship from becoming part of the performance agreement.",
-      "example": "Your teen declines the practice encounter and still wants company over dinner. You keep that connection available without making the conversation a negotiation about work.",
-      "parentTip": "'You can decline this plan and still have my care and company.'",
-      "reflectionPrompt": "What might make your teen wonder whether connection depends on productive behavior?",
+      "title": "See How Experience Can Build Self-Trust",
+      "goal": "Explore how repeated experiences can become evidence your teen draws on in future difficulty.",
+      "keyConcept": "The manual calls these experiences usable self-evidence: something your teen has actually lived through that can inform what they expect next. Asking for clarification may become evidence that uncertainty can be addressed, while returning after a pause may show that interruption need not be final. When your care and agreements remain reliable through unfinished work, your teen can also experience support as available during difficulty. Over time, such experiences may support a more workable expectation, such as being able to ask, adjust, or return, without guaranteeing that the next attempt will be easy.",
+      "example": "You have honored an agreed break after several small attempts, including one that remained frustrating. Your teen later asks for a similar arrangement because they have experienced that beginning does not automatically commit them to an expanding demand.",
+      "parentTip": "'What did this experience show you about the choices or support available when something is difficult?'",
+      "reflectionPrompt": "What repeated experience could give your teen credible evidence that difficulty leaves room for choice?",
       "quizQuestion": {
-        "question": "Which should remain independent of whether the practice target is met?",
+        "question": "How might repeated workable experiences contribute to self-trust?",
         "options": [
-          "Every optional reward negotiated for a specific action.",
-          "The practical discussion of what work remains.",
-          "Care, belonging, and access to help."
+          "They show that enough practice will eventually remove difficult feelings.",
+          "They establish that the parent can prevent setbacks by using the right approach.",
+          "They provide lived evidence of ways to ask, adjust, pause, or return."
         ],
         "correctAnswer": 2
       }
     },
     {
       "id": "ptb_positive_without_forced_positivity",
-      "title": "Allow a Difficult Feeling",
-      "goal": "Learn to make room for disappointment and refusal within a positive trajectory.",
-      "keyConcept": "A positive trajectory does not require your teen to feel cheerful or grateful. Pain, fatigue, and disappointment can coexist with a chosen pause or adjustment. Stay with the real experience instead of asking your teen to demonstrate that the approach worked.",
-      "example": "Your teen tries a first step and remains frustrated. You acknowledge that it was still hard without asking them to appreciate the progress or continue.",
-      "parentTip": "'That was still frustrating; would you like to stop here as agreed?'",
-      "reflectionPrompt": "What response do you hope to receive when you offer support?",
+      "title": "Understand Your Role and the Two Approaches",
+      "goal": "Distinguish building proactive experiences from responding when painful self-judgment is already taking over.",
+      "keyConcept": "Your role is to help shape an encounter through meaningful choice, workable conditions, appropriate support, and reliable agreements, while your teen helps direct their response. Positive trajectory building works when there is room to plan or try something together, and it can include interest, connection, contribution, or recovery as well as required tasks. Judgment containment supports the moment when difficulty is becoming an attack on the self; if planning adds overload, stop the exercise and use the appropriate support or established safety arrangement. Throughout both approaches, disappointment and refusal can remain real, and care stays available regardless of performance.",
+      "example": "You invite a small, chosen entry during a calm period, but your teen begins saying the struggle proves they are worthless. You stop the practice, acknowledge the pain, and shift to support for the self-judgment instead of offering a larger reward to continue.",
+      "parentTip": "'I'll stop the exercise; what matters now is finding support that fits this moment.'",
+      "reflectionPrompt": "What would tell you that your teen has room for a proactive encounter, or needs another kind of support?",
       "quizQuestion": {
-        "question": "Your teen takes a useful step but remains upset; what follows from this lesson?",
+        "question": "Your teen's self-judgment is escalating and planning is adding overload; what best fits the relationship between the two approaches?",
         "options": [
-          "The useful action and the difficult feeling can both be real.",
-          "The action counts only if their mood subsequently improves.",
-          "They need to name a positive takeaway before ending."
+          "Stop proactive practice and use containment or appropriate agreed support.",
+          "Continue the smallest possible entry so the experience ends successfully.",
+          "Increase encouragement until the teen feels positive enough to proceed."
         ],
         "correctAnswer": 0
       }
@@ -640,6 +640,98 @@
           "Wait until the teen can manage every part without any help."
         ],
         "correctAnswer": 1
+      }
+    }
+  ],
+  "ptb_cases_in_practice": [
+    {
+      "id": "ptb_case_knows_but_cannot_start",
+      "title": "The Essay They Know How to Write",
+      "goal": "Apply support that respects your teen's knowledge while exploring what makes beginning difficult.",
+      "keyConcept": "Knowing what to do and finding a workable way to begin are different parts of this encounter. Repeating instructions your teen already understands may add pressure while leaving the actual friction unexplored. Ask whether they want help with the conditions of starting, such as company, a smaller entry, or a clearer stopping point. Their response can guide your role, and a declined invitation does not establish why they are stuck.",
+      "example": "Your teen has several weeks to write an essay, keeps postponing, and says, \"I know what to do; stop giving me advice.\" You acknowledge that they do not need another explanation and ask whether quiet company for a brief, agreed entry would help. They choose to open the document and list one question while you sit nearby, then stop at the agreed point with the essay still largely unwritten.",
+      "parentTip": "'You know the assignment; would quiet company help with starting, or would you prefer me out of it?'",
+      "reflectionPrompt": "What could you offer about the conditions of starting without repeating advice your teen already knows?",
+      "quizQuestion": {
+        "question": "In this case, what makes the parent's revised offer different from more task advice?",
+        "options": [
+          "It establishes that a brief start will resolve the teen's postponement.",
+          "It makes the teen demonstrate that they really understand the assignment.",
+          "It offers a chosen change in starting conditions while respecting the teen's knowledge."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_case_deadline_and_substantial_help",
+      "title": "The Deadline Is Close and Help Is Still Needed",
+      "goal": "Preserve your teen's direction while providing substantial practical help when an urgent task remains difficult.",
+      "keyConcept": "An approaching deadline can bring real consequences and a need for considerable support. Agency can still appear in your teen choosing priorities, requesting a particular kind of help, or directing part of the work. Agree on useful roles rather than turning urgent help into either a test of independence or complete parental takeover. Later, when there is room to review, examine one earlier condition to change without making this difficult evening a verdict about either of you.",
+      "example": "An essay is due tomorrow, your teen remains overwhelmed, and the earlier small starts have not made finishing manageable. With their agreement, you help clarify the requirements and organize their existing notes while they choose the main argument and write the next section. Much help is still needed, so you address what remains realistically and leave the discussion of a future approach for a calmer time.",
+      "parentTip": "'Let's agree on what help is useful tonight and which decisions you want to keep directing.'",
+      "reflectionPrompt": "How could your teen retain meaningful direction when the amount of help needed is substantial?",
+      "quizQuestion": {
+        "question": "What counts as preserving agency in this urgent situation?",
+        "options": [
+          "The teen retains meaningful choices and directs agreed parts of the work while receiving help.",
+          "The parent limits help so the teen can demonstrate independent completion.",
+          "The parent manages the whole task and asks the teen to recognize the benefit afterward."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "ptb_case_moving_the_stopping_point",
+      "title": "The Small Start Becomes a Bigger Demand",
+      "goal": "Repair an expanded demand by restoring the stopping agreement and learning from your own urgency.",
+      "keyConcept": "A small entry can lose its credibility when the parent extends it as soon as it goes well. The parent's relief at seeing progress can reinforce adding demands, while the teen may become less willing to trust the next invitation. A repair needs an observable change, including honoring the original ending. The unfinished work remains a practical issue to discuss separately without withdrawing recognition for the entry that occurred.",
+      "example": "You and your teen agree on two minutes with a project, but when they begin smoothly you say, \"Great, now finish the whole section.\" They become irritated and say your small starts are always a trick. You acknowledge that you changed the terms, restore the original ending, and let the break happen without requiring them to accept your apology first.",
+      "parentTip": "'I changed the agreement when I saw progress; we'll stop where we originally agreed.'",
+      "reflectionPrompt": "What feeling might lead you to enlarge an agreed task, and what would a concrete repair require?",
+      "quizQuestion": {
+        "question": "What is the most useful immediate repair in this case?",
+        "options": [
+          "Explain that continuing would help the teen make the most of their momentum.",
+          "Acknowledge the changed terms and honor the original ending.",
+          "Offer a larger reward for accepting the extended task."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "ptb_case_enjoyment_becomes_evaluation",
+      "title": "An Enjoyable Activity Starts to Feel Evaluated",
+      "goal": "Protect interest and connection when parental encouragement turns an activity into a performance test.",
+      "keyConcept": "Positive trajectory building includes interest, contribution, and enjoyment beyond required tasks. A parent can unintentionally change such an encounter by turning pleasure into a prediction about talent, competition, or future achievement. Your teen's account helps you understand whether your attention feels welcome or evaluative. Repair by changing the response and letting the activity retain meaning on your teen's terms, without requiring it to produce another outcome.",
+      "example": "Your teen enjoys drawing, but your repeated suggestions about competitions and portfolios lead them to say, \"Can I just draw without it becoming something?\" You acknowledge that your enthusiasm has added an expectation and ask whether they prefer a quiet comment, company, or privacy. They choose privacy, and you let the drawing remain enjoyable without requesting a result or using it as a homework reward.",
+      "parentTip": "'I turned something you enjoy into an expectation; what kind of interest from me would feel welcome?'",
+      "reflectionPrompt": "Where might your encouragement turn your teen's interest into an expectation to achieve?",
+      "quizQuestion": {
+        "question": "What best restores the purpose of this positive experience?",
+        "options": [
+          "Explain that competitions are optional while continuing to suggest them occasionally.",
+          "Make drawing a special reward so the teen understands how much the parent values it.",
+          "Respect the teen's preferred involvement and let enjoyment matter without an added outcome."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "ptb_case_practice_turns_to_self_attack",
+      "title": "A Planned Attempt Becomes Self-Attack",
+      "goal": "Recognize when to stop a proactive encounter and respond to the pain that has become central.",
+      "keyConcept": "A carefully planned encounter can still become overwhelming or turn into harsh self-judgment. At that point, completing the practice target is no longer the useful focus, and more rewards or explanations may add pressure. Stop the exercise, acknowledge the pain, and use judgment containment or the agreed support that fits the moment. Follow established safety arrangements when needed, while keeping care available and leaving redesign for a more useful time.",
+      "example": "Your teen agrees to a small entry, encounters another confusing instruction, and says, \"I can't even do this; I'm useless.\" You stop the exercise, acknowledge how painful it has become, and ask whether quiet company would help while leaving the judgment about their worth open. The work remains unfinished, and you let support take priority rather than asking for one more step to rescue the attempt.",
+      "parentTip": "'We can stop the exercise and leave the judgment about you open while we find useful support.'",
+      "reflectionPrompt": "What would help you accept an unfinished attempt when your teen needs containment rather than more practice?",
+      "quizQuestion": {
+        "question": "Why is stopping the practice appropriate here?",
+        "options": [
+          "The encounter has shifted into painful self-judgment, so support must match that state.",
+          "The parent needs to lower the target until the teen can complete something immediately.",
+          "The teen's response shows that proactive support should be abandoned for future tasks."
+        ],
+        "correctAnswer": 0
       }
     }
   ]

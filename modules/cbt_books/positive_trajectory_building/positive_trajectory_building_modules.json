@@ -1,16 +1,16 @@
 {
   "id": "positive_trajectory_building",
   "title": "Positive Trajectory Building: Creating Experiences of Agency, Competence, Connection, and Recovery",
-  "description": "This course adapts the Positive Trajectory Building parent manual for families supporting a teen through task friction and recurring self-judgment. It shows how small, chosen encounters can create experiences of agency, competence, connection, and recovery. Its approach combines the manual's MEET planning tool with specific recognition, reliable stopping rules, and support shaped by your teen's preferences. You will learn to design workable experiences, notice your own pressure, learn from unfinished attempts, and transfer direction while keeping support available.",
+  "description": "Positive trajectory building means creating repeated experiences in which difficulty can lead to choice, support, adaptation, and a usable next step. This course adapts the Positive Trajectory Building parent manual to explain how those experiences can become evidence your teen draws on when approaching future challenges. It begins with the meaning of a trajectory, the role of agency, and how building new experiences works alongside judgment containment. You will then learn to plan with MEET, recognize useful actions, protect agreed endings, and adjust support together.",
   "modules": [
     {
       "id": "ptb_agency_beyond_completion",
-      "title": "Build Agency Beyond Completion",
-      "goal": "Understand how small acts of choice and adaptation can create a different experience of difficulty.",
+      "title": "Understand Positive Trajectory Building",
+      "goal": "Understand what a positive trajectory is, how repeated experiences may build self-trust, and what parents can help shape.",
       "key_points": [
-        "Agency includes noticing, choosing support, approaching, adapting, pausing, returning, and repairing.",
-        "Completion can count while other useful actions retain their value.",
-        "Warmth and care remain available through disappointment, refusal, and unfinished work."
+        "A trajectory connects what happens, the meaning your teen takes from it, and the next response.",
+        "Small experiences of chosen support and adaptation can become usable evidence when future difficulties arise.",
+        "Parents help shape workable encounters while keeping care unconditional and using containment when painful self-judgment takes over."
       ]
     },
     {
@@ -71,6 +71,16 @@
         "Rehearse lightly and try one narrow target across a few encounters.",
         "Review helpful conditions and pressure without turning family life into a scorecard.",
         "Transfer choice, cueing, and planning collaboratively while keeping wanted support and appropriate care available."
+      ]
+    },
+    {
+      "id": "ptb_cases_in_practice",
+      "title": "See Positive Trajectory Building in Real Situations",
+      "goal": "Apply the framework to realistic cases involving resistance, deadlines, parental pressure, enjoyment, and escalating self-judgment.",
+      "key_points": [
+        "Trace how difficulty, parental responses, and your teen's choices shape what happens next.",
+        "Use planning, recognition, reliable agreements, and repair together while allowing imperfect outcomes.",
+        "Recognize when practical help is still needed or proactive practice should give way to containment and appropriate support."
       ]
     }
   ]
